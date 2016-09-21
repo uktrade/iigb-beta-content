@@ -1,0 +1,25 @@
+{
+  "name": "iigb-beta-content",
+  "version": "1.0.0",
+  "description": "iigb beta content",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/uktrade/iigb-beta-content.git"
+  },
+  "keywords": [
+    "iigb",
+    "content",
+    "iigb",
+    "beta"
+  ],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/uktrade/iigb-beta-content/issues"
+  },
+  "homepage": "https://github.com/uktrade/iigb-beta-content#readme"
+}
