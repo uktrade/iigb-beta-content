@@ -1,0 +1,399 @@
+---
+title: Contact form
+intro:
+indexTemplate: search.html
+---
+
+<div class="container" style="margin-top:140px">
+
+<form class="form-horizontal">
+<fieldset>
+
+<!-- Form Name -->
+<legend>IIGB Contact us</legend>
+
+<!-- Text input-->
+<div class="form-group">
+  <label class="col-md-4 control-label" for="textinput_name">Full name</label>  
+  <div class="col-md-4">
+  <input id="textinput_name" name="textinput_name" type="text" placeholder="" class="form-control input-md" required="">
+    
+  </div>
+</div>
+
+<!-- Multiple Radios -->
+<div class="form-group">
+  <label class="col-md-4 control-label" for="radios_contact">Preferred contact method</label>
+  <div class="col-md-4">
+  <div class="radio">
+    <label for="radios_contact-0">
+      <input type="radio" name="radios_contact" id="radios_contact-0" value="1" checked="checked">
+      Email
+    </label>
+	</div>
+  <div class="radio">
+    <label for="radios_contact-1">
+      <input type="radio" name="radios_contact" id="radios_contact-1" value="2">
+      Phone
+    </label>
+	</div>
+  </div>
+</div>
+
+<!-- Text input-->
+<div class="form-group">
+  <label class="col-md-4 control-label" for="textinput_email">Email address</label>  
+  <div class="col-md-4">
+  <input id="textinput_email" name="textinput_email" type="text" placeholder="" class="form-control input-md">
+    
+  </div>
+</div>
+
+<!-- Text input-->
+<div class="form-group">
+  <label class="col-md-4 control-label" for="textinput_phone">Phone</label>  
+  <div class="col-md-2">
+  <input id="textinput_phone" name="textinput_phone" type="text" placeholder="" class="form-control input-md">
+    
+  </div>
+</div>
+
+<!-- Multiple Radios -->
+<div class="form-group">
+  <label class="col-md-4 control-label" for="radios_company_type">Where do you work?</label>
+  <div class="col-md-4">
+  <div class="radio">
+    <label for="radios_company_type-0">
+      <input type="radio" name="radios_company_type" id="radios_company_type-0" value="1" checked="checked">
+      Company or organisation
+    </label>
+	</div>
+  <div class="radio">
+    <label for="radios_company_type-1">
+      <input type="radio" name="radios_company_type" id="radios_company_type-1" value="2">
+      Government department
+    </label>
+	</div>
+  <div class="radio">
+    <label for="radios_company_type-2">
+      <input type="radio" name="radios_company_type" id="radios_company_type-2" value="">
+      As an intermediary
+    </label>
+	</div>
+  <div class="radio">
+    <label for="radios_company_type-3">
+      <input type="radio" name="radios_company_type" id="radios_company_type-3" value="">
+      I am a student
+    </label>
+	</div>
+  <div class="radio">
+    <label for="radios_company_type-4">
+      <input type="radio" name="radios_company_type" id="radios_company_type-4" value="">
+      Other
+    </label>
+	</div>
+  </div>
+</div>
+
+<!-- Text input-->
+<div class="form-group">
+  <label class="col-md-4 control-label" for="textinput_type_other"></label>  
+  <div class="col-md-4">
+  <input id="textinput_type_other" name="textinput_type_other" type="text" placeholder="" class="form-control input-md">
+  <span class="help-block">Describe your occupation</span>  
+  </div>
+</div>
+
+<!-- Multiple Radios (inline) -->
+<div class="form-group">
+  <label class="col-md-4 control-label" for="radios_where">Where</label>
+  <div class="col-md-4"> 
+    <label class="radio-inline" for="radios_where-0">
+      <input type="radio" name="radios_where" id="radios_where-0" value="1" checked="checked">
+      In the UK
+    </label> 
+    <label class="radio-inline" for="radios_where-1">
+      <input type="radio" name="radios_where" id="radios_where-1" value="2">
+      Outside the UK
+    </label>
+  </div>
+</div>
+
+<!-- Select Basic -->
+<div class="form-group">
+  <label class="col-md-4 control-label" for="selectbasic_country"></label>
+  <div class="col-md-4">
+    <select id="selectbasic_country" name="selectbasic_country" class="form-control">
+      <option value="1">Start typing to find a country</option>
+      <option value="2">Afghanistan</option>
+      <option value="">Albania</option>
+      <option value="">Algeria</option>
+      <option value="">Andorra</option>
+      <option value="">Angola</option>
+    </select>
+  </div>
+</div>
+
+<!-- Text input-->
+<div class="form-group">
+  <label class="col-md-4 control-label" for="textinput_company_name">Company name</label>  
+  <div class="col-md-5">
+  <input id="textinput_company_name" name="textinput_company_name" type="text" placeholder="" class="form-control input-md">
+    
+  </div>
+</div>
+
+<!-- Select Basic -->
+<div class="form-group">
+  <label class="col-md-4 control-label" for="selectbasic_industry">Main operating industry</label>
+  <div class="col-md-6">
+    <select id="selectbasic_industry" name="selectbasic_industry" class="form-control">
+      <option value="1">Start typing to find the most relevant description</option>
+      <option value="2">Advanced engineering</option>
+      <option value="">Automotive</option>
+    </select>
+  </div>
+</div>
+
+<!-- Multiple Radios -->
+<div class="form-group">
+  <label class="col-md-4 control-label" for="radios_turnover">Annual turnover (optional)</label>
+  <div class="col-md-4">
+  <div class="radio">
+    <label for="radios_turnover-0">
+      <input type="radio" name="radios_turnover" id="radios_turnover-0" value="1" checked="checked">
+      Under £100,000
+    </label>
+	</div>
+  <div class="radio">
+    <label for="radios_turnover-1">
+      <input type="radio" name="radios_turnover" id="radios_turnover-1" value="2">
+      Between £100,000 and £500,000
+    </label>
+	</div>
+  <div class="radio">
+    <label for="radios_turnover-2">
+      <input type="radio" name="radios_turnover" id="radios_turnover-2" value="">
+      Between £500,000 and £25 million
+    </label>
+	</div>
+  <div class="radio">
+    <label for="radios_turnover-3">
+      <input type="radio" name="radios_turnover" id="radios_turnover-3" value="">
+      Between £25 million and £250 million
+    </label>
+	</div>
+  <div class="radio">
+    <label for="radios_turnover-4">
+      <input type="radio" name="radios_turnover" id="radios_turnover-4" value="">
+      Over £250 million
+    </label>
+	</div>
+  </div>
+</div>
+
+<!-- Multiple Radios -->
+<div class="form-group">
+  <label class="col-md-4 control-label" for="radios_employees">Number of employees</label>
+  <div class="col-md-4">
+  <div class="radio">
+    <label for="radios_employees-0">
+      <input type="radio" name="radios_employees" id="radios_employees-0" value="1" checked="checked">
+      Less than 10
+    </label>
+	</div>
+  <div class="radio">
+    <label for="radios_employees-1">
+      <input type="radio" name="radios_employees" id="radios_employees-1" value="2">
+      Between 10 and 50
+    </label>
+	</div>
+  <div class="radio">
+    <label for="radios_employees-2">
+      <input type="radio" name="radios_employees" id="radios_employees-2" value="">
+      Between 50 and 250
+    </label>
+	</div>
+  <div class="radio">
+    <label for="radios_employees-3">
+      <input type="radio" name="radios_employees" id="radios_employees-3" value="">
+      More than 250
+    </label>
+	</div>
+  </div>
+</div>
+
+<!-- Textarea -->
+<div class="form-group">
+  <label class="col-md-4 control-label" for="textarea_enquiry">What else will help us answer your enquiry?</label>
+  <div class="col-md-4">                     
+    <textarea class="form-control" id="textarea_enquiry" name="textarea_enquiry"></textarea>
+  </div>
+</div>
+
+<!-- Textarea -->
+<div class="form-group">
+  <label class="col-md-4 control-label" for="textarea_address">Registered address of your existing company</label>
+  <div class="col-md-4">                     
+    <textarea class="form-control" id="textarea_address" name="textarea_address"></textarea>
+  </div>
+</div>
+
+<!-- Text input-->
+<div class="form-group">
+  <label class="col-md-4 control-label" for="textinput_website">What is your company’s primary website?</label>  
+  <div class="col-md-4">
+  <input id="textinput_website" name="textinput_website" type="text" placeholder="" class="form-control input-md">
+    
+  </div>
+</div>
+
+<!-- Textarea -->
+<div class="form-group">
+  <label class="col-md-4 control-label" for="textarea_operations">What type of operations are you specifically considering establishing in the UK?</label>
+  <div class="col-md-4">                     
+    <textarea class="form-control" id="textarea_operations" name="textarea_operations">For example: manufacturing, distribution, sales</textarea>
+  </div>
+</div>
+
+<!-- Textarea -->
+<div class="form-group">
+  <label class="col-md-4 control-label" for="textarea_locations">What are your preferred locations (if any)?</label>
+  <div class="col-md-4">                     
+    <textarea class="form-control" id="textarea_locations" name="textarea_locations"></textarea>
+  </div>
+</div>
+
+<!-- Textarea -->
+<div class="form-group">
+  <label class="col-md-4 control-label" for="textarea_overseas">What are your current overseas operations?</label>
+  <div class="col-md-4">                     
+    <textarea class="form-control" id="textarea_overseas" name="textarea_overseas"></textarea>
+  </div>
+</div>
+
+<!-- Textarea -->
+<div class="form-group">
+  <label class="col-md-4 control-label" for="textarea_other_countries">Which other countries are you considering as potential locations for your operations (if any)?</label>
+  <div class="col-md-4">                     
+    <textarea class="form-control" id="textarea_other_countries" name="textarea_other_countries"></textarea>
+  </div>
+</div>
+
+<!-- Text input-->
+<div class="form-group">
+  <label class="col-md-4 control-label" for="textinput_when">When do you hope to be fully operational in the UK?</label>  
+  <div class="col-md-5">
+  <input id="textinput_when" name="textinput_when" type="text" placeholder="" class="form-control input-md">
+    
+  </div>
+</div>
+
+<!-- Multiple Radios -->
+<div class="form-group">
+  <label class="col-md-4 control-label" for="radios_localworkers">Will you need to hire local workers within the next three years?</label>
+  <div class="col-md-4">
+  <div class="radio">
+    <label for="radios_localworkers-0">
+      <input type="radio" name="radios_localworkers" id="radios_localworkers-0" value="1" checked="checked">
+      Yes
+    </label>
+	</div>
+  <div class="radio">
+    <label for="radios_localworkers-1">
+      <input type="radio" name="radios_localworkers" id="radios_localworkers-1" value="2">
+      No
+    </label>
+	</div>
+  </div>
+</div>
+
+<!-- Text input-->
+<div class="form-group">
+  <label class="col-md-4 control-label" for="textinput_howmany">If yes, how many?</label>  
+  <div class="col-md-1">
+  <input id="textinput_howmany" name="textinput_howmany" type="text" placeholder="" class="form-control input-md">
+    
+  </div>
+</div>
+
+<!-- Textarea -->
+<div class="form-group">
+  <label class="col-md-4 control-label" for="textarea_roles"> What sorts of roles would these individuals undertake?</label>
+  <div class="col-md-4">                     
+    <textarea class="form-control" id="textarea_roles" name="textarea_roles"></textarea>
+  </div>
+</div>
+
+<!-- Multiple Radios -->
+<div class="form-group">
+  <label class="col-md-4 control-label" for="radios_investment_size">Do you have guidelines to the size of the investment that you will make into the UK?</label>
+  <div class="col-md-4">
+  <div class="radio">
+    <label for="radios_investment_size-0">
+      <input type="radio" name="radios_investment_size" id="radios_investment_size-0" value="1" checked="checked">
+      Yes
+    </label>
+	</div>
+  <div class="radio">
+    <label for="radios_investment_size-1">
+      <input type="radio" name="radios_investment_size" id="radios_investment_size-1" value="2">
+      No
+    </label>
+	</div>
+  </div>
+</div>
+
+<!-- Multiple Checkboxes -->
+<div class="form-group">
+  <label class="col-md-4 control-label" for="checkboxes_investment">If yes choose one or more options below</label>
+  <div class="col-md-4">
+  <div class="checkbox">
+    <label for="checkboxes_investment-0">
+      <input type="checkbox" name="checkboxes_investment" id="checkboxes_investment-0" value="1">
+      Funded by profit from your parent company
+    </label>
+	</div>
+  <div class="checkbox">
+    <label for="checkboxes_investment-1">
+      <input type="checkbox" name="checkboxes_investment" id="checkboxes_investment-1" value="2">
+      A personal investment from yourself
+    </label>
+	</div>
+  <div class="checkbox">
+    <label for="checkboxes_investment-2">
+      <input type="checkbox" name="checkboxes_investment" id="checkboxes_investment-2" value="">
+      Financial assistance from a bank or building society
+    </label>
+	</div>
+  </div>
+</div>
+
+<!-- Text input-->
+<div class="form-group">
+  <label class="col-md-4 control-label" for="textinput_investment_other"></label>  
+  <div class="col-md-6">
+  <input id="textinput_investment_other" name="textinput_investment_other" type="text" placeholder="" class="form-control input-md">
+  <span class="help-block">or give details</span>  
+  </div>
+</div>
+
+<!-- Textarea -->
+<div class="form-group">
+  <label class="col-md-4 control-label" for="textarea_premises">If you require premises what type and what size?</label>
+  <div class="col-md-4">                     
+    <textarea class="form-control" id="textarea_premises" name="textarea_premises"></textarea>
+  </div>
+</div>
+
+<!-- Textarea -->
+<div class="form-group">
+  <label class="col-md-4 control-label" for="textarea_assistance">What assistance will you specifically require from UKTI? (please provide as much detail as possible)</label>
+  <div class="col-md-4">                     
+    <textarea class="form-control" id="textarea_assistance" name="textarea_assistance"></textarea>
+  </div>
+</div>
+
+</fieldset>
+</form>
+</div>
