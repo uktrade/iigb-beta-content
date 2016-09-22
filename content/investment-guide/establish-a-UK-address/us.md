@@ -1,7 +1,7 @@
 ---
 title: Establishing a UK Adress
 indexTemplate: "subsector-page.html"
-intro: You’ll need this for opening a bank account and for setting up your business.
+intro: You’ll need this for opening a bank account and for setting up your business. Test word.
 pageTitle: Establish a UK address
 layout: "content-us.html"
 orderLevel: 1
