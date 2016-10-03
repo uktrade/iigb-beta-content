@@ -1,6 +1,6 @@
 ---
 title: Register your company
-layout: content-us.html
+target: investment-guide/register-your-company
 ---
 
 To create a private limited company, you simply [register your business with Companies House](https://www.gov.uk/register-as-an-overseas-company) within one month of beginning UK operations. The process can be completed online or by post, and involves just one form and processing fee. Online applications usually take 24 hours and cost £15, whilst postal applications can take 8‐10 days and cost £40.

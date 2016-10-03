@@ -1,10 +1,8 @@
 ---
 title: Establishing a UK Adress
-indexTemplate: "subsector-page.html"
 intro: You’ll need this for opening a bank account and for setting up your business. Test word.
+target: investment-guide/establish-a-UK-address
 pageTitle: Establish a UK address
-layout: "content-us.html"
-orderLevel: 1
 published: true
 ---
 

@@ -1,10 +1,8 @@
 ---
 title: Key business taxes
-indexTemplate: subsector-page.html
 intro: The UK has one of the most competitive tax systems in the world - check out how the rates and regulations can work for you.
 pageTitle: Work out your profit margins against UK tax
-layout: content-us.html
-orderLevel: 5
+target: investment-guide/key-business-taxes
 ---
 
 In order to keep driving business forward, [the UK has a transparent and principled tax system](https://www.gov.uk/government/publications/why-overseas-companies-should-set-up-in-the-uk/why-overseas-companies-should-set-up-in-the-uk#tax-in-the-uk). Taxes for businesses include:
