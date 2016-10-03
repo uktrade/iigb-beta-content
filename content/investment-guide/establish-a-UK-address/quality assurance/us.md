@@ -1,6 +1,5 @@
 ---
 title: Quality Assurance
-layout: content-us.html
 ---
 
 [Her Majesty’s Land Registry](https://www.gov.uk/government/organisations/land-registry) provides the assurances you need if you invest in property in England and Wales. It has over 150 years’ experience in registering land and property, managing over 24 million titles. 

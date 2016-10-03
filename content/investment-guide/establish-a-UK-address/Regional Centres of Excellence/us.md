@@ -1,6 +1,5 @@
 ---
 title: Regional Centres of Excellence
-layout: content-us.html
 ---
 
 Base your business anywhere in the UK and you will benefit from an ambitious and coordinated strategy for regional growth and improved productivity. London is the largest capital city in Europe, but businesses thrive in areas all around the country. 

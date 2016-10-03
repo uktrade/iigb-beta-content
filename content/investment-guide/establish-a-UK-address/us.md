@@ -1,8 +1,8 @@
 ---
-title: Establishing a UK Adress
-intro: You’ll need this for opening a bank account and for setting up your business. Test word.
+title: Finding Business premises
+pageTitle: Establish UK address
+intro: You’ll need this for opening a bank account and for setting up your business.
 target: investment-guide/establish-a-UK-address
-pageTitle: Establish a UK address
 published: true
 ---
 
