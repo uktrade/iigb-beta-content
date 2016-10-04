@@ -1,13 +1,6 @@
 ---
 title: Der Kreativsektor in Großbritannien
-thumbnail: creative-sector-thumb.jpg
-heroVideo: 
-heroImage: creative-sector-hero.jpg
-fullVideo: 
-indexTemplate: sector-page.html
-intro: Von Big Budget Film-Produktionen bis hin zur Entwicklung erstklassiger Computerspiele - Die Kreativbranche floriert im Vereinigten Königreich.
 pageTitle: Kreativität in Großbritannien
-layout: content-de.html
 ---
  
 Im Vereinigten Königreich gibt es einen großen und vielfältigen Talent-Pool; und ausländische Investitionen sind in den folgenden weltweit erfolgreichen Bereichen vielversprechend:

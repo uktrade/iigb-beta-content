@@ -1,14 +1,6 @@
 ---
 title: Übersicht und Marktchancen
-thumbnail: tech-sector-thumb.jpg
-heroVideo: 
-heroImage: tech-sector-hero.jpg
-fullVideo: 
-indexTemplate: sector-page.html
-intro: 
 pageTitle: Der Technologie-Sektor in Großbritannien
-layout: content-de.html
-orderLevel: 4
 ---
 
 Unsere Technologie-Sektor ist einer der größten in Westeuropa und ist im letzten Jahrzehnt schneller als die meisten anderen Sektoren gewachsen. Er spielt eine entscheidende Rolle für alle Industrien, einschließlich den Automobil-, Finanzdienstleistungs-, Einzelhandels- und Logistikbranchen und bietet Fachkompetenz, erstklassige Verkehrsanbindungen und eine Umgebung, die Kreativität, Innovation und Design fördert. Außerdem wird er ausgiebig staatlich gefördert.

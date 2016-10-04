@@ -1,13 +1,5 @@
 ---
 title: Eine globale Führungsmacht in puncto Größe und Einfluss
-thumbnail: creative-sector-thumb.jpg
-heroVideo: 
-heroImage: creative-sector-hero.jpg
-fullVideo: 
-indexTemplate: sector-page.html
-intro: Das Vereinigte Königreich bietet Ihnen unübertroffene Unterstützung bei der Erweiterung Ihres Unternehmens. Kein anderes Zentrum für ausländische Investitionen kann Ihnen eine derartige Konzentration von Kapital, Know-how und Stabilität bieten. 
-pageTitle: Finanzdienstleistungen in Großbritannien
-layout: content-de.html
 ---
  
 Der Finanzdienstleistungssektor macht 9,4 % des britischen BIP aus. Mit 140 Milliarden £ ist er deutlich höher, als der von Deutschland (80 Mrd. £) und Frankreich (50 Mrd. £). 

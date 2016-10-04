@@ -1,13 +1,6 @@
 ---
 title: 引领全球的规模及影响力
-thumbnail: finance-sector-thumb.jpg
-heroVideo: 
-heroImage: finance-sector-hero.jpg
-fullVideo: 
-indexTemplate: sector-page.html
-intro: 英国为您的全球业务拓展提供无与伦比的支持。它是全世界最受瞩目的金融市场。其他任何一个外来投资中心都无法媲美于集合了资本、能力及稳定性的英国市场。
 pageTitle: 英国的金融服务
-layout: content-cn.html
 ---
 
 英国的金融服务行业占英国GDP的9.4%。总规模为1400亿英镑，远超德国（800亿英镑）和法国（500亿英镑）的总和。

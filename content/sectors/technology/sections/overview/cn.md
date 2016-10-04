@@ -1,14 +1,5 @@
 ---
 title: 概述和市场机会
-thumbnail: tech-sector-thumb.jpg
-heroVideo: 
-heroImage: tech-sector-hero.jpg
-fullVideo: 
-indexTemplate: sector-page.html
-intro: 
-pageTitle: 英国科技
-layout: content-cn.html
-orderLevel: 4
 ---
 
 我们的科技产业是西欧最大且在过去十年增长最快的行业之一。科技产业的成果在汽车、金融服务、零售以及物流等其它各个产业部门发挥着至关重要的作用。依托政府的广泛支持，英国科技产业为各行业提供了综合性的技术供应渠道、世界级的交通枢纽以及一个培养创造力、创新力以及设计能力的环境。

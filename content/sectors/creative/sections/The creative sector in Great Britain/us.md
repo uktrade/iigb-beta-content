@@ -1,14 +1,5 @@
 ---
 title: The creative sector in Great Britain
-thumbnail: creative-sector-thumb.jpg
-heroVideo: 
-heroImage: creative-sector-hero.jpg
-fullVideo: 
-indexTemplate: sector-page.html
-intro: From producing big budget movies to developing world-class computer games, creativity is thriving in the UK.
-pageTitle: Create in Great Britain
-layout: content-us.html
-orderLevel: 1
 ---
  
 The UK’s creative talent pool is deep and wide. It’s recognised as a world class prospect for inward investment in:

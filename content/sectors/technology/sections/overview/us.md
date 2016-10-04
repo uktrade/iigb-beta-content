@@ -1,14 +1,5 @@
 ---
 title: Overview and market opportunities
-thumbnail: tech-sector-thumb.jpg
-heroVideo: 
-heroImage: tech-sector-hero.jpg
-fullVideo: 
-indexTemplate: sector-page.html
-intro: 
-pageTitle: Technology in Great Britain
-layout: content-us.html
-orderLevel: 4
 ---
 
 Our technology sector is one of the largest in Western Europe and has been one of the fastest-growing sectors over the last decade. Its output plays a vital role in every other industrial sector including automotive, financial services, retail and logistics. It offers comprehensive supply chain access to skills, world-class transport hubs, and an environment that fosters creativity, innovation and design, backed by wide-ranging government support. 

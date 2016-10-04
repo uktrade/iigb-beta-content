@@ -1,14 +1,5 @@
 ---
 title: A global leader in scale and influence
-thumbnail: finance-sector-thumb.jpg
-heroVideo: 
-heroImage: finance-sector-hero.jpg
-fullVideo: 
-indexTemplate: sector-page.html
-intro: The UK offers unrivalled support for the global expansion of your business. It is the most internationally-focused financial marketplace in the world. No other centre for inward investment can offer such a concentration of capital, capability and stability.
-pageTitle: Financial services in Great Britain
-layout: content-us.html
-orderLevel: 2
 ---
 
 The UK financial services sector accounts for 9.4% of UK GDP. At £140bn, this is much larger than both Germany (£80bn) and France (£50bn).
