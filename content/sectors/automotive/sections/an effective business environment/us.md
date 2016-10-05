@@ -1,6 +1,5 @@
 ---
 title: An effective business environment
-layout: content-us.html
 ---
 
 The UK benefits from a supportive business environment that offers the most competitive and flexible labour market in western Europe. This helps make sure that workers in the UK car industry add more value per car than anywhere else on the continent.  

@@ -1,6 +1,5 @@
 ---
 title: A hub for global excellence
-layout: content-us.html
 ---
 
 11 major vehicle manufacturers and 18 of the world’s top 20 suppliers to the automotive industry have operations in the UK. Jaguar Land Rover’s 3 plants produced nearly 490,000 cars in 2015, whilst US manufacturer Cummins employs over 4,500 people across 8 UK sites. 
