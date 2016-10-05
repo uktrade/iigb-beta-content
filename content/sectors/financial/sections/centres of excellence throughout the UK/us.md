@@ -1,6 +1,5 @@
 ---
 title: Centres of excellence throughout the UK
-layout: content-us.html
 ---
 
 London is the world's leading financial centre. It stands top of the Global Financial Centre Index - ahead of New York, Hong Kong and Singapore.

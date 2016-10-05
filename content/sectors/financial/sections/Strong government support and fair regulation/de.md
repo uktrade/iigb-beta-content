@@ -1,6 +1,5 @@
 ---
 title: Eine starke Regierung und gerechte Regulierungen
-layout: content-de.html
 ---
 
 Das Regulierungssystem des Vereinigten Königreichs ist effektiv, fair und flexibel. Die global anerkannte Financial Conduct Authority (FCA) (Aufsichtsbehörde für Finanzprodukte) unterstützt die Branche und sorgt für Transparenz. Eine Umfrage unter Finanzexperten hat ergeben, dass sich im Vergleich mit anderen bedeutenden Finanzzentren das britische Regulierungssystem am offensten für ausländische Unternehmen präsentiert.

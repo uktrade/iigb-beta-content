@@ -1,6 +1,5 @@
 ---
 title: Unübertroffene Möglichkeiten
-layout: content-de.html
 --- 
 
 Der internationale britische Einfluss bietet unvergleichliche Möglichkeiten. Sein islamischer Finanzsektor: 

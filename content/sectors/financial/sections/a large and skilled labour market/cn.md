@@ -1,6 +1,5 @@
 ---
 title: 大型高技术劳动力市场
-layout: content-cn.html
 ---
 
 英国拥有约110万金融从业人员。

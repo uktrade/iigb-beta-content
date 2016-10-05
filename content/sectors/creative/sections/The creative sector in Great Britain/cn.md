@@ -1,6 +1,5 @@
 ---
 title: 英国的创意产业
-pageTitle: Create in Great Britain
 ---
  
 英国具备深入而广泛的创意人才库。英国在以下各方的成就已得到广泛认可，并能充分吸引来自世界各地的投资：

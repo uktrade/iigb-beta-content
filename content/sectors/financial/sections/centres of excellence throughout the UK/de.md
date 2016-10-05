@@ -1,6 +1,5 @@
 ---
 title: Kompetenzzentren überall im Vereinigten Königreich
-layout: content-de.html
 ---
 
 London ist eines der führenden Finanzzentren der Welt. Im globalen Finanzzentrums-Index steht es vor New York, Hongkong und Singapur.

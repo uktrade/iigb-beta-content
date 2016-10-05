@@ -1,6 +1,5 @@
 ---
 title: Der Kreativsektor in Großbritannien
-pageTitle: Kreativität in Großbritannien
 ---
  
 Im Vereinigten Königreich gibt es einen großen und vielfältigen Talent-Pool; und ausländische Investitionen sind in den folgenden weltweit erfolgreichen Bereichen vielversprechend:
