@@ -1,6 +1,6 @@
 ---
 title: 根据英国税收计算利润率
-target: /cn/investment-guide/work-out-your-profit-margins-against-UK-tax
+target: /investment-guide/work-out-your-profit-margins-against-UK-tax
 ---
 
 英国税收系统的竞争力在全球内首屈一指——敬请了解税率和规定能如何为您所用。

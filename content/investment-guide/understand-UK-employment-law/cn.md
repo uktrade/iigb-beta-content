@@ -1,6 +1,6 @@
 ---
 title: 了解英国的雇佣法
-target: /cn/investment-guide/understand-UK-employment-law
+target: /investment-guide/understand-UK-employment-law
 ---
 
 英国拥有世界级的人才库和优惠企业的雇佣法。您还可以通过灵活的签证系统从海外引进雇员。
