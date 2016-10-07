@@ -6,9 +6,9 @@ prose:
     - .test.test # just a nonexisting file be in configuraton file as example
   metadata:
     content:  # directory for the rule to be applied
-      - name: "title"
+      - name: "test"
         field:
-          element: "text"
-          label: "Title"
-          placeholder: "Title"
-          help: "Enter a title for this content."
+          element: "textarea"
+          label: "Test lable"
+          placeholder: "Test area"
+          help: "Enter a test content"
