@@ -1,7 +1,7 @@
 prose:
-  rooturl: 'content'
+  rooturl: 'iigb-beta-content'
   # relativeLinks: 'http://prose.github.io/starter/links.jsonp'
-  media: 'media'
+  # media: 'media'
   # ignore:
   #   - .test.test # just a nonexisting file be in configuraton file as example
   # # metadata:
