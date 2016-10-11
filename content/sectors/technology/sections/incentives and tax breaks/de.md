@@ -1,6 +1,5 @@
 ---
 title: Anreize und Steuererleichterungen
-layout: content-de.html
 ---
 
 Das Vereinigte Königreich verfügt über zahlreiche Steuererleichterungen und Anreize für Unternehmen, um Innovationen und technologische Entwicklung zu fördern. 

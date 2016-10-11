@@ -1,6 +1,5 @@
 ---
 title: 后续步骤及联系信息
-layout: content-cn.html
 ---
 
 [Setting up a business in the UK]()

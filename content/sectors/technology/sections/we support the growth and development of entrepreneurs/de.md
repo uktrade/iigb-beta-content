@@ -1,6 +1,5 @@
 ---
 title: Wir fördern die Entwicklung junger Unternehmer/innen
-layout: content-de.html
 ---
 
 Unsere Technologiebranche erlebte kürzlich ein beeindruckendes Wachstum, zu dem auch das ausgereifte Geschäftsumfeld beigetragen hat, das gerade Unternehmen, die sich in der Anfangsphasen befinden, fördert.

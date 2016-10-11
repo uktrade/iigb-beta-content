@@ -1,6 +1,5 @@
 ---
 title: A skilled and creative talent pool
-layout: content-us.html
 ---
 
 The UK has a highly educated, skilled and growing digital workforce. UK universities are ranked second in the world for quality of industry collaboration and have:

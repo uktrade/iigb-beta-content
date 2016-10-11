@@ -1,6 +1,5 @@
 ---
 title: Pioneering beyond Formula 1
-layout: content-us.html
 ---
 
 Formula 1 is just one area of the UK’s thriving motorsport industry. The country is also home to Formula E, the new global electric racing series, and is a major international supplier to IndyCar and NASCAR in the USA, the China Touring Car Championship and the 24 Hours of Le Mans series.

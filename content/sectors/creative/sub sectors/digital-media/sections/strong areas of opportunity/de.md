@@ -1,6 +1,5 @@
 ---
 title: Vielversprechende Möglichkeiten 
-layout: content-de.html
 ---
 
 Im Bereich „mobile Inhalte“ ist das Vereinigte Königreich der größte Markt Europas. Über eine Milliarde £ wurden hier für mobile Anwendungen, Inhalte und Dienstleistungen ausgegeben sowie die größten Pro-Kopf-Ausgaben für mobile Werbung getätigt. Der Boom von mobilen Inhalten wurde durch folgende Faktoren befeuert:

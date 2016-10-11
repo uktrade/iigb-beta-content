@@ -1,6 +1,5 @@
 ---
 title: A strong digital growth trajectory
-layout: content-us.html
 ---
 
 The digital tech industries are at the heart of our economy and are playing an important role in driving growth.

@@ -1,6 +1,5 @@
 ---
 title: A growing, open market
-layout: content-us.html
 ---
 
 Total assets under management in the UK increased to a record £6.8 trillion at the end of 2014, a sixth successive year of growth. More than a third , £2.5 trillion, came from overseas clients, making the UK the leading global centre on this measure. [source: CityUK]

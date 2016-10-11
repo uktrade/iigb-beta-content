@@ -1,6 +1,5 @@
 ---
 title: Die Nachfrage nach Einzelteilen
-layout: content-de.html
 ---
 
 Die Automobilindustrie des Vereinigten Königreichs bietet Beschaffungspotenziale in Höhe von 4 Milliarden GBP. Hierzu gehören:

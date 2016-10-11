@@ -1,6 +1,5 @@
 ---
 title: Ein Unternehmen anmelden
-layout: content-de.html
 ---
 
 Um eine private Kapitalgesellschaft zu gründen, [melden Sie Ihr Unternehmen beim Companies House an](https://www.gov.uk/register-as-an-overseas-company), und zwar innerhalb eines Monats nach Beginn der Geschäftstätigkeit im Vereinigten Königreich. Dies kann online oder per Post geschehen und erfordert nur ein Formular sowie die Zahlung einer Verwaltungsgebühr. Online-Anmeldungen brauchen in der Regel nicht länger als 24 Stunden und kosten 15 £, während postalische Anmeldungen zwischen acht und zehn Tagen benötigen und 40 £ kosten.

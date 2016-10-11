@@ -1,6 +1,5 @@
 ---
 title: Der Arbeitsmarkt und kreative Spezialisten 
-layout: content-de.html
 ---
 
 Das Vereinigte Königreich hat eine stabile, multikulturelle Bevölkerung mit diversen kreativen Fähigkeiten und die niedrigsten Lohnkosten in Westeuropa.

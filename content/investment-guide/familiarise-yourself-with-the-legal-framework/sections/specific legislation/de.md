@@ -1,6 +1,5 @@
 ---
 title: Besondere Rechtsvorschriften
-layout: content-de.html
 ---
 
 <p>1. Öffentliche Auftragsvergabe</p>

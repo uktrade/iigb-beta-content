@@ -1,6 +1,5 @@
 ---
 title: An environment for growth
-layout: content-us.html
 ---
 
 The UK has easy access to Europe and the rest of the world. It has a large research community and an ecosystem of partners, academic institutions and skilled workers. These networks mean smaller companies can easily work with each other, and with major firms. The sector:

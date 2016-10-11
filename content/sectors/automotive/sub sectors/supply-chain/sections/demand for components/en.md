@@ -1,6 +1,5 @@
 ---
 title: Demand for components
-layout: content-us.html
 ---
 
 A huge £4 billion of sourcing opportunities per year have been identified in the UK automotive sector. These include:

@@ -1,6 +1,5 @@
 ---
 title: Economic environment for growth
-layout: content-us.html
 ---
 
 The economic picture for Foreign Direct Investment (FDI) is one of stability and long term growth.  The UK’s creative industries grew by 8.9% in 2014 - almost double the UK economy as a whole (source: DCMS).

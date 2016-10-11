@@ -1,6 +1,5 @@
 ---
 title: Eine Vielzahl an Fondstypen und Kunden
-layout: content-de.html
 ---
 
 Fondverwalter im Vereinigten Königreich managen verschiedene Fondtypen darunter Lebensversicherungen, Altersversorgungen und diverse Investmentfonds. Fonds können verwaltet werden für:

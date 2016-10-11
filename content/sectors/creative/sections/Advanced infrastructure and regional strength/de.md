@@ -1,6 +1,5 @@
 ---
 title: Modernste Infrastruktur und regionale Stärke
-layout: content-de.html
 ---
 
 Das Vereinigte Königreich ist einer der geeignetsten Orte der Welt, um Infrastruktur und Kommunikationsinstrumente aufzubauen, die Kreativunternehmen brauchen, um zu wachsen.

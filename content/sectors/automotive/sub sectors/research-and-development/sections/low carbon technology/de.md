@@ -1,6 +1,5 @@
 ---
 title: Ein Kompetenzzentrum für kohlenstoffarme Produktionsweisen
-layout: content-de.html
 ---
 
 Kohlenstoffarme Technologien helfen nicht nur der Automobilindustrie, sondern sind auch entscheidend für die Zukunft unseres Planeten. Das Vereinigte Königreich hat sich zum Ziel gesetzt, ein Kompetenzzentrum für kohlenstoffarme Produktionsweisen zu werden.

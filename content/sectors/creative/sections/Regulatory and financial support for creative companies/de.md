@@ -1,6 +1,5 @@
 ---
 title: Staatliche und finanzielle Unterstützung für Kreativunternehmen
-layout: content-de.html
 ---
 
 Kreativunternehmen werden durch ein Urheberrechtsgesetz sowie weitere starke staatliche Regulierungen unterstützt, so dass Kreativität geschützt und gefördert werden kann.

@@ -1,6 +1,5 @@
 ---
 title: Qualitätssicherung
-layout: content-de.html
 ---
 
 Wenn Sie in England oder Wales in Eigentum investieren, bietet Ihnen [Her Majesty’s Land Registry](https://www.gov.uk/government/organisations/land-registry) (eine Art Grundbuchamt) die notwendige Sicherheit. Es ist auf die Registrierung von Grundstücken und Eigentum spezialisiert und hat über 150 Jahre Erfahrung, mit über 24 Millionen registrierten Titeln.

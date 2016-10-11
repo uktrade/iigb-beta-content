@@ -1,6 +1,5 @@
 ---
 title: Which visas apply to you?
-layout: content-us.html
 ---
 
 **Tier One Visas**

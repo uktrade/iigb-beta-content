@@ -1,6 +1,5 @@
 ---
 title: Support for investment
-layout: content-us.html
 ---
 
 The UK Government is fully committed to support the UK’s status as a leading digital nation. Measures to complement its low level of corporation tax, dropping to 18% by 2020, include:

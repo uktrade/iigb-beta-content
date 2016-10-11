@@ -1,6 +1,5 @@
 ---
 title: Persönliche Steuern
-layout: content-de.html
 ---
 
 Die persönlichen Steuern sind im Vereinigten Königreich sehr konkurrenzfähig und hängen proportional von den Einkommen ab.

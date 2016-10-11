@@ -1,6 +1,5 @@
 ---
 title: The heartland for elite racing
-layout: content-us.html
 ---
 
 Seven of the Formula 1 teams are located in the UK’s Motorsport Valley, which predominantly comprises the West Midlands and Oxfordshire and is renowned as the world’s largest cluster of competition-orientated engineering organisations. These teams include Mercedes AMG Petronas, whose recent F1 WO6 Hybrid car was the most dominant in the history of the sport. 

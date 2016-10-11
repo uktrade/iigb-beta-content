@@ -1,6 +1,5 @@
 ---
 title: Ein gut ausgebildeter und kreativer Talent-Pool
-layout: content-de.html
 ---
 
 Das Vereinigte Königreich hat viele hervorragend ausgebildete und zunehmend Fachkräfte aus der Digitalbranche. Die Universitäten des Vereinigten Königreichs rangieren in puncto qualitativer Zusammenarbeit mit der Industrie  weltweit auf dem zweiten Platz und:

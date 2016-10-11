@@ -1,6 +1,5 @@
 ---
 title: Our support and investment in innovation
-layout: content-us.html
 ---
 
 We are committed to creating a world-leading framework for technology innovation by offering a wealth of world-class start-up programmes to support embryonic technology businesses and entrepreneurs.

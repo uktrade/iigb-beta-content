@@ -1,6 +1,5 @@
 ---
 title: Unser Förderung und Investition in Innovation
-layout: content-de.html
 ---
 
 Wir haben zum Ziel erstklassige Rahmenbedingungen für technologische Innovation zu schaffen und bieten deshalb eine Vielzahl herausragender Programme für Start-up-Unternehmen, zur Unterstützung junger Technologieprojekte und Unternehmer.

@@ -1,6 +1,5 @@
 ---
 title: Incentives and tax breaks
-layout: content-us.html
 ---
 
 The UK has a number of tax breaks and incentives that are designed support innovation and technology development.

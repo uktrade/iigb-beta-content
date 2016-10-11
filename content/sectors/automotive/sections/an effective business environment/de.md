@@ -1,6 +1,5 @@
 ---
 title: Ein nachhaltiges Unternehmensumfeld
-layout: content-de.html
 ---
 
 Das Vereinigte Königreich verfügt über ein unternehmensfreundliches Geschäftsumfeld und den wettbewerbsfähigsten und flexibelsten Arbeitsmarkt in Westeuropa. Das führt dazu, dass Arbeitskräfte in der britischen Automobilindustrie mehr Wert pro Fahrzeug generieren, als in allen anderen Ländern Europas.

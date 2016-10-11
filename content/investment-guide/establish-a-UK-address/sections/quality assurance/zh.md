@@ -1,6 +1,5 @@
 ---
 title: 质量保证
-layout: content-cn.html
 ---
 
 如需在英格兰和威尔士置业，[女王陛下地政局](https://www.gov.uk/government/organisations/land-registry)可为您提供担保。该组织在土地及物业注册方面拥有150多年的经验，管理超过2400万处不动产。

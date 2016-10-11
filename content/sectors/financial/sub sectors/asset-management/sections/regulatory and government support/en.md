@@ -1,6 +1,5 @@
 ---
 title: Regulatory and government support
-layout: content-us.html
 ---
 
 The UK government has demonstrated a strong commitment to the sector - its ambition is for the UK to lead the world in investment management. 

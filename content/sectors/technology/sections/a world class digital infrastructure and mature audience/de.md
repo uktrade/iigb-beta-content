@@ -1,6 +1,5 @@
 ---
 title: Eine führende digitale Infrastruktur mit anspruchsvollen Konsumenten
-layout: content-de.html
 ---
 
 Wir verfügen über die stärkste Kaufkraft Europas. Britische Konsumenten sind frühe Anwender neuer Technologien und haben ein großes Interesse an neuen digitalen Dienstleistungen.

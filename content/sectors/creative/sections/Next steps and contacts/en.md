@@ -1,6 +1,5 @@
 ---
 title: Next steps and contacts
-layout: content-us.html
 ---
 
 [Setting up a business in the UK](/us/help-and-advise/)

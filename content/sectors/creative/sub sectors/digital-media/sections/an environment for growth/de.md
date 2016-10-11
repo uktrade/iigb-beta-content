@@ -1,6 +1,5 @@
 ---
 title: Ein gutes Umfeld für Wachstum
-layout: content-de.html
 --- 
 
 Das Vereinigte Königreich verfügt über eine gute Zugänglichkeit zu Europa und dem Rest der Welt, eine umfangreiche Forschergemeinschaft, verlässliche Partner, wissenschaftliche Einrichtungen und ausgebildete Fachkräfte. Aufgrund dieser Vernetzung können Kleinunternehmen einfacher zusammenarbeiten und Kontakte zu großen Unternehmen knüpfen. Der Sektor:

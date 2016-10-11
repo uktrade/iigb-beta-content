@@ -1,6 +1,5 @@
 ---
 title: Ein starkes Wachstum im Sektor „Neue Medien“
-layout: content-de.html
 ---
 
 Unternehmen in den digitalen Technologiebranchen bilden das Herzstück unserer Wirtschaft und tragen stark zum Wachstum der gesamten britischen Wirtschaft bei.

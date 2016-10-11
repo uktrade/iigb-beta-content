@@ -1,6 +1,5 @@
 ---
 title: Starke Unterstützung in puncto Regularien und Steuererleichterungen
-layout: content-de.html
 ---
 
  

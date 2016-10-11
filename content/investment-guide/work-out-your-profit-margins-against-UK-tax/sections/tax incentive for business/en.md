@@ -1,6 +1,5 @@
 ---
 title: Tax incentives for business
-layout: content-us.html
 ---
 
 Because the UK is committed to helping businesses succeed, there are numerous tax relief schemes and incentives for owners and investors alike. 

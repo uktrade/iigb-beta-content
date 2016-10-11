@@ -1,6 +1,5 @@
 ---
 title: Large talent pool
-layout: content-us.html
 ---
 
 British higher education is world class and supplies the fintech sector with finance, engineering and design talent. London alone employs 44,000 people in fintech, more than any other city globally. [source: Bloomberg]

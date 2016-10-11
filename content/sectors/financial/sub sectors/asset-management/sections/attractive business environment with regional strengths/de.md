@@ -1,6 +1,5 @@
 ---
 title: Ein attraktives Geschäftsumfeld mit regionalen Stärken
-layout: content-de.html
 ---
 
 London wurde noch vor Hongkong, Singapur und New York zum attraktivsten globalen Standort gewählt, wenn es darum geht, Vermögensverwaltungsgeschäfte zu verlagern oder zu erweitern. [Quelle: Banker Magazine]

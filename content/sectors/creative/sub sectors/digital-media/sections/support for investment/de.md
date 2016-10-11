@@ -1,6 +1,5 @@
 ---
 title: Förderung von Investitionen
-layout: content-de.html
 ---
 
 Die britische Regierung ist fest entschlossen, den Status des Vereinigten Königreichs als einer der führenden Nation in den Digitalen Medien zu fördern. Die Körperschaftssteuer, die jetzt bei 20 % liegt wird bis zum Jahr 2020 auf 18 % fallen, und folgende weitere Maßnahmen sind geplant:

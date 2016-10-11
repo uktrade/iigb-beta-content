@@ -1,6 +1,5 @@
 ---
 title: A receptive consumer market
-layout: content-us.html
 ---
 
 UK consumers are sophisticated early adopters, and are open to new, innovative models of service delivery. Willingness to switch providers has greatly increased, backed by UK government measures to make the switching process easier.

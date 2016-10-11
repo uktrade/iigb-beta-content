@@ -1,6 +1,5 @@
 ---
 title: Making the most of a connected network
-layout: content-us.html
 ---
 
 The domestic content of UK-made cars has increased from 36% to 41% since 2013 and continues to rise. With so many options in the supply chain, OEMs are looking to reduce their transportation and logistics costs by choosing local suppliers.

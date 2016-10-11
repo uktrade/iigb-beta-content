@@ -1,6 +1,5 @@
 ---
 title: Advanced infrastructure and regional strength
-layout: content-us.html
 ---
 
 The UK is one of the easiest places in the world to develop the infrastructure and communications that ambitious creative companies need for growth.  It has:

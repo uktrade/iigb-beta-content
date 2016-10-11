@@ -1,6 +1,5 @@
 ---
 title: Timings
-layout: content-us.html
 ---
 
 It can take up to three months for documents to be approved and for meetings to be arranged, so you should factor this timescale into your business plan ahead of time.

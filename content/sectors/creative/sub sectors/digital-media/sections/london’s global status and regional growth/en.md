@@ -1,6 +1,5 @@
 ---
 title: London’s global status and regional growth
-layout: content-us.html
 ---
 
 London has been rated top for technology readiness in a study of 30 of the world's most dynamic cities, and the best city in Europe for digital entrepreneurs

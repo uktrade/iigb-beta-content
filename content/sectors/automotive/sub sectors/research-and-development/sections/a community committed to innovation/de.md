@@ -1,6 +1,5 @@
 ---
 title: Innovation als gemeinsames Ziel
-layout: content-de.html
 ---
 
 Zukunftsweisende Automobilhersteller wie Mercedes-Benz, Jaguar Land Rover oder Bentley sowie neun der elf Formel-Eins-Teams erkennen die Vorteile unserer Produktionsanlagen und Arbeitskräfte.

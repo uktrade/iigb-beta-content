@@ -1,6 +1,5 @@
 ---
 title: Leading the way in lightweighting and carbon composites
-layout: content-us.html
 ---
 
 We are the world leader in automotive lightweighting. In 2015, we provided £40 million of R&D funding to make vehicles lighter and more energy-efficient.

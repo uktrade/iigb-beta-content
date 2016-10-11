@@ -1,6 +1,5 @@
 ---
 title: We support the growth and development of entrepreneurs
-layout: content-us.html
 ---
 
 Our tech scene is currently experiencing rapid growth and expansion, helped by the mature environment that supports early stage companies and entrepreneurs.

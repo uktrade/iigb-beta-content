@@ -1,6 +1,5 @@
 ---
 title: 具体法规
-layout: content-cn.html
 ---
 
 <p>1. 采购程序</p>

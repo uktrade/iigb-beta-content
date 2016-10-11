@@ -1,6 +1,5 @@
 ---
 title: Staatliche Unterstützung
-layout: content-de.html
 ---
 
 Die britische Regierung hat sich dem Sektor Vermögensverwaltung stark verschrieben und den Vorsatz, in diesem Bereich weltweit führend zu werden.

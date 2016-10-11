@@ -1,6 +1,5 @@
 ---
 title: Lösungen für jeden Sektor
-layout: content-de.html
 ---
 
 Technologische Innovationen aus der Motorsportindustrie des Vereinigten Königreichs werden in der gesamten Automobilbranche verwendet. Bauteile aus Kohlefaser, die vor über 30 Jahren von McLaren entwickelt und erstmals verwendet wurden, werden heute in straßenzugelassenen Sportwagen verbaut und Busse in London sind mit einem von Williams F1 entwickelten Hybrid Energy Recovery System ausgestattet.

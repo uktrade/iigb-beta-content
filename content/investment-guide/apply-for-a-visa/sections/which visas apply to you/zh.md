@@ -1,6 +1,5 @@
 ---
 title: 哪种签证适合您？
-layout: content-cn.html
 ---
 
 **Tier 1 签证**

@@ -1,6 +1,5 @@
 ---
 title: Erklärungen zum Visumsystem
-layout: content-de.html
 ---
 
 Das Visumsystem des Vereinigten Königreichs ist in drei Kategorien aufgeteilt, welche in Unterkategorien gegliedert sind. Wenn Sie ein Unternehmen im Vereinigten Königreich gründen, sind die Kategorien eins, zwei und fünf für Sie am relevantesten.

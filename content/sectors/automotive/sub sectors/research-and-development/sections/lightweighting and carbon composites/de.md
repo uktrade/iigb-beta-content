@@ -1,6 +1,5 @@
 ---
 title: Zukunftsweisende Leichtbautechnologien und Kohlefaser-Verbundwerkstoffe
-layout: content-de.html
 ---
 
 Das Vereinigte Königreich ist weltweiter Markführer für Leichtbautechnologien in der Automobilindustrie. Im Jahr 2015 haben wir der Branche 40 Millionen GBP für Forschungs- und Entwicklungsprojekte zur Verfügung gestellt, die zum Ziel hatten, Fahrzeuge leichter und energieeffizienter zu gestalten.

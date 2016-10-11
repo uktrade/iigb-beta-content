@@ -1,6 +1,5 @@
 ---
 title: Die Hochburg der Rennsport-Elite
-layout: content-de.html
 ---
 
 Sieben Formel-Eins-Teams sind im britischen Motorsport Valley zu Hause, das sich aus den West Midlands und Oxfordshire zusammensetzt – die Gegend mit der weltweit höchsten Dichte an meisterschaftsorientierten Engineering-Unternehmen. Eines dieser Teams ist Mercedes AMG Petronas, dessen neuer F1 WO6 Hybrid-Rennwagen zum stärksten Fahrzeug in der Geschichte des Sports wurde.

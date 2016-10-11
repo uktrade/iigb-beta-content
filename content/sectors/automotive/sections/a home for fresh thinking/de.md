@@ -1,6 +1,5 @@
 ---
 title: Eine Geburtsstätte für Innovationen
-layout: content-de.html
 ---
 
 Die Automobilindustrie des Vereinigten Königreichs ist bekannt für ihre innovativen Ideen und fortschrittlichen Forschungs- und Entwicklungszentren. Das mit 1 Milliarde GBP gegründete [Advanced Propulsion Centre](http://www.apcuk.co.uk/) ist ein führendes Kompetenzzentrum für kohlenstoffarme Antriebstechnologien, und das [National Composites Centre](http://nccuk.com/) ist auf die Entwicklung von Kohlefaser-Verbundwerkstoffe mit minimalem Gewicht spezialisiert.

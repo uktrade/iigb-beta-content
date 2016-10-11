@@ -1,6 +1,5 @@
 ---
 title: Das Optimum aus einem regionalen Netzwerk herausholen
-layout: content-de.html
 ---
 
 Der in der britischen Produktion verwendete Anteil von im Vereinigten Königreich hergestellten Autoteilen ist seit dem Jahr 2013 von 36 % auf 41 % gestiegen. Erstausrüster senken ihre Transport- und Logistikkosten, indem sie vermehrt mit örtlichen Zulieferern arbeiten.

@@ -1,6 +1,5 @@
 ---
 title: 强大的监管制度和税收支持
-layout: content-cn.html
 ---
 
  

@@ -1,6 +1,5 @@
 ---
 title: Strong areas of opportunity
-layout: content-us.html
 ---
 
 The UK is Europe’s largest mobile content market, with over £1 billion spent on mobile applications, content and services each year, and the highest mobile advertising spend per head. Mobile in the UK has been boosted by:

@@ -1,6 +1,5 @@
 ---
 title: Regulatory and financial support for creative companies
-layout: content-us.html
 ---
 
 Creative businesses in the UK are supported by an intellectual property regime and strong regulatory framework which protect and encourage creativity.

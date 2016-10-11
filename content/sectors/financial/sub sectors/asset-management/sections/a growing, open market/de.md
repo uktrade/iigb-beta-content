@@ -1,6 +1,5 @@
 ---
 title: Ein wachsender offener Markt
-layout: content-de.html
 ---
 
 Die Gesamtheit aller im Vereinigten Königreich verwalteten Vermögenswerte ist auf rekordverdächtige 6,8 Billionen £ gestiegen. Mehr als ein Drittel davon, 2,5 Billionen £, kamen von Kunden aus Übersee und haben das Vereinigte Königreich in diesem Bereich zum führenden globalen Zentrum gemacht. [Quelle: CityUK].

@@ -1,6 +1,5 @@
 ---
 title: Empfängliche Endkunden
-layout: content-de.html
 ---
 
 Konsumenten im Vereinigten Königreich  sind anspruchsvolle „Early Adopters“ und offen für neue, innovative Servicemodelle. Die Bereitschaft bestehende Anbieter zu wechseln, hat stark zugenommen, was auch durch Maßnahmen der britischen Regierung unterstützt wurde, um den Umstellungsprozess zu erleichtern.

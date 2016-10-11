@@ -1,6 +1,5 @@
 ---
 title: Weitere Steuern, die Unternehmen beachten müssen
-layout: content-de.html
 ---
 
 Für Unternehmen, die Waren und Dienstleistungen an- und verkaufen, sind zwei zentrale Steuern zu beachten.

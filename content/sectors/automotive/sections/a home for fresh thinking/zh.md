@@ -1,6 +1,5 @@
 ---
 title: 新思维诞生之地
-layout: content-cn.html
 ---
 
 英国的汽车产业以其创新的理念和发达的研发中心而闻名。耗资10亿英镑的先进动力中心（[Advanced Propulsion Centre](http://www.apcuk.co.uk/)）是致力于低碳技术研究的全球卓越中心，国家复合材料中心（[National Composites Centre](http://nccuk.com/)）则专注于轻型碳复合材料的研究。

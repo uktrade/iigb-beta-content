@@ -1,6 +1,5 @@
 ---
 title: Regionale Kompetenzzentren
-layout: content-de.html
 ---
 
 Egal, wo Sie Ihr Unternehmen im Vereinigten Königreich ansiedeln, Sie werden von ambitionierten und koordinierten Konzepten für regionales Wachstum und verbesserte Produktivität profitieren. London ist die größte Hauptstadt Europas, aber Unternehmen gedeihen überall im Vereinigten Königreich.

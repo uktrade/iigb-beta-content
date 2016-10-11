@@ -1,6 +1,5 @@
 ---
 title: Zukunftsweisendes Know-how in allen Disziplinen
-layout: content-de.html
 ---
 
 Die Formel Eins ist lediglich ein Teilbereich der florierenden Motorsportbranche des Vereinigten Königreichs. Im Lande findet ebenfalls die FIA-Formel-E-Meisterschaft statt, bei der Rennwagen mit Elektroantrieb um den Titel kämpfen. Des Weiteren beliefern Unternehmen mit Sitz im Vereinigten Königreich Teams in zahlreichen Meisterschaften wie IndyCar und NASCAR in den Vereinigten Staaten, der China Touring Car Championship und dem 24-Stunden-Rennen von Le Mans.

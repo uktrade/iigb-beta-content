@@ -1,6 +1,5 @@
 ---
 title: A world class digital infrastructure and mature audience
-layout: content-us.html
 ---
 
 We have the strongest and most embedded digital audience in Europe. British consumers are tech-savvy early adopters with a huge appetite for new digital services.  

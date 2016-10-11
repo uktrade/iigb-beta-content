@@ -1,6 +1,5 @@
 ---
 title: Zeitplan
-layout: content-de.html
 ---
 
 Es kann bis zu drei Monate dauern, bis alle Dokumente genehmigt und persönliche Termine gemacht sind. Diesen zeitlichen Rahmen sollten Sie bereits bei Ihren geschäftlichen Überlegungen berücksichtigen.

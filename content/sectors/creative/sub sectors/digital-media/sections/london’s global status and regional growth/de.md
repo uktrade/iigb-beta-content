@@ -1,6 +1,5 @@
 ---
 title: Der globale Status Londons und regionales Wachstum
-layout: content-de.html
 ---
 
 In einer Studie zu den 30 dynamischsten Städten der Welt nimmt London den ersten Platz in puncto Technologie-Reife ein und wird außerdem als beliebtester Standort in Europa für Unternehmen im digitalen Bereich bezeichnet.

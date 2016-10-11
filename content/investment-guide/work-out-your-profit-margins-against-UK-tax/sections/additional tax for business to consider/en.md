@@ -1,6 +1,5 @@
 ---
 title: Additional tax for businesses to consider
-layout: content-us.html
 ---
 
 For businesses that buy and sell goods and services, there are two main taxes to be aware of. 

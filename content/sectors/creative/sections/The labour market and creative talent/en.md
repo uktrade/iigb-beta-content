@@ -1,6 +1,5 @@
 ---
 title: The labour market and creative talent 
-layout: content-us.html
 ---
 
 The UK has a stable multi-cultural population with a diverse range of creative skills, and the lowest labour costs in Western Europe.
