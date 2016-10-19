@@ -12,3 +12,9 @@ prose:
           label: "Title"
           placeholder: "Enter title"
           help: "Enter title"
+      - name: "summary"
+        field:
+          element: "textarea"
+          label: "Summary"
+          placeholder: "Enter a brief summary for this content"
+          help: "Enter summary"
