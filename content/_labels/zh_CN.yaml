@@ -40,26 +40,26 @@ form_enter_phone: "Enter your telephone number:CN"
 form_city: "City:CN"
 form_enter_city: "Enter the city you reside in:CN"
 form_investment: "Your investment:CN"
-form_annual_turnover:CN:
+form_annual_turnover:
   label: "Annual turnover:CN"
-  options:CN:
+  options:
     - "Under £100,000:CN"
     - "Between £100,000 and £1 million:CN"
     - "Between £1 million and £10 million:CN"
     - "Between £10 million and £50 million:CN"
     - "Between £50 million and £100 million:CN"
     - "More than £100 million:CN"
-form_staff_number:CN:
+form_staff_number:
   label: "Number of staff:CN"
-  options:CN:
+  options:
     - "Less than 10:CN"
     - "Between 10 and 50:CN"
     - "Between 50 and 250:CN"
     - "More than 250:CN"
 form_location: "Do you have any location in mind?:CN"
-form_which_part:CN:
+form_which_part:
   label: "Which part of the country are you considering?:CN"
-  options:CN:
+  options:
     - "London and the South East:CN"
     - "Bristol and the South West:CN"
     - "Birmingham and the Midlands:CN"
@@ -76,9 +76,9 @@ form_enter_registered_company: "Enter company name:CN"
 form_website: "Company website:CN"
 form_enter_website: "Enter company website:CN"
 form_headquarters: "Headquarters country:CN"
-form_primary_industry::CN 
+form_primary_industry: 
   label: "Primary operating industry:CN"
-  options:CN:
+  options:
     - "Asset management:CN"
     - "Automotive research and development:CN"
     - "Automotive supply chain:CN"
