@@ -1,5 +1,5 @@
 ---
-title: Der Investitionsanleitung für das Vereinigte Königreich
+title: Die Investitionsanleitung für das Vereinigte Königreich
 published: true
 ---
 
