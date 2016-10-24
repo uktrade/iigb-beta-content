@@ -1,7 +1,3 @@
----
-title: ""
-published: false
----
 watch_video: "Hier geht's zum Video"
 reasons: "Warum das Vereinigte Königreich?"
 key_sectors: "Wichtigste Marktsektoren"
@@ -76,39 +72,39 @@ form_which_part:
     - "Belfast and Northern Ireland:DE"
 form_when: "When do you hope to be running your uk business?:DE"
 form_when_month:
-  please_select: "Please select a month"  
+  please_select: "Please select a month"
   options:
     - "January"
-    - "Febuary"  
-    - "March"  
-    - "April"  
-    - "May"  
-    - "June"  
-    - "July"  
-    - "August"  
-    - "September"  
+    - "Febuary"
+    - "March"
+    - "April"
+    - "May"
+    - "June"
+    - "July"
+    - "August"
+    - "September"
     - "October"
     - "November"
-    - "December" 
+    - "December"
 form_when_year:
-  please_select: "Please select a year"    
+  please_select: "Please select a year"
   options:
     - "2016"
-    - "2017"  
-    - "2018"  
-    - "2019"  
-    - "2020"  
-    - "2021"  
-    - "2022"  
-    - "2023"  
-    - "2024"  
-    - "2025" 
+    - "2017"
+    - "2018"
+    - "2019"
+    - "2020"
+    - "2021"
+    - "2022"
+    - "2023"
+    - "2024"
+    - "2025"
 form_company: "Your company:DE"
 form_registered_company: "Registered company name:DE"
 form_enter_registered_company: "Enter company name:DE"
 form_website: "Company website:DE"
 form_enter_website: "Enter company website:DE"
-form_primary_industry: 
+form_primary_industry:
   label: "Primary operating industry:DE"
   options:
     - "Asset management:DE"
@@ -132,7 +128,7 @@ form_primary_industry:
 form_other: "Other:DE"
 form_enter_other: "Please provide any other information:DE"
 form_enter_headquarters: "Enter Headquarters country:DE"
-form_headquarters: 
+form_headquarters:
   label: "Headquarters country:DE"
   options:
     - "Afghanistan"
