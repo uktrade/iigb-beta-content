@@ -1,12 +1,12 @@
 ---
-published: false
 title: How we help
+published: false
 list: 
-  - Linking you to a network of business support services.
-  - Providing you location and market insight based on your needs.
-  - Getting you access to relevant industry events.
-  - Sending you a curated newsfeed specific to your industry.
-  - Providing you with an account manager to work with you through your investment journey.
+  - Build connections with your sectors ecosystem and supply chain
+  - Assist with visa applications and other immigration issues
+  - Help you to find grants and incentives, including geographical clusters
+  - Assist with hiring staff through salary benchmarking, recruitment, retention and training
+  - Provide insight on locations and market conditions based on your needs
 submitted: Form submitted
 reference: Your reference number is
 confirmation_email: We've sent you a confirmation email.
