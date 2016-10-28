@@ -1,5 +1,5 @@
 ---
 published: false
-title: Buy from the UK
+title: Study in the UK
 ---
 Get a headstart from an exceptional British education that’ll inspire you to achieve greatness.
