@@ -1,5 +1,5 @@
 ---
 published: false
-title: Buy from the UK
+title: Invest in the UK
 ---
-Sign up to get exclusive early access to profiles of high quality UK businesses ready to fulfill your demand.
+Find out about the UK’s wealth of investment opportunities and find out how the government will support your venture.
