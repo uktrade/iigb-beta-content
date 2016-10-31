@@ -2,4 +2,4 @@
 title: 创意
 ---
 
-From producing big budget movies to developing world-class computer games, creativity is thriving in the UK.
+从制作大预算电影到发展世界级电脑游戏，创意在英国蓬勃发展。
