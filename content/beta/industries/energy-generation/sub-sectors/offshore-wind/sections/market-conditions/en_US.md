@@ -1,8 +1,9 @@
 ---
 title: Market conditions
+published: true
 ---
 
-**A prime location for global giants**
+### A prime location for global giants
 
 The UK places highly in international rankings for the best place to invest in offshore wind and has managed to attract investment from across the globe for related infrastructure and manufacturing.
  
@@ -15,4 +16,3 @@ We’re also home to the largest operational offshore wind farm in the world, Lo
 Our industry and government are working together to build a competitive and innovative supply chain that delivers and sustains jobs, exports and economic benefits for the UK.
  
 UK companies lead the world in services for the design, development, financing, construction and operation of offshore wind plants. There are also investment opportunities in the supply chain for the manufacturing of wind turbine components.
-

@@ -1,5 +1,5 @@
 ---
-title: Invest in Great Britain
+title: Invest in GREAT Britain & Northern Ireland
 ---
 
-The best place for setup guidance and current investment opportunities in great British industries.
+The best place for setup guidance and current UK investment opportunities.
