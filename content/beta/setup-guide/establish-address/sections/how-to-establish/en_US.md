@@ -1,5 +1,5 @@
 ---
-title: How to establish a UK business address
+title: What you need to know
 ---
 
 The UK has a wide range of properties for lease or rent for business purposes.
