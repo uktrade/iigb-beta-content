@@ -1,9 +1,6 @@
 ---
 title: Health and Life Sciences Overview
 ---
-
-The UK is an attractive place for health and life sciences companies to invest. Currently, there are over 5,600 companies operating in the UK, generating an approximate £60.7 billion. 
-
 We are home to 4 of the world’s top 10 universities and are the principal recipient of public and private life sciences financing.
 
 We have a rich heritage powered by innovative research and a tax structure that rewards innovation. 
