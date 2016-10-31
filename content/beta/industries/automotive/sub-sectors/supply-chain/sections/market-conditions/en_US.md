@@ -7,7 +7,8 @@ published: true
 
 The local content of UK-made cars rose from 36% in 2011 to 41% in 2015, and is continuing to increase. UK car manufacturers have identified an additional £4 billion of annual component purchasing they would like to buy from UK suppliers, but are not always able to do so as UK component plants are already running close to or at full capacity. This provides a huge opportunity for overseas investors setting up in the UK. The following table shows the major opportunities:
 
-IMAGE
+![marketconditions.png]({{site.baseurl}}/media/marketconditions.png)
+
 
 ### Strong regional clusters
 
