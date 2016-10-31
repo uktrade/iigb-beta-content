@@ -1,5 +1,5 @@
 ---
-title: Welcome to invest in Great Britain
+title: 投资英国
 ---
 
-The best place for setup guidance and current investment opportunities in Great British industries.
+最好的地方为设置指导和当前的投资机会在大英国工业
