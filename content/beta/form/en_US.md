@@ -1,6 +1,7 @@
 ---
 title: How we help
 published: true
+listTitle: "This international network can:"
 list: 
   - 
     text: Help you to build connections with your sector’s ecosystem and supply chain
@@ -26,5 +27,3 @@ next_detail: We've sent your contact form to the Invest in Great Britain agents.
 The Department for International Trade helps overseas companies locate and grow in the UK.  We also help companies export and grow into global markets.
 
 Our team of staff, based in British Embassies, High Commissions and Consulates, can help companies to locate or invest in the UK.
-
-**This international network can:**
