@@ -7,7 +7,7 @@ published: true
 
 The UK places highly in international rankings for the best place to invest in offshore wind and has managed to attract investment from across the globe for related infrastructure and manufacturing.
  
-Suppliers like Siemens and MHI Vestas Offshore have already chosen the UK as the site for future world class manufacturing facilities, and there are significant opportunities for further investment in the supply chain.
+Suppliers like Siemens and MHI Vestas have already chosen the UK as the site for future world class manufacturing facilities, and there are significant opportunities for further investment in the supply chain.
 
 We already have 5.7 GW of offshore wind installed or under construction, and we’re on track to deliver 10 GW by 2020. This represents the largest expansion in any class of renewable energy technology in the UK.
 
