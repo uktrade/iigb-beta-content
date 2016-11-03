@@ -4,7 +4,7 @@ title: Our talent and skills
 
 **World-leading expertise**
 
-More than 80,000 people have jobs that are directly or indirectly linked to our civil nuclear industry.  These are skilled workers with the experience in fuel manufacturing, operation and maintenance of reactors, and management of the waste generated from the operations.  
+More than 65,000 people are currently working in the UK’s civil nuclear industry. These are skilled workers with the experience in fuel manufacturing, operation and maintenance of reactors, and management of the waste generated from the operations.  
 
 Nuclear expertise is well distributed across the nation, but there are specific cluster areas where many major businesses  share research, development and thinking. These include: 
 
