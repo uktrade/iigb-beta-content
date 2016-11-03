@@ -6,8 +6,6 @@ The UK government has made a commitment to invest in offshore wind energy for ge
 
 The UK enjoys a longstanding reputation for operating stable and predictable regimes to support investment in renewable electricity infrastructure. Contracts for difference (CfD) provide stable long-term revenues for offshore wind projects, giving certainty on returns for investors.
  
-A Levy Control Framework (LCF) provides long-term visibility of liabilities under these regimes, assisting investment planning and providing transparency and stability in public policy.
- 
 Alongside a supportive policy regime, the UK government supports its offshore wind industry by:
 
 - providing market confidence and demand visibility (critical for investment by developers and the supply chain)
