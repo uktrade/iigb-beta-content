@@ -15,7 +15,9 @@ There are sites across the UK with existing planning permission, which can reduc
 London is the second-largest capital city in Europe, and businesses thrive in areas all around the country. 
 
 ### Business clusters
-Businesses from the same or complementary industry sectors have come together as centres of excellence and innovation across the UK. Locating your business in a relevant cluster could help you to:
+Businesses from the same or complementary industry sectors have come together as centres of excellence and innovation across the UK.
+
+Locating your business in a relevant cluster could help you to:
 
 - access a larger pool of skilled labour
 - improve your supply chains
