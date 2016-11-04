@@ -1,9 +1,6 @@
 ---
-title: Market conditions
+title: Investment opportunities that promote change
 ---
-
-**Investment opportunities that promote change**
-
 You’ll find the UK market an exciting and challenging one, with plenty of opportunities for dynamic, innovative companies.
 
 We’re tackling climate change by moving towards a low-carbon future. The networks of the future will have to be different to the ones that have served the UK in the past.
