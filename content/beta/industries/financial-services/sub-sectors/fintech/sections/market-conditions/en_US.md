@@ -1,9 +1,6 @@
 ---
-title: Market conditions
+title: Home to world-beating growth and opportunity
 ---
-
-**The UK: home to world-beating growth and opportunity**
-
 The UK FinTech sector had a turnover of about £6.6 billion in revenue in 2015 and attracted about £524 million in investment in 2015.
 
 The 4 strongest performing areas are:
@@ -15,7 +12,7 @@ The 4 strongest performing areas are:
 
 There is ample room in the market for established providers and disruptive technologies. Many different sources of finance are available and the sector is well served by angel and private equity investors, accelerator and incubator schemes.
 
-**Status and enthusiasm drives demand**
+###Status and enthusiasm drives demand
 
 Demand for FinTech in the UK is strong, driven by [London’s status as the global capital of finance](http://www.longfinance.net/global-financial-centres-index-20/1037-gfci-20.html). This concentration of financial services activity means great opportunity for FinTech solutions providers, particularly in the areas of:
 
