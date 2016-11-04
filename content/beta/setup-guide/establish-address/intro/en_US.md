@@ -1,3 +1,3 @@
 ---
-title: How to establish a UK business address
+title: Establish a UK business address
 ---
