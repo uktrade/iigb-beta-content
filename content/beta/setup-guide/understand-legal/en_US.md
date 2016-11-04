@@ -2,4 +2,4 @@
 title: The UK’s legal framework 
 ---
 
-The World Bank rates the UK as the seventh-easiest place to do business in the world. Its supporting legal system is considered a global leader in fairness and stability.
+The UK is the seventh easiest place to do business in the world, according to the World Bank.
