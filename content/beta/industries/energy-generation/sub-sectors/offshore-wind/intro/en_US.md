@@ -1,5 +1,5 @@
 ---
-title: The UK: the world’s largest offshore wind producer
+title: Offshore wind in the UK
 ---
 
 
