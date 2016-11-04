@@ -1,4 +1,4 @@
 ---
 title: Establish a UK business address
 ---
-The UK has a straightforward planning processes, a wide range of properies, and incentives for businesses to setup and expand.
+The UK has a straightforward planning process, a wide range of properties, and incentives for businesses to set up and expand.
