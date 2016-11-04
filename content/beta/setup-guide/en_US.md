@@ -2,4 +2,4 @@
 title: Your guide to setting up in the UK
 ---
 
-The time to invest in the UK is now. If you’re ready to take the next step for your business, here’s how to do it. 
+If you're planning to take the opportunity to bring business to the UK. Here’s our quick guide to the important information you'll need to get set up. 
