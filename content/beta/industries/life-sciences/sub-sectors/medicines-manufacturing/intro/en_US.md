@@ -1,4 +1,4 @@
 ---
-title: Pharmaceutical and high-value manufacturing
+title: Pharmaceutical manufacturing
+published: true
 ---
-  
