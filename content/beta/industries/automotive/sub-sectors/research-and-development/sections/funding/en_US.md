@@ -1,5 +1,5 @@
 ---
-title: "Funding for automotive R&D in the UK"
+title: "Funding for automotive research and development in the UK"
 published: true
 ---
 ### Low carbon propulsion

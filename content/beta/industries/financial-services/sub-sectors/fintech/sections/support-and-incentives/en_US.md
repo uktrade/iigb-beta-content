@@ -15,6 +15,6 @@ They include:
 - the Enterprise Investment Scheme
 - the Seed Enterprise Investment Scheme 
 - Entrepreneurs’ Relief 
-- R&D tax credits
+- Research and development tax credits
 - the Patent Box scheme, where companies pay a lower rate of Corporation Tax on profits earned from their patented innovations
 

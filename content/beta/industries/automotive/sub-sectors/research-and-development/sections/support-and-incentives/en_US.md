@@ -1,5 +1,5 @@
 ---
-title: UK government support for automotive R&D 
+title: UK government support for automotive research and development 
 ---
 The UK government is absolutely committed to the continued success of the UK car industry by providing over £1.2 billion to automotive research funds, covering low-carbon propulsion, lightweight materials and Connected and Autonomous vehicles.
 
