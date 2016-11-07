@@ -1,5 +1,5 @@
 ---
-title: Access talent and skills in the UK 
+title: Hire skilled workers for your UK operations 
 ---
 
-The UK has a world-class pool of talent and business-friendly employment laws. You can also bring employees from abroad through a flexible visa system. 
+The UK has a world-class pool of talent and business-friendly employment laws. You can also bring employees to the UK from other countries through a flexible visa system.
