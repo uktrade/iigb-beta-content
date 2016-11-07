@@ -1,5 +1,6 @@
 ---
 title: Register (incorporate) a company in the UK
+published: true
 ---
 By incorporating a company, you’ll create a separate legal entity in the UK, which is known as a private limited company.
 
@@ -13,5 +14,4 @@ Before you start the process, you’ll need:
  
 A UK company must have a Memorandum and Articles of Association. These documents must be in place at the time of incorporation. You can select standard documents at the date of incorporation, or professional advisers can prepare and file tailored documents on your company’s behalf.
 
-While it is not a legal requirement to have a UK resident director or shareholder to open a UK company, many banks will prefer this before they will open a UK business bank account [IIGB LINK] for your business.
-
+While it is not a legal requirement to have a UK resident director or shareholder to open a UK company, many banks will prefer this before they will [open a UK business bank account](/us/setup-guide/open-a-business-account/) for your business.
