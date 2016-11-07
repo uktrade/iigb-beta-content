@@ -1,5 +1,5 @@
 ---
-Title: Understand the range of UK visas
+title: Understand the range of UK visas
 ---
 There are different types of visa for individuals and business depending on your situation.
 
