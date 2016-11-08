@@ -1,5 +1,5 @@
 ---
-title: Technology in the UK
+title: Technology
 published: true
 ---
 
