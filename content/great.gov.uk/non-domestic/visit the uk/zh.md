@@ -2,4 +2,4 @@
 published: false
 title: Visit the UK ZH
 ---
-See for yourself the unrivalled heritage, iconic landmarks and breathtaking scenery. Come and experience what makes Britain great.
+Take a journey through vibrant cities, breathtaking scenery, unrivalled heritage and iconic landmarks and discover what makes the UK great. CN
