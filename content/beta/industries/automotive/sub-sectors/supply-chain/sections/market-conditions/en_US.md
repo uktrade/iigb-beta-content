@@ -7,7 +7,23 @@ published: true
 
 The local content of UK-made cars rose from 36% in 2011 to 41% in 2015, and is continuing to increase. UK car manufacturers have identified an additional £4 billion of annual component purchasing they would like to buy from UK suppliers, but are not always able to do so as UK component plants are already running close to or at full capacity. This provides a huge opportunity for overseas investors setting up in the UK. The following table shows the major opportunities:
 
-![marketconditions.png]({{site.baseurl}}/media/marketconditions.png)
+| Component | Value (£m) | Component  | Value (£m) |
+|---|---:|---|---:|
+| Engine castings | 550 | 12V Lead/Acid Battery | 90 |
+| Steering systems | 330 | Cast aluminium sub-frames | 90 |
+| Trim | 255 | Brakes | 80 |
+| Engine forgings | 255 | Drive shafts | 80 |
+| Pressing and hot stampings | 240 | Fuel tanks | 75 |
+| Seat components | 225 | Engine accesories | 75 |
+| Alloy wheels | 210 | HVAC assembles | 75 |
+| Lighting | 210 | Misc. (mirrors, pedals, etc.) | 60 |
+| Electronics | 170 | Shock absorbers | 60 |
+| Plasting mouldings | 150 | Oil pans | 30 |
+| Entertainment & navigation | 135 | Premium finish | 50 |
+| Bearings | 120 | Weather strips | 50 |
+| Instrument Clusters | 120 | Switchgear | 30 |
+| Glass | 110 | Other | 520 |
+| Hinges | 105 |
 
 
 ### Strong regional clusters
