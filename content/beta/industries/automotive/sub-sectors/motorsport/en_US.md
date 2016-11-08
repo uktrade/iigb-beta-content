@@ -1,5 +1,5 @@
 ---
-title: Motorsport
+title: Motor sport in the UK
 ---
 
-The UK leads the world in motorsport with a turnover of £9 billion and more than 4,500 businesses operating in the sector.
+The UK leads the world in motor sport with a turnover of £9 billion and more than 4,500 businesses operating in the sector.
