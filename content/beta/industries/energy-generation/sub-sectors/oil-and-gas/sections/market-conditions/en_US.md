@@ -14,6 +14,7 @@ We are well placed to investigate new technologies and innovations. The UK is no
 
 
 **Safe development of shale gas**
+
 Onshore, the UK government is backing the safe development of shale gas because it’s good for jobs, energy security and the UK’s plans to decarbonise the economy. 
 
 
