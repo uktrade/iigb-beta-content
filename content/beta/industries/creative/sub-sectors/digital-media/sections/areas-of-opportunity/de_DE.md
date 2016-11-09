@@ -2,13 +2,13 @@
 title: Chancenreiche Geschäftsfelder
 ---
 
-**Digitale Werbung getrieben von einer kreativen Revolution**
+### Digitale Werbung getrieben von einer kreativen Revolution
 
 2014 hatte der Markt für digitale Werbung im Vereinigten Königreich ein Volumen von 7,2 Milliarden £. Der Markt für mobile Werbung stieg auf 1,6 Milliarden £ an – das bedeutet ein jährliches Plus von bis zu 63%.
 
 Mit der Schaffung gezielter und effektiver Werbung haben sich weitere Geschäftsfelder entwickelt, die hier sehr erfolgreich sind und Markteinsteigern viele neue Möglichkeiten in Geschäftsfeldern wie Programmatic Advertising, Native Advertising und Analytics bieten.
 
-**Personalisierung bringt die Mobilbranche nach vorn**
+### Personalisierung bringt die Mobilbranche nach vorn
 
 Das Vereinigte Königreich ist der größte Markt für mobilen Content in Europa – mit jährlich über 1 Milliarden £ Ausgaben für mobile Anwendungen, Inhalte und Services und den höchsten Ausgaben für mobile Werbung pro Kopf. Unser Markt für E-Commerce war 2014 104 Milliarden £ wert.
 

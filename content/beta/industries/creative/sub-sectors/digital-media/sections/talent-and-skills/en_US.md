@@ -1,7 +1,7 @@
 ---
 title: Our talent and skills 
 ---
-**A deep pool of skilled and creative talent**
+### A deep pool of skilled and creative talent
 
 With digital education now heavily emphasised from junior schools to postgraduate level, we have the people you need to ensure your company’s long term growth.
 
@@ -12,7 +12,7 @@ Our universities are ranked second in the world for the quality of their industr
 Working from the UK means you’ll be operating within a  large research community and an ecosystem of partners, academic institutions and skilled workers. These networks mean smaller companies can easily work with and learn from each other, and collaborate with major firms too.
 
 
-**London’s global status and our regional hotspots**
+### London’s global status and our regional hotspots
 
 London has been rated top for technology readiness in a study of 30 of the world's most dynamic cities, and is considered to be the [best city in Europe for digital entrepreneurs. ](https://digitalcityindex.eu/city/16) 
 

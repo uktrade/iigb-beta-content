@@ -8,7 +8,7 @@ We’re also creating the right environment for new technology to thrive. Our re
 
 
 
-**A supportive business environment, focused on the future**
+### A supportive business environment, focused on the future
 
 
 The UK benefits from a supportive business environment, offering the most competitive and flexible labour market in western Europe. Workers in the UK car industry add more value per car than anywhere else in Europe. 
