@@ -1,4 +1,4 @@
 ---
 title: Hire skilled workers for your UK operations
 ---
-UK-based companies benefit from business-friendly employment laws, highly skilled staff, competitive labour costs and a workforce of 32 million people, the highest in Europe.
+The UK has a world-class pool of talent and business-friendly employment laws. You can also bring employees to the UK from other countries through a flexible visa system.
