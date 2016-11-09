@@ -3,7 +3,7 @@ title: Understand the range of UK visas
 ---
 There are different types of visa for individuals and business depending on your situation.
 
-### Visas For individuals
+**Visas For individuals**
 
 A Tier 1 (Entrepreneur) visa may be suitable for you if:
  - you want to set up or run a business in the UK
@@ -39,7 +39,7 @@ A Representative of an Overseas Business visa may be suitable for you if you’r
 A Standard Visitor visa may be suitable you if you wish to carry out limited business activities. There are restrictions on the type of activities in which they can take part (this has replaced the Business Visitor visa).
 [Learn more about the Standard Visitor visa.](https://www.gov.uk/standard-visitor-visa)
 
-### For companies
+**For companies**
 
 You may need a sponsor licence if you wish to employ someone on a Tier 2 visa.
 
