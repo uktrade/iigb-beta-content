@@ -1,16 +1,17 @@
----
-title: Support and incentives 
----
-The UK has lower operating costs than you might expect and high after-tax profitability for medical businesses. With many new incentives in place, businesses can build more cost-effectively from a solid foundation, rather than from the ground up.
+## Government support for health and life sciences
+The UK provides a very attractive tax regime for regional or global manufacturing. Tax incentives make it easier to reinvest in your next generation research and development. We offer:
 
-## Funding for business growth
+- low rates of tax, with headline corporation tax rate falling to 17% by 2020
+- innovation incentives (R&D tax relief and Patent Box) which can be utilised by product developers and their R&D, clinical or manufacturing partners
+- one of the most comprehensive global treaty networks
 
-The UK government has dedicated funding for life sciences, including medical manufacture. From research and development to academic collaboration, there’s a variety of funding options available depending on what your business specialises in. 
+The combination of low tax rates and Patent Box could deliver an Effective Tax Rate (ETR) of 11% to 13%.
 
-## Investment in medical manufacturing 
+## Championing innovation
+We offer direct support for innovative manufacturing businesses. Your company can access national innovation infrastructure, with 3 main elements:
 
-The UK government has made significant investments in national infrastructure, research and training to support medical manufacturers.
+- [Research Councils](http://www.rcuk.ac.uk/) champion science, engineering and technology in the UK, including manufacture via centres for innovative manufacturing.
 
-These schemes have launched the National Biologics Manufacturing Centre (for bioprocessing and vaccine technology). These significant public infrastructure investments have created the Cell and Gene Therapy Catapult and a new Cell and Gene Therapy Manufacturing Centre.
+- [Catapult](https://catapult.org.uk/) is a specialised national network run by Innovate UK. They make world leading technical capability available to businesses and aid process development, prototyping and scale-up. The network includes the High Value Manufacturing Catapult programme and a National Biologics Manufacturing Centre
 
-As a result, the UK is now a leading nation in the development of cutting-edge technologies for stem cells and cell culture, synthetic biology and gene-editing. 
+- [The Knowledge Transfer Network](http://www.ktn-uk.co.uk/) helps businesses link up with partners in the value and supply chain. 
