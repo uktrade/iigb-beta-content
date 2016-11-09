@@ -11,6 +11,7 @@ The UK offers an attractive venture capital schemes to help small and medium ent
 The [Enterprise Investment Scheme](https://www.gov.uk/government/publications/the-enterprise-investment-scheme-introduction) and the [Venture Capital Trust](https://www.gov.uk/government/collections/venture-capital-trusts-statistics) offer tax relief for individuals interested in investing in small businesses.
 
 **Tax incentives for innovation**
+
 There are generous incentives for companies investing in research and development in the UK to promote fast-growing, innovative services and products. 
 
 [The Patent Box](https://www.gov.uk/guidance/corporation-tax-the-patent-box) offers a 10% corporation tax on profits from inventions patented in the UK (compared to the usual 20% corporation tax).
