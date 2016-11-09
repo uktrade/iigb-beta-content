@@ -2,7 +2,7 @@
 title: Corporation tax in the UK
 ---
 
-Any foreign company with a UK branch or office must pay UK Corporation Tax. The [current corporation tax rate is 20%](https://www.gov.uk/corporation-tax-rates/rates), reducing to 17% by 2020. At the current rate of 20%, the UK has the lowest headline business tax rate in the G7, and joint-lowest in the G20. 
+Any foreign company with a UK branch or office must pay UK Corporation Tax. The [current corporation tax rate is 20%](https://www.gov.uk/corporation-tax-rates/rates), reducing to 17% by 2020. At the current rate of 20%, the UK has the lowest headline business tax rate in the G7, and joint lowest in the G20. 
  
 [National Insurance](https://www.gov.uk/national-insurance/overview) must be paid to all UK employees. The UK’s employer social security contribution rate is 13.8% on employee earnings over £112 per week. 
  
