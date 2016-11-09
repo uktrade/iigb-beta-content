@@ -1,5 +1,4 @@
 ---
-title: Kreativität
+title: Kultur- und Kreativwirtschaft
 ---
-
-Von der Produktion von Kassenknallern bis zur Entwicklung von weltklassigen Computerspielen, blüht Kreativität in Großbritannien
+Sei es die Big-Budget- Filmproduktion oder die Entwicklung von Computerspielen von Weltklasseformat – die kreative Branche im Vereinigten Königreich blüht und gedeiht.

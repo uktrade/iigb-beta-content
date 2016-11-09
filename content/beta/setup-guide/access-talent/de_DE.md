@@ -1,5 +1,4 @@
 ---
-title: Wie man Zugang zu talentierten Fachkräften im Vereinigten Königreich bekommt
+title: Stellen Sie erfahrene Arbeitnehmer für Ihren Betrieb im Vereinigten Königreich ein
 ---
-
-Das Vereinigte Königreich hat einen Weltklasse-Pool von Fachkräften und unternehmensfreundlichen Arbeitsgesetze. Sie können auch Arbeitskräfte aus anderen Ländern in das Vereinigte Königreich über ein flexibles Visa-System bringen.
+Im Vereinigten Königreich gibt es einen Pool an Spitzenkräften von Weltklasseformat und ein unternehmerfreundliches Arbeitsrecht. Sie können dank eines flexiblen Visa-Systems auch Arbeitnehmer aus anderen Ländern in das Vereinigte Königreich holen.

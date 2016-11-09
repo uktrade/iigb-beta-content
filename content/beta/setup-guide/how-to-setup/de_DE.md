@@ -1,5 +1,4 @@
 ---
-title: Ein Unternehmen im Vereinigten Königreich gründen
+title: Gründen Sie eine Firma im Vereinigten Königreich.
 ---
-
-Die gängigste Möglichkeit für ausländische Investoren ist, im Vereinigten Königreich eine Kapitalgesellschaft oder eine Tochtergesellschaft anzumelden. Alternativ dazu könnten Sie eine Auslandsniederlassung im Vereinigten Königreich anmelden.
+Eine Gesellschaft mit beschränkter Haftung können Sie in nur 24 Stunden online gründen. Wenn Sie eine Zweigstelle Ihres bestehenden Unternehmens eintragen, kann dies bis zu vier Wochen dauern.

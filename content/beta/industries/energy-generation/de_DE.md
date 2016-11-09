@@ -1,5 +1,4 @@
 ---
-title: Energieerzeugung
+title: Energie
 ---
-
-Egal ob ihre Firma mit traditionellen oder neuen Energietechnologien arbeitet, finden Sie hier Möglichkeiten für Wachstum und hohe Erträge.
+Ob Ihr Unternehmen im traditionellen oder im aufstrebenden Energiemarkt tätig ist, hier finden Sie Chancen für Wachstum und hohe Erträge.
