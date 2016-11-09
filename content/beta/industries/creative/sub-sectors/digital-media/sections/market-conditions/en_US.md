@@ -7,4 +7,4 @@ The British are the world’s biggest online spenders. We are a nation of establ
 
 The sector saw Gross Value Added (GVA) of all digital tech in the UK grow by 27% between 2010 and 2014, with GVA for 2014 reaching £87 billion.
 
-A 2015 World Economic Forum report cites the UK as one of the best environments in the world for informations and communications technology ( ICT) development. 
+A 2015 World Economic Forum report cites the UK as one of the best environments in the world for informations and communications technology (ICT) development. 
