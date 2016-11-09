@@ -1,30 +1,19 @@
 ---
 title: Market conditions
 ---
-## The UK has over 100 years in the oil and gas industry 
-
-
-There are over 380 fields producing oil and gas in the UK today. That’s resulted in 43 billion barrels of oil being recovered from the UK Continental Shelf, with estimates stating that 22 billion barrels of recoverable reserves remain. 
-
-
-The UK’s potential doesn’t stop there. New opportunities, like decommissioning, are opening up for companies too. 
-
-
-## Market conditions
-
 With over 100 years experience, businesses can be sure that they’re entering a market that’s widely acknowledged as a global leader.
 
 
 We are well placed to investigate new technologies and innovations. The UK is now focusing on technically challenging methods of extraction and production, including:
 
 
-heavy oil
-high-pressure, high-temperature extraction
-enhanced oil recovery
-special materials for sealing systems
+- heavy oil
+- high-pressure, high-temperature extraction
+- enhanced oil recovery
+- special materials for sealing systems
 
 
-## Safe development of shale gas
+**Safe development of shale gas**
 Onshore, the UK government is backing the safe development of shale gas because it’s good for jobs, energy security and the UK’s plans to decarbonise the economy. 
 
 
