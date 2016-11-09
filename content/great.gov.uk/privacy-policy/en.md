@@ -1,6 +1,6 @@
 ---
 published: false
-title: "Privacy and cookies"
+title: "Privacy section 1"
 ---
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse non accumsan diam. Nam maximus dui et sapien tempor blandit. Nunc hendrerit dui id enim pellentesque, at vestibulum quam mollis. Vivamus tempor nunc purus, ut porttitor massa placerat at. Donec egestas rutrum tempor. Nullam vitae tempus lacus, sit amet fermentum ante. Morbi ornare urna ut urna egestas, faucibus elementum leo facilisis. Etiam pellentesque ligula nec mollis malesuada. Donec ullamcorper nunc massa, hendrerit auctor nisl congue non. Donec malesuada felis at neque tempor tristique. Nullam varius ullamcorper pretium. Cras in est turpis.
 
