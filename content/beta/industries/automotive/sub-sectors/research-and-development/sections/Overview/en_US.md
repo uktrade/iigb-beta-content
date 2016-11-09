@@ -4,7 +4,7 @@ title: Government-backed innovation
 In 2009, the UK government and the UK automotive industry set up a partnership called the [Automotive Council](http://www.automotivecouncil.co.uk/), to chart the renaissance of the UK auto sector. This is now seen internationally as the gold standard for government and industry cooperation, and has led to a huge expansion of both car manufacturing and automotive research and development (R&D) in the UK.
 
 
-**Facilitating innovation**
+###Facilitating innovation
 
 
 The capability of UK automotive R&D is demonstrated by the fact that 7 of the 11 Formula One teams have their headquarters in the UK. Formula One depends on the ability of British teams and their 4,500 UK motorsport suppliers to develop world-beating solutions.
