@@ -26,7 +26,6 @@ The local content of UK-made cars rose from 36% in 2011 to 41% in 2015, and is c
 | Hinges | 105 |
 
 
-### Strong regional clusters
 
 **A committed community and a connected network**
 
