@@ -43,7 +43,7 @@ form_enter_valid_email: "請以正确的格式输入您的电子邮件，例如 
 form_phone: "工作联系电话(可选填)"
 form_enter_phone: "Enter your telephone number:CN"
 form_city: "您目前居住城市"
-form_enter_city: "请输入您目前居住城市"
+form_enter_city: "请输入您目前居住城市(可选填)"
 form_investment: "您的投资"
 form_enter_annual_turnover: "请选择您的公司目前的大概年收入"
 form_annual_turnover:
@@ -79,7 +79,7 @@ form_which_part:
     - "贝尔法斯特和爱尔兰北部"
     - "诺丁汉和东米德兰兹"
 form_enter_when: "请输入您預期在英国的业务运行的日子"
-form_when: "您預期在英国的业务运行的日子（月/年)"
+form_when: "您預期在英国的业务运行的日子"
 form_when_month:
   please_select: "月"
   options:
