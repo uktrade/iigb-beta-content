@@ -1,11 +1,12 @@
 ---
 title: Understand the range of UK visas
+published: true
 ---
 There are different types of visa for individuals and business depending on your situation.
 
-### Visas For individuals
+## Visas For individuals
 
-#### A Tier 1 (Entrepreneur) visa may be suitable for you if:
+### A Tier 1 (Entrepreneur) visa may be suitable for you if:
 
  - you want to set up or run a business in the UK
  - you’re from outside the EEA and Switzerland
@@ -14,7 +15,7 @@ There are different types of visa for individuals and business depending on your
 [Learn more about Tier 1 Entrepreneur visas.](https://www.gov.uk/tier-1-entrepreneur/overview)
 
 
-#### A Tier 2 (Exceptional Talent) visa may be suitable for you if you’re:
+### A Tier 2 (Exceptional Talent) visa may be suitable for you if you’re:
 
  - a recognised leader (exceptional talent)
  - an emerging leader (exceptional promise)
@@ -24,7 +25,7 @@ There are different types of visa for individuals and business depending on your
 
 
 
-#### A Tier 2 (General) visa may be suitable for you if:
+### A Tier 2 (General) visa may be suitable for you if:
 
  - you’ve been offered a skilled job in the UK
  - you’re from outside the EEA and Switzerland
@@ -41,7 +42,7 @@ There are different types of visa for individuals and business depending on your
 
 
 
-#### A Representative of an Overseas Business visa may be suitable for you if you’re:
+### A Representative of an Overseas Business visa may be suitable for you if you’re:
 
 - the sole representative of an overseas company planning to set up a UK branch or a wholly owned subsidiary for an overseas parent company
 - an employee of an overseas newspaper, news agency or broadcasting organisation posted on a long-term assignment to the UK
@@ -50,14 +51,14 @@ There are different types of visa for individuals and business depending on your
 
 
 
-#### A Standard Visitor visa may be suitable you if you wish to carry out limited business activities. 
+### A Standard Visitor visa may be suitable you if you wish to carry out limited business activities. 
 
 There are restrictions on the type of activities in which they can take part (this has replaced the Business Visitor visa).
 
 
 [Learn more about the Standard Visitor visa.](https://www.gov.uk/standard-visitor-visa)
 
-### For companies
+## For companies
 
 You may need a sponsor licence if you wish to employ someone on a Tier 2 visa.
 
