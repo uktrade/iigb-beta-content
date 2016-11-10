@@ -1,5 +1,5 @@
 ---
-title: Welcome to the UK ZH
+title: 欢迎来到英国
 published: true
 ---
 这里是高新技术创新者的家园，更是培育人才、创造卓越产品和一流服务的地方。您的未来属于这里。
