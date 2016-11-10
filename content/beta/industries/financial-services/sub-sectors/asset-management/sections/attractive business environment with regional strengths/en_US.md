@@ -1,7 +1,9 @@
 ---
-title: Attractive business environment with regional strengths
+title: An attractive business environment with regional strengths
 ---
+London is central to the UK’s strong international position. Respondents to The Banker’s Global Asset Management Survey have voted it the most attractive global location for relocating or expanding asset management operations, ahead of Hong Kong, Singapore and New York.
+ 
+Edinburgh, Manchester, Cardiff and Birmingham are also well known as bases for companies with expertise in fund management.
 
-London has been voted the most attractive global location for relocating or expanding asset management operations – ahead of Hong Kong, Singapore and New York. [Source: Banker magazine]
 
-While London is central to the UK’s strong international position, other British cities, such as Edinburgh, Glasgow, Aberdeen, Manchester, Liverpool, Cardiff and Birmingham, are also important centres for fund management.
+Currently, the asset management sector in the UK employs over 90,000 people nationwide.
