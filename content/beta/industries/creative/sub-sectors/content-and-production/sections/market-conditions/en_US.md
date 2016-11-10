@@ -1,5 +1,5 @@
 ---
-title: Market conditions
+title: The UK's creative strengths
 published: true
 ---
 **Work with the best in film, TV and VFX**
@@ -12,7 +12,7 @@ In the UK, you’ll find:
 - leading companies in post- production and visual effects
 
 
-The world’s 6 largest film studios, including Warner Bros and Disney, have operations here. We’re also the home of Harry Potter, Game of Thrones and Star Wars.  
+Six of the world's largest film studios, including Warner Bros and Disney, have operations here. We’re also the home of Harry Potter, Game of Thrones and Star Wars.  
 
 
 We offer state-of-the-art studio facilities suitable for the biggest movie productions and a variety of locations from urban scenes to unique historical sites.
