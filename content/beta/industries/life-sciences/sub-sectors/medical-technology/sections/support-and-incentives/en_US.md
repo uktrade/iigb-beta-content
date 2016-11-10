@@ -28,3 +28,4 @@ The NICE [Medical Technologies Evaluation Programme](https://www.nice.org.uk/Abo
 
 AHSNs present a unique opportunity to align education, clinical research, informatics, innovation, training and education, and healthcare delivery. They support knowledge exchange networks and provide support for rapid evaluation and early adoption of innovation.
 
+The government also has up to 50 billion GBP available to support finance and insurance for   supplies from within the UK to buyers outside the UK. This support takes the form of guarantees, insurance and loans issued by its export credit agency, UK Export Finance.
