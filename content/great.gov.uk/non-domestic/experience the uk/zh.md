@@ -2,4 +2,4 @@
 title: Welcome to the UK ZH
 published: true
 ---
-The UK. Home to cutting edge innovators, a place that nurtures talent and creates exceptional products and services. Your future belongs here. ZH
+这里是高新技术创新者的家园，更是培育人才、创造卓越产品和一流服务的地方。您的未来属于这里。
