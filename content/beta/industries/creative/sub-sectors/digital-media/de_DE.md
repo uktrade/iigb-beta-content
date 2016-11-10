@@ -1,5 +1,6 @@
 ---
 title: Digitale Medien
+published: true
 ---
 
-Das Vereinigte Königreich mag es digital. Wir haben die optimalen Marktbedingungen, Fachkräfte und finanziellen Anreize, um Ihr Unternehmen erfolgreich zu machen.
+Das Vereinigte Königreich schätzt Digitales. Wir haben die optimalen Marktbedingungen, Fachkräfte und finanziellen Anreize, um Ihr Unternehmen erfolgreich zu machen.
