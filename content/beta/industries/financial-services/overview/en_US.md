@@ -2,12 +2,9 @@
 title: Financial services overview
 published: true
 ---
-
 Our position at the heart of the global financial community is one of the reasons that so many international companies choose the UK. Many of the world’s leading investment houses and financial institutions are based here.
-
 London is recognised globally for its flexible, principles-based approach to regulating its capital markets. 
-
-London topped every category in the [Global Financial Centres Index 20](http://www.zyen.com/research/gfci.html) compiled by Z/Yen in september 2016 group, staying ahead of New York, Singapore and Hong Kong.
+London topped every category in the [Global Financial Centres Index 20](http://www.zyen.com/research/gfci.html) compiled by Z/Yen in the September 2016 group, staying ahead of New York, Singapore and Hong Kong.
 
 The index showed that London has:
 
@@ -16,3 +13,4 @@ The index showed that London has:
 - the most impressive infrastructure
 - the best human capital
 - the top overall reputation
+
