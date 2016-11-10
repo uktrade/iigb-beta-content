@@ -1,5 +1,6 @@
 ---
 title: Rechtliche Rahmenbedingungen
+published: true
 ---
 
-Die Weltbank führt das Vereinigte Königreich als siebt-einfachsten Ort weltweit, um Geschäfte zu machen.
+Laut der Weltbank, ist das Vereinigte Königreich der siebt-einfachsten Ort weltweit, um Geschäfte zu machen.
