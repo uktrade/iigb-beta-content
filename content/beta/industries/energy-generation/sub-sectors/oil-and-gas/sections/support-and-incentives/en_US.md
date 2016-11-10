@@ -5,3 +5,5 @@ In 2015, the UK government introduced a £1.3 billion package of tax measures fo
 
 
 The government also committed 20 million GBP in funding for the second round of seismic surveys to support new exploration activity on the UK Continental Shelf. This will give companies a greater chance of discovering opportunities without having to fund the surveys themselves.
+
+The government also has up to 50 billion GBP available to support finance and insurance for   supplies from within the UK to buyers outside the UK. This support takes the form of guarantees, insurance and loans issued by its export credit agency, UK Export Finance. 
