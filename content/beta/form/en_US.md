@@ -18,6 +18,6 @@ confirmation_email: "We've sent you a confirmation email."
 next_title: What happens next
 next_detail: "We've sent your contact form to the Invest in Great Britain agents. They will be in touch soon."
 ---
-The Department for International Trade helps overseas companies locate and grow in the UK.  We also help UK companies export and expand into global markets.
+The Department for International Trade helps overseas companies locate and grow in the UK.
 
 Based in British Embassies, High Commissions and Consulates in cities around the world, our investment services team can:
