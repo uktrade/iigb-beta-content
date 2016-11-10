@@ -21,4 +21,4 @@ Königreichs sein)
 
 Eine Kapitalgesellschaft im Vereinigten Königreich muss eine Gründungsurkunde und einen Gesellschaftsvertrag haben. Diese Dokumente müssen zum Gründungszeitpunkt vorliegen. Sie können am Gründungstag Standarddokumente dafür nutzen oder professionelle Berater damit beauftragen, maßgeschneiderte Dokumente für Ihr Unternehmen vorzubereiten und zu übersenden.
 
-Es gibt zwar keine Rechtsvorschrift, die besagt, dass ein Geschäftsführer oder Gesellschafter seinen Wohnsitz im Vereinigten Königreich haben muss, um hierzulande ein Unternehmen zu gründen. Dennoch sehen das viele Banken gerne, bevor sie ein Geschäftskonto [IIGB LINK] für Ihr Unternehmen eröffnen.
+Es gibt zwar keine Rechtsvorschrift, die besagt, dass ein Geschäftsführer oder Gesellschafter seinen Wohnsitz im Vereinigten Königreich haben muss, um hierzulande ein Unternehmen zu gründen. Dennoch sehen das viele Banken gerne, bevor sie ein [Geschäftskonto](https://invest.great.gov.uk/de/setup-guide/open-a-business-account/) für Ihr Unternehmen eröffnen.
