@@ -6,7 +6,7 @@ title: Energy generation overview
 Whether your company operates with traditional or emerging energy technologies, you’ll find opportunities for growth and high returns here. The UK is improving energy efficiency, expanding renewable and low carbon energy and maximising production of oil and gas. 
 
 
-Energy is a major driver of growth in the UK. Energy projects, totalling over £200 billion, account for around 60% of our total infrastructure project pipeline.
+Energy is a major driver of growth in the UK. Energy projects, totalling over 200 billion GBP, account for around 60% of our total infrastructure project pipeline.
 
 
 The UK is one of the best places in the world to invest in renewable energy. We offer significant supply chain opportunities across the sector, including waste energy, electrical networks and offshore wind. This will help the UK meet projected increases in electricity demand, achieve its low carbon targets and enjoy economic growth.
