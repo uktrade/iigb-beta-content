@@ -1,5 +1,5 @@
 ---
-title: Britische Staatliche Förderung für automobile Forschung und Entwicklung
+title: Britische staatliche Förderung für automobile Forschung und Entwicklung
 ---
 
 Die Regierung des Vereinigten Königreichs trägt entschlossen zum anhaltenden Erfolg der Automobilbranche im Vereinigten Königreich bei, indemsie 1,2 Milliarden £ für automobile Forschungsfonds bereitstellt und deckt damit die Felder kohlenstoffarmer Antrieb, leichte Materialien sowie vernetzte und autonome Fahrzeuge ab.  Darüber hinaus schaffen wir ein geeignetes Umfeld, in dem sich neue Technologien entfalten können. Unsere gesetzlichen Rahmenbedingungen für vernetzte und autonome Fahrzeuge sind die fortschrittlichsten in Europa. Diese ermöglichen es Fahrzeugherstellern und Komponenten- Zulieferern, ihre Technologien mit minimalem bürokratischem Aufwand zu entwickeln und zu testen.  Volvo setzt bereits auf das Vereinigte Königreich als einzige neutrale Test-Location außerhalb der eigenen Produktionsstätten.
