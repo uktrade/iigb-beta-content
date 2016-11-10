@@ -1,5 +1,5 @@
 ---
-title: Staatlich Geförderte Innovation
+title: Staatlich geförderte Innovation
 ---
 
 Im Jahr 2009 formten die Regierung und die Automobilindustrie des Vereinigten Königreichs eine Partnerschaft namens [Automotive Council] (http://www.automotivecouncil.co.uk/), um die Renaissance der Automobilbranche unseres Landes voranzutreiben. Dies wird international als goldener Standard für die Zusammenarbeit von Politik und Wirtschaft betrachtet und führte zu einer riesigen Ausweitung der Automobilfertigung sowie der automobilen Forschung und Entwicklung im Vereinigten Königreich.
