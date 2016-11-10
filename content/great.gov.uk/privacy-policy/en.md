@@ -126,24 +126,24 @@ The www.GREAT.gov.uk website uses cookies. These enable the website to provide m
 The website uses Google Analytics, which sets cookies to help us accurately estimate the number of visitors to the website and volumes of usage. This to ensure that the service is available when you want it and fast.
 
 The Google Analytics cookies used on www.GREAT.gov.uk are:
+
 Name: _ga
 Expires: after 2 years
 Purpose: to distinguish users
 
-
 Name: _gat
 Expires: after ten minutes
 Purpose: Used to limit requests to Google Analytics
+
 Additional cookies are set for users of the Find a Buyer service and the Find a Supplier service. These are: 
+
 Name: _SessionID
 Expires: never
 Purpose: Maintains the session id
 
-
 Name: _Sso_session_cookie
 Expires: never
 Purpose: Maintains the session id for single sign on
-
 
 Name: _Seen_cookie_message
 Expires: never
