@@ -14,6 +14,6 @@ Das erwartet Automobilunternehmen, die sich hier ansiedeln wollen:
 
 - Konkurrenzfähige Arbeitskosten, die unter denen in Italien, Frankreich und Deutschland liegen
  
-- Niedrige Steuern: Die Unternehmenssteuer wird von 20% im Jahr 2016 auf 17% bis 2020 gesenkt
+- Niedrige Steuern: Die Unternehmenssteuer wird von 20 % im Jahr 2016 auf 17 % bis 2020 gesenkt
 
 - Hervorragende Arbeitsverhältnisse
