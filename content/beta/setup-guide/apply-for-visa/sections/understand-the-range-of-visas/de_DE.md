@@ -2,7 +2,7 @@
 title: Die verschiedenen Visen verstehen
 ---
 
-Es gibt verschiedene Arten von Visa für Einzelpersonen und Unternehmen, die je nach Situation in Frage kommen.
+Es gibt verschiedene Arten von Visen für Einzelpersonen und Unternehmen, die je nach Situation in Frage kommen.
 
 ### Vereinigtes Königreich Visen für Personen
 
