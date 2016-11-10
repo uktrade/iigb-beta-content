@@ -28,8 +28,8 @@ post_strengths: " strengths:CN"
 how_we_help: "How we help:CN"
 discover: "发现更多"
 please_select: "Select:CN"
-yes: "Yes:CN"
-no: "No:CN"
+yes: "是"
+no: "否"
 form_next: "Next:CN"
 form_previous: "Previous:CN"
 form_submit: "Submit:CN"
@@ -81,7 +81,7 @@ form_which_part:
 form_enter_when: "请输入您預期在英国的业务运行的日子"
 form_when: "您預期在英国的业务运行的日子（月/年)"
 form_when_month:
-  please_select: "month:CN"
+  please_select: "月"
   options:
     - "January"
     - "Febuary"  
@@ -96,7 +96,7 @@ form_when_month:
     - "November"
     - "December" 
 form_when_year:
-  please_select: "year:CN"
+  please_select: "年"
   options:
     - "2016"
     - "2017"  
