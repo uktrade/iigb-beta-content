@@ -44,7 +44,7 @@ form_enter_valid_email: "Geben Sie Ihre Email im richtigen Format ein, z.B. name
 form_phone: "Arbeits-Telefon (optional)"
 form_enter_phone: "Enter your telephone number:DE"
 form_city: "Stadt, in der Sie derzeit wohnen"
-form_enter_city: "Geben Sie die Stadt, in der Sie derzeit wohnen, ein"
+form_enter_city: "Geben Sie die Stadt, in der Sie derzeit wohnen, ein (optional)"
 form_investment: "Ihre Investition"
 form_enter_annual_turnover: "Wählen Sie die Option, die Ihrem Jahresumzsatz am besten entspricht"
 form_annual_turnover:
@@ -80,7 +80,7 @@ form_which_part:
     - "Belfast und Nordirland"
     - "Nottingham und die östlichen Midlands"
 form_enter_when: "Geben Sie ein ungefähres Startdatum für die Aufnahme Ihrer Geschäfte im Vereinigten Königreich ein"
-form_when: "Für wann planen Sie die Aufnahme Ihrer Geschäftstätigkeit im Vereinigten Königreich? (Monat/Jahr)"
+form_when: "Für wann planen Sie die Aufnahme Ihrer Geschäftstätigkeit im Vereinigten Königreich?"
 form_when_month:
   please_select: "Monat"
   options:
