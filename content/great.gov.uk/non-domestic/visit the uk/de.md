@@ -1,5 +1,5 @@
 ---
 published: false
-title: Visit the UK DE
+title: "Besuchen Sie das Vereinigte Königreich "
 ---
-Take a journey through vibrant cities, breathtaking scenery, unrivalled heritage and iconic landmarks and discover what makes the UK great. DE
+Betrachten Sie das unvergleichliche Erbe, die symbolträchtigen Wahrzeichen und die atemberaubende Landschaft mit eigenen Augen. Besuchen Sie uns und erleben Sie, was unser Land so großartig macht.
