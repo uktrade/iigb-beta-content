@@ -49,7 +49,9 @@ There are different types of visa for individuals and business depending on your
 
 
 
-A Standard Visitor visa may be suitable you if you wish to carry out limited business activities. There are restrictions on the type of activities in which they can take part (this has replaced the Business Visitor visa).
+#### A Standard Visitor visa may be suitable you if you wish to carry out limited business activities. 
+
+There are restrictions on the type of activities in which they can take part (this has replaced the Business Visitor visa).
 
 
 [Learn more about the Standard Visitor visa.](https://www.gov.uk/standard-visitor-visa)
