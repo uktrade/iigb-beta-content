@@ -2,4 +2,4 @@
 title: Technology in the UK
 ---
 
-The UK’s technology sector is one of the largest in Western Europe. Its output plays a vital role in every other industrial sector including automotive, financial services, retail and logistics.
+The UK offers unrivalled support for the global expansion of your business. It is the most internationally-focused financial marketplace in the world.

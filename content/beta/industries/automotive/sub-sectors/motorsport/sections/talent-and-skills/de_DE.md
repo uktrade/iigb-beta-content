@@ -1,0 +1,11 @@
+---
+title: Unsere Talente und Fähigkeiten
+---
+
+Das Vereinigte Königreich ist die Heimat von 7 der 11 Formel Eins Teams. McLaren, Williams und Mercedes Benz haben alle ihren Hauptsitz bei uns.
+
+Wir haben Weltklasse-Universitäten: Laut QS-Ranking gehören 4 davon zu den Top 10 der Welt, und 9 der Top 10 Universitäten in der EU befinden sich ebenso im Vereinigten Königreich.
+
+Wir haben führende Maschinenbauunternehmen wie Ricardo und automobile Forschungseinrichtungen von Weltrang – dank des kürzlich gegründeten [Catapult Network](INSERT LINK HERE).
+
+Wir treiben ebenso die Entwicklung von kohlenstoffarmen Antrieben federführend voran. Die einzige groß angelegte Ladestation für elektrische Autos in Europa befindet sich hier. Aktuell sind wir für 20 % der europäischen Produktion von Elektrofahrzeugen verantwortlich.

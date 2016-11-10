@@ -1,11 +1,27 @@
 ---
 title: Market conditions
 ---
-There are over 3,500 companies in the UK’s medical technology sector, 98% of which are small to medium sized enterprises. They produce a vast range of medical devices and diagnostic technologies. About one-third of these companies have significant research and development and manufacturing activity in the UK.
 
-As an investor you’ll have access to clinicians, patients and organisations at multiple points in the research development and manufacturing processes of technology. You’ll also have plenty of opportunities to engage with academics, designers, regulators and manufacturers.
+The UK medical technology sector is a thriving ecosystem of researchers, scientists, engineers, designers and NHS clinicians working in an established industrial base. Together, they drive the path of a novel technology from innovation, through the process of design and manufacture, and ultimately to the patient.
 
-Our service commissioners have an in-depth understanding of patient care pathways and offer an outcomes-focused approach that delivers quality and cost-effectiveness. 
+There are nearly 3,700 companies in the UK’s medical technology sector, generating a turnover of £21 billion. 98% are small to medium-sized enterprises. They produce a vast range of medical devices and diagnostic technologies. About one-third of these companies have significant research and development and manufacturing activity in the UK.
 
-Designing, developing, testing and selling your medical technology in the UK will give your concept the chance to benefit from this same approach. 
+There is a significant focus on single use technology, orthopaedic devices and in vitro diagnostics. The service and supply chain for medical technologies provides essential support including design, manufacturing, and regulatory expertise.
 
+The fastest growing segments of the UK industry by revenue are: 
+
+- medical imaging, with a compound annual growth rate (CAGR) of 10%
+- in vitro diagnostics (CAGR 7%)
+- drug delivery (CAGR 7%)
+
+The fastest growing segments by employment are: 
+
+- digital health (CAGR 28%)
+- drug delivery (CAGR 23%)
+- single use technology (CAGR 19%).
+
+The UK is the third largest market for medical technology in Europe, worth around £7.6 billion.
+
+The National Health Service (NHS) is the largest customer for medical technologies in the UK and serves more than 60 million patients.
+
+The NHS offers industry the opportunity to engage with clinical experts and commissioners who have a deep understanding of patient care pathways. It allows industry to provide an outcomes-focused approach that delivers quality and cost effectiveness. By developing this evidence base in the UK, companies can unlock business in other global markets.
