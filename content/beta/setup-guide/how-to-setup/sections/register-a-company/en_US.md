@@ -6,7 +6,8 @@ By incorporating a company, you’ll create a separate legal entity in the UK, w
 
 The process to [register (incorporate) a private limited company in the UK](https://www.gov.uk/register-a-company-online) is straightforward and typically takes less than 24 hours.
  
-Before you start the process, you’ll need:
+**Before you start the process, you’ll need:**
+
 - a name for the company
 - an address, which can be any UK address, to act as the registered address of the company
 - at least one director (does not need to be UK resident)
