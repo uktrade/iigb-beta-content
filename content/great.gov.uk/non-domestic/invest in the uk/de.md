@@ -1,5 +1,5 @@
 ---
-published: false
-title: Invest in the UK DE
+published: true
+title: Investitionen im Vereinigten Königreich tätigen
 ---
-Discover the UK’s wealth of investment opportunities and how the government will support your global ambition.
+Informieren Sie sich über die vielfältigen Anlagemöglichkeiten im Vereinigten Königreich und erfahren Sie, wie die Regierung Ihr Vorhaben unterstützen kann.

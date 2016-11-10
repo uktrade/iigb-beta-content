@@ -1,5 +1,5 @@
 ---
-published: false
-title: Study in the UK DE
+published: true
+title: Studieren im Vereinigten Königreich
 ---
-Get a headstart from an exceptional British education that’ll inspire you to achieve.
+Verschaffen Sie sich einen Karrierevorsprung durch eine außergewöhnliche Ausbildung, die Sie zu Leistung inspirieren wird.
