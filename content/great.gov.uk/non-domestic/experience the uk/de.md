@@ -1,5 +1,5 @@
 ---
-title: Welcome to the UK DE
+title: Willkommen im Vereinigten Königreich
 published: true
 ---
-The UK. Home to cutting edge innovators, a place that nurtures talent and creates exceptional products and services. Your future belongs here. DE
+Die Heimat erstklassiger Innovatoren – ein Land, das Talente fördert und außergewöhnliche Produkte und Dienstleistungen hervorbringt. Hier liegt Ihre Zukunft.
