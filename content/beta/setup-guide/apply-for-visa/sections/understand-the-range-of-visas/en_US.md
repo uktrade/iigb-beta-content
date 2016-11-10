@@ -28,6 +28,7 @@ There are different types of visa for individuals and business depending on your
 
  - you’ve been offered a skilled job in the UK
  - you’re from outside the EEA and Switzerland
+
 [Learn more about Tier 2 (General) visas.](https://www.gov.uk/tier-2-general/overview)
 
 
