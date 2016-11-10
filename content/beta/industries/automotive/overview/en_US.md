@@ -1,7 +1,7 @@
 ---
 title: Automotive Overview
 ---
-With over £15 billion invested in the UK automotive industry between 2012 and 2015, the UK is one of the world’s most attractive destinations for foreign investment. 
+With over 15 billion GBP invested in the UK automotive industry between 2012 and 2015, the UK is one of the world’s most attractive destinations for foreign investment. 
 
 
 Automotive businesses looking to set up here will find:

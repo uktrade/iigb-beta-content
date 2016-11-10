@@ -1,3 +1,3 @@
 ---
-title: Form failed to reach our database
+title: Das Formular konnte sich nicht mit unserer Datenbank verbinden.
 ---
