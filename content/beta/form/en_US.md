@@ -1,7 +1,6 @@
 ---
 title: How we help
 published: true
-listTitle: "This international network can:"
 list: 
   - text: Help you to build connections with businesses across your sector
     icon: connections

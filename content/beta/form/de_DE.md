@@ -1,7 +1,6 @@
 ---
 title: So helfen wir Ihnen
 published: true
-listTitle: "This international network can:"
 list: 
   - text: Unterstützung beim Knüpfen von Kontakten mit Unternehmen Ihrer Branche
     icon: connections
