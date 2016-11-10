@@ -1,5 +1,5 @@
 ---
 published: false
-title: Buy from the UK DE
+title: Importieren aus dem Vereinigten Königreich
 ---
-Register to get exclusive early access to profiles of high quality UK businesses ready to fulfill your demand.
+Registrieren Sie sich, um frühzeitig exklusiven Zugriff auf die Profile hochqualifizierter Unternehmen im Vereinigten Königreich zu bekommen, die bereit sind, Ihre Anforderungen zu erfüllen.
