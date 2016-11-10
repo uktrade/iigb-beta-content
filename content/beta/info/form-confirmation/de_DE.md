@@ -1,3 +1,3 @@
 ---
-title: Thank you for getting in touch
+title: Vielen Dank, dass Sie sich mit uns in Verbindung gesetzt haben.
 ---
