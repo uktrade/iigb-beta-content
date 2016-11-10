@@ -115,7 +115,7 @@ form_registered_company: "Eingetragener Firmenname"
 form_enter_registered_company: "Geben Sie Ihren eingetragenen Firmennamen ein"
 form_website: "Internetadresse Ihres Unternehmens"
 form_enter_website: "Geben Sie die Webadresse Ihrer Firma ein"
-form_enter_primary_industry: "Wählen Sie die Branche aus, in der Sie hauptsächlich tätig sind, aus oder wählen Sie 'Sonstiges'"
+form_enter_primary_industry: "Wählen Sie die Branche aus, in der Sie hauptsächlich tätig sind, aus oder wählen Sie 'Andere Branche'"
 form_primary_industry:
   label: "Primäre Branche der Geschäftstätigkeit"
   options:
