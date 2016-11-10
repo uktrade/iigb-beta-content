@@ -1,5 +1,6 @@
 ---
 title: Ein Unternehmen anmelden (eine Kapitalgesellschaft gründen)
+published: true
 ---
 
 Mit der Gründung einer Kapitalgesellschaft schaffen Sie eine eigene juristische Person im Vereinigten Königreich, die sich private Kapitalgesellschaft mit beschränkter Haftung (private limited company) nennt.
@@ -10,7 +11,7 @@ Bevor Sie mit der Anmeldung beginnen, benötigen Sie:
 
 - einen Namen für das Unternehmen
 
-- eine Adresse, egal wo im Vereinigten Königreich, die als registrierte Firmenadresse dient
+- eine Adresse, an einem beliebigen Ort im Vereinigten Königreich, die als registrierte Firmenadresse dient
 
 - mindestens einen Geschäftsführer (dieser muss kein Einwohner des Vereinigten
 
