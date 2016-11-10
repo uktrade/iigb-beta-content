@@ -4,9 +4,7 @@ title: Automobilbranche Überblick
 
 Mit Investitionen in die Automobilindustrie in Höhe von mehr als 15 Milliarden £ zwischen 2012 und
 
-2013 gehört das Vereinigte Königreich zu den weltweit attraktivsten Standorten für
-
-Auslandsinvestitionen.
+2013 gehört das Vereinigte Königreich zu den weltweit attraktivsten Standorten für Auslandsinvestitionen.
 
 Das erwartet Automobilunternehmen, die sich hier ansiedeln wollen:
 
