@@ -1,7 +1,7 @@
 ---
 title: The UK’s open asset management market is growing
 ---
-The UK is one of the most open markets for asset management, and has had 7 successive years of growth. Total funds under management increased to a record £6.9 trillion at the end of 2015.
+The UK is one of the most open markets for asset management, and has had 7 successive years of growth. Total funds under management increased to a record 6.9 trillion GBP at the end of 2015.
 
 
 Overseas investors own about 40% of medium sized fund management firms. Asset managers with overseas parent organisations manage 57% of assets managed in the UK according to the Investment Association.[source: Investment Association]
