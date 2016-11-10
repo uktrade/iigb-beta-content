@@ -42,7 +42,7 @@ form_enter_email: "Enter your email address"
 form_enter_valid_email: "Please check you have entered a valid email address"
 form_phone: "Work phone (optional)"
 form_enter_phone: "Enter your telephone number"
-form_city: "City where you currently reside"
+form_city: "City where you currently reside (optional)"
 form_enter_city: "Enter the city you reside in"
 form_investment: "Your investment"
 form_enter_annual_turnover: "Select the range that reflects your annual revenue"
@@ -79,7 +79,7 @@ form_which_part:
     - "Belfast and Northern Ireland"
     - "Nottingham and East Midlands"
 form_enter_when: "Enter the approximate date you want to be operating in the UK"
-form_when: "When do you hope to have your business running in the UK (month/year)?"
+form_when: "When do you hope to have your business running in the UK?"
 form_when_month:
   please_select: "month"
   options:
