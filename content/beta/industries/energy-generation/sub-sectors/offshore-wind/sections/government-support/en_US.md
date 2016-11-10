@@ -17,3 +17,5 @@ Alongside a supportive policy regime, the UK government supports its offshore wi
 - enabling new players to enter the market with new product designs
 - providing support to access funding for developers and the supply chain
 - building a highly skilled workforce
+
+The government also has up to 50 billion GBP available to support finance and insurance for   supplies from within the UK to buyers outside the UK. This support takes the form of guarantees, insurance and loans issued by its export credit agency, UK Export Finance

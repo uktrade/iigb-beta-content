@@ -10,7 +10,7 @@ Bevor Sie mit der Anmeldung beginnen, benötigen Sie:
 
 - einen Namen für das Unternehmen
 
-- eine Adresse egal wo im Vereinigten Königreich, die als registrierte Firmenadresse dient
+- eine Adresse, egal wo im Vereinigten Königreich, die als registrierte Firmenadresse dient
 
 - mindestens einen Geschäftsführer (dieser muss kein Einwohner des Vereinigten
 

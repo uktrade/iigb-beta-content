@@ -1,15 +1,13 @@
 ---
 title: A wide range of fund types and clients
 ---
+UK fund management organisations manage various types of funds, from life insurance and pension schemes to unit or investment trusts.
 
-UK fund management organisations manage many different types of funds, including life insurance, pension schemes, unit trusts and investment trusts. Funds can be managed for:
+Client types include:
 
--	institutional clients – these account for two thirds of funds under management, with pension funds the largest client type
--	retail clients –  total funds managed were £1063 billion by end 2014, an increase of 32% in 2 years 
--	private clients – total funds managed were £705 billion by end 2014
+- institutional, which accounted for 81% of assets managed in the UK in 2015, 41% of which were pension funds
+- retail where the UK managed a total of 1063 billion GBP by end 2014, that's an increase of 32% in 2 years
+- private clients with 705 billion GBP managed the end of 2014
 
-Alternative funds total around 10% of UK funds under management. London is a global centre for:
+London is a global centre for private equity and property funds and has an 18% share of the hedge fund market. Since 2005, we have also attracted 16% of global Sovereign Wealth Funds.
 
--	hedge funds, with an 18% share of the market in 2014 
--	private equity and property funds
--	sovereign wealth funds (SWF) , attracting one sixth of all SWF investment since 2005
