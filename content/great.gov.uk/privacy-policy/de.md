@@ -11,23 +11,23 @@ Bitte lesen Sie diese Seite sorgfältig um zu verstehen, wie wir Ihre persönlic
 ### Welche Daten speichert DIT über Sie?
 
 GREAT.gov.uk und das DIT werden zum Beispiel folgende Informationen über Sie speichern:
-
-● Ihren Namen
-● Ihre E-Mail-Adresse
-● Ihr gewählten Benutzernamen und Passwort
-● die Anschrift Ihrer Firma
-● die Exporterfahrung Ihrer Firma
-● Ihre IP (internet protocol) -Adresse, die von Ihrem Computer für die Verbindung zum Internet verwendet wird
-● Typ und Version Ihres Browsers sowie alle genutzten Browser-Plugins
-● Ihre Zeitzoneneinstellung
-● Ihr Betriebssystem und Plattform
-● die vollständigen URLs (uniform resource locators), die Sie für den Zugang zu unserer Seite, beim Surfen auf unserer Seite und zum Verlassen unserer Seite verwendet haben (einschließlich Datum und Uhrzeit)
-● die von Ihnen besuchten Seiten oder Begriffe, nach denen Sie gesucht haben
-● Seitenreaktionszeiten, Download-Fehler, Dauer Ihres Besuches auf bestimmten Seiten, Informationen zu Ihren Interaktion auf bestimmten Seiten (beispielsweise Scrollen, Klicks und Mausbewegungen)
-● verwendete Methoden für das Verlassen der Seite
-● Telefonnummern, die Sie für den Kontakt mit unserem Kundendienst genutzt haben
+* Ihren Namen
+* Ihre E-Mail-Adresse
+* Ihr gewählten Benutzernamen und Passwort
+* die Anschrift Ihrer Firma
+* die Exporterfahrung Ihrer Firma
+* Ihre IP (internet protocol) -Adresse, die von Ihrem Computer für die Verbindung zum Internet verwendet wird
+* Typ und Version Ihres Browsers sowie alle genutzten Browser-Plugins
+* Ihre Zeitzoneneinstellung
+* Ihr Betriebssystem und Plattform
+* die vollständigen URLs (uniform resource locators), die Sie für den Zugang zu unserer Seite, beim Surfen auf unserer Seite und zum Verlassen unserer Seite verwendet haben (einschließlich Datum und Uhrzeit)
+* die von Ihnen besuchten Seiten oder Begriffe, nach denen Sie gesucht haben
+* Seitenreaktionszeiten, Download-Fehler, Dauer Ihres Besuches auf bestimmten Seiten, Informationen zu Ihren Interaktion auf bestimmten Seiten (beispielsweise Scrollen, Klicks und Mausbewegungen)
+* verwendete Methoden für das Verlassen der Seite
+* Telefonnummern, die Sie für den Kontakt mit unserem Kundendienst genutzt haben
 
 Nicht alle diese Informationen  gelten als personenbezogenen Daten und das Ausmaß, inwiefern diese Informationen personenbezogene Daten hängt von den jeweils geltenden Datenschutzgesetzen ab.
+
 Einige dieser Informationen werden durch die Verwendung von Cookies und andere damit verbundene Tracking-Technologien gesammelt. Cookies werden auf dieser Website verwendet um sie von anderen Nutzern zu unterscheiden. DIT bietet ihnen die eine vollständige Liste und die Einzelheiten der Cookies, die DIT auf ihren Webseiten verwendet. Für weitere Informationen siehe die Cookie-Richtlinien
 
 Das DIT kann Informationen über Sie erhalten, falls Sie eine der anderen vom DIT betriebenen Websites oder andere vom DIT bereitgestellten Services nutzen. Das DIT arbeitet ferner mit Dritten zusammen (beispielsweise Partner und Subunternehmer) und kann von solchen Dritten Informationen über Sie erhalten.
@@ -39,18 +39,16 @@ Wir verweisen sie zu den Datenschutzrichtlinien Dritter, wenn Sie Bedenken über
 Das DIT unterliegt dem britischen Datenschutzgesetz (Data Protection Act) von 1998.
 
 Das DIT:
-
-● wird Ihnen mitteilen, wozu die Informationen benötigt werden. So erkundigen wir uns beispielsweise nach der Exporterfahrung Ihrer Firma, um zu entscheiden, ob sie sich für die Aufnahme in die Profile der Exporteure eignet.  
-● verlangt nur Informationen, die benötigt werden
-● stellt sicher, dass Unbefugte keinen Zugriff auf Ihre Daten erhalten
-● wird Ihnen mitteilen, falls Daten mit anderen Organisationen geteilt werden und ob Sie dies ablehnen können
-● wird die Daten nur so lange speichern, wie sie benötigt werden
-● wird sie ohne Ihre Einwilligung nicht für kommerzielle Zwecke (wie beispielsweise Marketing) zur Verfügung stellen
+* wird Ihnen mitteilen, wozu die Informationen benötigt werden. So erkundigen wir uns beispielsweise nach der Exporterfahrung Ihrer Firma, um zu entscheiden, ob sie sich für die Aufnahme in die Profile der Exporteure eignet.  
+* verlangt nur Informationen, die benötigt werden
+* stellt sicher, dass Unbefugte keinen Zugriff auf Ihre Daten erhalten
+* wird Ihnen mitteilen, falls Daten mit anderen Organisationen geteilt werden und ob Sie dies ablehnen können
+* wird die Daten nur so lange speichern, wie sie benötigt werden
+* wird sie ohne Ihre Einwilligung nicht für kommerzielle Zwecke (wie beispielsweise Marketing) zur Verfügung stellen
 
 Sie müssen:
-
-● korrekte Angaben machen
-● das DIT über alle Änderungen wie beispielsweise eine Änderung Ihrer Anschrift informieren
+* korrekte Angaben machen
+* das DIT über alle Änderungen wie beispielsweise eine Änderung Ihrer Anschrift informieren
 
 ### Gemeinsame Nutzung Ihrer Daten
 
@@ -71,11 +69,11 @@ Innerhalb von DIT, ist der Zugriff auf Ihre persönliche Informationen beschrän
 ### Ihre Rechte
 
 Sie haben das Recht um:
+* Eine Kopie ihrer personenbezogenen Daten die das DIT über sie gespeichert hat
+* Fehler in ihren personenbezogenen Daten zu verändern
+* Den Empfang von direkten Marketing-Mitteilungen zu stoppen
+* Unter den gewissen Umständen, ihre personenbezogenen Daten gelöscht zu haben oder die Verarbeitung dieser Daten zu beschränken.
 
-• Eine Kopie ihrer personenbezogenen Daten die das DIT über sie gespeichert hat
-• Fehler in ihren personenbezogenen Daten zu verändern
-• Den Empfang von direkten Marketing-Mitteilungen zu stoppen
-• Unter den gewissen Umständen, ihre personenbezogenen Daten gelöscht zu haben oder die Verarbeitung dieser Daten zu beschränken.
 Sie können Antrag auf Einsicht in die personenbezogenen Daten stellen, die das Department for International Trade über Sie speichert. 
 
 Füllen Sie dazu das Kontaktformular des DIT [link] aus oder wenden Sie sich schriftlich an:
@@ -116,9 +114,8 @@ Cookie-Richtlinie des DIT
 Das DIT möchte Ihnen Dienstleistungen anbieten, die einfach zu nutzen, praktisch und zuverlässig sind. Wenn Dienstleistungen über das Internet erbracht werden, gehört manchmal die Speicherung kleiner Mengen von Informationen auf Ihrem Gerät dazu, beispielsweise auf Ihrem Computer oder Ihrem Smartphone.
 
 Dazu zählen kleine Dateien, sogenannte Cookies. Mit ihrer Hilfe ist eine direkte Identifizierung Ihrer Person nicht möglich. Diese Datenmengen werden eingesetzt, um die Dienstleistungen für Sie zu verbessern, zum Beispiel durch:
-
-● Aktivierung einer Vorrichtung, die Ihr Gerät erkennt, damit Sie nicht mehrmals die gleichen Angaben machen müssen
-● Zählung der Personen, die bestimmte Dienste verwenden, um deren Nutzung einfacher zu gestalten
+* Aktivierung einer Vorrichtung, die Ihr Gerät erkennt, damit Sie nicht mehrmals die gleichen Angaben machen müssen
+* Zählung der Personen, die bestimmte Dienste verwenden, um deren Nutzung einfacher zu gestalten
 Sie können diese kleinen Dateien selbst verwalten und mehr über dieses Thema erfahren auf [About Cookies](http://www.aboutcookies.org/).
 
 ### Verwendung von Cookies auf dieser Website
