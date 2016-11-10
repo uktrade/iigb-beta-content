@@ -29,7 +29,3 @@ Demand for FinTech in the UK is strong, driven by [London’s status as the glob
 UK consumers are early adopters, and are open to new, innovative models of service delivery. They spend much more on e-commerce than their equivalents in Germany, France and the USA. Consumer adoption of FinTech is becoming mainstream. The [EY FinTech Adoption Index](http://www.ey.com/gl/en/industries/financial-services/ey-fintech-adoption-index) states that around 14% of digitally active consumers identify themselves as FinTech users, rising to 25% in London.
 
 Many small and medium enterprises (SMEs) have also adopted FinTech solutions, mainly in alternative finance and payments. 
-
-## Digital talent spread throughout the nation 
-
-London is a world leader for financial and entrepreneurial talent and there are clusters of digital excellence across the rest of the UK. Employing about 61,000 people, the UK’s FinTech sector is one of the largest in the world, ahead of that in New York and bigger than the FinTech sectors in Singapore, Hong Kong and Australia combined. 
