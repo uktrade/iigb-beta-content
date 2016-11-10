@@ -1,5 +1,5 @@
 ---
-title: Market conditions
+title: The UK's creative strengths
 published: true
 ---
 **Work with the best in film, TV and VFX**
@@ -12,20 +12,20 @@ In the UK, you’ll find:
 - leading companies in post- production and visual effects
 
 
-The world’s 6 largest film studios, including Warner Bros and Disney, have operations here. We’re also the home of Harry Potter, Game of Thrones and Star Wars.  
+Six of the world's largest film studios, including Warner Bros and Disney, have operations here. We’re also the home of Harry Potter, Game of Thrones and Star Wars.  
 
 
 We offer state-of-the-art studio facilities suitable for the biggest movie productions and a variety of locations from urban scenes to unique historical sites.
 
 
-International TV sales reached over £1.2 billion in 2014/15, and we’re the world leaders in exporting TV formats, bought by different markets and localised. For example, The Great British Bake off format is now reproduced in 20 countries. 
+International TV sales reached over 1.2 billion GBP in 2014/15, and we’re the world leaders in exporting TV formats, bought by different markets and localised. For example, The Great British Bake off format is now reproduced in 20 countries. 
 
 We’re also a world class film talent base, with a very strong visual effects industry. The Academy Award for Best Visual Effects has had a UK nominee for 6 of the last 7 years.
 
 
 **Animation thrives across all areas**
 
-Our animation market generates over £300 million in revenues every year. There’s a high crossover of talent between the creative industries, and animated content is also increasingly in demand. 
+Our animation market generates over 300 million GBP in revenues every year. There’s a high crossover of talent between the creative industries, and animated content is also increasingly in demand. 
 
 Companies based in the UK produce content for films, TV and commercials, and the opportunities for mobile and gaming content are growing rapidly. 
 
