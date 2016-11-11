@@ -4,15 +4,15 @@ title: Marktbedingungen
 
 Der Medizintechniksektor ist ein prosperierendes Netzwerk aus Wissenschaftlern, Ingenieuren, Designern und Kassenärzten des nationalen Gesundheitsdiensts NHS, das an einem etablierten Industriestandort arbeitet. Gemeinsam bereiten sie den Weg für neue Technologien – von der innovativen Idee über das Design und den Herstellungsprozess bis schließlich hin zum Patienten.
 
-Nahezu 3.700 Unternehmen im Vereinigten Königreich sind im Medizintechniksektor tätig, die einen Umsatz von 21 Milliarden GBP erwirtschaften. 98% sind kleine und mittelständische Unternehmen (KMUs), die eine große Vielfalt an Medizingeräten und Diagnosetechnologien herstellen. Etwa ein Drittel dieser Unternehmen betreibt ein signifikantes Maß an Forschung, Entwicklung und Fertigung im Vereinigten Königreich.
+Nahezu 3.700 Unternehmen im Vereinigten Königreich sind im Medizintechniksektor tätig, die einen Umsatz von 21 Milliarden GBP erwirtschaften. 98 % sind kleine und mittelständische Unternehmen (KMUs), die eine große Vielfalt an Medizingeräten und Diagnosetechnologien herstellen. Etwa ein Drittel dieser Unternehmen betreibt ein signifikantes Maß an Forschung, Entwicklung und Fertigung im Vereinigten Königreich.
 
-Ein wesentlicher Schwerpunkt liegt auf der Single-Use- Technologie, orthopädischen Geräten und der In-vitro- Diagnostik. Die Dienstleistungs- und Versorgungslieferkette für Medizintechnik bietet essentielle Unterstützung beim Design, der Herstellung und regulatorischem Knowhow.
+Ein wesentlicher Schwerpunkt liegt auf der Single-Use-Technologie, orthopädischen Geräten und der In-vitro-Diagnostik. Die Dienstleistungs- und Versorgungslieferkette für Medizintechnik bietet essentielle Unterstützung beim Design, der Herstellung und regulatorischem Knowhow.
 
 Die am schnellsten wachsenden Wirtschaftsbereiche im Vereinigten Königreich gemessen am Umsatz sind:
 
 -  medizinische Bildgebung, mit einer durchschnittlichen jährlichen Wachstumsrate (CAGR) von 10%
 
--  In-vitro- Diagnostik (CAGR 7%)
+-  In-vitro-Diagnostik (CAGR 7%)
 
 -  Wirkstoffabgabe (CAGR 7%)
 
@@ -22,7 +22,7 @@ Die am schnellsten wachsenden Arbeitsmarktbereiche sind:
 
 - Wirkstoffabgabe (CAGR 23%)
 
-- Single-Use- Technologie (CAGR 19%)
+- Single-Use-Technologie (CAGR 19%)
 
 Das Vereinigte Königreich ist mit einem ungefähren Wert von 7,6 Milliarden GBP der drittgrößte Markt für Medizintechnik in Europa.
 
