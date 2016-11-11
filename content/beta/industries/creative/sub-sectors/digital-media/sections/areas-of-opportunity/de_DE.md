@@ -4,7 +4,7 @@ title: Chancenreiche Geschäftsfelder
 
 ### Digitale Werbung getrieben von einer kreativen Revolution
 
-2014 hatte der Markt für digitale Werbung im Vereinigten Königreich ein Volumen von 7,2 Milliarden £. Der Markt für mobile Werbung stieg auf 1,6 Milliarden £ an – das bedeutet ein jährliches Plus von bis zu 63%.
+2014 hatte der Markt für digitale Werbung im Vereinigten Königreich ein Volumen von 7,2 Milliarden £. Der Markt für mobile Werbung stieg auf 1,6 Milliarden £ an – das bedeutet ein jährliches Plus von bis zu 63 %.
 
 Mit der Schaffung gezielter und effektiver Werbung haben sich weitere Geschäftsfelder entwickelt, die hier sehr erfolgreich sind und Markteinsteigern viele neue Möglichkeiten in Geschäftsfeldern wie Programmatic Advertising, Native Advertising und Analytics bieten.
 
