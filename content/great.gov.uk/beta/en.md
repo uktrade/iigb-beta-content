@@ -3,7 +3,7 @@ Title: Beta on www.GREAT.gov.uk
 ---
 The ‘beta’ label means you’re looking at the first version of a new service or web page.
 
-## Beta services
+### Beta services
 
 www.GREAT.gov.uk regularly launches new or redesigned digital services. During the beta phase services are continually tested and improved.
 
@@ -15,13 +15,11 @@ Sometimes a beta service will be available at the same time as an older, existin
 
 Successful beta services eventually become ‘live’ and replace any older services that perform the same task.
 
-## Beta web pages
+### Beta web pages
 
 Content  from UK government agencies and other public bodies may appear on www.GREAT.gov.uk.
 
-
 Sometimes a new page is published on www.GREAT.gov.uk before the original page on the old website has been removed. The beta label is displayed on the www.GREAT.gov.uk page until the old page is taken down.
-
 
 The beta label is displayed on the www.GREAT.gov.uk page until the old page is taken down.
 
