@@ -2,13 +2,13 @@
 title: Strong areas of opportunity
 published: true
 --- 
-**Creative disruption is driving digital advertising**
+### Creative disruption is driving digital advertising
 
 The size of the UK digital advertising market was 7.2 billion GBP in 2014. Mobile advertising increased to 1.6 billion GBP; that's up 63% on the previous year. 
 
 Delivering targeted and effective advertising has also generated new business segments which are thriving here. That means many new opportunities for market entrants in areas such as programmatic trading, native advertising and analytics.
 
-**Personalisation is boosting mobile**
+### Personalisation is boosting mobile
 
 The UK is Europe’s largest mobile content market, with over 1 billion GBP spent on mobile applications, content and services each year.  It also has the highest mobile advertising spend per head. Our e-commerce market was worth 104 billion GBP in 2014. 
 
