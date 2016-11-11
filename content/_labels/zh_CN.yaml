@@ -109,7 +109,7 @@ form_when_year:
     - "2024"
     - "2025"
 form_company: "您的公司"
-form_company_reason: "Help us understand your current operations:CN"
+form_company_reason: "帮助我们了解您目前的业务"
 form_registered_company: "公司注册名称"
 form_enter_registered_company: "请输入您的公司注册名称"
 form_website: "公司网站地址"
@@ -138,11 +138,11 @@ form_primary_industry:
     - "其他"
 form_other: "其他"
 form_enter_other: "请输入您的行业"
-form_mailing_list: "The Department for International Trade and its partners might use your details to send you relevant news and information"
+form_mailing_list: "国际贸易部及其合作伙伴可能会使用您的联系方式向您发送相关的新闻和信息"
 form_enter_mailing_list: "Select whether you'd like to receive relevant news and information:CN"
-form_mailing_list_confirmation: "Yes, I would like to see this information:CN"
+form_mailing_list_confirmation: "我希望收到相关的新闻和信息"
 form_enter_headquarters: "请输入您的公司总部所在国家"
-form_enter_headquarters_help: "Start typing to select an option:CN"
+form_enter_headquarters_help: "开始输入并选择一个选项"
 form_headquarters:
   label: "公司总部所在国家"
   options:
@@ -395,5 +395,5 @@ form_headquarters:
     - "南非"
     - "赞比亚"
     - "津巴布韦"
-form_disclaimer: "By sending us your details you confirm that the information you’ve shared with us is true and you accept our terms and conditions:CN"
+form_disclaimer: "发送您的详细信息以后，代表您同意提供的信息是真实并接受我们的附带条约。"
 
