@@ -1,5 +1,5 @@
 ---
-title: Medien und Kultur Überblick
+title: Medien und Kultur
 published: true
 ---
 
