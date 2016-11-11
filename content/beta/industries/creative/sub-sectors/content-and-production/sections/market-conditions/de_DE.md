@@ -33,7 +33,7 @@ Auch Kreation im Bereich Merchandising und Besuchererfahrung sind zwei relevante
 
 ### Ein wachsender Spielemarkt mit einem anspruchsvollen Publikum
 
-Die Spieleindustrie im Vereinigte Königreich gehört zu den fortschrittlichsten der Welt – mit über 30 Jahren Erfahrung in der Produktion einiger der innovativsten und kommerziell erfolgreichsten Titel überhaupt. Ihr zugrunde liegen Weltklasse-Universitäten, die talentierten Entwicklern und Designern hervorbringen, eine Gaming-begeisterte Bevölkerung und ein wirtschaftliches Umfeld, in dem sich kreative und technologische Kompetenz verbinden.
+Die Spieleindustrie im Vereinigte Königreich gehört zu den fortschrittlichsten der Welt – mit über 30 Jahren Erfahrung in der Produktion einiger der innovativsten und kommerziell erfolgreichsten Titel überhaupt. Ihr zugrunde liegen Weltklasse-Universitäten, die talentierte Entwickler und Designer hervorbringen, eine Gaming-begeisterte Bevölkerung und ein wirtschaftliches Umfeld, in dem sich kreative und technologische Kompetenz verbinden.
 
 Britische Gamer geben einen höheren Betrag für Spiele aus als in sämtlichen anderen europäischen Ländern. Unser Markt für digitale Spiele ist der sechstgrößte der Welt. Dazu tragen unser Highspeed- Internet, die hohe Durchdringung sozialer Netzwerke im Arbeits- und Lebensalltag und die intensive Nutzung von Smartphones bei. Es erwartet Sie hier ein Gaming-Publikum, das zu den am besten etablierten, vielseitigsten und progressivsten der Welt zählt.
 

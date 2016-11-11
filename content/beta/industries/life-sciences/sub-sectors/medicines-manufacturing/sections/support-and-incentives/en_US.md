@@ -9,8 +9,7 @@ The UK provides a very attractive tax regime for regional or global manufacturin
 
 The combination of low tax rates and Patent Box could deliver an Effective Tax Rate (ETR) of 11% to 13%.
 
-
-**Championing innovation**
+### Championing innovation
 
 We offer direct support for innovative manufacturing businesses. Your company can access national innovation infrastructure, with 3 main elements:
 
