@@ -30,7 +30,7 @@ Wir haben Standorte für Neubauten in
 
 - Bradwell, Essex
 
-Daneben bietet auch die Stilllegung von AnlagenMöglichkeiten. Die staatliche Behörde für die Stilllegung von Kernkraftwerken ([Nuclear Decommissioning Authority – NDA](https://www.gov.uk/government/organisations/nuclear-decommissioning- authority)) verantwortet die Stilllegung unserer staatlichen Kernkraftwerke und die Beseitigung der Altlasten. Derzeit verwalten die Behörde 17 Standorte. Das Ziel ist, bis 2125 den Endzustand an all diesen Standorten zu erreichen.
+Daneben bietet auch die Stilllegung von AnlagenMöglichkeiten. Die staatliche Behörde für die Stilllegung von Kernkraftwerken ([Nuclear Decommissioning Authority – NDA](https://www.gov.uk/government/organisations/nuclear-decommissioning-authority)) verantwortet die Stilllegung unserer staatlichen Kernkraftwerke und die Beseitigung der Altlasten. Derzeit verwalten die Behörde 17 Standorte. Das Ziel ist, bis 2125 den Endzustand an all diesen Standorten zu erreichen.
 
 Für 2016/17 hat die Regierung Ausgaben in Höhe von 3,2 Milliarden GBP für Stilllegungen geplant. Darüber hinaus hat sie jährlich 90 Millionen GBP in Forschung und Entwicklung investiert, um die komplexen technische Herausforderungen effektiv bewältigen zu können.
 
@@ -44,6 +44,6 @@ Laut des National Nuclear Laboratory soll Berechnungen zufolge die Kapazität de
 
 ### Ein Regulierungssystem von Weltklasse
 
-Im Herzen unseres Nuklearprogramms steht ein unabhängiges Regulierungssystem von Weltklasse. Die nukleare Aufsichtsbehörde ([Office for Nuclear Regulation](http://www.onr.org.uk/)) stellt in Zusammenarbeit mit der Umweltagentur ([Environment Agency](https://www.gov.uk/government/organisations/environment-agency)) sicher, dass sämtliche neuen hierzulande gebauten Kernkraftwerke hohe Standards in puncto Sicherheit, Umweltschutz und Abfallmanagement erfüllen. Dafür gibt es ein standardisiertes Verfahren, das sich [Generic Design Assessment - (GDA)]( http://www.onr.org.uk/new-reactors/) nennt.
+Im Herzen unseres Nuklearprogramms steht ein unabhängiges Regulierungssystem von Weltklasse. Die nukleare Aufsichtsbehörde ([Office for Nuclear Regulation](http://www.onr.org.uk/)) stellt in Zusammenarbeit mit der Umweltagentur ([Environment Agency](https://www.gov.uk/government/organisations/environment-agency)) sicher, dass sämtliche neuen hierzulande gebauten Kernkraftwerke hohe Standards in puncto Sicherheit, Umweltschutz und Abfallmanagement erfüllen. Dafür gibt es ein standardisiertes Verfahren, das sich [Generic Design Assessment - (GDA)](http://www.onr.org.uk/new-reactors/) nennt.
 
 Unternehmen, die im Vereinigten Königreich eine GDA-Genehmigung bekommen, erfüllen bekanntermaßen die strengsten Standards in der gesamten Nuklearbranche – die Genehmigung stellt somit ein Sprungbrett für internationales Wachstum dar.
