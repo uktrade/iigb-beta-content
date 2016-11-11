@@ -4,7 +4,7 @@ title: Starke regionale Cluster
 
 ### Eine engagierte Gemeinschaft und ein hervorragendes Netzwerk
 
-Automobilhersteller wollen durch eine Reduzierung der Transport- und Logistikkosten ihre Lieferkette verschlanken. Die Wahl lokaler Zulieferer senkt Kosten und schafft große Supply-Chain- Möglichkeiten in den bereits etablierten regionalen Zentren im Vereinigten Königreich.
+Automobilhersteller wollen durch eine Reduzierung der Transport- und Logistikkosten ihre Lieferkette verschlanken. Die Wahl lokaler Zulieferer senkt Kosten und schafft große Supply-Chain-Möglichkeiten in den bereits etablierten regionalen Zentren im Vereinigten Königreich.
 
 Das Herz der Automobilindustrie des Vereinigten Königreichs liegt in den Midlands mit Birmingham im Zentrum. Die Heimat von Jaguar Land Rover beherbergt auch die größte Ansammlung von Komponentenherstellern im Vereinigten Königreich.
 
