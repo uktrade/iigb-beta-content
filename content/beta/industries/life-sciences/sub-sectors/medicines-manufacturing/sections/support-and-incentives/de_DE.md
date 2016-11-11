@@ -1,5 +1,6 @@
 ---
 title: Förderung der Gesundheitswissenschaften und Life Sciences durch die Regierung
+published: true
 ---
 
 Das Vereinigte Königreich bietet eine sehr attraktive Steuerregelung für die regionale oder internationale Produktion. Steuerliche Anreize machen es einfacher auch in zukünftige Forschungen und Entwicklung zu investieren. Wir bieten:
@@ -10,4 +11,4 @@ Das Vereinigte Königreich bietet eine sehr attraktive Steuerregelung für die r
 
 - eines der umfassendsten globalen Verhandlungsnetzwerke
 
-Die Kombination eines niedrigen Steuersatzes mit der Patent Box könnte einen effektiven Steuersatz (ETR) von 11% bis 13% erbringen.
+Die Kombination eines niedrigen Steuersatzes mit der Patent Box könnte einen effektiven Steuersatz von 11% bis 13% erbringen.
