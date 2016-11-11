@@ -20,4 +20,4 @@ Die Tech City im East End von London ist zum globalen Zentrum für kreative digi
 
 Auch im Norden Englands befinden sich hervorragende Zentren für digitale Wirtschaft: Liverpool, Manchester, Sheffield, Rotherham, Leeds, Hull, Sunderland und die Regionen Newcastle und Durham. Gemeinsam haben sie 2014 9,9 Milliarden £ zum BWS des Vereinigten Königreichs beigesteuert. Die Chancen für Wachstum sind groß, denn dieses soll bis 2020 weitere geschätzte 6 Milliarden £ betragen.
 
-Auch in anderen teilen des Vereinigten Königreich gibt es Cluster, in denen digitales Talent gebündelt ist. Brighton, Reading und Cambridge sind hier besonders erwähnenswert.
+Auch in anderen Teilen des Vereinigten Königreich gibt es Cluster, in denen digitales Talent gebündelt ist. Brighton, Reading und Cambridge sind hier besonders erwähnenswert.
