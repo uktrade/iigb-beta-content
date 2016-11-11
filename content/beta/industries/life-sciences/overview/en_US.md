@@ -1,5 +1,5 @@
 ---
-title: Health and Life Sciences Overview
+title: Health and Life Sciences overview
 ---
 
 The UK is the number one destination for health and life sciences foreign direct investment in Europe.
