@@ -12,7 +12,7 @@ The [Enterprise Investment Scheme](https://www.gov.uk/government/publications/th
 
 ### Tax incentives for innovation
 
-There are generous incentives for companies investing in research and development in the UK to promote fast-growing, innovative services and products. 
+There are generous [incentives for companies investing in research and development in the UK](https://www.gov.uk/guidance/corporation-tax-research-and-development-rd-relief) to promote fast-growing, innovative services and products. 
 
 [The Patent Box](https://www.gov.uk/guidance/corporation-tax-the-patent-box) offers a 10% corporation tax on profits from inventions patented in the UK (compared to the usual 20% corporation tax).
 
