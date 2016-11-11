@@ -24,8 +24,6 @@ Die 4 leistungsstärksten Sektoren sind:
 
 - Datenanalyse, etwa für Kreditauskünfte, Kapitalmärkte und Versicherungen
 
--
-
 Der Markt bietet viel Raum sowohl für etablierte Anbieter als auch für bahnbrechende neue Technologien. Verschiedene Arten der Finanzierung sind verfügbar und der Sektor wird von Business Angels, Privatkapitalinvestoren sowie von Beschleunigern und Inkubatoren gut bedient.
 
 ### Status und Begeisterung beflügeln die Nachfrage
@@ -40,6 +38,6 @@ Es gibt eine große Nachfrage nach FinTech im Vereinigten Königreich, die von [
 
 - Compliance
 
-Britische Konsumenten sind ‚Early Adopters‘ und offen für neue, innovative Servicemodelle. Sie geben viel mehr für E-Commerce aus als ihre Äquivalente in Deutschland, Frankreich und den USA. Die FinTech-Akzeptanz der Konsumenten entwickelt sich zum Mainstream. Der [FinTech- Akzeptanz-Index](http://www.ey.com/gl/en/industries/financial-services/ey-fintech-adoption-index) von Ernst &amp; Young stellt fest, dass etwa 14% der digital aktiven Konsumenten sich als FinTech-Nutzer einordnen, bis hin zu 25% in London.
+Britische Konsumenten sind ‚Early Adopters‘ und offen für neue, innovative Servicemodelle. Sie geben viel mehr für E-Commerce aus als ihre Äquivalente in Deutschland, Frankreich und den USA. Die FinTech-Akzeptanz der Konsumenten entwickelt sich zum Mainstream. Der [FinTech-Akzeptanz-Index](http://www.ey.com/gl/en/industries/financial-services/ey-fintech-adoption-index) von Ernst &amp; Young stellt fest, dass etwa 14 % der digital aktiven Konsumenten sich als FinTech-Nutzer einordnen, bis hin zu 25 % in London.
 
-Viele kleine und mittlere Unternehmen (KMUs) haben FinTech-Lösungen eingeführt, hauptsächlich in den alternativen Finanzierung und Zahlungs Teilsektoren.
+Viele kleine und mittlere Unternehmen (KMUs) haben FinTech-Lösungen eingeführt, hauptsächlich in den alternativen Finanzierung und Zahlungs-Teilsektoren.
