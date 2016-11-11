@@ -8,7 +8,7 @@ Das Vereinigte Königreich ist seit langem für seine stabilen und planbaren Reg
 
 Die Regierung des Vereinigten Königreichs unterstützt ihre Offshore-Windenergiebranche über günstige politische Rahmenbedingungen hinaus mit:
 
-- Stärkung des Vertrauens in den Markt und Sichtbarmachung der Nachfrage – (entscheidende Faktoren für Investitionen von Seiten der Hersteller und Zulieferer)
+- Stärkung des Vertrauens in den Markt und Sichtbarmachung der Nachfrage (entscheidende Faktoren für Investitionen von Seiten der Hersteller und Zulieferer)
 
 - Aufbau einer konkurrenzfähigen Lieferkette – um Investitionen nach innen zu fördern
 
