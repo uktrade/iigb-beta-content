@@ -17,7 +17,7 @@ We offer state-of-the-art studio facilities suitable for the biggest movie produ
 
 International TV sales reached over 1.2 billion GBP in 2014/15, and we’re the world leaders in exporting TV formats, bought by different markets and localised. For example, The Great British Bake off format is now reproduced in 20 countries. 
 
-We’re also a world class film talent base, with a very strong visual effects industry. The Academy Award for Best Visual Effects has had a UK nominee for 6 of the last 7 years.
+We’re also a world class film talent base, with a very strong visual effects (VFX) industry. The Academy Award for Best Visual Effects has had a UK nominee for 6 of the last 7 years.
 
 ### Animation thrives across all areas
 
