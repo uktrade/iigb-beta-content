@@ -1,4 +1,4 @@
 ---
 title: Electrical networks in the UK
 ---
-As the electrical networks sector transforms rapidly, innovation and new technologies are needed. There are excellent opportunities for long-term investment.
+New technologies and innovation are in demand as the UK's electrical networks industry transforms.  This transformation presents a long-term investment opportunity.
