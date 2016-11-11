@@ -10,7 +10,7 @@ Unternehmen können so Fachkräfte wirksam quer durch alle Disziplinen wie dem I
 
 Das Vereinigte Königreich bietet die Möglichkeit für Innovatoren in der Medizintechnik:
 
-- Forschung und Entwicklung zu betreiben, basierend auf ungedeckten klinischen Bedarf, übereinstimmend mit der Versorgungslücke
+- Forschung und Entwicklung zu betreiben, basierend auf ungedecktem klinischen Bedarf, übereinstimmend mit der Versorgungslücke
 
 - Design, Prototyp und Herstellung mit iterativem Entwicklungsprozessen
 
