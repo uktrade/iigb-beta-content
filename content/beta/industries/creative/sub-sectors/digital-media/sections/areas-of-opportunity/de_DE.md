@@ -22,4 +22,4 @@ Folgende Bereiche bieten zusätzliche Wachstumsmöglichkeiten:
 
 -  Innovative Technologien für Produktion und Kreation – wie etwa Sensoren und Bewegungserfassung (Motion Capture) im Film
 
-- Digitale Musik – macht 54 % des gesamten Musikkonsums 2015 aus Unser Angebot hat uns Investitionen von einigen der größten digitalen Akteure der Welt eingebracht, darunter Google, Facebook, Amazon und Alibaba.
+- Digitale Musik – macht 54 % des gesamten Musikkonsums 2015 aus. Unser Angebot hat uns Investitionen von einigen der größten digitalen Akteure der Welt eingebracht, darunter Google, Facebook, Amazon und Alibaba.
