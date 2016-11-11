@@ -16,7 +16,7 @@ Das Vereinigte Königreich bietet die Möglichkeit für Innovatoren in der Mediz
 
 - Wirksamkeitstests und der Beweis klinischen Nutzens anhand klinischer Studien auszuführen
 
-- Produkte zu validieren und deren Zulassungserhaltung zu erhalten
+- Produkte zu validieren und deren Zulassung zu erhalten
 
 - Nutzbarkeit durch Beurteilung und Zusammenarbeit der Gesundheitstechnik mit der NHS zu beweisen
 
