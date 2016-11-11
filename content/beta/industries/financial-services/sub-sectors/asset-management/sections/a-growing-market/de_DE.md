@@ -15,4 +15,4 @@ Das Vereinigte Königreich ist ein wichtiges Fondsdomizil. Ungefähr 12 % aller 
 
 Unternehmen im Vereinigten Königreich haben gute Chancen, eine wachsende Anzahl von Aufträgen durch aufstrebende Volkswirtschaften zu bekommen, die ein hohes Wachstumspotential aufweisen.
 
-Wir bieten modernste Dienstleistungen im Bereich Front-, Middle- und Back-Office und ermöglichen so signifikante Kosteneinsparungen. Darüber hinaus liegen wir günstig in einer zentralen Zeitzone.
+Wir bieten modernste Dienstleistungen im Bereich Front-, Middle- und Back-Office und ermöglichen so signifikante Kosteneinsparungen. Darüber hinaus liegt das Vereinigte Königreich günstig gelegen in einer zentralen Zeitzone.
