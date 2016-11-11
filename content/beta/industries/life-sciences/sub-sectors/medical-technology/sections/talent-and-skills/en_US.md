@@ -5,7 +5,7 @@ The sector employs nearly 115,000 people and the UK has the highest number of sk
 
 Businesses can leverage a talent base across disciplines - in engineering, physical, social, medicine and digital services.
 
-**Support along the product design, development and delivery pathway**
+### Support along the product design, development and delivery pathway
 
 The UK offers the opportunity for medical technologies innovators to:
 
