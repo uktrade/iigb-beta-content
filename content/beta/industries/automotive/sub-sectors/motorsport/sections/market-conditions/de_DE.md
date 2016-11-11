@@ -2,9 +2,9 @@
 title: Marktbedingungen
 ---
 
-Zulieferer-Unternehmen für den Motorsport sind überall im Vereinigten Königreich im Geschäft. Die größte Ansammlung von Motorsportfirmen ist im „Motorsport Valley®“ angesiedelt, einem weltberühmten Unternehmenscluster im Südosten von England mit Oxford im Zentrum. Michael Porter, ein Harvard Business School Professor und Gründer von Monitor Deloitte, beschreibt es als „ausgereiftes Cluster von Wirtschaftsunternehmen, das die Nummer Eins der Welt darstellt… das Juwel in der Krone des britischen Ingenieurswesens.“
+Zulieferer-Unternehmen für den Motorsport sind überall im Vereinigten Königreich im Geschäft. Die größte Ansammlung von Motorsportfirmen ist im „Motorsport Valley®“ angesiedelt, einem weltberühmten Unternehmenscluster im Südosten von England mit Oxford im Zentrum. Michael Porter, ein Harvard Business School Professor und Gründer von Monitor Deloitte, beschreibt es als „ausgereiftes Cluster von Wirtschaftsunternehmen, das die Nummer Eins der Welt darstellt… das Juwel in der Krone des britischen Ingenieurswesens“.
 
-In den 50 Jahren, seit die moderne Formel Eins Ära 1967 begann, gewannen nur 2 Teams die Konstrukteursmeisterschaft mit Wagen, die außerhalb des Vereinigten Königreichs gefertigt wurden – und einer davon verwendete einen britischen Motor.
+In den 50 Jahren, seitdem die moderne Formel Eins Ära 1967 begann, gewannen nur 2 Teams die Konstrukteursmeisterschaft mit Wagen, die außerhalb des Vereinigten Königreichs gefertigt wurden – und einer davon verwendete einen britischen Motor.
 
 Diese Formel Eins Teams haben Ihren Hauptsitz hier:
 
