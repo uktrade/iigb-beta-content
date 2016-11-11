@@ -4,7 +4,7 @@ title: Förderung und Anreize
 
 Die Britische Regierung trägt entschlossen zum anhaltenden Erfolg der Automobilbranche im Vereinigten Königreich bei. Sie unterstützt automobile Forschungsfonds mit 1,2 Milliarden £ und deckt damit die Felder kohlenstoffarmer Antrieb, leichte Materialien sowie vernetzte und autonome Fahrzeuge ab.
 
-Darüber hinaus schaffen wir ein geeignetes Umfeld, in dem sich neue Technologien entfalten können. Unsere gesetzlichen Rahmenbedingungen für vernetzte und autonome Fahrzeuge sind die fortschrittlichsten in Europa. (LINK to R&amp;D page). Diese ermöglichen es Fahrzeugherstellern und Komponenten-Zulieferern, ihre Technologien mit minimalem bürokratischem Aufwand zu entwickeln und zu testen. Volvo setzt bereits auf das Vereinigte Königreich als einzige neutrale Test- Location außerhalb der eigenen Produktionsstätten.
+Darüber hinaus schaffen wir ein geeignetes Umfeld, in dem sich neue Technologien entfalten können. Unsere gesetzlichen Rahmenbedingungen für vernetzte und autonome Fahrzeuge sind die fortschrittlichsten in Europa. Diese ermöglichen es Fahrzeugherstellern und Komponenten-Zulieferern, ihre Technologien mit minimalem bürokratischem Aufwand zu entwickeln und zu testen. Volvo setzt bereits auf das Vereinigte Königreich als einzige neutrale Test-Location außerhalb der eigenen Produktionsstätten.
 
 ### Ein geschäftsfreundliches und zukunftsorientiertes Umfeld
 

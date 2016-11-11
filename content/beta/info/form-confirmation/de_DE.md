@@ -1,3 +1,3 @@
 ---
-title: Vielen Dank, dass Sie sich mit uns in Verbindung gesetzt haben.
+title: Vielen Dank für Ihre Registrierung Ihr Interesse in Großbritannien investieren. 
 ---

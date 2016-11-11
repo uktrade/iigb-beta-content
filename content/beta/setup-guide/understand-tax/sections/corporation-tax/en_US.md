@@ -1,9 +1,8 @@
 ---
-title: Corporate taxes in the UK
+title: Business taxes
 published: true
 ---
-
-### Corporation Tax
+### Tax on profits
 
 Any foreign company with a UK branch or office must pay UK Corporation Tax. The [current corporation tax rate is 20%](https://www.gov.uk/corporation-tax-rates/rates), reducing to 17% by 2020. At the current rate of 20%, the UK has the lowest headline business tax rate in the G7, and joint lowest in the G20. 
 

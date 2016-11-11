@@ -7,4 +7,4 @@ Wir haben Weltklasse-Universitäten: Laut [QS-Ranking]( http://www.topuniversiti
 
 Wir haben führende Maschinenbauunternehmen wie Ricardo und automobile Forschungseinrichtungen von Weltrang – dank des kürzlich gegründeten Catapult Network.
 
-Wir treiben die Entwicklung von kohlenstoffarmen Antrieben federführend voran. Die einzige groß angelegte Ladestation für elektrische Autos in Europa befindet sich hier. Aktuell sind wir für 20% der europäischen Produktion von Elektrofahrzeugen verantwortlich.
+Wir treiben die Entwicklung von kohlenstoffarmen Antrieben federführend voran. Die einzige groß angelegte Ladestation für elektrische Autos in Europa befindet sich hier. Aktuell sind wir für 20 % der europäischen Produktion von Elektrofahrzeugen verantwortlich.
