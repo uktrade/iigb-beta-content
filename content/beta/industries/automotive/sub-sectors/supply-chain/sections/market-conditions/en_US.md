@@ -27,7 +27,7 @@ The local content of UK-made cars rose from 36% in 2011 to 41% in 2015, and is c
 
 
 
-**A committed community and a connected network**
+### A committed community and a connected network
 
 Car manufacturers are looking to streamline their supply chain by reducing transportation and logistics costs. Choosing local suppliers reduces costs and creates major supply chain opportunities in the UK’s already established regional hubs.
 
