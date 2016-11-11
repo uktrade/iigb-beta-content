@@ -21,7 +21,7 @@ Formula 1 research and development centres here are:
 - Haas in Banbury, Oxfordshire
 - Toro Rosso in Milton Keynes, Buckinghamshire
 
-**From race to road**
+## From race to road
 
 The UK has made more motorsport innovations in the last 60 years than any other country. Many have found their way onto road cars. These include:
 
