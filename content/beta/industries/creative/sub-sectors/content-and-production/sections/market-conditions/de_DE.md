@@ -4,7 +4,7 @@ title: Marktbedingungen
 
 ### Arbeiten Sie mit den Experten für Film, Fernsehen und Spezialeffekte
 
-Unsere Fernsehproduktion gehört zu den weltgrößten Anbietern von sogenanntem Original- Content, also eigenständig hergestellter Inhalte. Über 1.500 unabhängige TV- Produktionsunternehmen und mehr als 44.000 Menschen sind in der Branche tätig.
+Unsere Fernsehproduktion gehört zu den weltgrößten Anbietern von sogenanntem Original-Content, also eigenständig hergestellter Inhalte. Über 1.500 unabhängige TV-Produktionsunternehmen und mehr als 44.000 Menschen sind in der Branche tätig.
   
 Das Vereinigte Königreich bietet Ihnen:
 
