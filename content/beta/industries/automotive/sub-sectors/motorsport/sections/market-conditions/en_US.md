@@ -21,7 +21,7 @@ Formula 1 research and development centres here are:
 - Haas in Banbury, Oxfordshire
 - Toro Rosso in Milton Keynes, Buckinghamshire
 
-## From race to road
+### From race to road
 
 The UK has made more motorsport innovations in the last 60 years than any other country. Many have found their way onto road cars. These include:
 
@@ -33,7 +33,7 @@ The UK has made more motorsport innovations in the last 60 years than any other 
 - 1990s, active chassis with traction control and driver aids produced by Williams
 - 2000s, Kinetic Energy Recovery Systems produced by Williams
 
-**Pioneering technology beyond Formula 1**
+### Pioneering technology beyond Formula 1
 
 The UK provides a base for the new global electric racing series Formula E. It is a major supplier to IndyCar and NASCAR in the USA, the China Touring Car Championship and the 24 Hours of Le Mans series. 
 
