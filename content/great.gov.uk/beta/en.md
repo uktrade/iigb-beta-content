@@ -23,4 +23,4 @@ Sometimes a new page is published on www.GREAT.gov.uk before the original page o
 
 The beta label is displayed on the www.GREAT.gov.uk page until the old page is taken down.
 
-Beta content on www.GREAT.gov.uk follows the same rules for [cookiesand privacy](https://www.exportingisgreat.gov.uk/privacy-and-cookies/), [terms and conditions](https://www.exportingisgreat.gov.uk/terms-and-conditions/) as existing content.
+Beta content on www.GREAT.gov.uk follows the same rules for [cookies and privacy](https://www.exportingisgreat.gov.uk/privacy-and-cookies/)and [terms and conditions](https://www.exportingisgreat.gov.uk/terms-and-conditions/) as existing content.
