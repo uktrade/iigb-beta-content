@@ -1,5 +1,5 @@
 ---
-title: Finanztechnologie
+title: Finanztechnologiein in Großbritannien
 published: true
 ---
 
