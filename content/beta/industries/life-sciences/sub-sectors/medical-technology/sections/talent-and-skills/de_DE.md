@@ -1,14 +1,15 @@
 ---
 title: Unsere Talente und Fähigkeiten
+published: true
 ---
 
-Der Sektor Medizintechnik beschäftigt fast 115.000 Menschen. Das Vereinigte Königreich verfügt über die größte Anzahl an hochqualifizierten Ingenieuren und Wissenschaftlern in Europa.
+Der Sektor Medizintechnik beschäftigt fast 115.000 Menschen. Großbritannien verfügt über die größte Anzahl an hochqualifizierten Ingenieuren und Wissenschaftlern in Europa.
 
 Unternehmen können so Fachkräfte wirksam quer durch alle Disziplinen wie dem Ingenieurswesen, der Medizin, aber auch in technischen, sozialen und digitalen Diensten einsetzen.
 
 **Förderung beim Produktdesign, der Entwicklung und dem Bereitstellungskonzept**
 
-Das Vereinigte Königreich bietet die Möglichkeit für Innovatoren in der Medizintechnik:
+Großbritannien bietet die Möglichkeit für Innovatoren in der Medizintechnik:
 
 - Forschung und Entwicklung zu betreiben, basierend auf ungedecktem klinischen Bedarf, übereinstimmend mit der Versorgungslücke
 
