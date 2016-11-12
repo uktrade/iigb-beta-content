@@ -1,5 +1,6 @@
 ---
-title: Machen Sie sich mit der Besteuerung und Steueranreizen im Vereinigten Königreich vertraut
+title: Machen Sie sich mit der Besteuerung und Steueranreizen in Großbritannien vertraut
+published: true
 ---
 
-Das Vereinigte Königreich besitzt eines der wettbewerbsfähigsten Steuersysteme der Welt. Informieren Sie sich ausführlich, wie die Steuersätze und Bestimmungen funktionieren und wie Sie sich auf Ihr Unternehmen auswirken.
+Großbritannien besitzt eines der wettbewerbsfähigsten Steuersysteme der Welt. Informieren Sie sich ausführlich, wie die Steuersätze und Bestimmungen funktionieren und wie Sie sich auf Ihr Unternehmen auswirken.
