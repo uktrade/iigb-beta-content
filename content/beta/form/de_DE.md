@@ -2,7 +2,7 @@
 title: So helfen wir Ihnen
 published: true
 list: 
-  - text: Unterstützung beim Knüpfen von Kontakten mit Unternehmen Ihrer Branche
+  - text: Unterstützung beim Knüpfen von Kontakten mit Unternehmen in Ihrer Branche
     icon: connections
   - text: "Hilfe bei Visa-Anträgen und anderen Einwanderungsangelegenheiten"
     icon: immigration
