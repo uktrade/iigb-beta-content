@@ -6,4 +6,4 @@ Wir verfügen derzeit über mehr als 30 Programme, die Unterstützung für Inves
 
 Der Sektor wird als lebenswichtig für die wirtschaftliche Gesundheit der Nation angesehen und durch substanzielle Investitionen in die Branche gefördert. Alle sieben britischen Forschungsräte haben in Big Data-Analyseprojekte investiert und eine Gesamtsumme von über 300 Millionen GBP bereitgestellt.  
 
-Ein etablierter und blühender Markt, eine solide Infrastruktur und qualifizierte Arbeitskräfte deuten auf eine glänzende Zukunft für die Datenanalyse Branche im Vereinigten Königreich.
+Ein etablierter und blühender Markt, eine solide Infrastruktur und qualifizierte Arbeitskräfte deuten auf eine glänzende Zukunft für die Datenanalyse Branche in Großbritannien.
