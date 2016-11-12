@@ -1,5 +1,6 @@
 ---
-title: Ein Unternehmen im Vereinigten Königreich gründen
+title: Ein Unternehmen in Großbritannien gründen
+published: true
 ---
 
-Die gängigste Möglichkeit für ausländische Investoren ist, im Vereinigten Königreich eine Kapitalgesellschaft oder eine Tochtergesellschaft anzumelden. Alternativ dazu könnten Sie eine Auslandsniederlassung im Vereinigten Königreich anmelden.
+Die gängigste Möglichkeit für ausländische Investoren ist, in Großbritannien eine Kapitalgesellschaft oder eine Tochtergesellschaft anzumelden. Alternativ dazu könnten Sie eine Auslandsniederlassung in Großbritannien anmelden.
