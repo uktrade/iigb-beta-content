@@ -1,5 +1,6 @@
 ---
 title: Datenanalyse im Vereinigten Königreich
+published: true
 ---
 
-Dank hochqualifizierter Arbeitskräfte, Förderungsmöglichkeiten für Technologien und einer soliden Infrastruktur ist das Vereinigte Königreich gut aufgestellt, um in der anhaltenden Datenrevolution zu florieren.
+Dank hochqualifizierter Arbeitskräfte, Förderungsmöglichkeiten für Technologien und einer soliden Infrastruktur ist Großbritannienh gut aufgestellt, um in der anhaltenden Datenrevolution zu florieren.
