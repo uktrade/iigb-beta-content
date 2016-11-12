@@ -1,10 +1,11 @@
 ---
 title: Marktbedingungen
+published: true
 ---
 
-Zulieferer-Unternehmen für den Motorsport sind überall im Vereinigten Königreich im Geschäft. Die größte Ansammlung von Motorsportfirmen ist im „Motorsport Valley®“ angesiedelt, einem weltberühmten Unternehmenscluster im Südosten von England mit Oxford im Zentrum. Michael Porter, ein Harvard Business School Professor und Gründer von Monitor Deloitte, beschreibt es als „ausgereiftes Cluster von Wirtschaftsunternehmen, das die Nummer Eins der Welt darstellt… das Juwel in der Krone des britischen Ingenieurswesens“.
+Zulieferer-Unternehmen für den Motorsport sind überall in Großbritannien im Geschäft. Die größte Ansammlung von Motorsportfirmen ist im 'Motorsport Valley®' angesiedelt, einem weltberühmten Unternehmenscluster im Südosten von England mit Oxford im Zentrum. Michael Porter, ein Harvard Business School Professor und Gründer von Monitor Deloitte, beschreibt es als 'ausgereiftes Cluster von Wirtschaftsunternehmen, das die Nummer Eins der Welt darstellt… das Juwel in der Krone des britischen Ingenieurswesens'.
 
-In den 50 Jahren, seitdem die moderne Formel Eins Ära 1967 begann, gewannen nur 2 Teams die Konstrukteursmeisterschaft mit Wagen, die außerhalb des Vereinigten Königreichs gefertigt wurden – und einer davon verwendete einen britischen Motor.
+In den 50 Jahren, seitdem die moderne Formel Eins Ära 1967 begann, gewannen nur 2 Teams die Konstrukteursmeisterschaft mit Wagen, die außerhalb Großbritannien gefertigt wurden – und einer davon verwendete einen britischen Motor.
 
 Diese Formel Eins Teams haben Ihren Hauptsitz hier:
 
@@ -30,7 +31,7 @@ Diese Formel Eins Teams haben hier Forschungs- und Entwicklungszentren:
 
 ### Von der Rennstrecke auf die Straße
 
-Das Vereinigte Königreich hat in den letzten 60 Jahren mehr Innovationen im Motorsport erreicht als jedes andere Land. Viele dieser Errungenschaften haben ihren Weg in Straßenfahrzeuge gefunden.  
+Großbritannien hat in den letzten 60 Jahren mehr Innovationen im Motorsport erreicht als jedes andere Land. Viele dieser Errungenschaften haben ihren Weg in Straßenfahrzeuge gefunden.  
 Dazu gehören:
 
 - 1950er Jahre: Scheibenbremsen von Jaguar
@@ -48,10 +49,10 @@ Dazu gehören:
 
 ### Bahnbrechende Technologie jenseits der Formel Eins
 
-Das Vereinigte Königreich stellt eine Basis für die neue internationale Elektromotor-Rennserie Formel E bereit. Es gehört zu den Hauptzulieferern für IndyCar und NASCAR in den USA, die Tourenwagen-Meisterschaft in China und das 24 Stunden Rennen von Le Mans.
+Großbritannien stellt eine Basis für die neue internationale Elektromotor-Rennserie Formel E bereit. Es gehört zu den Hauptzulieferern für IndyCar und NASCAR in den USA, die Tourenwagen-Meisterschaft in China und das 24 Stunden Rennen von Le Mans.
 
 Diese Rennen profitieren von neuen Technologien, die von Unternehmen aus dem Vereinigten Königreich entwickelt werden. Cosworth aus Northampton ist Weltmarktführer im Bereich Motorelektronik und Telemetrie und liefert derzeit Messdatenerfassung und Telemetrie für das Straßenfahrzeug Chevrolet Corvette. Während Xtrac aus Berkshire weltberühmt für das Design und die Herstellung von Getrieben ist.
 
-Motorsportunternehmen aus dem Vereinigten Königreich sind über den Rennsektor hinaus in Bereichen wie Energiespeicherung, Marine und Verteidigung aktiv. Williams Advanced Engineering hat eine Schwungradtechnologie zur Energiespeicherung in zwei abgelegenen schottischen Inselgemeinden installiert. Und Wildcat Automotive hat seinen Wildcat 500DKR Geländerenner in ein Allrad-Militärfahrzeug umgewandelt.
+Motorsportunternehmen aus Großbritannien sind über den Rennsektor hinaus in Bereichen wie Energiespeicherung, Marine und Verteidigung aktiv. Williams Advanced Engineering hat eine Schwungradtechnologie zur Energiespeicherung in zwei abgelegenen schottischen Inselgemeinden installiert. Und Wildcat Automotive hat seinen Wildcat 500DKR Geländerenner in ein Allrad-Militärfahrzeug umgewandelt.
 
 Einige gehen sogar über physikalische Konstruktion hinaus. McLaren hat seine Techniken beim Boxenstopp angewandt, um im Great Ormond Street Krankenhaus die Wartezeiten zu verkürzen und mehr Effizienz im OP-Saal zu erreichen.
