@@ -1,5 +1,6 @@
 ---
-title: Finanzdienstleistungen im Vereinigten Königreich
+title: Finanzdienstleistungen in Großbritannien
+published: true
 ---
 
-Das Vereinigte Königreich bietet eine unübertroffene Unterstützung für die globale Expansion Ihres Unternehmens. Es ist der international ausgerichteste Finanzmarkt der Welt.
+Großbritannien bietet eine unübertroffene Unterstützung für die globale Expansion Ihres Unternehmens. Es ist der international ausgerichteste Finanzmarkt der Welt.
