@@ -1,5 +1,6 @@
 ---
-title:  Überblick
+title: Überblick
+published: true
 ---
 
-Das Vereinigte Königreich bietet Herstellern von kreativem Content hervorragende Einrichtungen und Standorte, eine weltweit führende technische und kreative Kompetenzbasis und starke Regierungsunterstützung.  
+Großbritannien bietet Herstellern von kreativen Inhalten hervorragende Einrichtungen und Standorte, eine weltweit führende technische und kreative Kompetenzbasis und starke Regierungsunterstützung.
