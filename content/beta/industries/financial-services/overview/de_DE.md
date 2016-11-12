@@ -1,8 +1,9 @@
 ---
 title: Finanzdienstleistungen Übersicht
+published: true
 ---
 
-Unsere Position als Mittelpunkt der globalen Finanzwelt ist einer der Gründe dafür, dass so viele internationale Unternehmen das Vereinigte Königreich wählen. Viele der weltgrößten Investmenthäuser und Finanzinstitutionen sind hier ansässig.
+Unsere Position als Mittelpunkt der globalen Finanzwelt ist einer der Gründe dafür, dass so viele internationale Unternehmen Großbritannien wählen. Viele der weltgrößten Investmenthäuser und Finanzinstitutionen sind hier ansässig.
 
 London ist weltweit für seine flexible, prinzipienorientierte Herangehensweise an die Regulierung seiner Kapitalmärkte bekannt.
 
