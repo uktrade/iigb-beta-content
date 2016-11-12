@@ -1,4 +1,5 @@
 ---
-title: Gründen Sie einen Unternehmensstandort im Vereinigten Königreich
+title: Gründen Sie einen Unternehmensstandort in Großbritannien
+published: true
 ---
-Das Vereinigte Königreich bietet unkomplizierte Planungsprozesse, eine breite Auswahl an Immobilien und Anreize für die Niederlassung und Expansion von Unternehmen.
+Großbritannien bietet unkomplizierte Planungsprozesse, eine breite Auswahl an Immobilien und Anreize für die Niederlassung und Expansion von Unternehmen.
