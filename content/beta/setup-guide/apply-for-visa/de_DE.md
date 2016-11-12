@@ -1,5 +1,5 @@
 ---
-title: Beantragen Sie ein Visum für Großbritannien
+title: Ein Visum für Großbritannien beantragen
 published: true
 ---
 
