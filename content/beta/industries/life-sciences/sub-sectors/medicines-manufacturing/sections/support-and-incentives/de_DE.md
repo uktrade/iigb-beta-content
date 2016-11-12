@@ -3,7 +3,7 @@ title: Förderung der Gesundheitswissenschaften und Life Sciences durch die Regi
 published: true
 ---
 
-Das Vereinigte Königreich bietet eine sehr attraktive Steuerregelung für die regionale oder internationale Produktion. Steuerliche Anreize machen es einfacher auch in zukünftige Forschungen und Entwicklung zu investieren. Wir bieten:
+Großbritannien bietet eine sehr attraktive Steuerregelung für die regionale oder internationale Produktion. Steuerliche Anreize machen es einfacher auch in zukünftige Forschungen und Entwicklung zu investieren. Wir bieten:
 
 - niedrige Steuersätze mit einer Unternehmenssteuer, die bis zum Jahr 2020 auf 17% fallen wird
 
