@@ -1,5 +1,5 @@
 ---
-title: "Offshore-Windenergie im Vereinigten Königreich"
+title: "Offshore-Windenergie in Großbritannien"
 published: true
 ---
 
