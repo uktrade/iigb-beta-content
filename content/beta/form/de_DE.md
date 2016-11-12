@@ -19,6 +19,6 @@ next_title: What happens next
 next_detail: "We've sent your contact form to the Invest in Great Britain agents. They will be in touch soon."
 ---
 
-Das Department for International Trade unterstützt ausländische Unternehmen dabei, sich im Vereinigten Königreich niederzulassen und zu wachsen.
+Das Department for International Trade unterstützt ausländische Unternehmen dabei, sich in Großbritannien niederzulassen und zu dort wachsen.
 
 Unsere Serviceteams für Investoren befinden sich in den britischen Botschaften, Hochkommissariaten und Konsulaten in Städten auf der ganzen Welt. Sie bieten Ihnen:
