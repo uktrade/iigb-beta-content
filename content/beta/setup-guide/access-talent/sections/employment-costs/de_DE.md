@@ -1,8 +1,9 @@
 ---
-title: Arbeitskosten im Vereinigten Königreich
+title: Arbeitskosten in Großbritannien
+published: true
 ---
 
-Im Vereinigten Königreich gibt es einen staatlichen Mindestlohn. Er soll Menschen zum Arbeiten motivieren und Betriebe vor unfairem Wettbewerb durch Dumping- Gehälter schützen.
+In Großbritannien gibt es einen staatlichen Mindestlohn. Er soll Menschen zum Arbeiten motivieren und Betriebe vor unfairem Wettbewerb durch Dumping-Gehälter schützen.
 
 Darüber hinaus existiert ein staatliches Existenzsicherungsgehalt, das für alle Menschen über 25 Jahre gilt.
 
