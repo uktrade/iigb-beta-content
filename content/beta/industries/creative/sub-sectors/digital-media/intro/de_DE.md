@@ -1,5 +1,6 @@
 ---
-title: Digitale Medien im Vereinigten Königreich
+title: Digitale Medien in Großbritannien
+published: true
 ---
 
-Das Vereinigte Königreich mag es digital. Wir haben die optimalen Marktbedingungen, Fachkräfte und finanziellen Anreize, um Ihr Unternehmen erfolgreich zu machen.
+Großbritannien schätzt Digitales. Wir haben die optimalen Marktbedingungen, Fachkräfte und finanziellen Anreize, um Ihr Unternehmen erfolgreich zu machen.
