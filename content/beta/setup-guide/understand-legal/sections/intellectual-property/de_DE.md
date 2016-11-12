@@ -1,8 +1,9 @@
 ---
-title: Geistiges Eigentum im Vereinigten Königreich
+title: Geistiges Eigentum in Großbritannien
+published: true
 ---
 
-Das Vereinigte Königreich hat sehr strenge Urheberrechtsgesetze, die Namen, Ideen, Produkte, Designs und Texte von Unternehmen schützen.
+Großbritannien hat sehr strenge Urheberrechtsgesetze, die Namen, Ideen, Produkte, Designs und Texte von Unternehmen schützen.
 
 Automatisch geschützt sind:
 
