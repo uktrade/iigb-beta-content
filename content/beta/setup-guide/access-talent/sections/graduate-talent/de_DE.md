@@ -1,5 +1,6 @@
 ---
 title: Talentierte Absolventen
+published: true
 ---
 
-Im Vereinigten Königreich sind 4 der besten 10 Universitäten der Welt beheimatet und ist, was die MBA-Ausbildung angeht, führend in Europa. Dadurch steht eine Vielzahl einsatzbereiter Absolventen zur Verfügung.
+Großbritannien ist Heimat 4 der besten 10 Universitäten der Welt und, was MBA-Ausbildung angeht, führend in Europa. Dadurch steht eine Vielzahl einsatzbereiter Absolventen zur Verfügung.
