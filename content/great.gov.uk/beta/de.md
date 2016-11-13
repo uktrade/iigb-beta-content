@@ -2,7 +2,7 @@
 published: true
 title: Beta
 ---
-Die Kennzeichnung 'Beta' bedeutet, dass es sich um die erste Version eines neuen Services oder einer neuen Webseite handelt.
+Die Kennzeichnung 'Beta' bedeutet, dass es sich um die erste Version eines neuen Dienstes oder einer neuen Webseite handelt.
 
 ## Beta-Dienste
 [www.GREAT.gov.uk](www.GREAT.gov.uk) entwickelt standig neue oder neu entworfene digitale Dienste. Während der Beta-Phase werden diese Dienste kontinuierlich getestet und verbessert.
