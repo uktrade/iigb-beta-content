@@ -1,6 +1,6 @@
 ---
 published: true
-title: Datenschutzerklärung
+title:
 ---
 ### Ihre personenbezogenen Daten
 
