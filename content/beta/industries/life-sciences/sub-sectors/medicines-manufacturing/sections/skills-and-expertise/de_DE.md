@@ -7,4 +7,4 @@ Großbritannien verfügt über hochqualifizierte Arbeitskräfte, mit mehr als 10
 
 Das Knowhow in der Arzneimittelherstellung ist über das gesamte Land verteilt und kommt zu einer besonders starke Ansiedlung im 'Goldenen Dreieck' der Städte Londons, Oxfords und Cambridge. Der Sektor unterstützt innovative Herstellungsprozesse, Technologien und Ausbildung und versorgt die Unternehmen so mit einer hochqualifizierten Basis, um so in einer stark wissensintensiv geprägten Branche liefern zu können.
 
-Unsere Fähigkeiten und das Fachwissen sind der wesentliche Grund, warum jedes führende Pharmaunternehmen, das sich auf dem Weltmarkt bewegt, eine Präsenz im Vereinigten Königreich hat. Zwei der Top 10 Pharmaunternehmen der Welt (GSK und AstraZeneca) haben auch ihren Firmensitz hier.
+Unsere Fähigkeiten und das Fachwissen sind der wesentliche Grund, warum jedes führende Pharmaunternehmen, das sich auf dem Weltmarkt bewegt, eine Präsenz in Großbritannien hat. Zwei der Top 10 Pharmaunternehmen der Welt (GSK und AstraZeneca) haben auch ihren Firmensitz hier.
