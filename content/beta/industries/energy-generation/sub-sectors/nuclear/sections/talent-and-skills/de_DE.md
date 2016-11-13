@@ -17,7 +17,7 @@ Unsere Nuklearkompetenz erstreckt sich über das gesamte Land. Dennoch befinden 
 
 ### Nuklearkompetenz Bildung und Prüfung
 
-Es existieren sowohl staatliche als auch privat geförderte Initiativen, um Kompetenz und Wissen in der Nuklearenergiebranche des Vereinigten Königreichs voranzutreiben. Das [National College for Nuclear](https://www.nsan.co.uk/news/national-nuclear-college) erarbeitet in enger Zusammenarbeit mit der Branche einen Lehrplan für erstklassige Aus- und Weiterbildung.
+Es existieren sowohl staatliche als auch privat geförderte Initiativen, um Kompetenz und Wissen in der britischen Nuklearenergiebranche voranzutreiben. Das [National College for Nuclear](https://www.nsan.co.uk/news/national-nuclear-college) erarbeitet in enger Zusammenarbeit mit der Branche einen Lehrplan für erstklassige Aus- und Weiterbildung.
 
 Ausbildungsstudiengänge mit Fokus auf Nukleartechnik statten die nächste Generation mit theoretischem Wissen, Praxisfähigkeiten und Erfahrung aus.
 
