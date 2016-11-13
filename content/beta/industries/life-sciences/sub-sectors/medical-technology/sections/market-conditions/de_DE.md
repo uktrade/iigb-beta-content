@@ -9,7 +9,7 @@ Nahezu 3.700 Unternehmen in Großbritannien sind im Medizintechniksektor tätig,
 
 Ein wesentlicher Schwerpunkt liegt auf der Single-Use-Technologie, orthopädischen Geräten und der In-vitro-Diagnostik. Die Dienstleistungs- und Versorgungslieferkette für Medizintechnik bietet essentielle Unterstützung beim Design, der Herstellung und regulatorischem Knowhow.
 
-Die am schnellsten wachsenden Wirtschaftsbereiche im Vereinigten Königreich gemessen am Umsatz sind:
+Die am schnellsten wachsenden Wirtschaftsbereiche in Großbritannien gemessen am Umsatz sind:
 
 -  medizinische Bildgebung, mit einer durchschnittlichen jährlichen Wachstumsrate (CAGR) von 10%
 
