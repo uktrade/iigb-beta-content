@@ -1,6 +1,6 @@
 ---
 published: false
-title: "Privacy section 1 DE"
+title: Datenschutzerklärung
 ---
 ### Ihre personenbezogenen Daten
 
