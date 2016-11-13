@@ -2,10 +2,6 @@
 published: false
 title: "Privacy section 1"
 ---
----
-published: false
-title: "Privacy section 1"
----
 
 ### Your personal information
 
