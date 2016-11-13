@@ -18,4 +18,4 @@ Inhalt von britischen Behörden und anderen öffentlichen Einrichtungen können 
 
 Es kann vorkommen, dass eine neue Website auf [www.GREAT.gov.uk](www.GREAT.gov.uk) veröffentlich wird bevor ihr Vorgänger entfernt worden ist. Die Kennzeichnung "Beta" wird dann auf [www.GREAT.gov.uk](www.GREAT.gov.uk) angezeigt bis die alte Website entfernt wird.
 
-Beta Inhalte unterliegen den selben [Cookies- und Datenschutzrichtlinien](https://www.exportingisgreat.gov.uk/privacy-and-cookies/) und [Allgemeinen Geschäftsbedingungen ](https://www.exportingisgreat.gov.uk/terms-and-conditions/) als etablierte Inhalte.
+Beta Inhalte unterliegen den selben [Cookies- und Datenschutzrichtlinien](https://www.great.gov.uk/de/privacy-policy/) und [Allgemeinen Geschäftsbedingungen ](https://www.exportingisgreat.gov.uk/terms-and-conditions/) als etablierte Inhalte.
