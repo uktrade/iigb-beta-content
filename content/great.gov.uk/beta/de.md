@@ -1,6 +1,6 @@
 ---
 published: true
-title: Beta
+title: Dies ist einer neuer Dienst
 ---
 Die Kennzeichnung 'Beta' bedeutet, dass es sich um die erste Version eines neuen Dienstes oder einer neuen Webseite handelt.
 
