@@ -1,5 +1,5 @@
 ---
 published: true
-title: Importieren aus dem Vereinigten Königreich
+title: Aus Großbritannien importieren
 ---
-Registrieren Sie sich, um frühzeitig exklusiven Zugriff auf die Profile hochqualifizierter Unternehmen im Vereinigten Königreich zu bekommen, die bereit sind, Ihre Anforderungen zu erfüllen.
+Registrieren Sie sich, um frühzeitig exklusiven Zugriff auf die Profile hochqualifizierter Unternehmen in Großbritannien zu bekommen, die bereit sind, Ihren Anforderungen zu erfüllen.
