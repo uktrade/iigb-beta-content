@@ -15,7 +15,7 @@ Größere Unternehmen wollen möglicherweise Gewerberäume bauen, erweitern oder
 
 ### Unternehmenscluster
 
-Unternehmen aus der gleichen oder einer verwandten Branche haben sich an bestimmten Standorten des Vereinigten Königreichs gruppiert und so Kompetenz- und Innovationszentren geschaffen. Ihr Unternehmen im passenden Cluster anzusiedeln, kann viele Vorteile bieten:
+Unternehmen aus der gleichen oder einer verwandten Branche haben sich an bestimmten Standorten Großbritanniens gruppiert und so Kompetenz- und Innovationszentren geschaffen. Ihr Unternehmen im passenden Cluster anzusiedeln, kann viele Vorteile bieten:
  
 - Hohe Verfügbarkeit spezialisierter Fachkräfte
 
