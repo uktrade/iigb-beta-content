@@ -78,11 +78,11 @@ Sie können Antrag auf Einsicht in die personenbezogenen Daten stellen, die das 
 
 Füllen Sie dazu das Kontaktformular des DIT [link] aus oder wenden Sie sich schriftlich an:
 
-Department for International Trade
-King Charles Street
-Whitehall
-London
-SW1A 2AH
+Department for International Trade  
+King Charles Street  
+Whitehall  
+London  
+SW1A 2AH  
 
 Ein Auszug Ihrer Daten und Einzelheiten zur Nutzung kosten GBP 10, die im Voraus zu entrichten sind.
 
@@ -92,11 +92,11 @@ Zum Schutz der nationalen Sicherheit kann das DIT in manchen Fällen Information
 
 Wenn Sie mit der Art und Weise, wie das [DIT mit Ihren personenbezogenen Daten umgeht](https://www.contactus.trade.gov.uk/enquiry/topic), unzufrieden sind, können Sie an folgende Adresse schreiben:
 
-Department for International Trade
-King Charles Street
-Whitehall
-London
-SW1A 2AH
+Department for International Trade  
+King Charles Street  
+Whitehall  
+London  
+SW1A 2AH  
 
 Innerhalb von fünf Tagen erhalten Sie eine Bestätigung über den Eingang Ihrer Beschwerde und innerhalb von 20 Tagen eine vollständige Antwort vom Department for International Trade. Sollte eine Verzögerung auftreten, werden Sie eine Mitteilung vom DIT erhalten.
 
@@ -126,26 +126,26 @@ Die Website verwendet Google Analytics, die Cookies festlegt, um die Anzahl der 
 
 Die von Google Analytics verwendeten Cookies auf [www.GREAT.gov.uk](www.GREAT.gov.uk) lauten:
 
-Bezeichnung: _ga
-Gültig für: Zwei Jahre
-Zweck: Um Benutzer zu unterscheiden
+Bezeichnung: _ga  
+Gültig für: Zwei Jahre  
+Zweck: Um Benutzer zu unterscheiden  
 
-Bezeichnung: _gat
-Gültig bis: nach 10 Minuten der Inaktivität
-Zweck: Beschränkt Anfragen an Google Analytics
+Bezeichnung: _gat  
+Gültig bis: nach 10 Minuten der Inaktivität  
+Zweck: Beschränkt Anfragen an Google Analytics  
 
 Weitere cookies gibt es fur Benutzer des ‘Find a Buyer’ Dienstes and des ‘Find a Supplier’ Dienstes. Diese sind:
 
-Bezeichnung: _SessionID
-Gültig für: Immer
-Zweck: Beinhaltet die Session-ID
+Bezeichnung: _SessionID  
+Gültig für: Immer  
+Zweck: Beinhaltet die Session-ID  
 
-Bezeichnung: _Sso_session_cookie
-Gültig für: Immer
-Zeck: Beinhaltet die Session-ID für Single Sign-On
+Bezeichnung: _Sso_session_cookie  
+Gültig für: Immer  
+Zeck: Beinhaltet die Session-ID für Single Sign-On  
 
-Bezeichnung: _Seen_cookie_message
-Gültig für: Immer
-Zweck: Verhindert, dass Cookies Pop-up-Meldung angezeigt werden, falls bereits gesehen und anerkannt
+Bezeichnung: _Seen_cookie_message  
+Gültig für: Immer  
+Zweck: Verhindert, dass Cookies Pop-up-Meldung angezeigt werden, falls bereits gesehen und anerkannt  
 
 Weitere Informationen über die von Google Analytics gespeicherten Cookies finden Sie auf der [Website Google Code](http://code.google.com/apis/analytics/docs/concepts/gaConceptsCookies.html#cookiesSet).
