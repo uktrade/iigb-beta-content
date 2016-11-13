@@ -13,6 +13,6 @@ Ganz gleich, wo Sie Ihr Unternehmen ansiedeln wollen, sollten Sie den Hauptsitz 
 
 Nachdem Sie das getan haben, können Sie das weitere Antragsverfahren weitestgehend per Internet oder übers Telefon durchführen. Sie werden einen Personalausweis mit Lichtbild und eine beglaubigte Adresse für jeden Geschäftsführer und bedeutenden Gesellschafter vorlegen müssen.
   
-Zur Unterzeichnung des Bankmandats für die Geschäftskontoeröffnung wird die Bank auch einen Vertreter Ihres Unternehmens persönlich im Vereinigten Königreich treffen wollen.
+Zur Unterzeichnung des Bankmandats für die Geschäftskontoeröffnung wird die Bank auch einen Vertreter Ihres Unternehmens persönlich in Großbritannien treffen wollen.
 
 Ist Ihr Bankkonto eröffnet, können Sie Ihre Filiale vor Ort für die täglichen Bankgeschäfte nutzen.
