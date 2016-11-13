@@ -21,6 +21,6 @@ Großbritannien bietet die Möglichkeit für Innovatoren in der Medizintechnik:
 
 - Nutzbarkeit durch Beurteilung und Zusammenarbeit der Gesundheitstechnik mit der NHS zu beweisen
 
-- weltweite Marketingmöglichkeiten freizusetzen anhand einer im Vereinigten Königreich erlangten Faktenlage
+- weltweite Marketingmöglichkeiten freizusetzen anhand einer in Großbritannien erlangten Faktenlage
 
 All dies wird untermauert durch Zugang zu medizinischen Experten und Patienten und einzigartigen Gesundheitsdatenbeständen. Außerdem verfügen wir über ein unterstützendes Geschäfts- und Investitionsumfeld (mit einer vernünftigen und pragmatischen Regulierung) und einer etablierten Versorgungs- und Dienstleistungskette.
