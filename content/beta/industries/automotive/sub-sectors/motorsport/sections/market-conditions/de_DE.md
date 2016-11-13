@@ -51,7 +51,7 @@ Dazu gehören:
 
 Großbritannien stellt eine Basis für die neue internationale Elektromotor-Rennserie Formel E bereit. Es gehört zu den Hauptzulieferern für IndyCar und NASCAR in den USA, die Tourenwagen-Meisterschaft in China und das 24 Stunden Rennen von Le Mans.
 
-Diese Rennen profitieren von neuen Technologien, die von Unternehmen aus dem Vereinigten Königreich entwickelt werden. Cosworth aus Northampton ist Weltmarktführer im Bereich Motorelektronik und Telemetrie und liefert derzeit Messdatenerfassung und Telemetrie für das Straßenfahrzeug Chevrolet Corvette. Während Xtrac aus Berkshire weltberühmt für das Design und die Herstellung von Getrieben ist.
+Diese Rennen profitieren von neuen Technologien, die von Unternehmen aus Großbritannien entwickelt werden. Cosworth aus Northampton ist Weltmarktführer im Bereich Motorelektronik und Telemetrie und liefert derzeit Messdatenerfassung und Telemetrie für das Straßenfahrzeug Chevrolet Corvette. Während Xtrac aus Berkshire weltberühmt für das Design und die Herstellung von Getrieben ist.
 
 Motorsportunternehmen aus Großbritannien sind über den Rennsektor hinaus in Bereichen wie Energiespeicherung, Marine und Verteidigung aktiv. Williams Advanced Engineering hat eine Schwungradtechnologie zur Energiespeicherung in zwei abgelegenen schottischen Inselgemeinden installiert. Und Wildcat Automotive hat seinen Wildcat 500DKR Geländerenner in ein Allrad-Militärfahrzeug umgewandelt.
 
