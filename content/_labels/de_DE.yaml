@@ -64,10 +64,10 @@ form_staff_number:
     - "Zwischen 10 und 50"
     - "Zwischen 50 und 250"
     - "Mehr als 250"
-form_location: "Interessieren Sie sich für einen bestimmten Standort im Vereinigten Königreich?"
+form_location: "Interessieren Sie sich für einen bestimmten Standort in Großbritannien?"
 form_enter_which_part: "Bitte wählen Sie einen Standort aus"
 form_which_part:
-  label: "im Vereinigten Königreich"
+  label: "Wo in Großbritannien?"
   options:
     - "London und der Südosten"
     - "Bristol und der Südwesten"
@@ -79,8 +79,8 @@ form_which_part:
     - "Aberdeen und Nordostschottland"
     - "Belfast und Nordirland"
     - "Nottingham und die östlichen Midlands"
-form_enter_when: "Geben Sie ein ungefähres Startdatum für die Aufnahme Ihrer Geschäfte im Vereinigten Königreich ein"
-form_when: "Für wann planen Sie die Aufnahme Ihrer Geschäftstätigkeit im Vereinigten Königreich?"
+form_enter_when: "Geben Sie ein ungefähres Startdatum für die Aufnahme Ihrer Geschäfte in Großbritannien ein"
+form_when: "Für wann planen Sie die Aufnahme Ihrer Geschäftstätigkeit in Großbritannien?"
 form_when_month:
   please_select: "Monat"
   options:
@@ -121,7 +121,7 @@ form_primary_industry:
   options:
     - "Vermögensmanagement"
     - "Automobile Forschung und Entwicklung"
-    - "Automobile Supply Chain"
+    - "Automobile Lieferkette"
     - "Big Data und Analytics"
     - "Kreativer Content und Produktion"
     - "Digitale Medien"
