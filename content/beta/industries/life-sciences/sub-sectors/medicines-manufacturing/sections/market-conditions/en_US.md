@@ -15,9 +15,4 @@ Businesses which set up or invest in the UK benefit from a low-risk manufacturin
 The Medicines and Healthcare products Regulatory Agency (MHRA) is a supportive and pragmatic regulator. Its [Innovation Office](https://www.gov.uk/government/groups/mhra-innovation-office) helps businesses clarify product regulatory or manufacturing requirements and can find faster routes to market.
 MHRA has global impact as a regulatory agency and in setting international standards. The agency’s National Institute for Biological Standards and Control produces more than 90% of the international standards for biological medicines.
 
-### Health and life sciences skills and expertise
-The UK has a highly skilled workforce with more than 107,000 employees in the biopharmaceutical sector and a total workforce of 222,000 across the whole of health and life sciences.
 
-Pharmaceutical manufacturing expertise is spread throughout the nation with a very strong base in the ‘golden triangle’ of London, Oxford and Cambridge. The sector supports innovative manufacturing processes, technologies and training, giving companies a significant skills base to deliver in a very knowledge-intensive industry.
- 
-Our skills and expertise are major reasons why all of the leading pharmaceutical corporations operating in the global market have a presence in the UK. Two of the top 10 global pharmaceutical companies (GSK and AstraZeneca) also have their headquarters here.
