@@ -1,5 +1,5 @@
 ---
-title: "Investieren sie in Großbritannien & Nordirland"
+title: "Investieren Sie in Großbritannien & Nordirland"
 published: true
 ---
 
