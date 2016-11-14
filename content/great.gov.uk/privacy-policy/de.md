@@ -1,7 +1,9 @@
 ---
 published: true
-title:
+title: "GREAT.gov.uk Datenschutz- und Cookies-Richtlinie"
 ---
+Wichtig: Wir haben ihnen diese Übersetzung nur zu Ihrer Information zur Verfügung gestellt. Der offizielle Text ist die englische Version. Etwaige Abweichungen oder Unterschiede in der Übersetzung sind nicht bindend und haben keine rechtliche Wirkung.
+
 ### Ihre personenbezogenen Daten
 
 Auf dieser Seite wird erläutert, welche Art personenbezogener Daten das britische Ministerium für Internationalen Handel (Department for International Trade, kurz DIT) von Ihnen speichert, wie diese genutzt werden, wie sie geschützt werden und wie Sie sich diesbezüglich informieren können.
@@ -32,7 +34,7 @@ Einige dieser Informationen werden durch die Verwendung von Cookies und andere d
 
 Das DIT kann Informationen über Sie erhalten, falls Sie eine der anderen vom DIT betriebenen Websites oder andere vom DIT bereitgestellten Services nutzen. Das DIT arbeitet ferner mit Dritten zusammen (beispielsweise Partner und Subunternehmer) und kann von solchen Dritten Informationen über Sie erhalten.
 
-Wir verweisen sie zu den Datenschutzrichtlinien Dritter, wenn Sie Bedenken über deren Offenlegung Ihrer persönlichen Daten an uns haben.
+Wir verweisen sie zu den Datenschutzrichtlinien Dritter, falls Sie Bedenken über deren Offenlegung Ihrer persönlichen Daten an uns haben.
 
 ### Wie schützt das DIT Ihre personenbezogenen Daten?
 
