@@ -84,7 +84,7 @@ form_when_month:
   please_select: "month"
   options:
     - "January"
-    - "Febuary"
+    - "February"
     - "March"
     - "April"
     - "May"
