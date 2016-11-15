@@ -1,5 +1,5 @@
 ---
 published: false
-title:
+title: "Privacy and cookies"
 ---
 
