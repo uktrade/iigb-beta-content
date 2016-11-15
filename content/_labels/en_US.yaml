@@ -395,4 +395,4 @@ form_headquarters:
     - "South Africa"
     - "Zambia"
     - "Zimbabwe"
-form_disclaimer: "By sending us your details you confirm that the information you’ve shared with us is true and you accept our terms and conditions"
+form_disclaimer: "By sending us your details you confirm that the information you’ve shared with us is true and you accept our <a href='https://www.exportingisgreat.gov.uk/terms-and-conditions/'>terms and conditions</a>."
