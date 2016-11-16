@@ -1,9 +1,10 @@
 ---
 title: Energy generation overview
+published: true
 ---
 The UK is improving energy efficiency, expanding renewable and low carbon energy and maximising production of oil and gas. 
 
-Energy is a major driver of growth in the UK. Energy projects, totalling over 200 billion GBP, account for around 60% of our total infrastructure project pipeline.
+Energy is a major driver of our growth. Energy projects, totalling over 200 billion GBP, account for around 60% of our total infrastructure project pipeline.
 
 The UK is one of the best places in the world to invest in renewable energy. We offer significant supply chain opportunities across the sector, including waste energy, electrical networks and offshore wind. This will help the UK meet projected increases in electricity demand, achieve its low carbon targets and enjoy economic growth.
 
@@ -13,6 +14,3 @@ The UK Continental Shelf remains an important prospect for oil and gas, with sig
 A skilled and experienced energy labour pool of more than 600,000 people has grown up over many years to support the sector, with clusters spread across across the UK. 
 
 We’re committed to building a sustainable energy future for the UK, with regulatory and financial support measures to protect and provide attractive incentives to investors.
-
-
-
