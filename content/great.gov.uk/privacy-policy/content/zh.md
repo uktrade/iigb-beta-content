@@ -2,77 +2,87 @@
 published: false
 title: 
 ---
+我们提供这中文版本仅供参考，正式文本为英文版本。任何在翻译中的差异并不具有约束力和法律效力。
 
-### Your personal information
+您的个人信息
 
-This page explains what kind of personal information the Department for International Trade (DIT) holds about you, how it’s used, how it’s protected and how you can find out about it.
+本页说明国际贸易部持有您的哪些个人信息，其会如何使用和保护这些信息，以及您获知有关情况的方式。
 
-Please read this page carefully to understand how we collect, use and store your personal information.  Please also re-visit it from time to time to review any changes that have been made.
+请仔细阅读本页以了解我们如何收集、使用和存储您的个人信息。也请您不时返回本页面并查看我们所做的任何变更。
 
-### What information the DIT stores about you
+国际贸易部储存与您有关的哪些信息
 
-GREAT.gov.uk and the DIT will, for example, store the following information about you:
-* your name
-* your chosen username and password
-* your email address
-* your business’s address
-* your business’s exporting experience
-* your internet protocol (IP) address used your computer to connect to the internet
-* your browser type and version, and any browser plug-ins you use
-* your time-zone setting
-* your operating system and platform
-* the full uniform resource locators (URLs) you used to get to our site, through our site and from our site (including the date and time)
-* pages you viewed or terms you searched for
-* page response times, download errors, length of visits to certain pages, page interaction information (such as scrolling, clicks, and ‘mouse-overs’)
-* methods used to browse away from the page
-* phone numbers used to call our customer service helpline
+举例说明，GREAT.gov.uk和国际贸易部将储存与您有关的下列信息：
 
-Not all of this information will be personal data, and the extent to which any of this information is personal data may depend on applicable data protection laws.
+* 您的姓名
+* 您选择的用户名和密码
+* 您的电子邮件地址
+* 您企业的地址
+* 您企业的出口经验
+* 您使用计算机上网的互联网协议（IP）地址
+* 您浏览器的类型和版本，以及您使用的任何浏览器插件
+* 您的时区设置
+* 您的操作系统和平台
+* 您用以登入我们的网站、浏览网站内容以及从我们网站链接至其他网站（包括日期和时间）的完整统一资源定位符（URL）
+* 您浏览过的网页或搜索过的术语
+* 页面响应时间、下载错误、某些页面的访问时长、页面互动信息（如滚动、点击和“鼠标悬停”）
+* 离开页面的方式
+* 用于致电我们客户服务热线的电话号码
 
-Some of this information will be collected through the use of cookies and other related tracking technologies.  Cookies are used to distinguish you from other users of this website. DIT provides details on what cookies do and a full list of cookies that DIT uses on its websites. For more information see our cookie policy.
+这些信息并非全部为个人信息，可在多大程度上将其视为个人信息将取决于适用的数据保护法律。
 
-DIT may receive information about you if you use any of the other websites the DIT operates or services DIT provides. DIT also works with third parties (for example, partners and subcontractors) and may receive information about you from these third parties.  You should refer to the privacy policies of those third parties if you have concerns about their disclosure of your personal information to us.
+这些信息中的一部分信息将会通过Cookie和其他相关跟踪技术进行收集。我们会使用Cookie将您与本网站的其他用户进行区别。国际贸易部提供了有关Cookie功能的详细信息，同时也提供了国际贸易部在其网站上所使用Cookie的完整列表。如需更多信息，请参见我们的Cookie政策。
 
-### How the DIT protects your personal information
+如果您使用国际贸易部运营的任何其他网站或国际贸易部提供的服务，则国际贸易部可能会收到有关您的信息。国际贸易部还与第三方（例如合作伙伴和分包商）进行合作，并可能从第三方收到有关您的信息。
 
-The DIT complies with the Data Protection Act 1998. 
+国际贸易部如何保护您的个人信息
+国际贸易部遵从《1998年数据保护法案》。
+国际贸易部将：
 
-The DIT will:
-* tell you why the information is needed. For example, we ask about your company’s exporting experience to decide whether it is suitable for inclusion in the Find a Buyer service.
-* only ask for what’s needed
-* make sure nobody has access to it who shouldn’t
-* tell you if the information is shared with other organisations and if you can say no to this
-* only keep the information for as long as it’s needed
-* not make it available for commercial use (for example, for marketing) without your permission
+* 告知为何需要该信息。 例如，我们询问贵公司的出口经验，以决定是否适合将其纳入出口商档案。
+* 只要求提供所需信息
+* 确保不应知悉者无法获得该信息
+* 告知是否与其他机构共享信息，以及您是否可对此表示拒绝
+* 仅会在需要的时长内对信息进行保留
+* 未经您的许可，不得将其用于诸如营销等商业用途
 
-You must:
-* give accurate information
-* tell the DIT about any changes, for example, to your address
+您必须：
+* 提供准确信息
+* 若有任何更改（如地址等），请告知国际贸易部
 
-### Sharing your information
+共享您的信息
+我们可能会与国际贸易部的其他团队或需要用其处理您申请的其他机构共享您的信息。
+某些情况下，您的信息可能由于其他原因（如防止犯罪）而加以共享。
 
-Your information can be shared with other teams in the DIT or other organisations where this is needed to process your application.
+如果您要求提供未在www.GREAT.gov.uk上发布的信息，国际贸易部可能需要联系其他机构为您寻找答案。
+若您提出技术问题，国际贸易部可能需要将信息传递给技术供应商。 国际贸易部只会在必要的情况下传输个人资料，且仅会在需要的时长内对您的个人资料以及相关通讯记录进行保存。
+处理您的信息的国际贸易部工作人员
+国际贸易部的工作人员接受过处理信息的培训，了解保护个人信息和其他敏感信息的重要程度。
+在DIT内部，能够访问您的个人信息的人员仅限我们团队内部出于后面所列目的而需要访问您个人信息的成员，向您提供您请求的服务；与您进行沟通（包括，在您同意的前提下，向您发送营销通讯）；履行法律或法定义务。
+ 
+您的权利
+您拥有下列权利：
+* 要求查看国际贸易部所持有的您的个人信息的副本；
+* 更改不准确的个人信息；
+* 要求我们停止向您发送直接营销通讯；
+* 在限定情形下，要求将您的个人信息清除，或者要求限制个人信息的处理方式，或者就个人信息的处理方式提出质疑。
 
-There are some cases when your information can be shared for other reasons, for example, to prevent crime. 
+如果您要行使上述任一权利，请填写国际贸易部联系表格或者寄送邮件至：
 
-If you’re asking for information that isn’t published on www.GREAT.gov.uk, DIT may need to contact other organisations to find answers to your questions.
+请填写国际贸易部联系表格或写信寄往：
+Department for International Trade
+King Charles Street
+Whitehall
+London
+SW1A 2AH
 
-If your question is technical, DIT may need to pass information to technology suppliers. DIT will only pass on personal data if it is necessary to do so, and will not keep your personal data or records of its correspondence longer than necessary.
+您的信息和使用细节的复印费为10英镑，应预先支付。
 
-### The DIT staff handling your information
+有些时候（例如为了保护国家安全），国际贸易部可拒绝透露信息。
 
-The DIT staff are trained in handling information and understand how important it is to protect personal and other sensitive information.
-Within DIT, access to your personal information is limited to those members of our team who need access to it in order to provide you with our services which you request; to communicate with you (including, with your consent,  to send you marketing communications); and to carry out legal or regulatory obligations. 
+如何投诉
 
-### Your rights
-
-You have the right to:
-* ask to receive a copy of the personal information the DIT holds about you
-* amend inaccurate personal information
-* stop us sending you direct marketing communications
-* in limited circumstances, to have personal information erased, or to restrict or challenge or processing of that personal information
-
-To exercise any of these rights, fill in the [DIT contact form](https://www.contactus.trade.gov.uk/enquiry/topic) or write a letter to:
+如果您对国际贸易部处理自己个人信息的方式感到不满，可写信寄往：
 
 Department for International Trade
 King Charles Street
@@ -80,68 +90,37 @@ Whitehall
 London
 SW1A 2AH
 
-Copies of your information and details of use cost £10, payable in advance.
+您将在5天内收到确认书，向您告知国际贸易部已收到您的投诉，并且您将在20天内收到完整答复。如有延迟，国际贸易部将另行通知。
+如果您对答复不满意或需要任何建议，请联系信息专员办公室（ICO）。
+ICO可对您的投诉开展调查，并对滥用个人资料的任何人采取行动。
+本隐私政策的更改事宜
+本隐私政策的任何更改均会在此网页上予以发布。请留意查看我们隐私政策的更新或更改。
 
-Sometimes the DIT can withhold information, for example, to protect national security.
+国际贸易部处理您个人信息的方式载于其信息章程中。
+国际贸易部 Cookie策略
+国际贸易部希望提供易于使用、实用可靠的服务。由于这些服务均在互联网上提供，有时会涉及在您的设备（如计算机或手机）上放置少量信息。
+这些信息包括称为Cookie的小文件。这些信息不能用于直接对您进行身份识别，但可通过特定功能用于改进为您提供的服务，将这些功能举例如下：
+* 让某项服务能够对您的设备进行识别，因此您无需多次提交相同信息
+* 测定使用服务的人数，从而为人们提供更易于使用的服务
 
-### How to make a complaint
-
-If you’re unhappy with the way the DIT handled your personal information, you can write to:
-
-Department for International Trade
-King Charles Street
-Whitehall
-London
-SW1A 2AH
-
-You’ll get a confirmation that the DIT has received your complaint within 5 days and a full answer within 20 days. The DIT will tell you if there’s going to be a delay.
-
-If you’re unhappy with the answer or need any advice, contact the Information Commissioner’s Office (ICO).
-
-The ICO can investigate your complaint and take action against anyone who has misused personal data.
-
-### Changes to this privacy policy
-
-Any changes made to this privacy policy will be posted on this webpage. Please check back for updates or changes to our privacy policy.
-The way the DIT deals with your personal information is set out in its information charter.
-
-### DIT cookies policy
-
-DIT wants to provide services that are easy to use, useful and reliable. Where services are delivered on the internet, this sometimes involves placing small amounts of information on your device, for example, computer or mobile phone. 
-
-These include small files known as cookies. They cannot be used to directly identify you personally. These pieces of information are used to improve services for you through, for example:
-* enabling a service to recognise your device so you don’t have to give the same information several times
-* measuring how many people are using services, so they can be made easier to use
-
-You can manage these small files yourself and learn more about them through on About Cookies.
-
-### Use of cookies on this website
-
-The www.GREAT.gov.uk website uses cookies. These enable the website to provide more appropriate information to you, for example, by not asking for the same information on multiple occasions.
-
-The website uses Google Analytics, which sets cookies to help us accurately estimate the number of visitors to the website and volumes of usage. This to ensure that the service is available when you want it and fast.
-
-The Google Analytics cookies used on www.GREAT.gov.uk are:
-
-Name: _ga
-Expires: after 2 years
-Purpose: to distinguish users
-
-Name: _gat
-Expires: after ten minutes
-Purpose: Used to limit requests to Google Analytics
-
-Additional cookies are set for users of the Find a Buyer service and the Find a Supplier service. These are: 
-
-Name: _SessionID
-Expires: never
-Purpose: Maintains the session id
-
-Name: _Sso_session_cookie
-Expires: never
-Purpose: Maintains the session id for single sign on
-
-Name: _Seen_cookie_message
-Expires: never
-Purpose: Prevents cookies pop-up message displaying if already seen and acknowledged
-For further details on the cookies set by Google Analytics, please refer to the Google Code website.
+您可自行管理这些小文件，并可通过About Cookies（Cookie相关知识）网站了解更多信息。
+本网站对Cookie的使用
+www.GREAT.gov.uk使用Cookie。网站通过使用Cookie能够为您提供更恰当的信息，例如，无需在多种场合要求您提供相同信息。
+该网站使用Google Analytics（谷歌分析），Google Analytics会设置Cookie以帮助我们精确估算网站访问者的数量和使用量。这能够确保我们能在您需要的时候为您提供快捷服务。
+www.GREAT.gov.uk上使用的Google Analytics 的五个Cookie分别为：
+名称：_utma
+典型内容：随机生成的数字
+有效期：永不过期
+名称：_utmb
+典型内容：随机生成的数字
+有效期：休止状态30分钟后
+名称：_utmc
+典型内容：随机生成的数字
+有效期：休止状态30分钟后
+名称：_utmz
+典型内容：随机生成的数字 + 有关如何访问网站的信息（如直接访问或通过链接访问，通过自然搜索进行访问或通过付费搜索进行访问）
+有效期：6个月
+名称：_utmv
+典型内容：随机生成的数字
+有效期：永不过期
+欲获取有关Google Analytics所设置Cookie的更多详情，请参阅 Google 代码网站。
