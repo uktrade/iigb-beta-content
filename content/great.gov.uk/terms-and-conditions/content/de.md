@@ -80,17 +80,21 @@ Sie dürfen nicht versuchen, sich unerlaubten Zugriff auf die Website [www.GREAT
 Sie dürfen keinerlei Angriff auf unsere Site in Form einer Denial of Service (DoS) Attacke oder einer Distributed Denial of Service (DDoS) Attacke unternehmen. Ein Verstoß gegen diese Bestimmung gilt als strafbare Handlung nach dem Gesetz über Computer-Missbrauch (Computer Misuse Act) von 1990. Das DIT wird alle solche Verstöße bei den zuständigen Strafverfolgungsbehörden zur Anzeige bringen und mit diesen Behörden kooperieren, indem es Ihre Identität preisgibt. Im Falle einer solchen Verletzung erlischt Ihr Recht auf Nutzung dieser Website mit sofortiger Wirkung.
 
 ## 8. Haftungsausschluss
+
 8.1 Die Website wird ausschließlich zu Informationszwecken zur Verfügung gestellt und sollte nicht als Ersatz für Ihre eigenen Nachforschungen oder für Beratung von unabhängiger Seite betrachtet werden. Das DIT übernimmt keine Haftung für Verluste oder Schäden, die einer Person infolge von Fehlern, Auslassungen oder irreführenden Aussagen in den Informationen auf dieser Website entstehen oder aufgrund der Nutzung dieser Website oder indem er/sie sich auf solche Informationen verlässt.
  
 8.2 Die Informationen auf der Website [www.GREAT.gov.uk](https://www.GREAT.gov.uk) werden so genau wie irgend möglich und vertretbar gehalten. Jedoch kann keinerlei Garantie für die Richtigkeit, Vollständigkeit oder Aktualität der Inhalte der Website in irgendeiner Weise, explizit oder implizit, übernommen werden.
 
 ## 9. Aufforderung zur Entfernung von Inhalten
+
 9.1 Sie können darum bitten, Inhalte von www.GREAT.gov.uk entfernen zu lassen. Wir tun dies nur in bestimmten Fällen, z.B. wenn eine Verletzung von Urheberrechten vorliegt, wenn sie vertrauliche persönliche Daten oder Material enthalten, das als anstößig oder beleidigend gelten kann.
 
 9.2 Kontaktieren Sie uns, [Zendesk?|LINK]wenn Sie Inhalte entfernen lassen möchten. Zu diesem Zweck müssen Sie uns die Web-Adresse (URL) der Inhalte zusenden und erläutern, warum Sie der Meinung sind, dass sie entfernt werden sollten. Wir werden Ihnen antworten und mitteilen, ob wir sie entfernen werden.
 
 Wir entfernen Inhalte nach eigenem Ermessen nach Absprache mit der dafür zuständigen Abteilung oder Behörde. Gemäß dem Gesetz über Informationsfreiheit und dem Datenschutzgesetz können Sie weiterhin Auskunft verlangen.
+
 ## 10. Haftungsbeschränkung
+
 10.1 Soweit gesetzlich zulässig, schließt das DIT alle Bedingungen, Garantien, Gewährleistungen oder andere Bestimmungen aus, die für die Website oder beliebige Inhalte der Website – ausdrücklich oder stillschweigend – gelten könnten.
 
 10.2 Die Website www.GREAT.gov.uk richtet sich an im Vereinigten Königreich und im Ausland ansässige Unternehmen. Sie stimmen zu, diese Website und jegliche Dienstleistungen, die über diese Website angeboten werden, ausschließlich für geschäftliche Zwecke zu nutzen, und Sie erkennen an, dass Sie somit in einem geschäftlichen Zusammenhang agieren und nicht als Verbraucher.
@@ -107,11 +111,11 @@ Verlust von erwarteten Einsparungen
 Verlust von Geschäftsmöglichkeiten, Geschäfts- oder Firmenwert oder gutem Ruf
 alle indirekten oder Folgeverluste oder -schäden
  
-10.3 Das DIT übernimmt keine Verantwortung für den Inhalt von verlinkten Seiten auf der Website [www.GREAT.gov.uk](https://www.GREAT.gov.uk).
+10.4 Das DIT übernimmt keine Verantwortung für den Inhalt von verlinkten Seiten auf der Website [www.GREAT.gov.uk](https://www.GREAT.gov.uk).
  
-10.4 Keine der Bestimmungen in diesen Nutzungsbedingungen schließt die Haftung des DIT aus oder beschränkt diese im Falle von Tod oder Körperverletzung aufgrund von Fahrlässigkeit, Betrug oder betrügerischer Falschdarstellung, oder jeglicher anderer Haftung, die durch das englische Recht nicht ausgeschlossen oder beschränkt werden kann.
+10.5 Keine der Bestimmungen in diesen Nutzungsbedingungen schließt die Haftung des DIT aus oder beschränkt diese im Falle von Tod oder Körperverletzung aufgrund von Fahrlässigkeit, Betrug oder betrügerischer Falschdarstellung, oder jeglicher anderer Haftung, die durch das englische Recht nicht ausgeschlossen oder beschränkt werden kann.
 
-10.5 Durch die Nutzung der Website www.GREAT.gov.uk finden Sie möglicherweise andere Unternehmen oder Personen, mit denen Sie eine geschäftliche Vereinbarung beschließen.  Sie können beispielsweise ein Exporteur sein und nutzen unsere Website, um einen Käufer für Ihre Waren zu finden.  Sie bestätigen und stimmen zu, dass wir keine Haftung für Handelsbeziehungen übernehmen, die im Zusammenhang mit der Nutzung unserer Dienste entstanden sind, und wir haften nicht für den Erfolg oder Mißerfolg solcher Beziehungen.
+10.6 Durch die Nutzung der Website www.GREAT.gov.uk finden Sie möglicherweise andere Unternehmen oder Personen, mit denen Sie eine geschäftliche Vereinbarung beschließen.  Sie können beispielsweise ein Exporteur sein und nutzen unsere Website, um einen Käufer für Ihre Waren zu finden.  Sie bestätigen und stimmen zu, dass wir keine Haftung für Handelsbeziehungen übernehmen, die im Zusammenhang mit der Nutzung unserer Dienste entstanden sind, und wir haften nicht für den Erfolg oder Mißerfolg solcher Beziehungen.
 
 ## 11. Informationsfreiheit
 11.1 Mit der Nutzung der Website [www.GREAT.gov.uk](https://www.GREAT.gov.uk). erklären Sie sich einverstanden, dass alle Informationen im Besitz des DIT den Bestimmungen des britischen Gesetzes über Informationsfreiheit [Freedom of Information Act 2000](http://www.legislation.gov.uk/ukpga/2000/36/contents) und der Umweltinformationsverordnung [Environmental Information Regulations 2004](http://www.legislation.gov.uk/uksi/2004/3391/contents/made) unterliegen, aufgrund derer eine Freigabe solcher Informationen erforderlich werden kann.
