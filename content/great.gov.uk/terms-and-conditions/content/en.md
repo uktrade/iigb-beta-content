@@ -3,19 +3,19 @@ title: Terms and Conditions
 published: true
 ---
 
-#### 1. Use of the [www.GREAT.gov.uk](www.GREAT.gov.uk) website
+#### 1. Use of the [www.GREAT.gov.uk](https://www.GREAT.gov.uk) website
 
-1.1 Use of this website [www.GREAT.gov.uk](www.GREAT.gov.uk) is subject to the following terms of use (together with the documents referred to in it).
+1.1 Use of this website [www.GREAT.gov.uk](https://www.GREAT.gov.uk) is subject to the following terms of use (together with the documents referred to in it).
 
-Read these terms of use carefully before you start to use the [www.GREAT.gov.uk](www.GREAT.gov.uk) as these will apply to your use of the website.
+Read these terms of use carefully before you start to use the [www.GREAT.gov.uk](https://www.GREAT.gov.uk) as these will apply to your use of the website.
 
-[www.GREAT.gov.uk](www.GREAT.gov.uk) refers to:
+[www.GREAT.gov.uk](https://www.GREAT.gov.uk) refers to:
 
-- [www.GREAT.gov.uk/export](www.GREAT.gov.uk/export)  
-- [www.GREAT.gov.uk/invest](www.GREAT.gov.uk/invest)  
-- [www.GREAT.gov.uk/trade](www.GREAT.gov.uk/trade) 
+- [www.GREAT.gov.uk/export](https://www.GREAT.gov.uk/export)  
+- [www.GREAT.gov.uk/invest](https://www.GREAT.gov.uk/invest)  
+- [www.GREAT.gov.uk/trade](https://www.GREAT.gov.uk/trade) 
 
-The [www.GREAT.gov.uk](www.GREAT.gov.uk) website is managed by the Department for International Trade (DIT).
+The [www.GREAT.gov.uk](https://www.GREAT.gov.uk) website is managed by the Department for International Trade (DIT).
 
 By entering and using the www.GREAT.gov.uk you as a user are confirming that you accept our terms of use (including our privacy and cookies policy) and you agree to comply with them. If you do not accept these terms of use you should navigate away from this website now.
 
