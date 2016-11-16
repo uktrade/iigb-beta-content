@@ -1,5 +1,6 @@
 ---
 title: The global home of motorsport
+published: true
 ---
 UK-based businesses act as major suppliers to teams competing in everything from NASCAR to Formula E to the China Touring Car Championship. Famously, 7 out of 11 Formula 1 racing teams have their headquarters in the UK.
 
@@ -37,11 +38,8 @@ The UK has made more motorsport innovations in the last 60 years than any other 
 
 The UK provides a base for the new global electric racing series Formula E. It is a major supplier to IndyCar and NASCAR in the USA, the China Touring Car Championship and the 24 Hours of Le Mans series. 
 
-These racing series benefit from new technology developed by UK companies. Cosworth, based in Northampton, is a global leader in engine electronics and telemetry (and now supplies data logging and telemetry for the road-going Chevrolet Corvette). w While Berkshire’s Xtrac is world-renowned for the design and manufacture of transmission systems. 
-
+These racing series benefit from new technology developed by UK companies. Cosworth, based in Northampton, is a global leader in engine electronics and telemetry (and now supplies data logging and telemetry for the road-going Chevrolet Corvette). While Berkshire’s Xtrac is world-renowned for the design and manufacture of transmission systems. 
 
 UK motorsport companies are also going beyond racing into sectors such as energy storage, marine and defence. Williams Advanced Engineering has installed flywheel energy storage technology in two remote Scottish island communities. And Wildcat Automotive has transformed its Wildcat 500DKR off-road racer into a specialist military all-terrain vehicle.
 
-Some are even going beyond physical engineering. McLaren has applied pit-stop techniques to reduce waiting times and increase operating theatre efficiency at Great Ormond Street Hospital. 
-
-
+Some are even going beyond physical engineering. McLaren has applied pit-stop techniques to reduce waiting times and increase operating theatre efficiency at Great Ormond Street Hospital.
