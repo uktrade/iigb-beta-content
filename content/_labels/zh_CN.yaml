@@ -395,5 +395,6 @@ form_headquarters:
     - "南非"
     - "赞比亚"
     - "津巴布韦"
-form_disclaimer: "发送您的详细信息以后，代表您同意提供的信息是真实并接受 <a href='https://www.exportingisgreat.gov.uk/terms-and-conditions/'>我们的附带条约。</a>."
+form_disclaimer: "发送您的详细信息以后，代表您同意提供的信息是真实并接受 "
+form_disclaimer_tc: "我们的附带条约。"
 
