@@ -1,6 +1,6 @@
 ---
 published: false
-title:
+title: Untitled
 ---
 
 ### Your personal information
@@ -74,11 +74,11 @@ You have the right to:
 
 To exercise any of these rights, fill in the [DIT contact form](https://www.contactus.trade.gov.uk/enquiry/topic) or write a letter to:
 
-Department for International Trade
-King Charles Street
-Whitehall
-London
-SW1A 2AH
+Department for International Trade  
+King Charles Street  
+Whitehall  
+London  
+SW1A 2AH  
 
 Copies of your information and details of use cost £10, payable in advance.
 
@@ -88,11 +88,11 @@ Sometimes the DIT can withhold information, for example, to protect national sec
 
 If you’re unhappy with the way the DIT handled your personal information, you can write to:
 
-Department for International Trade
-King Charles Street
-Whitehall
-London
-SW1A 2AH
+Department for International Trade  
+King Charles Street  
+Whitehall  
+London  
+SW1A 2AH  
 
 You’ll get a confirmation that the DIT has received your complaint within 5 days and a full answer within 20 days. The DIT will tell you if there’s going to be a delay.
 
@@ -123,25 +123,25 @@ The website uses Google Analytics, which sets cookies to help us accurately esti
 
 The Google Analytics cookies used on www.GREAT.gov.uk are:
 
-Name: _ga
-Expires: after 2 years
-Purpose: to distinguish users
+Name: _ga  
+Expires: after 2 years 
+Purpose: to distinguish users  
 
-Name: _gat
-Expires: after ten minutes
-Purpose: Used to limit requests to Google Analytics
+Name: _gat  
+Expires: after ten minutes  
+Purpose: Used to limit requests to Google Analytics  
 
 Additional cookies are set for users of the Find a Buyer service and the Find a Supplier service. These are: 
 
-Name: _SessionID
-Expires: never
-Purpose: Maintains the session id
+Name: _SessionID  
+Expires: never  
+Purpose: Maintains the session id  
 
-Name: _Sso_session_cookie
-Expires: never
-Purpose: Maintains the session id for single sign on
-
-Name: _Seen_cookie_message
-Expires: never
-Purpose: Prevents cookies pop-up message displaying if already seen and acknowledged
+Name: _Sso_session_cookie  
+Expires: never  
+Purpose: Maintains the session id for single sign on  
+ 
+Name: _Seen_cookie_message  
+Expires: never  
+Purpose: Prevents cookies pop-up message displaying if already seen and acknowledged  
 For further details on the cookies set by Google Analytics, please refer to the Google Code website.
