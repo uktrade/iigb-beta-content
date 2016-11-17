@@ -1,7 +1,3 @@
----
-published: false
-title: Untitled
----
 
 ### Your personal information
 
