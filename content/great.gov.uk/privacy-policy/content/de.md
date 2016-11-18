@@ -1,6 +1,6 @@
 ---
 published: true
-title: 
+title: "Datenschutz- und Cookies-Richtlinie"
 ---
 Wichtig: Wir haben ihnen diese Übersetzung nur zu Ihrer Information zur Verfügung gestellt. Der offizielle Text ist die englische Version. Etwaige Abweichungen oder Unterschiede in der Übersetzung sind nicht bindend und haben keine rechtliche Wirkung.
 

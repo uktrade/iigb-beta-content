@@ -1,4 +1,4 @@
 ---
 published: true
-title: "GREAT.gov.uk Datenschutz- und Cookies-Richtlinie"
+title: "Datenschutz- und Cookies-Richtlinie"
 ---
