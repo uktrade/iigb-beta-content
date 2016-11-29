@@ -398,3 +398,9 @@ form_headquarters:
     - "Zimbabwe"
 form_disclaimer: "By sending us your details you confirm that the information you’ve shared with us is true and you accept our "
 form_disclaimer_tc: "terms and conditions."
+feedback_name: "Name"
+feedback_email: "Email"
+feedback_feedback: "Feedback"
+report_problem: "Report an issue with this page"
+report_problem_placeholder: "Please include the name of the page with the issue, and as much detail as possible."
+
