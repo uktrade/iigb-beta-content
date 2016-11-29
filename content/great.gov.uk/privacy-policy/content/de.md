@@ -4,13 +4,13 @@ title: "Datenschutz- und Cookies-Richtlinie"
 ---
 Wichtig: Wir haben ihnen diese Übersetzung nur zu Ihrer Information zur Verfügung gestellt. Der offizielle Text ist die englische Version. Etwaige Abweichungen oder Unterschiede in der Übersetzung sind nicht bindend und haben keine rechtliche Wirkung.
 
-### Ihre personenbezogenen Daten
+## Ihre personenbezogenen Daten
 
 Auf dieser Seite wird erläutert, welche Art personenbezogener Daten das britische Ministerium für Internationalen Handel (Department for International Trade, kurz DIT) von Ihnen speichert, wie diese genutzt werden, wie sie geschützt werden und wie Sie sich diesbezüglich informieren können.
 
 Bitte lesen Sie diese Seite sorgfältig um zu verstehen, wie wir Ihre persönliche Information sammeln, nutzen und speichern. Bitte besuchen sie gelegentlich diese Seite, um alle Änderungen zu sehen die gemacht wurden.
 
-### Welche Daten speichert DIT über Sie?
+## Welche Daten speichert DIT über Sie?
 
 GREAT.gov.uk und das DIT werden zum Beispiel folgende Informationen über Sie speichern:
 * Ihren Namen
@@ -36,7 +36,7 @@ Das DIT kann Informationen über Sie erhalten, falls Sie eine der anderen vom DI
 
 Wir verweisen sie zu den Datenschutzrichtlinien Dritter, falls Sie Bedenken über deren Offenlegung Ihrer persönlichen Daten an uns haben.
 
-### Wie schützt das DIT Ihre personenbezogenen Daten?
+## Wie schützt das DIT Ihre personenbezogenen Daten?
 
 Das DIT unterliegt dem britischen Datenschutzgesetz (Data Protection Act) von 1998.
 
@@ -52,7 +52,7 @@ Sie müssen:
 * korrekte Angaben machen
 * das DIT über alle Änderungen wie beispielsweise eine Änderung Ihrer Anschrift informieren
 
-### Gemeinsame Nutzung Ihrer Daten
+## Gemeinsame Nutzung Ihrer Daten
 
 Ihre Daten können gemeinsam mit anderen Abteilungen im DIT oder anderen Organisationen genutzt werden, sofern dies erforderlich wird, um Ihren Antrag zu bearbeiten.
 
@@ -62,13 +62,13 @@ Wenn Sie nach Informationen fragen, die nicht auf www.GREAT.gov.uk veröffentlic
 
 Sollte Ihre Frage technischer Natur sein, muss das DIT möglicherweise Informationen an Technologieanbieter weitergeben. Das DIT wird personenbezogene Daten nur weitergeben, wenn dies erforderlich wird, und es wird Ihre personenbezogenen Daten oder Aufzeichnungen Ihrer Korrespondenz nur so lange wie nötig aufbewahren.
 
-### Mitarbeiter des DIT und der Umgang mit Ihren Daten
+## Mitarbeiter des DIT und der Umgang mit Ihren Daten
 
 Die Mitarbeiter des DIT sind im Umgang mit Daten geschult und wissen, wie wichtig der Schutz von personenbezogenen Daten und anderen vertraulichen Informationen ist.
 
 Innerhalb von DIT, ist der Zugriff auf Ihre persönliche Informationen beschränkt auf die Mitglieder unseres Teams, die Zugriff darauf benötigen, um Sie mit unseren Dienstleistungen zu bedienen; mit Ihnen zu kommunizieren (einschließlich, mit Ihrer Zustimmung, ihnen Marketing-Meiteillungen zu senden); und um rechtliche oder aufsichtsrechtliche Verpflichtungen erfüllen.
 
-### Ihre Rechte
+## Ihre Rechte
 
 Sie haben das Recht um:
 * Eine Kopie ihrer personenbezogenen Daten die das DIT über sie gespeichert hat
@@ -90,7 +90,7 @@ Ein Auszug Ihrer Daten und Einzelheiten zur Nutzung kosten GBP 10, die im Voraus
 
 Zum Schutz der nationalen Sicherheit kann das DIT in manchen Fällen Informationen zurückhalten.
 
-### So reichen Sie eine Beschwerde ein
+## So reichen Sie eine Beschwerde ein
 
 Wenn Sie mit der Art und Weise, wie das [DIT mit Ihren personenbezogenen Daten umgeht](https://www.contactus.trade.gov.uk/enquiry/topic), unzufrieden sind, können Sie an folgende Adresse schreiben:
 
@@ -106,7 +106,7 @@ Sollte die Antwort nicht zufriedenstellend sein oder falls Sie Beratung wünsche
 
 Das ICO kann Ihre Beschwerde untersuchen und Maßnahmen gegen jeden ergreifen, der personenbezogene Daten missbräuchlich verwendet hat.
 
-### Änderungen dieser Datenschutzrichtlinie
+## Änderungen dieser Datenschutzrichtlinie
 
 Alle Änderungen der vorliegenden Datenschutzrichtlinie werden auf dieser Webseite veröffentlicht. Bitte überprüfen Sie diese Seite regelmäßig auf Aktualisierungen oder Änderungen unserer Datenschutzrichtlinie.
 
@@ -120,7 +120,7 @@ Dazu zählen kleine Dateien, sogenannte Cookies. Mit ihrer Hilfe ist eine direkt
 * Zählung der Personen, die bestimmte Dienste verwenden, um deren Nutzung einfacher zu gestalten
 Sie können diese kleinen Dateien selbst verwalten und mehr über dieses Thema erfahren auf [About Cookies](http://www.aboutcookies.org/).
 
-### Verwendung von Cookies auf dieser Website
+## Verwendung von Cookies auf dieser Website
 
 Die Website [www.GREAT.gov.uk](www.GREAT.gov.uk) verwendet Cookies. Diese ermöglichen der Website, Ihnen geeignetere Informationen zu bieten, beispielsweise, indem die gleichen Angaben nicht mehrmals abgefragt werden.
 
