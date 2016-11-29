@@ -1,9 +1,10 @@
 ---
 title: 
+linkLabel: Please click here to go to the home page
 ---
 
-We've sent you a confirmation email.
+Thanks for your enquiry. 
 
-### What happens next
+A member of staff at the Department for
+International Trade will review your enquiry.
 
-We've sent your contact form to the Invest in Great Britain agents. They will be in touch soon.
