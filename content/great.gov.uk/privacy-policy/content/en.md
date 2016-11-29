@@ -1,15 +1,11 @@
----
-published: false
-title: Untitled
----
 
-### Your personal information
+## Your personal information
 
-This page explains what kind of personal information the Department for International Trade (DIT) holds about you, how it’s used, how it’s protected and how you can find out about it.
+This page explains what kind of personal information the [Department for International Trade](http://www.gov.uk/dit) (DIT) holds about you, how it’s used, how it’s protected and how you can find out about it.
 
 Please read this page carefully to understand how we collect, use and store your personal information.  Please also re-visit it from time to time to review any changes that have been made.
 
-### What information the DIT stores about you
+## What information the DIT stores about you
 
 GREAT.gov.uk and the DIT will, for example, store the following information about you:
 * your name
@@ -33,7 +29,7 @@ Some of this information will be collected through the use of cookies and other 
 
 DIT may receive information about you if you use any of the other websites the DIT operates or services DIT provides. DIT also works with third parties (for example, partners and subcontractors) and may receive information about you from these third parties.  You should refer to the privacy policies of those third parties if you have concerns about their disclosure of your personal information to us.
 
-### How the DIT protects your personal information
+## How the DIT protects your personal information
 
 The DIT complies with the Data Protection Act 1998. 
 
@@ -49,7 +45,7 @@ You must:
 * give accurate information
 * tell the DIT about any changes, for example, to your address
 
-### Sharing your information
+## Sharing your information
 
 Your information can be shared with other teams in the DIT or other organisations where this is needed to process your application.
 
@@ -59,12 +55,12 @@ If you’re asking for information that isn’t published on www.GREAT.gov.uk, D
 
 If your question is technical, DIT may need to pass information to technology suppliers. DIT will only pass on personal data if it is necessary to do so, and will not keep your personal data or records of its correspondence longer than necessary.
 
-### The DIT staff handling your information
+## The DIT staff handling your information
 
 The DIT staff are trained in handling information and understand how important it is to protect personal and other sensitive information.
 Within DIT, access to your personal information is limited to those members of our team who need access to it in order to provide you with our services which you request; to communicate with you (including, with your consent,  to send you marketing communications); and to carry out legal or regulatory obligations. 
 
-### Your rights
+## Your rights
 
 You have the right to:
 * ask to receive a copy of the personal information the DIT holds about you
@@ -84,7 +80,7 @@ Copies of your information and details of use cost £10, payable in advance.
 
 Sometimes the DIT can withhold information, for example, to protect national security.
 
-### How to make a complaint
+## How to make a complaint
 
 If you’re unhappy with the way the DIT handled your personal information, you can write to:
 
@@ -100,12 +96,12 @@ If you’re unhappy with the answer or need any advice, contact the Information 
 
 The ICO can investigate your complaint and take action against anyone who has misused personal data.
 
-### Changes to this privacy policy
+## Changes to this privacy policy
 
 Any changes made to this privacy policy will be posted on this webpage. Please check back for updates or changes to our privacy policy.
 The way the DIT deals with your personal information is set out in its information charter.
 
-### DIT cookies policy
+## DIT cookies policy
 
 DIT wants to provide services that are easy to use, useful and reliable. Where services are delivered on the internet, this sometimes involves placing small amounts of information on your device, for example, computer or mobile phone. 
 
@@ -115,7 +111,7 @@ These include small files known as cookies. They cannot be used to directly iden
 
 You can manage these small files yourself and learn more about them through on About Cookies.
 
-### Use of cookies on this website
+## Use of cookies on this website
 
 The www.GREAT.gov.uk website uses cookies. These enable the website to provide more appropriate information to you, for example, by not asking for the same information on multiple occasions.
 
@@ -144,4 +140,4 @@ Purpose: Maintains the session id for single sign on
 Name: _Seen_cookie_message  
 Expires: never  
 Purpose: Prevents cookies pop-up message displaying if already seen and acknowledged  
-For further details on the cookies set by Google Analytics, please refer to the Google Code website.
+For further details on the cookies set by Google Analytics, please refer to the [Google Code](https://developer.google.com/) website.

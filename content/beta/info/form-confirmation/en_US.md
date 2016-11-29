@@ -1,3 +1,3 @@
 ---
-title: Thank you for getting in touch
+title: Enquiry submitted
 ---

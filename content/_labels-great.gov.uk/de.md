@@ -1,3 +1,4 @@
+---
 privacy_policy: "Datenschutz- und Cookies-Richtlinie"
 terms_and_conditions: "GREAT.gov.uk Allgemeine Geschäftsbedingungen"
 find_a_supplier: "Finden sie einen Zulieferer"
@@ -9,3 +10,4 @@ help_to_export: "Holen Sie sich Exporthilfe"
 I_am_based_in: "Ich wohne in:"
 change_country: "Land ändern"
 buy_from_uk: "Finden sie einen Zulieferer"
+---

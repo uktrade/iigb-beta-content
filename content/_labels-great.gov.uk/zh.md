@@ -1,3 +1,4 @@
+---
 privacy_policy: "隐私政策"
 terms_and_conditions: "GREAT.gov.uk的条款和条件"
 find_a_supplier: "寻找供应商"
@@ -9,3 +10,4 @@ help_to_export: "获得帮助，顺利出口"
 I_am_based_in: "我在"
 change_country: "更改国家"
 buy_from_uk: "寻找供应商"
+---
