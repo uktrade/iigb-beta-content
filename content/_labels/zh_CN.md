@@ -399,4 +399,10 @@ form_headquarters:
     - "津巴布韦"
 form_disclaimer: "发送您的详细信息以后，代表您同意提供的信息是真实并接受 "
 form_disclaimer_tc: "我们的附带条约。"
+feedback_name: "您的姓名"
+feedback_email: "工作电子邮件"
+feedback_feedback: "电子邮件"
+report_problem: "Report an issue with this page"
+report_problem_placeholder: "Please include the name of the page with the issue, and as much detail as possible."
+
 ---

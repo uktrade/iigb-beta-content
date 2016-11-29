@@ -400,4 +400,10 @@ form_headquarters:
     - "Simbabwe"
 form_disclaimer: "Mit Absenden Ihrer Daten bestätigen Sie, dass die von Ihnen eingegebenen Daten korrekt sind und stimmen unseren "
 form_disclaimer_tc: "Nutzungsbedingungen zu."
+feedback_name: "Vollständiger Name"
+feedback_email: "E-Mail"
+feedback_feedback: "Feedback"
+report_problem: "Report an issue with this page"
+report_problem_placeholder: "Please include the name of the page with the issue, and as much detail as possible."
+
 ---
