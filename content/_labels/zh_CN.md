@@ -26,7 +26,7 @@ industries_intro: "Find specific information about the industry your company ope
 great_british_industries: "英国的产业"
 #post_GB: " in Great Britain:CN"
 post_strengths: " 行业"
-related_industries: "Related industries:CN"
+related_industries: "相关行业"
 how_we_help: "How we help:CN"
 discover: "了解更多信息"
 please_select: "选择"
