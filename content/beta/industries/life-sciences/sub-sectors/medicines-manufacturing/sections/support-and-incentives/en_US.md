@@ -15,7 +15,7 @@ We offer direct support for innovative manufacturing businesses. Your company ca
 
 - [Research Councils](http://www.rcuk.ac.uk/) champion science, engineering and technology in the UK, including manufacture via centres for innovative manufacturing.
 
-- [Catapult](https://catapult.org.uk/) is a specialised national network run by Innovate UK. They make world leading technical capability available to businesses and aid process development, prototyping and scale-up. The network includes the High Value Manufacturing Catapult programme and a National Biologics Manufacturing Centre
+- [Catapult](https://catapult.org.uk/) is a specialised national network run by Innovate UK. They make world leading technical capability available to businesses and aid process development, prototyping and scale-up. The network includes the High Value Manufacturing Catapult programme and a National Biologics Manufacturing Centre, as well as the Cell and Gene Therapy Catapult with an at-scale manufacturing centre being built in Stevenage
 
 - [The Knowledge Transfer Network](http://www.ktn-uk.co.uk/) helps businesses link up with partners in the value and supply chain. 
 
