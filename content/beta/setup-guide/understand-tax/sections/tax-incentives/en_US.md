@@ -6,7 +6,7 @@ There are a number of tax relief schemes and incentives for business owners and 
 
 ### Tax relief for investment
 
-The UK offers an attractive venture capital schemes to help small and medium enterprises expand.
+The UK offers attractive venture capital schemes to help small and medium enterprises expand.
  
 The [Enterprise Investment Scheme](https://www.gov.uk/government/publications/the-enterprise-investment-scheme-introduction) and the [Venture Capital Trust](https://www.gov.uk/government/collections/venture-capital-trusts-statistics) offer tax relief for individuals interested in investing in small businesses.
 
