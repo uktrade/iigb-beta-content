@@ -2,7 +2,7 @@
 title: Understand the range of UK visas
 published: true
 ---
-There are different types of visa for individuals and business depending on your situation.
+There are different types of visa for individuals and business depending on your situation. All of these visas are for people from outside of the [European Economic Area (EEA)](https://www.gov.uk/eu-eea) and Switzerland.
 
 ### Visas For individuals
 
@@ -15,20 +15,18 @@ There are different types of visa for individuals and business depending on your
 [Learn more about Tier 1 Entrepreneur visas.](https://www.gov.uk/tier-1-entrepreneur/overview)
 
 
-#### A Tier 2 (Exceptional Talent) visa may be suitable for you if you’re:
+#### A Tier 1 (Exceptional Talent) visa may be suitable for you if you’re:
 
  - a recognised leader (exceptional talent)
  - an emerging leader (exceptional promise)
- - from outside the EEA and Switzerland
 
-[Learn more about Tier 2 (Exceptional Talent) visas.](https://www.gov.uk/tier-1-exceptional-talent/overview)
+[Learn more about Tier 1 (Exceptional Talent) visas.](https://www.gov.uk/tier-1-exceptional-talent/overview)
 
 
 
 #### A Tier 2 (General) visa may be suitable for you if:
 
  - you’ve been offered a skilled job in the UK
- - you’re from outside the EEA and Switzerland
 
 [Learn more about Tier 2 (General) visas.](https://www.gov.uk/tier-2-general/overview)
 
@@ -36,7 +34,6 @@ There are different types of visa for individuals and business depending on your
 #### A Tier 2 (Intra-company transfer) visa may be suitable for you if:
 
 - your overseas employer has offered you a role in a UK branch of the organisation
-- you’re from outside the EEA and Switzerland
 
 [Learn more about Tier 2 (Intra-company transfer) visas.](https://www.gov.uk/tier-2-intracompany-transfer-worker-visa/overview)
 
