@@ -7,4 +7,4 @@ Es gibt ungefähr 1.300 Unternehmen, die an der Arzneimittelherstellung in Groß
 
 Der Arzneimittelsektor allein führt mehr unternehmensbasierte Forschung und Entwicklung in Großbritannien durch als jeder andere produzierende Sektor. Dies macht mehr als 20% der gesamten unternehmensbasierten Forschung und Entwicklung des Landes aus.
 
-+ Die Industrie-geführte 'Medicines Manufacturing Industry Partnership' (MMIP) arbeitet mit der Regierung zusammen, um die britische Arzneimittelherstellungsumgebung weiter zu verbessern und stärken.
+Die Industrie-geführte 'Medicines Manufacturing Industry Partnership' (MMIP) arbeitet mit der Regierung zusammen, um die britische Arzneimittelherstellungsumgebung weiter zu verbessern und stärken.
