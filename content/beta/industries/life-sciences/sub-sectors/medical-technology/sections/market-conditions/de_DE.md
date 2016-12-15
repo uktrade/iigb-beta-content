@@ -5,7 +5,7 @@ published: true
 
 Der Medizintechniksektor ist ein prosperierendes Netzwerk aus Wissenschaftlern, Ingenieuren, Designern und Kassenärzten des nationalen Gesundheitsdiensts NHS, das an einem etablierten Industriestandort arbeitet. Gemeinsam bereiten sie den Weg für neue Technologien – von der innovativen Idee über das Design und den Herstellungsprozess bis schließlich hin zum Patienten.
 
-Nahezu 3.700 Unternehmen in Großbritannien sind im Medizintechniksektor tätig, die einen Umsatz von 21 Milliarden GBP erwirtschaften. 98 % sind kleine und mittelständische Unternehmen (KMUs), die eine große Vielfalt an Medizingeräten und Diagnosetechnologien herstellen. Etwa ein Drittel dieser Unternehmen betreiben ein signifikantes Maß an Forschung, Entwicklung und Fertigung in Großbritannien.
+Nahezu 3.700 Unternehmen in Großbritannien sind im Medizintechniksektor tätig, die einen Umsatz von 21 Milliarden GBP erwirtschaften. 98 % sind kleine und mittelständische Unternehmen (KMUs), die eine große Vielfalt an Medizingeräten und Diagnosetechnologien herstellen.
 
 Ein wesentlicher Schwerpunkt liegt auf der Single-Use-Technologie, orthopädischen Geräten und der In-vitro-Diagnostik. Die Dienstleistungs- und Versorgungslieferkette für Medizintechnik bietet essentielle Unterstützung beim Design, der Herstellung und regulatorischem Knowhow.
 
