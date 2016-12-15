@@ -3,7 +3,8 @@ title: Die verschiedenen Visen verstehen
 published: true
 ---
 
-Es gibt verschiedene Arten von Visen für Einzelpersonen und Unternehmen, die je nach Situation in Frage kommen.
+Es gibt verschiedene Arten von Visen für Einzelpersonen und Unternehmen, die je nach Situation in Frage kommen. 
+Alle diese Visen sind für Personen außerhalb des [Europäischen Wirtschaftsraums (EWR)](https://www.gov.uk/eu-eea) und der Schweiz bestimmt.
 
 ### Visen für Personen
 
@@ -23,23 +24,17 @@ Ein Visum der Kategorie 1 (Besondere Fähigkeiten) könnte für Sie in Frage kom
 
 - eine zukünftige Führungsperson sind (besonders aussichtsreich)
 
-- Sie von außerhalb des EWR und der Schweiz kommen
-
 [Erfahren Sie mehr über Kategorie 1 Visen (Besondere Fähigkeiten).](https://www.gov.uk/tier-1-exceptional-talent/overview)
 
 Ein Visum der Kategorie 2 (Allgemein) könnte für Sie in Frage kommen, wenn Sie:
  
 - eine Stelle als Fachkraft in Großbritannien angeboten bekommen haben
-
-- Sie von außerhalb des EWR und der Schweiz kommen
  
 [Erfahren Sie mehr über Kategorie 2 Visen (Allgemein).](https://www.gov.uk/tier-2-general/overview)
 
 Ein Visum der Kategorie 2 (Unternehmensinterne Versetzung) könnte für Sie in Frage kommen, wenn:
 
 - Ihr ausländischer Arbeitgeber Ihnen eine Position in der Niederlassung des Unternehmens in Großbritannien angeboten hat
-
-- Sie von außerhalb des EWR und der Schweiz kommen
 
 [Erfahren Sie mehr über Kategorie 2 Visa (Unternehmensinterne Versetzung).](https://www.gov.uk/tier-2-intracompany-transfer-worker-visa/overview)
 
