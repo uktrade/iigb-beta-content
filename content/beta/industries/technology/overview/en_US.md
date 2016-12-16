@@ -12,6 +12,6 @@ The UK offers an outstanding environment for global tech companies.  We have:
 - the largest e-commerce market in Europe
 - 4 of the world’s top 10 universities, plus educational providers that develop our technology workforce
  
-The UK technology economy has strengths  in app & software development, data management & analytics, electronic design and cyber security. 
+The UK's technology economy has strengths in electronic systems, communications, data management and analytics, data centres, cloud services, Artificial Intelligence, cyber, semiconductor design and sensors.  
  
 Tech businesses are at the heart of the UK economy and are playing an important role in driving growth across the country.
