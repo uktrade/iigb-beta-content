@@ -13,7 +13,7 @@ The UK offers the opportunity for medical technologies innovators to:
 - design, prototype and manufacture, with iterative development
 - test efficacy and prove clinical utility through clinical studies
 - validate products and gain regulatory approval
-- demonstrate value, through health technology assessment and partnership with the NHS
+- demonstrate value through health technology assessment and partnership with the NHS
 - unlock global market opportunities by using an evidence base generated in the UK
 
 This is all underpinned by access to clinical experts and patients and unique health data resources. In addition, we have a supportive business and investment environment, (with regulation which is sensible and pragmatic) and an established supply and services chain.

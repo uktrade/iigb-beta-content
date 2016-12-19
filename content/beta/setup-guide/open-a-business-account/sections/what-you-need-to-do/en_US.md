@@ -5,7 +5,7 @@ Each bank has a slightly different process for opening a business account. In mo
 - a UK place of business address 
 - a company representative residing in the UK (usually a director or an employee)
  
-No matter where you intend to locate your business, you should call the bank’s UK headquarters rather than approach a local branch. Tell the bank that you have foreign shareholders and directors of your business and that you need a UK business bank account (rather than an international business bank account that's held offshore).
+No matter where you intend to locate your business, you should contact the central inward investment banking team, usually located in London.  Do not apply through a local branch, online or a call centre. Tell the bank that you have foreign shareholders and/or directors of your business and that you need a UK business bank account (rather than an international business bank account that's held offshore).
  
 After you have done this, you can do most of the application process online and over the phone. You’ll need to provide photographic identification and proof of address for all directors and any substantial shareholders.
 

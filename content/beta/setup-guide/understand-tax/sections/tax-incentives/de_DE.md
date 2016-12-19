@@ -7,7 +7,7 @@ Es gibt zahlreiche Steuererleichterungen und Anreize für Unternehmer und Invest
 
 ### Steuererleichterungen bei Investitionen
 
-Großbritannien bietet eine attraktive Förderung für Risikokapitalgeber, um kleinen und mittleren Unternehmen bei der Expansion zu helfen.
+Großbritannien bietet attraktive Förderungen für Risikokapitalgeber, um kleinen und mittleren Unternehmen bei der Expansion zu helfen.
 
 Das [Enterprise Investment Scheme](https://www.gov.uk/government/publications/the-enterprise-investment-scheme-introduction) und der [Venture Capital Trust](https://www.gov.uk/government/collections/venture-capital-trusts-statistics) bieten Steuererleichterungen für Einzelpersonen, die in Kleinunternehmen investieren wollen.
 

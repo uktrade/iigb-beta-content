@@ -2,4 +2,4 @@
 title: Ein Visum für Großbritannien beantragen
 published: true
 ---
-Sie müssen möglicherweise ein Visum beantragen, wenn Sie aus geschäftlichen Gründen nach Großbritannien kommen oder Personen von außerhalb des Europäischen Wirtschaftsraums (EWR) einschließlich Staatsangehörige der Schweiz einstellen möchten.
+Jemand von außerhalb des Europäischen Wirtschaftsraums und der Schweiz muss möglicherweise ein britisches Visum beantragen, um in Großbritannien zu arbeiten oder aus geschäftlichen Gründen zu besuchen.
