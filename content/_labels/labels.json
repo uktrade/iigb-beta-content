@@ -375,7 +375,7 @@
     "zh_CN": "您預期在英国的业务运行的日子"
   },
   "form_when_month": {
-    "please_select": {
+    "label": {
       "de_DE": "Monat",
       "en_US": "month",
       "zh_CN": "月"
@@ -426,7 +426,7 @@
     }
   },
   "form_when_year": {
-    "please_select": {
+    "label": {
       "de_DE": "Jahr",
       "en_US": "year",
       "zh_CN": "年"
