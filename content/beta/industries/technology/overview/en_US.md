@@ -6,9 +6,9 @@ Our technology sector is larger than the rest of Europe combined; it has been on
  
 The UK offers an outstanding environment for global tech companies.  We have:
  
-- a strong start-up culture bolstered by tesh clusters all over the UK
+- a strong start-up culture bolstered by tech clusters all over the UK
 - a ranking of third best place in the world in the  [Global Innovation Index in 2016](https://www.globalinnovationindex.org/analysis-indicator)
-- an active venture capital community  - the UK has the highest number of initial public offerings (IPOs) & more tech “unicorns” (a start-up company valued at over $1 billion) created than anywhere else in Europe
+- an active venture capital community  - the UK has the highest number of initial public offerings (IPOs) & more tech “unicorns” (a start-up company valued at over 1 billion USD) created than anywhere else in Europe
 - the largest e-commerce market in Europe
 - 4 of the world’s top 10 universities, plus educational providers that develop our technology workforce
  
