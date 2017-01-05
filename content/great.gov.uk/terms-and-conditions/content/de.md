@@ -22,11 +22,14 @@ Die auf dieser Website verwendeten Begriffe "wir", "uns" und "unser" beziehen si
 
 ## 2. Hyperlink-Richtlinie
 2.1 Das DIT empfiehlt allen Organisationen, die ihren Besuchern Informationsmaterial des DIT zugänglich machen möchten, dies durch Setzen eines Hyperlinks zu tun, anstatt den Text wiederzugeben.
+
 2.2 Sofern die Vorschriften in Punkt 3 (siehe weiter unten) über Crown Copyright und Materialien Dritter eingehalten werden, dürfen Sie die Seiten dieses Webauftritts direkt verlinken, und zwar auf faire und gesetzlich zulässige Art und Weise, die weder rufschädigend für das DIT ist noch dieses ausnutzt. Das DIT behält sich das Recht vor, die Erlaubnis zur Verlinkung ohne vorherige Ankündigung zu widerrufen.
  
 Durch das Setzen solcher Links dürfen Sie keine Andeutungen über eine Befürwortung Ihrer Website oder Ihrer Organisation durch die Regierung Ihrer Majestät noch durch das DIT machen. Das DIT gestattet keine Darstellung unserer Seiten in Frames auf Ihrer Website – die Seiten müssen im gesamten Fenster des Nutzers geladen werden.
+
 2.3 Verlinkte Seiten durch das Department for International Trade
 Das DIT übernimmt keine Verantwortung für den Inhalt oder die Zuverlässigkeit von Websites, die mit dieser Website verlinkt sind; ferner ist eine namentliche Nennung auf  [www.GREAT.gov.uk](https://www.GREAT.gov.uk) nicht als Befürwortung irgendeiner Art zu verstehen. Das DIT kann nicht garantieren, dass diese Links jederzeit funktionieren; ferner hat das DIT keine Kontrolle über die Verfügbarkeit der verlinkten Seiten.
+
 ## 3. Geistiges Eigentum und Urheberrecht der britischen Krone (Crown Copyright)
 3.1 Die auf [www.GREAT.gov.uk](https://www.GREAT.gov.uk) angebotenen Inhalte unterliegen dem Urheberrechtsschutz der britischen Krone (Crown Copyright), sofern nicht anders angegeben. Materialien mit Crown Copyright sind in der Regel mit folgendem Symbol versehen: © Crown copyright 2016.
  
@@ -41,8 +44,10 @@ Für weitere Informationen lesen Sie die  Open Government Licence. Anfragen übe
 3.4 Ohne vorherige schriftliche Genehmigung dürfen weder die Bezeichnungen HM Government, Department for International Trade (noch dessen Kürzel DIT), 'Export ist GROSS-artig' noch irgendwelche Logos, Aufmachung und Wappen, die DIT verwendet werden, von Ihnen oder auf Ihrer Website genutzt werden.
  
 Wenn Sie eine Frage über unser geistiges Eigentums- und Urheberrechte der Krone (Crown Copyright) haben, senden Sie eine E-Mail an den DIT Markenschutz unter brand@trade.gsi.gov.uk . Nennen Sie dabei Ihre Kontaktdaten sowie Einzelheiten, wie und warum Sie eine Bezeichnung oder Logo(s) verwenden möchten.
+
 ## 4. Material von Dritten
 4.1 Die Erlaubnis, Material mit Crown Copyright entsprechend den Anweisungen unter Punkt 3 (oben) zu reproduzieren, bezieht sich nicht auf Materialien auf dieser Website, die durch Copyright von Dritten geschützt sind. Die Genehmigung für eine Wiedergabe solcher Materialien muss von Ihnen beim betreffenden Copyright-Inhaber eingeholt werden.
+
 ## 5. Datenschutz 
 5.1 Durch die Nutzung dieser Website erkennen dass, sie wir Ihre persönlichen 
 Daten, in Übereinstimmung mit unserer Datenschutzrichtlinie [die Sie hier einsehen können] Privacy PolicyLINK), sammeln werden.
@@ -54,6 +59,7 @@ Daten, in Übereinstimmung mit unserer Datenschutzrichtlinie [die Sie hier einse
 5.4 Unsere Datenschutzrichtlinie gilt nur für [www.GREAT.gov.uk](https://www.GREAT.gov.uk)  und [www.exportingisGREAT.gov.uk](www.exportingisGREAT.gov.uk)). Deshalb sollten Sie sich immer darüber bewusst sein, wann Sie von einer zu einer anderen Website wechseln und die Datenschutzerklärung und Nutzungsbedingungen jeder Website lesen, auf der personenbezogene Daten gesammelt werden.
  
 5.5 Die Website [www.GREAT.gov.uk](https://www.GREAT.gov.uk) verwendet Cookies, um Sie von anderen Nutzern zu unterscheiden. Dies hilft dem DIT, Ihnen bessere Dienstleistungen zu bieten. Für weitere Informationen über die vom DIT verwendeten Cookies und deren Nutzungszwecke lesen Sie bitte unsere [Cookie-Richtlinie]Privacy PolicyLINK).
+
 ## 6. Zugang zur Website
 6.1 Sie erhalten Zugang zu den den Dienstleistungen auf  [www.GREAT.gov.uk](https://www.GREAT.gov.uk), indem Sie die digitalen Formulare auf der Website nutzen.
  
@@ -66,6 +72,7 @@ Daten, in Übereinstimmung mit unserer Datenschutzrichtlinie [die Sie hier einse
 6.5 Wenn Sie dem DIT Informationen über ein digitales Formular übermitteln, können die Angaben ferner durch den DIT überprüft werden.
  
 6.6 Ihre Angaben, einschließlich Ihres Namens und Ihrer E-Mail-Adresse, werden vom DIT in Übereinstimmung mit seiner Datenschutzrichtlinie [link] sicher gespeichert.
+
 ## 7. Verfügbarkeit der Website und Virenschutz
 7.1 Das DIT kann die in einem beliebigen Teil von [www.GREAT.gov.uk](https://www.GREAT.gov.uk)  bereitgestellten Dienste ohne vorherige Ankündigung jederzeit nach eigenem Ermessen ändern oder einstellen. Das DIT haftet weder Ihnen noch Dritten gegenüber, falls die Website aus beliebigem Grund nicht verfügbar ist oder zu einem beliebigen Zeitpunkt und für beliebige Dauer eingestellt wird.
  
@@ -139,6 +146,8 @@ Sie dürfen diese Website keinesfalls in einer Weise nutzen, die nach vernünfti
 13.3 Diese Nutzungsbedingungen richten sich nach und sind in Übereinstimmung mit den Gesetzen von England und Wales auszulegen.
 
 Alle Streitigkeiten, die sich aus diesen Nutzungsbedingungen ergeben könnten, unterliegen der ausschließlichen Gerichtsbarkeit der Gerichte von England und Wales.
+
 ## 14. Kontaktaufnahme mit dem Department for International Trade
+
 14.1 Wenn Sie eine Anfrage stellen möchten, nutzen Sie bitte das Kontaktformular [LINK]
- oder senden Sie eine E-Mail an exportingisgreat@ukti.gsi.gov.uk  oder rufen Sie uns an unter Tel. (+44) 020 7215 5000 (Montag bis Freitag, 9.00 bis 17.00 Uhr).
+oder senden Sie eine E-Mail an exportingisgreat@ukti.gsi.gov.uk  oder rufen Sie uns an unter Tel. (+44) 020 7215 5000 (Montag bis Freitag, 9.00 bis 17.00 Uhr).
