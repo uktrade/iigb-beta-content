@@ -1,6 +1,4 @@
 ---
-title: Set up a company in the UK
+title: Estabelecer uma empresa no Reino Unido
 ---
-
-You can set up a private limited UK company online in just 24 hours, or register a branch of your existing company in up to 4 weeks.
-
+A opção mais comum para os investidores estrangeiros é registar uma empresa ou uma subsidiária no Reino Unido. Em alternativa, pode registar uma filial de uma empresa estrangeira no Reino Unido. 

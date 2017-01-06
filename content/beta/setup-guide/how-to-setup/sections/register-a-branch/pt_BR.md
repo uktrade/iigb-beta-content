@@ -1,8 +1,8 @@
 ---
-title: Register a UK branch of a foreign company
+title: Registar uma filial de uma empresa estrangeira no Reino Unido
 ---
-By registering a branch in the UK, a foreign company does not create a separate legal entity but is registering a foreign entity to do business in the UK. A branch does not offer the limited liability benefits that come with a UK company. 
+Ao registar uma filial no Reino Unido, uma empresa estrangeira não cria uma entidade legal separada, mas regista uma entidade estrangeira para realizar negócios no Reino Unido. Uma filial não oferece as vantagens de responsabilidade limitadas que existem para uma empresa do Reino Unido. 
 
-This is known as the [registration of a UK establishment of an overseas company.](https://www.gov.uk/government/publications/register-a-uk-establishment-of-an-overseas-company-os-in01)
+Isto é conhecido como o [registo do estabelecimento de uma empresa estrangeira no Reino Unido](https://www.gov.uk/government/publications/register-a-uk-establishment-of-an-overseas-company-os-in01).
 
-It will take longer to register a UK branch because the foreign registering company must submit additional documents and information to Companies House. The review process for this can take up to 4 weeks.
+Demorará mais a registar uma filial no Reino Unido, pois a empresa estrangeira a proceder ao registo tem de enviar documentação e informações adicionais para a Companies House. O processo de análise pode prolongar-se por 4 semanas.
