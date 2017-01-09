@@ -1,9 +1,8 @@
 ---
-title: Flexible employment laws
+title: Leis de trabalho flexíveis
 ---
-The UK’s straightforward and flexible employment laws protect and promote the interests of employees. These laws help businesses to hire and manage the right people with the right skills as and when they need them.
+As leis de trabalho objetivas e flexíveis do Reino Unido protegem e promovem os interesses dos funcionários. Estas leis ajudam as empresas a contratar e gerir as pessoas certas com as competências adequadas como e quando necessitarem delas.
  
-Employers have statutory responsibilities to make sure their employees have a right to work in the UK. Specific employment laws cover minimum entitlements to working conditions, pay and leave. 
+Os empregadores têm responsabilidades regulamentares de assegurar que os seus funcionários têm direito a trabalhar no Reino Unido. As leis de trabalho específicas incluem requisitos mínimos para condições de trabalho, pagamento e licenças. 
 
-
-[Learn more about UK contract types and employer responsibilities](https://www.gov.uk/contract-types-and-employer-responsibilities/overview)
+[Saiba mais acerca dos tipos de contrato no Reino Unido e sobre as responsabilidades do empregador.](https://www.gov.uk/contract-types-and-employer-responsibilities/overview)

@@ -1,5 +1,4 @@
 ---
-title: Apprenticeships
+title: Estágios
 ---
-The UK plans to [create 3 million apprenticeships by 2020](https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/482754/BIS-15-604-english-apprenticeships-our-2020-vision.pdf), enabling businesses to grow their talent with motivated and skilled workers. Support for businesses seeking to recruit and train apprentices is available via the [National Apprenticeship Service.](http://www.getingofar.gov.uk/employers)
-
+O Reino Unido planeia [criar 3 milhões de estágios até 2020](https://www.gov.uk/government/publications/apprenticeships-in-england-vision-for-2020), permitindo às empresas aumentar o seu talento com trabalhadores qualificados e motivados. Existe apoio para empresas que procuram recrutar e formar estagiários através do [Serviço Nacional de Estágios.](http://www.getingofar.gov.uk/employers)

@@ -1,18 +1,17 @@
 ---
-title: Tax relief and incentives for businesses in the UK
+title: Incentivos fiscais para empresas no Reino Unido
 ---
 
-There are a number of tax relief schemes and incentives for business owners and investors.
+Existem vários esquemas e incentivos de alívio fiscal para investidores e proprietários de empresas.
 
-### Tax relief for investment
+### Alívio fiscal para o investimento 
 
-The UK offers attractive venture capital schemes to help small and medium enterprises expand.
+O Reino Unido oferece esquemas de capital de risco atrativos para ajudar as pequenas e médias empresas a expandir.
  
-The [Enterprise Investment Scheme](https://www.gov.uk/government/publications/the-enterprise-investment-scheme-introduction) and the [Venture Capital Trust](https://www.gov.uk/government/collections/venture-capital-trusts-statistics) offer tax relief for individuals interested in investing in small businesses.
+As propostas [Enterprise Investment Scheme](https://www.gov.uk/government/publications/the-enterprise-investment-scheme-introduction) e [Venture Capital Trust](https://www.gov.uk/government/collections/venture-capital-trusts-statistics) oferecem alívio fiscal a quem quiser investir em pequenas empresas.
 
-### Tax incentives for innovation
+### Incentivos fiscais para a inovação
 
-There are generous [incentives for companies investing in research and development in the UK](https://www.gov.uk/guidance/corporation-tax-research-and-development-rd-relief) to promote fast-growing, innovative services and products. 
+Existem incentivos generosos para empresas que invistam na investigação e desenvolvimento no Reino Unido para promover produtos e serviços inovadores e de rápido crescimento. 
 
-[The Patent Box](https://www.gov.uk/guidance/corporation-tax-the-patent-box) offers a 10% corporation tax on profits from inventions patented in the UK (compared to the usual 20% corporation tax).
-
+[The Patent Box](https://www.gov.uk/guidance/corporation-tax-the-patent-box) oferece 10% em impostos sobre empresas nos lucros provenientes de invenções patenteadas no Reino Unido (em comparação com os habituais 20% de impostos sobre empresas).

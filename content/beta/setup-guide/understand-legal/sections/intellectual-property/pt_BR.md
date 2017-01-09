@@ -1,13 +1,15 @@
 ---
-title: Intellectual property in the UK
+title:  Propriedade intelectual no Reino Unido
 ---
 
-The UK has very strict intellectual property laws. These protect the names, ideas, products, designs and written word of businesses. 
+O Reino Unido tem uma legislação de propriedade intelectual muito rigorosa. Esta legislação protege nomes, ideias, produtos, designs e lettering das empresas. 
 
-You have automatic protection for:
+Tem proteção automática para:
 
-- copyright (writing and literary works, art, photography, films, TV, music, web content, sound recordings)
-- design right (shapes and objects)
+- direitos de autor (trabalhos literários e escritos, arte, fotografia, filmes, TV, música, conteúdos web, gravações áudio)
 
-[Find out more about intellectual property protection.](https://www.gov.uk/intellectual-property-an-overview/what-ip-is)
+- direitos de design (formas e objetos)
+
+[Saiba mais acerca da proteção de propriedade intelectual.](https://www.gov.uk/intellectual-property-an-overview/what-ip-is)
+
 

@@ -1,4 +1,4 @@
 ---
-title: Graduate talent
+title: Talento com formação
 ---
-The UK is home to 4 of the top 10 universities in the world and has the highest number of leading MBA institutions in Europe. This provides access to a large pool of work-ready graduates. 
+O Reino Unido possui 4 das 10 melhores universidades do mundo e tem o maior número de instituições de MBA líderes da Europa. Isto fornece acesso a um grande conjunto de licenciados prontos a entrar no mercado de trabalho. 

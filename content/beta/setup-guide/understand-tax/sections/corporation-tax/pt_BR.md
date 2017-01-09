@@ -1,17 +1,13 @@
 ---
-title: Business taxes
+title: Impostos sobre as empresas no Reino Unido 
 published: true
 ---
-### Tax on profits
+Qualquer empresa estrangeira com uma filial ou um escritório no Reino Unido tem de pagar o imposto sobre as empresas no Reino Unido. A [taxa atual de imposto sobre as empresas é de 20%](https://www.gov.uk/corporation-tax-rates/rates), passando a 17% em 2020. À atual taxa de 20%, o Reino Unido tem a taxa de imposto sobre as empresas mais baixa do G7 e a mais baixa, conjuntamente, no G20. 
+ 
+A contribuição para a [segurança social (National Insurance)](https://www.gov.uk/national-insurance/overview) tem de ser paga para todos os funcionários no Reino Unido. A taxa de contribuição para a segurança social do empregador no Reino Unido é de 13,8% para funcionários com um rendimento acima de 112 libras esterlinas por semana. 
+ 
+O Imposto sobre o Valor Acrescentado (IVA) tem de ser cobrado e pago sobre os bens e serviços. O IVA no Reino Unido encontra-se nos 20%, embora [existam algumas exceções](https://www.gov.uk/guidance/rates-of-vat-on-different-goods-and-services). As empresas do Reino Unido que vendam bens ou serviços cobram IVA sobre as vendas e os clientes com o seu próprio registo de IVA poderão recuperar o IVA pago.  
 
-Any foreign company with a UK branch or office must pay UK Corporation Tax. The [current corporation tax rate is 20%](https://www.gov.uk/corporation-tax-rates/rates), reducing to 17% by 2020. At the current rate of 20%, the UK has the lowest headline business tax rate in the G7, and joint lowest in the G20. 
+O IVA não é aplicado à maioria das transações de exportação, embora seja provável que se aplique a vendas a empresas não elegíveis para IVA, bem como a particulares noutros países da UE. 
 
-### Tax on sales
-
-Value Added Tax (VAT) must be charged and paid on goods and services. UK VAT is charged at 20%, although [there are some exceptions.](https://www.gov.uk/guidance/rates-of-vat-on-different-goods-and-services) UK businesses that sell goods or services charge VAT on sales and customers who are themselves registered for VAT will be able to recover VAT paid out.  
-
-VAT is not applied to most export transactions, although it is likely to apply to sales to non-VAT registered businesses and private individuals within other EU countries. 
-
-### Tax on imports
-
-Imports into the UK (and other EU countries) from non-EU countries will have an import duty charge to pay on goods but not services.
+As importações para o Reino Unido (e outros países da UE) a partir de países exteriores à UE terão de pagar uma taxa de importação. 

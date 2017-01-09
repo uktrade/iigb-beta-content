@@ -1,4 +1,4 @@
 ---
-title: Hire skilled workers for your UK operations 
+title: Contratar trabalhadores qualificados para operações no Reino Unido
 ---
-The UK has a world-class pool of talent and business-friendly employment laws. You can also bring employees to the UK from other countries through a flexible visa system.
+O Reino Unido tem um nicho de talento de classe mundial e leis de trabalho voltadas para o negócio. Pode também trazer funcionários para o Reino Unido a partir de outros países graças a um sistema de vistos flexível.

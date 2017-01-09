@@ -1,4 +1,4 @@
 ---
-title: Understand UK tax and incentives
+title: Descubra os impostos e os incentivos fiscais do Reino Unido
 ---
-The UK has one of the most competitive tax systems in the world and the corporate tax rules are simple and clear.
+O Reino Unido tem um dos sistemas fiscais mais competitivos do mundo e as regras dos impostos sobre as sociedades são simples e transparentes.
