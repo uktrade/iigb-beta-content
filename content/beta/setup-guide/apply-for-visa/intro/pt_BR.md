@@ -1,4 +1,5 @@
 ---
-title: Apply for a UK visa
+title: Pedido de visto no Reino Unido 
+published: true
 ---
-Anyone from outside of the European Economic Area and Switzerland may need to apply for a UK visa to work in the UK or visit for business reasons.
+Poderá ter de se candidatar a um visto para o Reino Unido se estiver a planear entrar no Reino Unido por questões de negócios ou se pretender empregar alguém fora do Espaço Económico Europeu (EEE), incluindo a Suíça.

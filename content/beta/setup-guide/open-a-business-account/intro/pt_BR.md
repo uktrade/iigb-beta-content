@@ -1,4 +1,4 @@
 ---
-title: Open a UK business bank account
+title: Abrir uma conta bancária empresarial no Reino Unido
 ---
-This allows your business to make and receive payments in the UK without incurring foreign exchange fees. It is not a legal requirement. Yet, it will enable you to keep track of your transactions.
+Ter uma conta bancária no Reino Unido significa que a sua empresa pode realizar e receber pagamentos no Reino Unido sem incorrer em taxas de câmbio. Não se trata de um requisito legal, mas irá permitir-lhe manter um registo das suas transações.

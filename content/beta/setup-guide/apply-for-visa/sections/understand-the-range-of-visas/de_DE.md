@@ -2,7 +2,6 @@
 title: Die verschiedenen Visen verstehen
 published: true
 ---
-
 Es gibt verschiedene Arten von Visen für Einzelpersonen und Unternehmen, die je nach Situation in Frage kommen. 
 Alle diese Visen sind für Personen außerhalb des [Europäischen Wirtschaftsraums (EWR)](https://www.gov.uk/eu-eea) und der Schweiz bestimmt.
 

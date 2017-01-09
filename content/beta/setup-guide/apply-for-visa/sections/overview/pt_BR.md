@@ -1,6 +1,6 @@
 ---
-title: Overview
+title: Descrição geral
 ---
-[Check if you need a UK visa](https://www.gov.uk/check-uk-visa) and if so, book an appointment at your nearest visa application centre. 
+Existem mais de [200 centros de candidatura a visto por todo o mundo](https://www.gov.uk/find-a-visa-application-centre), com processamento prioritário (3 a 7 dias) em mais de 100 deles. O Reino Unido também proporciona um serviço de Visto Super-prioritário, que permite obter uma decisão em 24 horas. Este serviço está disponível em vários países, incluindo a Índia e a China.
 
-There are more than [200 visa application centres worldwide](https://www.gov.uk/find-a-visa-application-centre), with priority processing (3 to 7 days) in over 100 of them. The UK also offers a Super Priority Visa service providing a visa decision within 24 hours. This service is available in several countries including India and China.
+[V]erifique se necessita de um visto para o Reino Unido(https://www.gov.uk/check-uk-visa) e caso necessite, agende uma visita ao seu centro de candidatura a visto mais próximo. 

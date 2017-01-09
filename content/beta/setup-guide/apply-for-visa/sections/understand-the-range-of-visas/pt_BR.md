@@ -1,62 +1,59 @@
 ---
-title: Understand the range of UK visas
+title: Compreender os tipos de visto
 published: true
 ---
-There are different types of visa for individuals and business depending on your situation. All of these visas are for people from outside of the [European Economic Area (EEA)](https://www.gov.uk/eu-eea) and Switzerland.
+Existem diferentes tipos de visto para indivíduos e empresas, dependendo de cada situação.
+Estes sao somente para pessoas fora do [Espaço Económico Europeu (EEE)](https://www.gov.uk/eu-eea), incluindo a Suíça.
 
-### Visas For individuals
+### Vistos para o Reino Unido destinados a indivíduos
 
-#### A Tier 1 (Entrepreneur) visa may be suitable for you if:
+Um visto de Nível 1 (Empresário) poderá ser adequado para si se:
 
- - you want to set up or run a business in the UK
- - you’re from outside the EEA and Switzerland
- - you meet the other eligibility requirements
+- quiser estabelecer ou gerir uma empresa no Reino Unido
 
-[Learn more about Tier 1 Entrepreneur visas.](https://www.gov.uk/tier-1-entrepreneur/overview)
+- cumprir os restantes requisitos de elegibilidade
 
+[Saiba mais acerca dos vistos de Nível 1 (Empresário).](https://www.gov.uk/tier-1-entrepreneur/overview)
 
-#### A Tier 1 (Exceptional Talent) visa may be suitable for you if you’re:
+Um visto de Nível 1 (Talento Excecional) poderá ser adequado para si se:
 
- - a recognised leader (exceptional talent)
- - an emerging leader (exceptional promise)
+- for um líder reconhecido (talento excecional)
 
-[Learn more about Tier 1 (Exceptional Talent) visas.](https://www.gov.uk/tier-1-exceptional-talent/overview)
-
+- for um líder emergente (uma promessa excecional)
 
 
-#### A Tier 2 (General) visa may be suitable for you if:
+[Saiba mais acerca dos vistos de Nível 1 (Talento Excecional).](https://www.gov.uk/tier-1-exceptional-talent/overview)
 
- - you’ve been offered a skilled job in the UK
+Um visto de Nível 2 (Geral) poderá ser adequado para si se:
 
-[Learn more about Tier 2 (General) visas.](https://www.gov.uk/tier-2-general/overview)
+- lhe for oferecido um trabalho qualificado no Reino Unido
 
+[Saiba mais acerca dos vistos de Nível 2 (Geral).](https://www.gov.uk/tier-2-general/overview)
 
-#### A Tier 2 (Intra-company transfer) visa may be suitable for you if:
+Um visto de Nível 2 (Transferência Intraempresarial) poderá ser adequado para si se:
 
-- your overseas employer has offered you a role in a UK branch of the organisation
+- for um funcionário estrangeiro com uma proposta de exercício de funções numa filial do Reino Unido do seu empregador
 
-[Learn more about Tier 2 (Intra-company transfer) visas.](https://www.gov.uk/tier-2-intracompany-transfer-worker-visa/overview)
+[Saiba mais acerca dos vistos de Nível 2 (Transferência Intraempresarial).](https://www.gov.uk/tier-2-intracompany-transfer-worker-visa/overview)
 
+Um visto de Representante de Empresa Estrangeira poderá ser adequado para si se:
 
+- for o representante único de uma empresa estrangeira que planeia estabelecer uma filial no Reino Unido ou uma subsidiária de uma empresa-mãe estrangeira, cuja posse é totalmente detida por si
 
-#### A Representative of an Overseas Business visa may be suitable for you if you’re:
+- for funcionário de um jornal estrangeiro, agência noticiosa ou organização de radiodifusão com trabalho a longo prazo no Reino Unido
 
-- the sole representative of an overseas company planning to set up a UK branch or a wholly owned subsidiary for an overseas parent company
-- an employee of an overseas newspaper, news agency or broadcasting organisation posted on a long-term assignment to the UK
+[Saiba mais acerca dos vistos de Representante de Empresa Estrangeira.](https://www.gov.uk/representative-overseas-business/overview)
 
-[Learn more about Representative of an Overseas Business visas.](https://www.gov.uk/representative-overseas-business/overview)
+Um visto de Visitante Padrão poderá ser adequado para si se pretender realizar atividades empresariais limitadas. 
 
+Há restrições para o tipo de atividades em que poderá participar (substituiu o visto de Visitante Empresarial).
 
+[Saiba mais acerca do visto de Visitante Padrão.](https://www.gov.uk/standard-visitor-visa)
 
-#### A Standard Visitor visa may be suitable you if you wish to carry out limited business activities. 
+### Vistos para o Reino Unido destinados a empresas
 
-There are restrictions on the type of activities in which they can take part (this has replaced the Business Visitor visa).
+Poderá necessitar de uma licença de patrocinador se pretender empregar alguém com um visto de Nível 2.
 
+[Saiba mais acerca dos vistos de Nível 2 (Patrocinador).](https://www.gov.uk/uk-visa-sponsorship-employers/overview)
 
-[Learn more about the Standard Visitor visa.](https://www.gov.uk/standard-visitor-visa)
-
-### For companies
-
-You may need a sponsor licence if you wish to employ someone on a Tier 2 visa.
-
-[Learn more about a Tier 2 sponsor licence.](https://www.gov.uk/uk-visa-sponsorship-employers/overview)
+[Consulte a lista completa de vistos de trabalho para o Reino Unido em gov.uk.](https://www.gov.uk/browse/visas-immigration/work-visas)
