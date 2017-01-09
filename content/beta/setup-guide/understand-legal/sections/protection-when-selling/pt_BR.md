@@ -1,7 +1,6 @@
 ---
-title: Selling products to the UK government
+title: Vender produtos ou serviços ao governo do Reino Unido
 ---
-The UK has an open and fair procedure for buying products and services from businesses. 
+O Reino Unido tem um procedimento aberto e justo de aquisição de produtos e serviços a empresas. 
 
-[Search for opportunities to sell goods or services to the UK government.](https://www.gov.uk/tendering-for-public-sector-contracts/overview)
-
+[Procure oportunidades de venda de bens ou serviços ao governo do Reino Unido.](https://www.gov.uk/tendering-for-public-sector-contracts/overview)

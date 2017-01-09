@@ -1,6 +1,6 @@
 ---
-title: Global leaders in fairness and stability
+title: Líderes globais em equidade e estabilidade
 ---
-The UK’s culture of entrepreneurship is supported by this trusted legal framework. UK courts follow legal precedents, but have the flexibility to adapt past rulings to meet modern business needs. 
+A cultura de empreendedorismo do Reino Unido é apoiada por este quadro legal de confiança. Os tribunais do Reino Unido seguem precedentes legais, mas têm a flexibilidade necessária para adaptar decisões do passado de modo a ir ao encontro das necessidades de negócios atuais. 
 
-World class legal advisors are located all over the country – so no matter where you establish a business, you can be confident you will receive the best legal advice. 
+Existem consultores jurídicos de classe mundial por todo o país, portanto terá sempre o melhor apoio legal onde quer que estabeleça a sua empresa. 
