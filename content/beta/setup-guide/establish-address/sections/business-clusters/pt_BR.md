@@ -1,11 +1,13 @@
 ---
-title: Business clusters
+title: Agrupamentos empresariais
 ---
-Businesses from the same or complementary industry sectors have come together as centres of excellence and innovation across the UK. 
+Empresas dos mesmos setores industriais, ou de setores complementares, juntaram-se em centros de excelência e inovação por todo o Reino Unido. 
 
-Locating your business in a relevant cluster could help you to:
+Situar a sua empresa num agrupamento relevante pode ajudá-lo a:
 
-- access a larger pool of skilled labour
-- improve your supply chains
-- share knowledge, ideas, research and development costs
+- aceder a uma reserva alargada de mão-de-obra qualificada
+
+- melhorar as suas cadeias de fornecimento
+
+- partilhar conhecimento, ideias e custos de investigação e desenvolvimento 
 
