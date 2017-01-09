@@ -1,20 +1,6 @@
 ---
-title: Access to UK talent
+title: Acesso ao talento do Reino Unido
 ---
-Businesses operating in the UK can take advantage of a broad talent base. The UK is second only to the USA for growing, retaining and attracting talent.
+As empresas que operam no Reino Unido podem tirar partido de uma ampla base de talento. O Reino Unido só está atrás dos EUA no crescimento, retenção e atração de talento.
 
-There is a wide range of recruitment companies that can search for and select experienced talent. Universities and apprenticeships can help you hire the right people with the right qualifications and training.
-
-### Graduate talent
-
-The UK is home to 4 of the top 10 universities in the world and has the highest number of leading MBA institutions in Europe. This provides access to a large pool of work-ready graduates.
-
-### Apprenticeships
-
-The UK plans to create [3 million apprenticeships by 2020,](https://www.gov.uk/government/publications/apprenticeships-in-england-vision-for-2020) enabling businesses to grow their talent with motivated and skilled workers. Support for businesses seeking to recruit and train apprentices is available via the [National Apprenticeship Service.](http://www.getingofar.gov.uk/employers)
-
-### Overseas talent
-
-The [UK’s flexible visa system](/us/setup-guide/apply-for-visa/) welcomes new businesses, investors, entrepreneurs, skilled workers and academics. This enables you to bring in world-class expertise to your UK business operations.
-
-
+Existe uma ampla gama de empresas de recrutamento que podem pesquisar e selecionar talentos experientes. As universidades e os estágios podem ajudá-lo a contratar as pessoas certas, com as qualificações e a formação adequada.
