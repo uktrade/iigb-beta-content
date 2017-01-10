@@ -1,5 +1,4 @@
 ---
-published: false
-title: "Privacy and cookies"
+title: "Declaração de privacidade e cookies "
 ---
 

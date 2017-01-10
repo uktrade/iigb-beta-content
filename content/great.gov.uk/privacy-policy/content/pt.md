@@ -1,143 +1,146 @@
 
-## Your personal information
+## As suas informações pessoais
 
-This page explains what kind of personal information the [Department for International Trade](http://www.gov.uk/dit) (DIT) holds about you, how it’s used, how it’s protected and how you can find out about it.
+Esta página explica qual o tipo de informações pessoais que o [Department for International Trade (DIT)](http://www.gov.uk/dit) conserva sobre si, como são utilizadas, como são protegidas e como o poderá saber.
 
-Please read this page carefully to understand how we collect, use and store your personal information.  Please also re-visit it from time to time to review any changes that have been made.
+Leia esta página com atenção para saber como recolhemos, utilizamos e armazenamos as suas informações pessoais.  Queira também visitar-nos de tempos a tempos para analisar quaisquer alterações efetuadas.
 
-## What information the DIT stores about you
+## Que informações o DIT guarda sobre si
 
-GREAT.gov.uk and the DIT will, for example, store the following information about you:
-* your name
-* your chosen username and password
-* your email address
-* your business’s address
-* your business’s exporting experience
-* your internet protocol (IP) address used your computer to connect to the internet
-* your browser type and version, and any browser plug-ins you use
-* your time-zone setting
-* your operating system and platform
-* the full uniform resource locators (URLs) you used to get to our site, through our site and from our site (including the date and time)
-* pages you viewed or terms you searched for
-* page response times, download errors, length of visits to certain pages, page interaction information (such as scrolling, clicks, and ‘mouse-overs’)
-* methods used to browse away from the page
-* phone numbers used to call our customer service helpline
+O great.gov.uk e o DIT irão, por exemplo, guardar as seguintes informações * sobre si:
+* O seu nome
+* o seu nome de utilizador e palavra-passe
+* o seu endereço de e-mail
+* o endereço da sua empresa
+* a experiência de exportação da sua empresa
+* o seu endereço de protocolo internet (IP, internet protocol) utilizado no seu computador para aceder à internet
+* o tipo e a versão do seu browser, e quais os plug-ins que utiliza no browser
+* as suas definições de zona horária
+* a sua plataforma e sistema operativo
+* os localizadores uniformes de recursos (URLs, uniform resource locators) completos que utilizou para chegar ao nosso site, através do nosso site e a partir do nosso site (incluindo a data e hora)
+* páginas que visualizou ou termos que pesquisou
+* tempos de resposta das páginas, erros de download, duração de visitas a determinadas páginas, informações de interação na página (como deslocamento, cliques, e ‘passagens com o rato’)
+* métodos usados para navegar para fora da página
+* números de telefone utilizados para ligar para a nossa linha de apoio ao cliente
 
-Not all of this information will be personal data, and the extent to which any of this information is personal data may depend on applicable data protection laws.
+Nem todas estas informações serão dados pessoais, e a extensão até à qual qualquer uma destas informações representa dados pessoais poderá depender das leis de proteção de dados aplicáveis.
 
-Some of this information will be collected through the use of cookies and other related tracking technologies.  Cookies are used to distinguish you from other users of this website. DIT provides details on what cookies do and a full list of cookies that DIT uses on its websites. For more information see our cookie policy.
+Algumas dessas informações serão recolhidas por meio de cookies e outras tecnologias de rastreamento associadas.  As cookies são utilizadas para o distinguir de outros utilizadores deste website. O DIT fornece detalhes sobre o que as cookies fazem bem como uma lista completa de cookies que o DIT utiliza nos seus websites. Para mais informações consulte a nossa política de cookies.
 
-DIT may receive information about you if you use any of the other websites the DIT operates or services DIT provides. DIT also works with third parties (for example, partners and subcontractors) and may receive information about you from these third parties.  You should refer to the privacy policies of those third parties if you have concerns about their disclosure of your personal information to us.
+O DIT pode receber informações sobre si se utilizar qualquer um dos outros websites que o DIT opera ou serviços prestados pelo DIT. O DIT também trabalha com terceiros (por exemplo, parceiros e subcontratantes) e poderá receber informações sobre si desses terceiros.  Deve consultar as políticas de privacidade desses terceiros se tiver dúvidas sobre a divulgação das suas informações pessoais conosco.
 
-## How the DIT protects your personal information
+## Como o DIT protege as suas informações pessoais
 
-The DIT complies with the Data Protection Act 1998. 
+O DIT cumpre a Lei de Proteção de Dados (Data Protection Act 1998).
 
-The DIT will:
-* tell you why the information is needed. For example, we ask about your company’s exporting experience to decide whether it is suitable for inclusion in the Find a Buyer service.
-* only ask for what’s needed
-* make sure nobody has access to it who shouldn’t
-* tell you if the information is shared with other organisations and if you can say no to this
-* only keep the information for as long as it’s needed
-* not make it available for commercial use (for example, for marketing) without your permission
+O DIT irá:
+* informá-lo sobre a necessidade dessas informações. Por exemplo, perguntamos sobre a experiência de exportação da sua empresa para decidir se é adequada para inclusão no serviço Find a Buyer (Encontrar um comprador).
+* perguntar apenas o necessário
+* assegurar que ninguém tem um acesso indevido
+* comunicar-lhe se as informações forem partilhadas com outras organizações e se poderá negar essa partilha
+* conservar apenas as informações pelo período de tempo necessário
+* negar a disponibilização para fins comerciais (por exemplo, para marketing) sem a sua autorização
 
-You must:
-* give accurate information
-* tell the DIT about any changes, for example, to your address
+Você deve:
+* fornecer informações exatas
+* comunicar ao DIT quaisquer alterações, por exemplo, relativamente ao seu endereço
 
-## Sharing your information
+## Partilha das suas informações
 
-Your information can be shared with other teams in the DIT or other organisations where this is needed to process your application.
+As suas informações podem ser partilhadas com outras equipas do DIT ou com outras organizações em que tal seja necessário para processar o seu pedido.
 
-There are some cases when your information can be shared for other reasons, for example, to prevent crime. 
+Há casos em que as suas informações podem ser partilhadas por outros motivos, por exemplo, para prevenir crimes. 
 
-If you’re asking for information that isn’t published on www.GREAT.gov.uk, DIT may need to contact other organisations to find answers to your questions.
+Se solicitar informações que não estão publicadas no www.great.gov.uk, o DIT poderá ter de contactar outras organizações para dar resposta às suas perguntas.
 
-If your question is technical, DIT may need to pass information to technology suppliers. DIT will only pass on personal data if it is necessary to do so, and will not keep your personal data or records of its correspondence longer than necessary.
+Se a sua dúvida for técnica, o DIT poderá ter de transmitir informações a fornecedores de serviços tecnológicos. O DIT apenas transmitirá dados pessoais se for necessário fazê-lo, e não conservará os seus dados pessoais nem registos da sua corrspondência além do tempo necessário.
 
-## The DIT staff handling your information
+## O pessoal do DIT responsável pelo tratamento das suas informações
 
-The DIT staff are trained in handling information and understand how important it is to protect personal and other sensitive information.
-Within DIT, access to your personal information is limited to those members of our team who need access to it in order to provide you with our services which you request; to communicate with you (including, with your consent,  to send you marketing communications); and to carry out legal or regulatory obligations. 
+O pessoal do DIT possui formação sobre o tratamento de informações e compreende a importância de proteger informações pessoais bem como outras informações sensíveis.
+No DIT, o acesso às suas informações pessoais está limitado aos membros da nossa equipa que precisam de aceder a essas informações para lhe prestar os nossos serviços que solicitou; para comunicar consigo (incluindo, com o seu consentimento, para lhe enviar comunicações de marketing); e para desempenhar obrigações legais ou regulamentares. 
 
-## Your rights
+## Os seus direitos
 
-You have the right to:
-* ask to receive a copy of the personal information the DIT holds about you
-* amend inaccurate personal information
-* stop us sending you direct marketing communications
-* in limited circumstances, to have personal information erased, or to restrict or challenge or processing of that personal information
+Tem o direito a:
 
-To exercise any of these rights, fill in the [DIT contact form](https://www.contactus.trade.gov.uk/enquiry/topic) or write a letter to:
+* pedir para receber uma cópia das informações pessoais que o DIT conserva sobre si
+* emendar informações pessoais imprecisas
+* impedir-nos de lhe enviar comunicações diretas de marketing
+* em circunstâncias limitadas, ter informações pessoais apagadas, ou a restringir, contestar ou processar essas informações pessoais. 
 
-Department for International Trade  
-King Charles Street  
-Whitehall  
-London  
-SW1A 2AH  
+Para exercer qualquer um desses direitos, preencha o [formulário de contacto DIT](https://www.contactus.trade.gov.uk/enquiry/topic) ou escreva uma carta para:
 
-Copies of your information and details of use cost £10, payable in advance.
+Department for International Trade (Departamento para Comércio Internacional)
+King Charles Street
+Whitehall
+Londres
+SW1A 2AH
 
-Sometimes the DIT can withhold information, for example, to protect national security.
+As cópias das suas informações e detalhes de utilização custam 10£, pagam previamente.
 
-## How to make a complaint
+Por vezes, o DIT pode omitir informações, por exemplo, por motivos de segurança nacional.
 
-If you’re unhappy with the way the DIT handled your personal information, you can write to:
+## Como apresentar uma reclamação
 
-Department for International Trade  
-King Charles Street  
-Whitehall  
-London  
-SW1A 2AH  
+Se estiver insatisfeito com a forma como o DIT tratou as suas informações pessoais, pode escrever para:
 
-You’ll get a confirmation that the DIT has received your complaint within 5 days and a full answer within 20 days. The DIT will tell you if there’s going to be a delay.
+Department for International Trade (Departamento para Comércio Internacional)
+King Charles Street
+Whitehall
+Londres
+SW1A 2AH
 
-If you’re unhappy with the answer or need any advice, contact the Information Commissioner’s Office (ICO).
+Irá obter uma confirmação que o DIT recebeu a sua reclamação no prazo de 5 dias e uma resposta no prazo de 20 dias. O DIT irá informá-lo sobre eventuais atrasos.
 
-The ICO can investigate your complaint and take action against anyone who has misused personal data.
+Se estiver insatisfeito com a resposta ou precisar de aconselhamento, contacte o Gabinete do Comissário de Informações (ICO, Information Commissioner’s Office).
 
-## Changes to this privacy policy
+O ICO pode investigar a sua reclamação e tomar medidas contra quem quer que tenha utilizado indevidamente dados pessoais.
 
-Any changes made to this privacy policy will be posted on this webpage. Please check back for updates or changes to our privacy policy.
-The way the DIT deals with your personal information is set out in its information charter.
+## Alterações a esta política de privacidade
 
-## DIT cookies policy
+Quaisquer alterações efetuadas a esta política de privacidade serão publicadas nesta página web. Queira visitar-nos regularmente para estar a par de atualizações ou alterações a esta política de privacidade.
+A forma como o DIT trata as suas informações pessoais está definida na sua carta de informações.
 
-DIT wants to provide services that are easy to use, useful and reliable. Where services are delivered on the internet, this sometimes involves placing small amounts of information on your device, for example, computer or mobile phone. 
+## Política de cookies do DIT
 
-These include small files known as cookies. They cannot be used to directly identify you personally. These pieces of information are used to improve services for you through, for example:
-* enabling a service to recognise your device so you don’t have to give the same information several times
-* measuring how many people are using services, so they can be made easier to use
+O DIT pretende fornecer serviços fáceis de utilizar, úteis e fiáveis. Quando os serviços forem fornecidos através da internet, por vezes isso envolve a colocação de pequenos excertos de informação no seu dispositivo, por exemplo, computador ou telemóvel. 
 
-You can manage these small files yourself and learn more about them through on About Cookies.
+Essas informações incluem pequenos ficheiros conhecidos como cookies. Não podem ser utilizados para o identificar de forma direta e pessoalmente. Esses excertos de informação são utilizados para melhorar serviços que lhe são prestados como, por exemplo:
 
-## Use of cookies on this website
+* permitindo a um serviço reconhecer o seu dispositivo para não ter de fornecer as mesmas informações diversas vezes
+* medindo o número de pessoas que utilizam serviços, para que sejam mais fáceis de utilizar
 
-The www.GREAT.gov.uk website uses cookies. These enable the website to provide more appropriate information to you, for example, by not asking for the same information on multiple occasions.
+Pode gerir você mesmo esses pequenos ficheiros e saber mais sobre eles em Acerca das Cookies.
 
-The website uses Google Analytics, which sets cookies to help us accurately estimate the number of visitors to the website and volumes of usage. This to ensure that the service is available when you want it and fast.
+## Utilização de cookies neste website
 
-The Google Analytics cookies used on www.GREAT.gov.uk are:
+O website www.great.gov.uk utiliza cookies. Permitem ao website fornecer-lhe informações mais apropriadas, por exemplo, não solicitando as mesmas informações em diversas ocasiões.
 
-Name: _ga  
-Expires: after 2 years 
-Purpose: to distinguish users  
+O website utiliza o Google Analytics, que define cookies para nos ajudar a estimar com precisão o número de visitantes do website e os volumes de utilização. Tal serve para assegurar que o serviço está disponível quando o pretender e rapidamente.
 
-Name: _gat  
-Expires: after ten minutes  
-Purpose: Used to limit requests to Google Analytics  
+Os cookies do Google Analytics utilizados em www.great.gov.uk são:
 
-Additional cookies are set for users of the Find a Buyer service and the Find a Supplier service. These are: 
+Nome: _ga
+Expira: após 2 anos
+Objetivo: distinguir os utilizadores
 
-Name: _SessionID  
-Expires: never  
-Purpose: Maintains the session id  
+Nome: _gat
+Expira: após dez minutos
+Objetivo: Utilizado para limitar pedidos ao Google Analytics
 
-Name: _Sso_session_cookie  
-Expires: never  
-Purpose: Maintains the session id for single sign on  
- 
-Name: _Seen_cookie_message  
-Expires: never  
-Purpose: Prevents cookies pop-up message displaying if already seen and acknowledged  
-For further details on the cookies set by Google Analytics, please refer to the [Google Code](https://developer.google.com/) website.
+São definidas cookies adicionais para utilizadores do serviço Find a Buyer (Encontrar um comprador) e do serviço Find a Supplier (Encontrar um fornecedor). São essas: 
+
+Nome: _SessionID
+Expira: nunca
+Objetivo: Manter a id da sessão
+
+Nome: _Sso_session_cookie
+Expira: nunca
+Objetivo: Mantém a id da sessão para um início de sessão único
+
+Nome: _Seen_cookie_message
+Expira: nunca
+Objetivo: Previne a exibição de mensagens pop-up de cookies se já tiverem sido vistas e aceites
+
+Para mais detalhes sobre as cookies definidas pelo Google Analytics, consulte o website [Google Code](https://developer.google.com/).
