@@ -5,7 +5,7 @@ The UK government is fully committed to supporting the UK as a creative nation.
 
 Your innovative content will be protected and supported here. We support creative businesses in the UK by employing a strong intellectual property regime and regulatory framework.  We also have a number of internationally renowned trade associations offering professional guidance, training and development.
 
-Our creative tax relief offers help in starting  or growing  your business here,  and has made production more attractive than ever.  This allows businesses to access a rebate of up to 25% of qualifying spend for:
+Our creative tax relief offers help in starting or growing your business here, and has made production more attractive than ever. This allows businesses to access a rebate of up to 25% of qualifying spend for:
 - film
 - animation
 - high-end and children’s TV

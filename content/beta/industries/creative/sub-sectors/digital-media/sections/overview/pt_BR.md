@@ -1,10 +1,8 @@
 ---
-title: Overview 
+title: Descrição geral  
 ---
-If you have a great digital product or service you’ll be welcomed here. UK consumers have a huge appetite for new digital services, devices and creative offerings. 
+Se possuir um bom produto ou serviço digital será aqui bem recebido. Os consumidores britânicos têm um grande apetite por novos serviços e dispositivos digitais, bem como por ofertas criativas. 
 
-Our world-class creative production services and digital technologies are driving a fast growing market of global importance.
+Os nossos serviços de produção criativa e tecnologias digitais de nível mundial estão a impulsionar um mercado em rápido crescimento de importância global.
 
-Technology has transformed the creative scene and the booming digital economy allows businesses to set up easily and expand globally, from London and other UK digital centres.
-
-
+A tecnologia transformou o cenário criativo e a florescente economia digital permite que as empresas se instalem e expandam globalmente, a partir de Londres e de outros centros digitais do Reino Unido.

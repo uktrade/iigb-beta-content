@@ -1,19 +1,18 @@
 ---
-title: Government support for digital media
+title: Apoio ao investimento 
 ---
-The UK government is fully committed to supporting the UK as a leading digital nation. 
 
-Our help for early stage innovation and research and development (R&D) is second to none. You can take advantage of a number of tax incentives to develop and innovate here including:
+O governo do Reino Unido está totalmente empenhado em apoiar o Reino Unido enquanto nação digital líder. 
+A ajuda que prestamos à inovação em fase inicial e investigação e desenvolvimento (I&D) é ímpar. Aqui, pode tirar partido de diversos incentivos fiscais para desenvolver e inovar, incluindo:
  
-- Seed Enterprise Investment Scheme – a model for tax efficient investment at the seed and angel phase which is attracting new investors into the technology and start up environment
-- R&D tax credits – small and medium sized companies can write R&D investment off against tax to a rate of 230%
-- The Patent Box enables companies to apply a lower rate of Corporation Tax to profits earned from its patented inventions
+- Seed Enterprise Investment Scheme – um modelo para investimentos eficazes a nível fiscal na fase embrionária e de investimento que está a atrair novos investidores para o ambiente tecnológico e de startup
+- Créditos fiscais para I&D – as pequenas e médias empresas podem amortizar investimentos em I&D a nível fiscal a uma taxa de 230%
+- O Patent Box (regime fiscal preferencial para patentes) permite às empresas aplicar uma taxa inferior de IRC aos lucros resultantes das invenções patenteadas
 
-The government has invested more than 200 million GBP in a network of Technology and Innovation Centres supporting the commercialisation of new technologies by business. Innovate UK, the UK’s innovation support agency, invests in R&D related to strategic sector development targets.
+O governo investiu mais de 200 milhões de libras numa rede de Centros Tecnológicos e de Inovação para apoiar a comercialização de novas tecnologias por empresa. Innovate UK, a agência de apoio à inovação do Reino Unido, investe em I&D relativa a alvos de desenvolvimento de setores estratégicos.
 
-We also offer a number of world-class digital start-up programmes and opportunities for angel investment. 
+Também oferecemos vários programas de startup digital de nível mundial e oportunidades para investimento providencial. 
 
-All of these measures complement our low level of corporation tax, which is set to drop to 17% by 2020.
+Todas essas medidas complementam o nosso baixo nível de IRC, que deverá baixar para 17% até 2020.
 
-The government also has up to 50 billion GBP available to support finance and insurance for   supplies from within the UK to buyers outside the UK. This support takes the form of guarantees, insurance and loans issued by its export credit agency, UK Export Finance
-
+O governo também tem até 50 mil milhões de libras disponíveis para apoiar o financiamento e a obtenção de seguros para bens no Reino Unido a serem encaminhados para compradores fora do Reino Unido. Este apoio toma a forma de garantias, seguros e empréstimos emitidos pela agência de crédito para exportação, a UK Export Finance.
