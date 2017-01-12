@@ -1,25 +1,29 @@
 ---
-title: Strong areas of opportunity
+title: Grandes áreas de oportunidades 
 published: true
 --- 
-### Creative disruption is driving digital advertising
+### A interrupção criativa está a impulsionar a publicidade digital
 
-The size of the UK digital advertising market was 7.2 billion GBP in 2014. Mobile advertising increased to 1.6 billion GBP; that's up 63% on the previous year. 
+O tamanho do mercado da publicidade digital no Reino Unido era de 7,2 mil milhões de libras em 2014. A publicidade móvel aumentou para 1,6 mil milhões de libras; isso significa um aumento de 63% relativamente ao ano anterior. 
 
-Delivering targeted and effective advertising has also generated new business segments which are thriving here. That means many new opportunities for market entrants in areas such as programmatic trading, native advertising and analytics.
+O fornecimento de publicidade direcionada e eficaz também gerou novos setores de atividade que aqui estão a prosperar. Isso significa muitas novas oportunidades para estreantes no mercado em áreas como negociação programática (programmatic trading), native advertising e análise.
 
-### Personalisation is boosting mobile
+### A personalização está a impulsionar o segmento móvel 
 
-The UK is Europe’s largest mobile content market, with over 1 billion GBP spent on mobile applications, content and services each year.  It also has the highest mobile advertising spend per head. Our e-commerce market was worth 104 billion GBP in 2014. 
+O Reino Unido é o maior mercado de conteúdo móvel da Europa, com mais de mil milhões de libras gastos em serviços, conteúdos e aplicações móveis anualmente.  Também é o país que mais gasta com publicidade móvel per capita. O nosso mercado de e-commerce valia 104 mil milhões de libras em 2014. 
 
-Mobile in the UK has been boosted by our strong leadership in personalisation of platforms and content, an increase in smartphones and choice of mobile contracts, and a strong games and advertising industry. This is all supported by an enhanced mobile network infrastructure.
+O segmento móvel no Reino Unido tem sido impulsionado pela nossa forte liderança na personalização de plataformas e conteúdos, um aumento de smartphones e escolha de contratos de serviços móveis, e uma forte indústria de jogos e publicidade. Tudo isso é suportado por uma infraestrutura de rede móvel melhorada. 
 
-More mobile advertising networks are setting up in the UK, providing greater options to generate revenue from content.
+Mais redes de publicidade móvel estão a instalar-se n Reino Unido, oferecendo melhores opções para gerar receita com conteúdos.
 
-Other growth opportunities include: 
-- social media - Britons are amongst the biggest users of social networks in Europe
-- digital radio and TV – the UK has one of the world’s largest digital radio networks, and 97% of UK homes have digital TV
-- innovative tech in production and art – for example sensors and motion capture in film
-- digital music – accounted for 54% of all music consumption in 2015 
+Outras oportunidades de crescimento incluem: 
 
-Our offer has ensured investment by some of the world’s biggest digital players including Google, Facebook and Amazon, and Alibaba.
+- redes sociais - os britânicos figuram entre os maiores utilizadores de redes sociais na Europa
+
+- TV e rádio digital – o Reino Unido tem uma das maiores redes de rádio digital do mundo e 97% dos lares do Reino Unido possuem TV digital
+
+- tecnologia inovadora em produção e arte – por exemplo sensores e captura de movimentos em filmes
+
+- música digital – representa 54% de todo o consumo de música em 2015 
+
+A nossa oferta assegurou o investimento de alguns dos maiores nomes digitais de todo o mundo como Google, Facebook, Amazon e Alibaba.

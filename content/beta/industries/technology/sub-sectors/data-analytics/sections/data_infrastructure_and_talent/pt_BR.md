@@ -1,18 +1,13 @@
 ---
-title: The data infrastructure and talent to succeed
+title: A infraestrutura de dados e o talento para ser bem-sucedido
 ---
 
-Having such an advanced data sector means we have the infrastructure and skills to meet rising demand.
+Ter um setor de dados avançado significa que temos a infraestrutura e as competências necessárias para dar resposta a esta procura em crescimento.
 
+Uma infraestrutura de informática em nuvem e um centro de dados bem desenvolvidos posicionam o Reino Unido à frente da concorrência. O Reino Unido já é o maior mercado de centro de dados da Europa, com mais de 26% da capacidade da região.
 
-A well-developed data centre and cloud computing infrastructure sets the UK ahead of the competition. The UK is already the largest data centre market in Europe with over 26% of the capacity for the region.
+Estima-se que 31 000 pessoas trabalhem em funções de especialistas de ‘big data’ no Reino Unido e os recursos de talento, em conjunto com a procura, deve aumentar este número em 243% nos próximos 5 anos.
 
+Universidades como as de Goldsmiths, Edimburgo e Sheffield oferecem cursos de análise de big data, com outras instituições a oferecerem cursos de ciências de dados, visualização e inteligência artificial. Oxford, Cambridge, University College London (UCL), Warwick e Edimburgo, 3 das quais estão no top 6 das universidades do mundo, lançaram o centro nacional do Reino Unido especializado na ciências de dados, The Alan Turing Institute.
 
-It’s estimated that 31,000 people work in specialist big data roles in the UK and the talent pipeline, together with demand, should see that increase by 243% over the next 5 years. 
-
-
-Universities such as Goldsmiths, Edinburgh and Sheffield offer degrees in big data analytics, with others offering courses in data science, artificial intelligence and visualisation. Oxford, Cambridge, University College London (UCL), Warwick and Edinburgh, 3 of whom are among the top 6 universities in the world, have launched the UK’s national centre of expertise for data science, The Alan Turing Institute.
-
-
-With such an extensive talent pool there is plenty of opportunity for companies to hire the staff they need for growth.
-
+Com um nicho de talento tão vasto, existem amplas oportunidades para as empresas contratarem o staff de que necessitam para crescer.

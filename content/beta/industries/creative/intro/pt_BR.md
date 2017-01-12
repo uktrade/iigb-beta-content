@@ -1,4 +1,4 @@
 ---
-title: Creative in the UK
+title: Descrição geral sobre a criatividade no Reino Unido
 ---
-From producing big budget movies to developing world-class computer games, creativity is thriving in the UK.
+Da produção de filmes com orçamentos elevados ao desenvolvimento de videojogos de classe mundial, a criatividade está a prosperar no Reino Unido.

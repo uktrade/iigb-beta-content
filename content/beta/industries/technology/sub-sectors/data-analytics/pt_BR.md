@@ -1,5 +1,4 @@
 ---
-title: Data analytics
+title: Análise de dados
 ---
-
-With robust open data sets, technology funding opportunities and solid infrastructure, the UK is well placed to thrive in the continuing data revolution.
+Com uma força de trabalho altamente qualificada, oportunidade de financiamento de tecnologia e infraestruturas sólidas, o Reino Unido está bem posicionado para prosperar na contínua revolução no setor dos dados. 

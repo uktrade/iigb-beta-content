@@ -1,38 +1,38 @@
 ---
-title: The UK's creative strengths
+title: Condições de mercado
 published: true
 ---
-### Work with the best in film, TV and VFX
+### Trabalho com os melhores em cinema, TV e VFX 
 
-Our TV production is one of the world’s largest providers of original content. There are over 1,500 independent TV production companies, and over 44,000 people working in the industry.    
+A nossa produção de TV é uma das maiores fornecedoras mundiais de conteúdos originais. Há mais de 1500 empresas de produção de TV independentes e mais de 44 000 pessoas a trabalhar na indústria.    
 
-In the UK, you’ll find:
-- access to studios that can host any size of film or TV production 
-- highly skilled technicians and world class actors
-- leading companies in post- production and visual effects
+No Reino Unido encontrará:
+- acesso aos estúdios com capacidade para receber produções cinematográficas ou televisivas de qualquer tamanho 
+- técnicos altamente qualificados e atores de classe mundial
+- empresas líder em pós-produção e efeitos visuais
 
-Six of the world's largest film studios, including Warner Bros and Disney, have operations here. We’re also the home of Harry Potter, Game of Thrones and Star Wars.  
+Os 6 maiores estúdios de cinema do mundo, incluindo a Warner Bros e a Disney, têm aqui operações. Somos também o lar de Harry Potter, Game of Thrones e Star Wars.  
 
-We offer state-of-the-art studio facilities suitable for the biggest movie productions and a variety of locations from urban scenes to unique historical sites.
+Oferecemos instalações de estúdio topo de gama adequadas para as maiores produções de filmes e uma variedade de exteriores desde cenários urbanos a locais históricos únicos.
 
-International TV sales reached over 1.2 billion GBP in 2014/15, and we’re the world leaders in exporting TV formats, bought by different markets and localised. For example, The Great British Bake off format is now reproduced in 20 countries. 
+As vendas internacionais de TV alcançaram mais de 1,2 mil milhões de libras em 2014/15, e somos líderes mundiais na exportação de formatos de TV, comprados por diferentes mercados e localizados. Por exemplo, o formato The Great British Bake Off é agora reproduzido em 20 países. 
 
-We’re also a world class film talent base, with a very strong visual effects (VFX) industry. The Academy Award for Best Visual Effects has had a UK nominee for 6 of the last 7 years.
+Somos também uma base de talentos para filmes de classe mundial, com uma indústria de efeitos visuais muito forte. O prémio da Academia para melhores efeitos visuais teve um nomeado do Reino Unido em 6 dos últimos 7 anos.
 
-### Animation thrives across all areas
+### A animação prospera em todas as áreas
 
-Our animation market generates over 300 million GBP in revenues every year. There’s a high crossover of talent between the creative industries, and animated content is also increasingly in demand. 
+O nosso mercado de animação gera mais de 300 milhões de libras em receitas todos os anos. Existe um grande cruzamento de talento entre as indústrias criativas e os conteúdos animados estão também em crescente procura. 
 
-Companies based in the UK produce content for films, TV and commercials, and the opportunities for mobile and gaming content are growing rapidly. 
+As empresas sediadas no Reino Unido produzem conteúdos para filmes, TV e anúncios publicitários, e as oportunidades para conteúdos móveis e de jogos estão em rápido crescimento. 
 
-Merchandising and visitor experience creation are 2 related growth areas with a large appetite for animated content.
+A criação de merchandising e de experiência do visitante são 2 áreas de crescimento relacionadas com um grande apetite por conteúdos de animação.
 
-### A growing games market with a sophisticated audience
+### Um mercado de jogos crescente com uma audiência sofisticada
 
-The UK has one of the most advanced games industries globally, with over 30 years’ experience of producing some of the world’s most innovative and commercially successful titles. It’s underpinned by world-class universities producing a stream of talented developers and designers, an enthusiastic gaming population as well as a business environment that meshes creative and technical expertise.
+O Reino Unido possui uma das mais avançadas indústrias de jogos a nível global, com mais de 30 anos de experiência na produção de alguns dos mais inovadores e comercialmente bem sucedidos títulos do mundo. É sustentada pelas universidades de classe mundial que produzem vagas de programadores e designers com talento, uma população de jogos entusiasta bem como um ambiente comercial que mescla competências criativas e técnicas.
 
-British gamers spend more on games than in any other European country. Our digital games market is the world’s sixth largest. This is supported by high speed internet, high social network penetration and high smartphone usage. You’ll find an audience for gaming here which is one of the most established, diverse and progressive in the world.
+Os jogadores britânicos gastam mais em jogos do que qualquer outro país europeu. O nosso mercado de jogos digitais é o sexto maior do mundo. Isso é suportado pela internet de alta velocidade, uma elevada penetração nas redes sociais e uma elevada utilização de smartphones. Aqui encontrará uma audiência para jogos que é uma das mais estabelecidas, diversificadas e progressistas do mundo.
 
-We’re at the forefront of social and mobile platforms, with a rapidly growing startup scene and more than a third of UK studios focusing on the mobile market. Konami, King.com, Activision Blizzard and Electronic Arts all have a presence here.
+Estamos na vanguarda das plataformas sociais e móveis, com um cenário de startups em rápido crescimento e mais de um terço dos estúdios do Reino Unido focados no mercado móvel. Konami, King.com, Activision Blizzard e Electronic Arts estão aqui todas presentes.
 
-Companies are in a great position to grow in the global games market. You’ll benefit from our high level of screen and video effects and animation skills crossover.
+As empresas estão numa boa posição para crescer no mercado de jogos global. Irá beneficiar do nosso elevado nível de cruzamento de animação e efeitos de ecrã e de vídeo.

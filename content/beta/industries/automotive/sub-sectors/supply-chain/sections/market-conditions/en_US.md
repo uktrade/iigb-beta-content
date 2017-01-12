@@ -19,7 +19,7 @@ The local content of UK-made cars rose from 36% in 2011 to 41% in 2015, and is c
 | Alloy wheels | 210 | HVAC assembles | 75 |
 | Lighting | 210 | Misc. (mirrors, pedals, etc.) | 60 |
 | Electronics | 170 | Shock absorbers | 60 |
-| Plasting mouldings | 150 | Oil pans | 30 |
+| Plastic mouldings | 150 | Oil pans | 30 |
 | Entertainment & navigation | 135 | Premium finish | 50 |
 | Bearings | 120 | Weather strips | 50 |
 | Instrument Clusters | 120 | Switchgear | 30 |

@@ -3,11 +3,11 @@
 
 This page explains what kind of personal information the [Department for International Trade](http://www.gov.uk/dit) (DIT) holds about you, how it’s used, how it’s protected and how you can find out about it.
 
-Please read this page carefully to understand how we collect, use and store your personal information.  Please also re-visit it from time to time to review any changes that have been made.
+Please read this page carefully to understand how we collect, use and store your personal information. Please also re-visit it from time to time to review any changes that have been made.
 
 ## What information the DIT stores about you
 
-GREAT.gov.uk and the DIT will, for example, store the following information about you:
+great.gov.uk and the DIT will, for example, store the following information about you:
 * your name
 * your chosen username and password
 * your email address
@@ -51,7 +51,7 @@ Your information can be shared with other teams in the DIT or other organisation
 
 There are some cases when your information can be shared for other reasons, for example, to prevent crime. 
 
-If you’re asking for information that isn’t published on www.GREAT.gov.uk, DIT may need to contact other organisations to find answers to your questions.
+If you’re asking for information that isn’t published on www.great.gov.uk, DIT may need to contact other organisations to find answers to your questions.
 
 If your question is technical, DIT may need to pass information to technology suppliers. DIT will only pass on personal data if it is necessary to do so, and will not keep your personal data or records of its correspondence longer than necessary.
 
@@ -113,11 +113,11 @@ You can manage these small files yourself and learn more about them through on A
 
 ## Use of cookies on this website
 
-The www.GREAT.gov.uk website uses cookies. These enable the website to provide more appropriate information to you, for example, by not asking for the same information on multiple occasions.
+The www.great.gov.uk website uses cookies. These enable the website to provide more appropriate information to you, for example, by not asking for the same information on multiple occasions.
 
 The website uses Google Analytics, which sets cookies to help us accurately estimate the number of visitors to the website and volumes of usage. This to ensure that the service is available when you want it and fast.
 
-The Google Analytics cookies used on www.GREAT.gov.uk are:
+The Google Analytics cookies used on www.great.gov.uk are:
 
 Name: _ga  
 Expires: after 2 years 
@@ -140,4 +140,5 @@ Purpose: Maintains the session id for single sign on
 Name: _Seen_cookie_message  
 Expires: never  
 Purpose: Prevents cookies pop-up message displaying if already seen and acknowledged  
+
 For further details on the cookies set by Google Analytics, please refer to the [Google Code](https://developer.google.com/) website.

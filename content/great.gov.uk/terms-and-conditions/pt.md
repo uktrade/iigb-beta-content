@@ -1,4 +1,4 @@
 ---
-title: Terms and Conditions
+title: Termos e condições
 ---
 
