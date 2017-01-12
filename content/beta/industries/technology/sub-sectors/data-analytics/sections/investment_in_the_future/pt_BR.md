@@ -1,11 +1,11 @@
 ---
-title: The UK’s investment in the future
+title: O investimento do Reino Unido no futuro
 ---
 
-The UK currently has more than 30 programmes that provide investment support to accelerate new data analytics companies. The UK’s Open Data Institute has supported more than 28 start-up companies working in open data and analytics.
+O Reino Unido tem atualmente mais de 30 programas que fornecem apoio ao investimento para acelerar novas empresas de análise de dados. O Open Data Institute do Reino Unido apoiou mais de 28 startups no trabalho com dados de análise e dados abertos.
 
-The sector is seen as vital to the economic health of the nation and this is backed up by substantial investment in the industry. All 7 UK Research Councils have invested in big data analytics projects providing total investment of more than 300 million GBP.  
+O setor é visto como fundamental para a saúde económica da nação, sendo apoiado por um investimento substancial na indústria. As 7 fundações de investigação no Reino Unido investiram em projetos de análise de big data, fornecendo um investimento total de mais de 300 milhões de libras.
 
-An established and thriving market, solid infrastructure and a skilled workforce point to a bright future for the UK’s data analytics sector.
+Um mercado sólido e próspero, uma infraestrutura robusta e uma força de trabalho qualificada apontam para um futuro brilhante do setor de análise de dados do Reino Unido.
 
-The government also has up to 50 billion GBP available to support finance and insurance for   supplies from within the UK to buyers outside the UK. This support takes the form of guarantees, insurance and loans issued by its export credit agency, UK Export Finance.
+O governo também tem até 50 mil milhões de libras disponíveis para apoiar o financiamento e a obtenção de seguros para bens no Reino Unido a serem encaminhados para compradores fora do Reino Unido. Este apoio toma a forma de garantias, seguros e empréstimos emitidos pela agência de crédito para exportação, a UK Export Finance.
