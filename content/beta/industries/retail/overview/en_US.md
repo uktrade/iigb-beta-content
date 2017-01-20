@@ -6,7 +6,7 @@ The UK is set to become Europe’s leading luxury shopping market by 2018 ahead 
 
 The UK also ranks third in the world for online business-to-consumer sales. UK consumers are early adopters and are open to new and innovative models of service delivery. They have the highest online spend per head in the world at over 3,500 USD per year.
 
-[London is the most popular city for investment in retail](http://www.jll.com/services/industries/retail/destination-retail), featuring more international brands than in any other city in the world.  London also offers a more complete retail picture than its global competitors.   Brands have built up a long history of success in London thanks to a diverse, fashionable consumer base and a continued rise in tourism.
+[London is the most popular city for investment in retail](http://www.jll.com/services/industries/retail/destination-retail), featuring more international brands than in any other city in the world.  London also offers a more complete retail picture than its global competitors. Brands have built up a long history of success in London thanks to a diverse, fashionable consumer base and a continued rise in tourism.
 
 London is at the heart of the retail and fashion community with the iconic Oxford and Regent Streets at its centre.  Other notable areas of interest include Redchurch Street, Kings Road, Lamb’s Conduit Street, Mount Street, Dover Street and New Bond Street encompassing international flagship stores, luxury boutiques, vintage shops, homeware, accessories and jewellers.
 
