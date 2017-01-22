@@ -2,22 +2,15 @@
 title: Qué debe hacer
 ---
 
+Cada banco tiene un proceso ligeramente diferente a la hora de abrir una cuenta bancaria. En la mayoría de los casos, deberá tener:
 
-
-
-
-Each bank has a slightly different process for opening a business account. In most cases you will need to have:
-- a UK place of business address 
-- a company representative residing in the UK (usually a director or an employee)
+- Un domicilio social para la actividad empresarial en el Reino Unido 
+- Un representante empresarial residente en el Reino Unido (normalmente un directivo o un empleado)
  
-No matter where you intend to locate your business, you should contact the central inward investment banking team, usually located in London.  Do not apply through a local branch, online or a call centre. Tell the bank that you have foreign shareholders and/or directors of your business and that you need a UK business bank account (rather than an international business bank account that's held offshore).
+Independientemente de dónde pretenda ubicar su empresa, debería llamar a la sede central del banco en el Reino Unido en lugar de dirigirse a una sucursal local. Comuníquele al banco que tiene accionistas y directivos extranjeros y que necesita una cuenta bancaria empresarial en el Reino Unido (en lugar de una cuenta bancaria empresarial internacional en el extranjero).
  
-After you have done this, you can do most of the application process online and over the phone. You’ll need to provide photographic identification and proof of address for all directors and any substantial shareholders.
+Una vez hecho esto, podrá realizar la mayor parte del trámite de solicitud en línea o por teléfono. Tendrá que presentar un documento identificativo con fotografía y una prueba de la dirección postal de todos los directivos y accionistas de importancia.
 
+El banco también tendrá que reunirse personalmente con al menos un representante de su empresa en el Reino Unido, para que este firme una orden con la que el banco pueda abrir la cuenta empresarial. 
 
-The bank will also need to meet at least one representative of your company face-to-face in the UK to sign a bank mandate to open the business bank account. 
-
-
-Once your bank account is open, you will be able to use your local bank branch for your day-to-day banking needs.
-
-
+Cuando se haya abierto su cuenta empresarial, podrá acudir a su sucursal local en sus operaciones cotidianas.
