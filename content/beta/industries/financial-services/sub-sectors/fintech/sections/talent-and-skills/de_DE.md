@@ -1,6 +1,5 @@
 ---
 title: Digitale Experten verteilt im ganzen Lande
-published: true
 ---
 
 London ist weltweit führend, wenn es um Finanz- und Betriebswirtschaftsexperten geht, und es gibt landesweit über Großbritannien verstreut Regionen mit Verdichtungen digitalen Wissens.
