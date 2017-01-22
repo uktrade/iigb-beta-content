@@ -6,7 +6,7 @@ Al constituir una sociedad, estará creando una entidad legal independiente en e
 
 El proceso de [registro (constitución) de una sociedad de responsabilidad limitada en Reino Unido](https://www.gov.uk/register-a-company-online) es sencillo y suele tardar menos de 24 horas.
  
-## Antes de comenzar el proceso, necesitará:
+### Antes de comenzar el proceso, necesitará:
 
 - Un nombre para la sociedad
 - Una dirección, que puede ser cualquier dirección del Reino Unido, que conste como domicilio social de la empresa
