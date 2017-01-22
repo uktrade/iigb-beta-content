@@ -1,5 +1,5 @@
 ---
-title: Automotive research and development
+title: Investigación y desarrollo automotriz en el Reino Unido
 ---
 
-With world-class test centres and a reputation for groundbreaking innovation, the UK leads the way in automotive research and development.
+El Reino Unido, con unos centros de pruebas de altísima calidad y una reputación por descubrir innovaciones revolucionarias, se encuentra a la cabeza de la investigación y el desarrollo automovilísticos.
