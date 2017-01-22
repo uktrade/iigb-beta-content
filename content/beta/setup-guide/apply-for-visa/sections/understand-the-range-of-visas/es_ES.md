@@ -14,22 +14,15 @@ Hay distintos tipos de visados para particulares y empresas, dependiendo de su s
 - Cumple con el resto de requisitos de idoneidad
 [Más información sobre los visados de nivel 1 para emprendedores.](https://www.gov.uk/tier-1-entrepreneur/overview)
 
-Puede optar a un visado de nivel 1 (talento excepcional) si:
-Es un líder reconocido (talento excepcional)
-Es un líder emergente (promesa excepcional)
-Procede de fuera del EEE o Suiza
-Más información sobre los visados de nivel 1 (talento excepcional).
+####Puede optar a un visado de nivel 1 (talento excepcional) si:
+
+- Es un líder reconocido (talento excepcional)
+- Es un líder emergente (promesa excepcional)
+- Procede de fuera del EEE o Suiza
+[Más información sobre los visados de nivel 1 (talento excepcional).](https://www.gov.uk/tier-1-exceptional-talent/overview)
 
 
 
-
-
-#### A Tier 1 (Exceptional Talent) visa may be suitable for you if you’re:
-
- - a recognised leader (exceptional talent)
- - an emerging leader (exceptional promise)
-
-[Learn more about Tier 1 (Exceptional Talent) visas.](https://www.gov.uk/tier-1-exceptional-talent/overview)
 
 
 
