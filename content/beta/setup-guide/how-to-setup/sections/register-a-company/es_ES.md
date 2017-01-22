@@ -16,8 +16,3 @@ El proceso de [registro (constitución) de una sociedad de responsabilidad limit
 Una empresa de Reino Unido debe contar con una memoria y una escritura de constitución. Estos documentos deben constar en todo momento durante la constitución de la sociedad. Puede realizarse con documentos estándares en la fecha de la constitución o recurrir a asesores profesionales para que redacten y registren unos documentos personalizados a nombre de su empresa.
 
 Aunque contar con un director o accionista residente en el Reino Unido no sea un requisito legal para constituir una sociedad en este país, muchos bancos preferirán que sea así antes de [abrir una cuenta bancaria en Reino Unido](/es/setup-guide/open-a-business-account/) para su sociedad.
-
-
-
-
-While it is not a legal requirement to have a UK resident director or shareholder to set up a UK company, many banks will prefer this before they will [open a UK business bank account](/es/setup-guide/open-a-business-account/) for your business.
