@@ -1,18 +1,27 @@
 ---
-title: Understand the range of UK visas
+title: Conocer la variedad de visados
 published: true
 ---
-There are different types of visa for individuals and business depending on your situation. All of these visas are for people from outside of the [European Economic Area (EEA)](https://www.gov.uk/eu-eea) and Switzerland.
 
-### Visas For individuals
+Hay distintos tipos de visados para particulares y empresas, dependiendo de su situación.
 
-#### A Tier 1 (Entrepreneur) visa may be suitable for you if:
+### Visados del Reino Unido para particulares
 
- - you want to set up or run a business in the UK
- - you’re from outside the EEA and Switzerland
- - you meet the other eligibility requirements
+#### Puede optar a un visado de nivel 1 (emprendedor) si:
 
-[Learn more about Tier 1 Entrepreneur visas.](https://www.gov.uk/tier-1-entrepreneur/overview)
+- Desea crear o administrar una empresa en el Reino Unido
+- Procede de fuera del EEE o Suiza
+- Cumple con el resto de requisitos de idoneidad
+[Más información sobre los visados de nivel 1 para emprendedores.](https://www.gov.uk/tier-1-entrepreneur/overview)
+
+Puede optar a un visado de nivel 1 (talento excepcional) si:
+Es un líder reconocido (talento excepcional)
+Es un líder emergente (promesa excepcional)
+Procede de fuera del EEE o Suiza
+Más información sobre los visados de nivel 1 (talento excepcional).
+
+
+
 
 
 #### A Tier 1 (Exceptional Talent) visa may be suitable for you if you’re:
