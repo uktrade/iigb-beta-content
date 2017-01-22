@@ -1,4 +1,4 @@
 ---
-title: Set up a company in the UK
+title: Cómo crear una empresa en el Reino Unido
 ---
-The most common option for foreign investors is to register a UK company or subsidiary. Alternatively, you could register a UK branch of a foreign company.
+La opción más común para los inversores extranjeros es registrar una empresa o una filial en el Reino Unido. Como alternativa, también se podría registrar una división en Reino Unido de una empresa extranjera. 

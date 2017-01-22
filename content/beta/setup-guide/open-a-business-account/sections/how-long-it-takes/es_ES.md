@@ -1,5 +1,5 @@
 ---
-title: How long it takes
+title: Cuánto tarda el proceso 
 ---
-It can take 3 weeks to 3 months for a bank account application to be approved and meetings to be arranged, so factor this time into your business planning process. 
 
+La aprobación de una solicitud para abrir una cuenta bancaria y la organización de las reuniones necesarias puede tardar de tres semanas a tres meses, por lo que deberá tenerlo en cuenta en la planificación de sus procesos empresariales. 
