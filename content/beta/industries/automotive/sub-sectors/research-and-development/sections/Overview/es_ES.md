@@ -11,6 +11,3 @@ Las capacidades de I+D automovilísticos en el Reino Unido quedan demostradas po
 La capacidad de nuestros ingenieros para crear soluciones revolucionarias nunca ha estado en duda, pero el principal cambio que se ha producido en los últimos años es el establecimiento de una infraestructura exhaustiva para llevar los conceptos del laboratorio hasta la planta de producción.
 
 [Innovate UK](https://www.gov.uk/government/organisations/innovate-uk), la agencia para la innovación del Reino Unido, apoya el desarrollo de conceptos y su conversión en prototipos (Nivel de preparación tecnológica, o TRL, de entre 3 y 5). A su vez, la red de fabricación Catapult ayuda a transformar los prototipos en productos listos para la producción (TRL de 5 a 8).
-
-
-In 2009, the UK government and the UK automotive industry set up a partnership called the [Automotive Council](http://www.automotivecouncil.co.uk/), to chart the renaissance of the UK auto sector. This is now seen internationally as the gold standard for government and industry cooperation, and has led to a huge expansion of both car manufacturing and automotive research and development (R&D) in the UK.
