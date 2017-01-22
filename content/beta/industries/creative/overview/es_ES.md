@@ -1,13 +1,9 @@
 ---
-title: Creative overview
+title: Resumen sobre creatividad
 ---
 
-Creative business can thrive here, boosted by our creative excellence, technology partnerships and large scale growth opportunities. The UK’s creative industries are growing 3 times faster than the rest of the economy, employing more than 2 million highly skilled workers. 
+Los negocios creativos pueden prosperar en nuestro país impulsados por la excelencia creativa, las colaboraciones tecnológicas y las oportunidades de crecimiento a gran escala. Los sectores creativos del Reino Unido crecen tres veces más rápido que el resto de la economía y dan empleo a más de dos millones de trabajadores cualificados. 
 
+Más del 60 % de los puestos de trabajo del sector creativo están ocupados por licenciados universitarios. Estos trabajadores altamente cualificados proceden de uno de los sistemas educativos más famosos del mundo.
 
-Over 60% of creative sector jobs are held by graduates. These highly skilled workers come from one of the world’s most renowned education systems.
-
-
-We have a global reputation for excellence across the creative spectrum, including film, TV, advertising and adtech, music, fashion and mobile content.
-
-
+Tenemos una reputación global de excelencia en todo el espectro creativo, que incluye cine, televisión, publicidad y tecnología publicitaria, música, moda y contenidos para móviles.
