@@ -1,4 +1,4 @@
 ---
-title: Offshore wind in the UK
+title: Energia eólica offshore no Reino Unido
 ---
-The UK is home to the largest offshore wind energy portfolio in the world and ranks highly as the best place to invest.
+O Reino Unido apresenta o maior portefólio de energia eólica offshore do mundo e está bem cotado na tabela de melhores locais para investir. 
