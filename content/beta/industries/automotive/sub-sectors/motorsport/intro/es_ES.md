@@ -1,4 +1,5 @@
 ---
-title: Motorsport in the UK
+title: Los deportes de motor en el Reino Unido
 ---
-The UK leads the world in motor sport with a turnover of 9 billion GBP and more than 4,500 businesses operating in the sector.
+
+El Reino Unido es la cuna global de los deportes de motor. Hay más de 4500 empresas que operan en el sector y generan un volumen de negocio de 9000 millones de libras
