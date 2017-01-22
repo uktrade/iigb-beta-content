@@ -1,6 +1,5 @@
 ---
 title: Förderung und Anreize
-published: true
 ---
 
 Wenn Sie in Großbritannien investieren oder sich aufstellen wollen, können Sie jederzeit von der Unterstützung von Partnern aus der Medizintechnik profitieren – angefangen beim Design, über die Entwicklung bis hin zur Lieferung.

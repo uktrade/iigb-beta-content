@@ -1,28 +1,26 @@
 ---
-title: Market conditions
-published: true
+title: Condições de mercado
 ---
 
-The UK medical technology sector is a thriving ecosystem of researchers, scientists, engineers, designers and NHS clinicians working in an established industrial base. Together they drive the path of a novel technology from innovation, through the process of design and manufacture, and ultimately to the patient.
+O setor da tecnologia médica do Reino Unido é um ecossistema de investigadores, cientistas, engenheiros, designers e médicos do NHS em pleno crescimento que trabalham numa base industrial estabelecida. Em conjunto impulsionam o percurso de uma nova tecnologia a partir da inovação, através do processo de design e fabrico e, finalmente, para o paciente.
 
-There are nearly 3,700 companies in the UK’s medical technology sector, generating a turnover of 21 billion GBP. 98% are small to medium-sized enterprises. They produce a vast range of medical devices and diagnostic technologies.
+Há cerca de 3700 empresas no setor de tecnologia médica do Reino Unido, gerando um volume de negócios de 21 mil milhões de libras. 98% são pequenas e médias empresas. Produzem uma vasta gama de dispositivos médicos e tecnologias de diagnóstico. 
 
-There is a significant focus on single use technology, orthopaedic devices and in vitro diagnostics. The service and supply chain for medical technologies provides essential support including design, manufacturing and regulatory expertise.
+Existe um enfoque significativo em tecnologia descartável, dispositivos descartáveis e diagnóstico in vitro. A cadeia de fornecimento e serviço para tecnologias médicas fornece um apoio essencial incluindo no design, fabrico e especialidade regulamentar.
 
-The fastest growing segments of the UK industry by revenue are: 
+Os segmentos com o crescimento mais rápido da indústria do Reino Unido por receita são: 
 
-- medical imaging, with a compound annual growth rate (CAGR) of 10%
-- in vitro diagnostics (CAGR 7%)
-- drug delivery (CAGR 7%)
+- imagiologia médica, com um índice de crescimento anual (CAGR, Compound Annual Growth Rate) de 10%
+- diagnóstico in vitro (CAGR 7%)
+- ministração de medicamentos (CAGR 7%)
 
-The fastest growing segments by employment are: 
+Os segmentos com o crescimento mais rápido por emprego são: 
 
-- digital health (CAGR 28%)
-- drug delivery (CAGR 23%)
-- single use technology (CAGR 19%).
+- saúde digital (CAGR 28%)
+- ministração de medicamentos (CAGR 23%)
+- tecnologia descartável (CAGR 19%).
 
-The UK is the third largest market for medical technology in Europe, worth around 7.6 billion GBP.
+O Reino Unido é o terceiro maior mercado para tecnologia médica na Europa, no valor de cerca de 7,6 mil milhões de libras.
+O Serviço Nacional de Saúde (NHS) é o maior cliente de tecnologias médicas no Reino Unido e serve mais de 60 milhões de pacientes.
 
-The National Health Service (NHS) is the largest customer for medical technologies in the UK and serves more than 60 million patients.
-
-The NHS offers industry the opportunity to engage with clinical experts and commissioners who have a deep understanding of patient care pathways. It allows industry to provide an outcomes-focused approach that delivers quality and cost effectiveness. By developing this evidence base in the UK, companies can unlock business in other global markets.
+O NHS oferece à indústria a oportunidade de interagir com especialistas clínicos e comissários cm uma compreensão profunda sobre a prestação de cuidados aos pacientes. Isso permite à indústria fornecer uma abordagem focada em resultados que fornece qualidade e rentabilidade. Ao desenvolver esta base em evidências no Reino Unido, as empresas podem desbloquear negócios noutros mercados globais.
