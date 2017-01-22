@@ -1,6 +1,5 @@
 ---
 title: Marktbedingungen
-published: true
 ---
 
 Der Medizintechniksektor ist ein prosperierendes Netzwerk aus Wissenschaftlern, Ingenieuren, Designern und Kassenärzten des nationalen Gesundheitsdiensts NHS, das an einem etablierten Industriestandort arbeitet. Gemeinsam bereiten sie den Weg für neue Technologien – von der innovativen Idee über das Design und den Herstellungsprozess bis schließlich hin zum Patienten.
