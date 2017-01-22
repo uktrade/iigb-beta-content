@@ -1,16 +1,14 @@
 ---
-title: Energy generation overview
-published: true
+title: Descrição geral sobre a produção energética
 ---
-The UK is improving energy efficiency, expanding renewable and low carbon energy and maximising production of oil and gas. 
 
-Energy is a major driver of our growth. Energy projects, totalling over 200 billion GBP, account for around 60% of our total infrastructure project pipeline.
+O Reino Unido está a melhorar a eficiência energética, a expandir a energia renovável e de baixo teor de carbono e a maximizar a produção de óleo e gás. 
 
-The UK is one of the best places in the world to invest in renewable energy. We offer significant supply chain opportunities across the sector, including waste energy, electrical networks and offshore wind. This will help the UK meet projected increases in electricity demand, achieve its low carbon targets and enjoy economic growth.
+A energia é um catalisador de crescimento fundamental no Reino Unido. Os projetos energéticos, que totalizam 200 mil milhões de libras, representam cerca de 60% do total da nossa cadeia de projetos de infraestruturas.
 
-The industry has set out proposals to develop 18 gigawatts (GW) of nuclear generating capacity at 6 sites. With nuclear accounting for 20% of the UK’s electricity demand, you can expect high returns on investments at every step of the supply chain. We have also committed to invest at least 250 million GBP in nuclear research and development.
+O Reino Unido é um dos melhores locais do mundo para investir em energias renováveis. Oferecemos oportunidades de cadeia de distribuição significativas em todo o setor, incluindo energia residual, redes elétricas e energia eólica offshore. Isto ajuda o Reino Unido a cumprir as metas projetadas quanto à procura de eletricidade, a alcançar os objetivos de baixo teor de carbono e a desfrutar de crescimento económico.
 
-The UK Continental Shelf remains an important prospect for oil and gas, with significant reserves remaining, and potential discoveries still to be made. Technology will play a notable future role: the UK welcomes companies with experience of decommissioning and the safe development of shale onshore.
-A skilled and experienced energy labour pool of more than 600,000 people has grown up over many years to support the sector, with clusters spread across across the UK. 
+A indústria elaborou propostas para o desenvolvimento de 18 gigawatts (GW) de capacidade de produção nuclear em 6 localizações. Com a energia nuclear a representar 20% da procura elétrica do Reino Unido, pode esperar um elevado retorno dos investimentos a cada passo da cadeia de distribuição. Também estamos empenhados no investimento de pelo menos 250 milhões de libras em investigação e desenvolvimento nuclear.
 
-We’re committed to building a sustainable energy future for the UK, with regulatory and financial support measures to protect and provide attractive incentives to investors.
+A plataforma continental do Reino Unido permanece um local que oferece grandes perspetivas de obtenção de óleo e gás, com reservas significativas e com potenciais descobertas ainda por fazer. A tecnologia irá desempenhar um papel fundamental no futuro: o Reino Unido dá as boas-vindas a empresas com experiência na deslocação e desenvolvimento seguro da exploração de xisto onshore. Um nicho de mão-de-obra qualificada e com experiência no setor energético de mais de 600 000 pessoas cresceu durante muitos anos para suportar o setor, com agrupamentos espalhados por todo o Reino Unido. 
+Estamos empenhados na construção de um futuro sustentável em termos energéticos no Reino Unido, com medidas de apoio regulamentar e financeiro para proteger e fornecer incentivos atrativos aos investidores.
