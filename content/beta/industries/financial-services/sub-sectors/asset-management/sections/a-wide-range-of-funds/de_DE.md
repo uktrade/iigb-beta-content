@@ -1,6 +1,5 @@
 ---
 title: Eine Vielzahl an Fondstypen und Kunden
-published: true
 ---
 Fondsverwalter in Großbritannien managen eine Vielzahl verschiedener Fondstypen von Lebensversicherungen und Altersvorsorgen bis hin zu diversen Investmentfonds. 
 

@@ -1,9 +1,9 @@
 ---
-title: An attractive business environment with regional strengths
+title: Um ambiente comercial atrativo com vantagens regionais
 ---
-London is central to the UK’s strong international position. Respondents to The Banker’s Global Asset Management Survey have voted it the most attractive global location for relocating or expanding asset management operations, ahead of Hong Kong, Singapore and New York.
+
+Londres é determinante para a forte posição internacional do Reino Unido. Os inquiridos do Banker’s Global Asset Management Survey votaram em Londres como a localização global mais atrativa para a deslocação ou expansão de operações de gestão de ativos, ficando à frente de Hong Kong, Singapura e Nova Iorque.
  
-Edinburgh, Manchester, Cardiff and Birmingham are also well known as bases for companies with expertise in fund management.
+Edimburgo, Manchester, Cardiff e Birmingham são igualmente pontos reconhecidos para empresas com experiência na gestão de fundos.
 
-
-Currently, the asset management sector in the UK employs over 90,000 people nationwide.
+Atualmente, o setor de gestão de ativos no Reino Unido emprega mais de 90 000 pessoas por todo o país.
