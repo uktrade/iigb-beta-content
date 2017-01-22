@@ -1,19 +1,18 @@
 ---
-title: Health and Life Sciences overview
-published: true
+Descrição geral sobre as ciências da vida
 ---
-The UK is the number one destination for health and life sciences foreign direct investment in Europe.
+O Reino Unido é o destino número um para o investimento estrangeiro direto nas ciências de saúde e da vida na Europa.
 
-That’s because the fundamentals are strong: a tax structure that rewards innovation, a world class science base and a track record of life sciences excellence. You’ll find the people and facilities to develop your ideas here – from inception to clinical trials. We have a world-renowned research, test bed and delivery partner in our National Health Service (NHS).
+Isto acontece porque os elementos-base são atrativos: uma estrutura de impostos que premeia a inovação, uma base científica de classe mundial e um registo de excelência nas ciências da vida. Encontrará as pessoas e as instalações necessárias para desenvolver as suas ideias aqui; desde a conceção aos ensaios clínicos. Temos um parceiro de renome mundial em investigação, "banco de ensaios" e provisão de serviços no nosso Serviço Nacional de Saúde (NHS).
 
-There are already over 5,600 life sciences companies operating in the UK, generating a turnover of over 60 billion GBP and more than 30 billion GBP in exports. These companies span the life sciences product development, supply and services chain, and employ more than 220,000 people.
+Existem já mais de 5600 empresas ligadas às ciências da vida a operar no Reino Unido, gerando um rendimento de mais de 60 mil milhões de libras e mais de 30 mil milhões de libras em exportações. Estas empresas abarcam o desenvolvimento de produtos de ciências da vida, bem como a cadeia de serviços e abastecimento, incluindo a contratação de mais de 220 000 pessoas.
 
-The UK is a global life sciences supercluster with concentrations of expertise from the golden triangle of London, Oxford and Cambridge to Northern Ireland. 
+O Reino Unido é um super agrupamento global de ciências da vida, com uma concentração de perícia que vai do triângulo dourado de Londres, Oxford e Cambridge até à Irlanda do Norte. 
 
-### Strong research credentials
+### Fortes credenciais na investigação
 
-The UK has 4 of the world’s top 10 universities for medical research and far ranging impact in research citations. UK researchers and institutions have been responsible for many of the major scientific breakthroughs enabling biomedical innovation, from the discovery of penicillin and the structure of DNA to advancements in neuroscience and medical imaging, and developments in stem cells and in vitro fertilization. Industry benefits from the opportunity to partner with this pool of research expertise and human capital.
+O Reino Unido tem 4 das 10 melhores universidades do mundo em investigação médica, servindo de fontes de investigação com alto impacto. As instituições e os investigadores no Reino Unido têm sido responsáveis por muitos dos principais avanços científicos que permitem inovar na biomedicina, desde a descoberta da penicilina e da estrutura do ADN a avanços na neurociência e imagiologia médica, além de desenvolvimentos em células estaminais e na fertilização in vitro. A indústria beneficia da oportunidade de formar parceria com este leque de investigadores experientes e de capital humano.
 
-The UK leads Europe in life sciences financing, raising more capital fuel the strongest biomedical pipeline in Europe. Inward investors can also rely on a well-developed and publicly-funded infrastructure for experimental medicine and clinical trials. 
+O Reino Unido é líder na Europa em termos de financiamento de ciências da vida, aumentado o capital para catalisar o mais forte canal de biomedicina da Europa. Os investidores internos também podem tirar partido de uma infraestrutura com financiamento público e bem desenvolvida para ensaios clínicos e medicina experimental.
 
-There’s a pragmatic and supportive regulatory regime, and strong government support. The UK has the deep expertise and international leadership of the Medicines & Healthcare products Regulatory Agency and a world regarded health technology assessment body in the National Institute for Health and Care Excellence. With the world’s largest integrated health system, you can also access a world-renowned research, test bed and delivery partner in our National Health Service (NHS).
+Existe um regime regulamentar pragmático e favorável, além de um forte apoio governamental. O Reino Unido tem a liderança internacional e a experiência profunda da entidade reguladora de produtos de saúde e medicação (Medicines & Healthcare products Regulatory Agency), bem como um corpo de avaliação tecnológica de saúde de renome mundial no Instituto Nacional para a Excelência da Saúde e dos Cuidados de Saúde (National Institute for Health and Care Excellence). Com o maior sistema de saúde integrado do mundo, também pode ter acesso a um parceiro reconhecido mundialmente em investigação, "banco de ensaios" e provisão de serviços no nosso Serviço Nacional de Saúde (NHS).
