@@ -1,4 +1,4 @@
 ---
-title: Automotive in the UK
+title: Automoción en el Reino Unido
 ---
-The UK’s automotive industry has been the fastest growing overall in Europe since 2009 . This is due to an increasing demand for UK-made cars and a supportive business environment.
+El sector de la automoción del Reino Unido ha sido el que más ha crecido en Europa desde 2009. Este crecimiento se debe al aumento de la demanda de coches fabricados en el país y a un entorno empresarial favorable.
