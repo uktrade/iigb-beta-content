@@ -1,24 +1,22 @@
 ---
-title: Market conditions
+title: Condições do mercado
 ---
-With over 100 years experience, businesses can be sure that they’re entering a market that’s widely acknowledged as a global leader.
+Com mais de 100 anos de experiência, as empresas terão a certeza de estar a entrar num mercado amplamente aclamado como líder global.
 
-We are well placed to investigate new technologies and innovations. The UK is now focusing on technically challenging methods of extraction and production, including:
+Estamos bem posicionados para investigar novas tecnologias e inovações. O Reino Unido está agora a focar-se em métodos que desafiam a técnica para a extração e produção, incluindo:
 
-- heavy oil
-- high-pressure, high-temperature extraction
-- enhanced oil recovery
-- special materials for sealing systems
+- petróleo bruto
+- extração a altas temperaturas, altas pressões
+- recuperação de petróleo melhorada
+- materiais especiais para sistemas de vedação
 
+### Desenvolvimento seguro de gás de xisto
 
-### Safe development of shale gas
+O governo do Reino Unido está a apoiar o desenvolvimento seguro de gás de xisto onshore, pois é positivo para o trabalho, a segurança energética e os planos do Reino Unido em descarbonizar a economia. 
 
-Onshore, the UK government is backing the safe development of shale gas because it’s good for jobs, energy security and the UK’s plans to decarbonise the economy. 
+De acordo com um relatório publicado pela Ernst & Young em 2014, o investimento em xisto pode atingir os 33 mil milhões de libras e apoiar 64 000 postos de trabalho.
 
-According to a report published by Ernst & Young in 2014, investment in shale could reach £33 billion and support 64,000 jobs.
-
-The British Geological Survey has  identified areas with potentially large reserves of shale gas and oil. UK geology is promising, but we make no assumptions about production levels. We need exploration to determine the potential.
+A pesquisa geológica britânica (British Geological Survey) identificou áreas com reservas grandes potenciais de petróleo e gás de xisto. A geologia do Reino Unido é promissora, mas não fazemos previsões quanto aos níveis de produção. Necessitamos de exploração para determinar o potencial.
  
-Our current priority is investment in new gas plants with new build, storage and distribution opportunities. Our switch from coal to gas will require storage and distribution network upgrades.
+A nossa prioridade atual passa pelo investimento em novas unidades de produção de gás, com novas oportunidades de construção, armazenamento e distribuição. A nossa passagem do carvão ao gás irá exigir atualizações nas redes de distribuição e de armazenamento.
  
-

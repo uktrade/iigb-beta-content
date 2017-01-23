@@ -1,12 +1,10 @@
 ---
-title: An expert workforce dedicated to industry growth
+title:  Uma força de trabalho especializada e dedicada ao crescimento da indústria
 ---
-In the UK, your company will benefit from a highly skilled workforce with extensive research and development experience, focused on benefitting the customer.
+No Reino Unido, a sua empresa irá beneficiar de uma força de trabalho altamente qualificada, com vasta experiência em investigação e desenvolvimento, focada em beneficiar o cliente.
  
-We have universities offering world-class engineering degrees at undergraduate and postgraduate level, all feeding into our energy industries.
+Temos universidades que oferecem cursos de engenharia de classe mundial ao nível da licenciatura e de mestrado, com entrada nas nossas indústrias de energia.
  
-With the involvement of network operators and the supply chain, the industry’s apprenticeship system provides training at all levels, ensuring the success of the next generation of UK produced technologies.
+Com o envolvimento de operadores de rede e da cadeia de distribuição, o sistema de estágios da indústria fornece formação a todos os níveis, garantindo o sucesso da próxima geração de tecnologias produzidas no Reino Unido.
  
-We're finding new ways to develop talent, such as the foundation of a doctoral training centre in energy storage. [Energy Systems Catapult](https://es.catapult.org.uk/), a technology and innovation centre set up to help the UK transform its energy system, also offers training support
-
-
+Estamos a encontrar novas formas de desenvolver talento, como a criação de um centro de formação de doutoramento sobre o armazenamento de energia. [Energy Systems Catapult](https://es.catapult.org.uk/), um centro de inovação e tecnologia criado para ajudar o Reino Unido a transformar o seu sistema energético, fornecendo ainda apoio ao nível da formação.

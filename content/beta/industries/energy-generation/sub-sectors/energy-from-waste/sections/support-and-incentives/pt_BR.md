@@ -1,9 +1,8 @@
 ---
-title: Support and incentives 
+title: Apoio governamental para o desenvolvimento de energias renováveis 
 ---
-The UK has funding options to assist companies that want to develop sustainable energy facilities. These sources of funding change regularly to meet market demand and are dependent on the type of project and your location within the UK.
+O Reino Unido tem financiado opções para apoiar empresas que pretendam desenvolver instalações de energias renováveis. Estas fontes de financiamento mudam regularmente para dar resposta à procura do mercado e dependem do tipo de projeto e da sua localização no Reino Unido.
 
+O [Incentivo ao Aquecimento Renovável no Reino Unido](https://www.ofgem.gov.uk/environmental-programmes/domestic-rhi) ajuda as empresas a terem resposta para os custos da instalação de tecnologias de aquecimento renovável.
 
-The UK’s [UK’s Renewable Heat Incentive](https://www.ofgem.gov.uk/environmental-programmes/domestic-rhi) helps businesses meet the cost of installing renewable heat technologies.
-
-The government also has up to 50 billion GBP available to support finance and insurance for   supplies from within the UK to buyers outside the UK. This support takes the form of guarantees, insurance and loans issued by its export credit agency, UK Export Finance.
+O governo também tem até 50 mil milhões de libras disponíveis para apoiar o financiamento e a obtenção de seguros para bens no Reino Unido a serem encaminhados para compradores fora do Reino Unido. Este apoio toma a forma de garantias, seguros e empréstimos emitidos pela agência de crédito para exportação, a UK Export Finance.

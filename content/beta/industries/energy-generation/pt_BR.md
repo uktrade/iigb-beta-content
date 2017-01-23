@@ -1,4 +1,4 @@
 ---
-title: Energy generation
+title: Produção energética
 ---
-Whether your company operates with traditional or emerging energy technologies, you’ll find opportunities for growth and high returns here.
+Quer a sua empresa opere com tecnologias tradicionais, quer opere com tecnologias emergentes, encontrará oportunidades de crescimento e alto retorno aqui.

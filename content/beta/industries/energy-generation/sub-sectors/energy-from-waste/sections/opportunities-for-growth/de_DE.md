@@ -1,6 +1,5 @@
 ---
 title: Chancen für Wachstum
-published: true
 ---
 
 Der Markt umfasst verschiedene Abfallquellen:
