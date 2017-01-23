@@ -1,38 +1,36 @@
 ---
-title: "The demand for UK components"
-published: true
+title: "Demanda de componentes"
 ---
-The UK’s automotive supply chain is currently enjoying a period of unprecedented growth. In 2015, our automotive manufacturers spent 31 billion GPB on components and that sum is growing by 3 billion GBP per year.
+La cadena de suministro automovilística del Reino Unido disfruta actualmente de un periodo de crecimiento sin precedentes. En 2015, nuestros fabricantes del sector gastaron 31 000 millones de libras en componentes, una cifra que aumenta en 3 000 millones de libras cada año.
 
-The local content of UK-made cars rose from 36% in 2011 to 41% in 2015, and is continuing to increase. UK car manufacturers have identified an additional 4 billion GBP of annual component purchasing they would like to buy from UK suppliers, but are not always able to do so as UK component plants are already running close to or at full capacity. This provides a huge opportunity for overseas investors setting up in the UK.
+El contenido de procedencia local de los coches fabricados en el Reino Unido ha crecido del 36 % en 2011 al 41 % en 2015, y sigue en aumento. Los fabricantes de coches del Reino Unido han detectado una cantidad de componentes adicionales que desearían adquirir de proveedores de este país por un valor anual de 4 000 millones de libras, pero no siempre pueden hacerlo debido a que las fábricas de componentes ya están funcionando a plena capacidad o están muy cerca de hacerlo. Esto supone una gran oportunidad para los inversores extranjeros que deseen establecerse en el Reino Unido. La tabla siguiente muestra las oportunidades más importantes:
 
-#### Major supply chain opportunities
+#### Oportunidades más importantes en la cadena de suministro
 
-| Component | Value (GBP million) | Component  | Value (GBP million) |
+| Componente | Valor (millones de libras) | Componente  | Valor (millones de libras) |
 |---|---:|---|---:|
-| Engine castings | 550 | 12V Lead/Acid Battery | 90 |
-| Steering systems | 330 | Cast aluminium sub-frames | 90 |
-| Trim | 255 | Brakes | 80 |
-| Engine forgings | 255 | Drive shafts | 80 |
-| Pressing and hot stampings | 240 | Fuel tanks | 75 |
-| Seat components | 225 | Engine accesories | 75 |
-| Alloy wheels | 210 | HVAC assembles | 75 |
-| Lighting | 210 | Misc. (mirrors, pedals, etc.) | 60 |
-| Electronics | 170 | Shock absorbers | 60 |
-| Plasting mouldings | 150 | Oil pans | 30 |
-| Entertainment & navigation | 135 | Premium finish | 50 |
-| Bearings | 120 | Weather strips | 50 |
-| Instrument Clusters | 120 | Switchgear | 30 |
-| Glass | 110 | Other | 520 |
-| Hinges | 105 |
+| Piezas de fundición del motor | 550 | Baterías de plomo/ácido de 12 V | 90 |
+| Sistemas de dirección | 330 | Subestructuras de aluminio fundidas | 90 |
+| Niveles | 255 | Frenos | 80 |
+| Piezas forjadas del motor | 255 | Ejes de transmisión | 80 |
+| Prensado y estampado en caliente | 240 | Depósitos de combustible | 75 |
+| Componentes de los asientos | 225 | Accesorios para el motor | 75 |
+| Llantas de aleación | 210 | Equipos de climatización | 75 |
+| Iluminación | 210 | Varios (espejos, pedales, etc.) | 60 |
+| Componentes electrónicos | 170 | Amortiguadores | 60 |
+| Moldes de yeso | 150 | Cárter de aceite | 30 |
+| Entretenimiento y navegación | 135 | Acabado exclusivo | 50 |
+| Rodamientos | 120 | Gomas de sellado | 50 |
+| Paneles de instrumentos | 120 | Conmutadores | 30 |
+| Lunas | 110 | Otros |520 |
+| Bisagras | 105 |
 
-### A committed community and a connected network
+### Una comunidad comprometida y una red conectada
 
-Car manufacturers are looking to streamline their supply chain by reducing transportation and logistics costs. Choosing local suppliers reduces costs and creates major supply chain opportunities in the UK’s already established regional hubs.
+Los fabricantes de vehículos quieren racionalizar su cadena de suministro mediante la reducción de los costes logísticos y de transporte. Al escoger proveedores locales, se reducen los costes y se crean oportunidades muy importantes para la cadena de suministro de los centros regionales que ya están establecidos en el Reino Unido.
 
-The heart of the UK automotive industry is located in the Midlands with Birmingham at its centre. It’s the home of Jaguar Land Rover and has the largest concentration of automotive component suppliers in the UK. 
+El corazón del sector de la automoción del Reino Unido se encuentra en las Midlands (región central de Inglaterra) y su núcleo más importante es Birmingham. Es el lugar de origen de Jaguar Land Rover y alberga la mayor concentración de proveedores de componentes de automoción del Reino Unido. 
 
-There are also major automotive clusters in the North East, including the Nissan factory in Sunderland (the largest single car factory in the UK making 500,000 cars a year) and the North West, home to factories of General Motors (Vauxhall), Jaguar Land Rover and Bentley. 
+Además de este, hay otros centros importantes del sector de la automoción en el Noreste, incluida la fábrica de Nissan en Sunderland (la mayor fábrica de automóviles del Reino Unido, con una producción de 500 000 coches al año) y en el Noroeste, sede de las fábricas de General Motors (Vauxhall), Jaguar Land Rover y Bentley. 
 
-There’s also ‘Motorsport Valley®', a globally renowned cluster of automotive expertise. Located in the English Midlands and Oxfordshire, it’s the home of global motorsport. With 4,500 motorsport companies, many of which now supply global car manufacturers and component suppliers with advanced engineering solutions, Motorsport Valley® has a unique ability to help any automotive company gain a competitive edge. 
-
+También existe el "Motorsport Valley®", un conjunto de empresas pertenecientes al sector de la automoción de fama internacional. Se encuentra situado en las Midlands y Oxfordshire y es la cuna global de los deportes de motor. Gracias a sus 4 500 empresas relacionadas con los deportes de motor, muchas de las cuales proporcionan soluciones de ingeniería avanzadas a los fabricantes de vehículos y componentes de todo el mundo, Motorsport Valley® tiene la capacidad de ayudar a cualquier empresa del sector de la automoción a obtener una ventaja competitiva. 
