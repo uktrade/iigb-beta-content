@@ -1,8 +1,9 @@
 ---
-title: "Our talent and skills "
+title: Nuestro talento y capacidades 
 ---
-Recruitment of new talent with fresh ideas and technical knowhow is easier in the UK. For example, over three-quarters of our games workforce holds an undergraduate degree, and there’s a higher proportion of postgraduate degrees than anywhere else in the world. 
 
-Creative companies employ over 1.9 million people, and as a content producer and distributor based here you’ll be able to select from a pool of over 100,000 creative subject graduates per year.
+Reclutar a nuevos talentos con ideas nuevas y conocimientos técnicos es más sencillo en el Reino Unido. Por ejemplo, más de tres cuartas partes de nuestro personal laboral relacionado con los videojuegos tiene un grado universitario, y hay una mayor proporción de trabajadores con un posgrado que en ninguna otra parte del mundo. 
 
-A strong commitment to research and development in the UK across all content production areas helps us adopt new technologies first and stay ahead of the competition.
+Las empresas creativas dan empleo a más de 1,9 millones de personas, y los productores y distribuidores de contenidos con base aquí pueden elegir de entre los más de 100 000 graduados en ámbitos laborales creativos que salen al mercado cada año.
+
+El sólido compromiso con la investigación y el desarrollo en el Reino Unido, en todos los ámbitos de producción de contenidos, nos ayuda a adoptar las nuevas tecnologías antes que los demás y a adelantarnos a la competencia.
