@@ -1,6 +1,5 @@
 ---
 title: "Our talent and skills"
-published: true
 ---
 
 The UK is the global home of motorsport. Seven of the 11 Formula One motor racing teams, including McLaren, Williams and Mercedes-Benz, have made the UK their headquarters.

@@ -1,12 +1,11 @@
 ---
-title: "Support and incentives"
+title: "Apoyo e incentivos "
 ---
 
-All these areas have dedicated bodies which assist and promote their local automotive industry.
+Todas estas zonas cuentan con organismos especializados que prestan ayuda y promocionan el sector local de la automoción.
 
-In the Midlands, [Drive West Midland](http://www.drivewestmidlands.co.uk/) is a pioneering programme that supports the development of small or medium sized enterprises and coordinates local support services for the automotive sector. 
+[Drive West Midlands](http://www.drivewestmidlands.co.uk/) es un programa pionero de las Midlands que apoya el desarrollo de pequeñas y medianas empresas y que coordina los servicios de apoyo locales para el sector de la automoción. 
 
-Further north, there is the [Northern Automotive Alliance](http://northernautoalliance.com/) and the [North East Automotive Alliance](https://www.northeastautomotivealliance.com/) Both organisations provide support to companies setting up in the region, as well as to the industry at large. 
+Más al norte se sitúan la [Northern Automotive Alliance](http://northernautoalliance.com/) y la [North East Automotive Alliance](https://www.northeastautomotivealliance.com/). Ambas organizaciones apoyan tanto a las empresas que se establecen en la región como a todo el sector. 
 
-The government also has up to 50 billion GBP available to support finance and insurance for   supplies from within the UK to buyers outside the UK. This support takes the form of guarantees, insurance and loans issued by its export credit agency, UK Export Finance
-
+El Gobierno pone a disposición hasta 50 000 millones de libras para ofrecer financiación y asegurar los suministros procedentes del Reino Unido a los compradores extranjeros. Este apoyo se realiza en forma de garantías, seguros y préstamos emitidos por la agencia de crédito a la exportación, la UK Export Finance. 
