@@ -1,6 +1,5 @@
 ---
 title: "Finanzierung der automobilen Forschung und Entwicklung in Großbritannien"
-published: true
 ---
 
 ### Kohlenstoffarmer Antrieb
@@ -9,7 +8,9 @@ Großbritannien ist bereits das weltweite Zentrum für Antriebstechnologie mit e
 
 ### Leichtbau
 
-Großbritannien hat eine lange und einzigartige Erfolgsgeschichte in der Entwicklung von Leichtbaumaterial vorzuweisen – von der ersten Karbonfaser, die von McLaren 1981 in der Formel Eins verwendet wurde bis zur aktuellen Modellreihe von Jaguar Land Rover, der aluminiumintensivsten Automarke der Welt. Zu den bedeutendsten Materialien für Straßenfahrzeuge von morgen zählen Karbonfaserkomposite. Es bietet sich somit an, die führende Kompetenz Großbritanniens im Motorsport und in der Luftfahrt für den aufstrebenden Karbonfaser-Massenmarkt in der Automobilbranche zu nutzen. Dabei hilft das [High Value Manufacturing Catapult](https://hvm.catapult.org.uk/), ein weltweit führendes Netzwerk von Einrichtungen, das Verbundstoffherstellern Zugang zu modernster Test- und Entwicklungsmaschinerie bietet.
+Großbritannien hat eine lange und einzigartige Erfolgsgeschichte in der Entwicklung von Leichtbaumaterial vorzuweisen – von der ersten Karbonfaser, die von McLaren 1981 in der Formel Eins verwendet wurde bis zur aktuellen Modellreihe von Jaguar Land Rover, der aluminiumintensivsten Automarke der Welt. 
+
+Zu den bedeutendsten Materialien für Straßenfahrzeuge von morgen zählen Karbonfaserkomposite. Es bietet sich somit an, die führende Kompetenz Großbritanniens im Motorsport und in der Luftfahrt für den aufstrebenden Karbonfaser-Massenmarkt in der Automobilbranche zu nutzen. Dabei hilft das [High Value Manufacturing Catapult](https://hvm.catapult.org.uk/), ein weltweit führendes Netzwerk von Einrichtungen, das Verbundstoffherstellern Zugang zu modernster Test- und Entwicklungsmaschinerie bietet.
 
 ### Vernetzte und autonome Fahrzeuge (Connected and Autonomous Vehicles - CAVs)
 

@@ -46,7 +46,6 @@ Dazu gehören:
 
 - 2000er Jahre: Systeme zur kinetischen Energierückgewinnung von Williams
 
-
 ### Bahnbrechende Technologie jenseits der Formel Eins
 
 Großbritannien stellt eine Basis für die neue internationale Elektromotor-Rennserie Formel E bereit. Es gehört zu den Hauptzulieferern für IndyCar und NASCAR in den USA, die Tourenwagen-Meisterschaft in China und das 24 Stunden Rennen von Le Mans.

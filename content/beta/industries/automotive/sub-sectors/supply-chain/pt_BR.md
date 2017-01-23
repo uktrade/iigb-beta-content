@@ -1,6 +1,5 @@
 ---
-title: "Automotive supply chain"
+title: "Cadeia de fornecimento automóvel"
 ---
 
-As the demand for UK-made vehicles continues to boom, UK automotive production will exceed 2 million cars by 2020. Which means a huge opportunity for businesses involved in all parts of the supply chain.
-
+Com a procura crescente de veículos de fabrico britânico, a produção automóvel irá exceder os 2 milhões de automóveis até 2020. Isso cria excelentes oportunidades para as empresas envolvidas em todas as fases da cadeia de fornecimento.
