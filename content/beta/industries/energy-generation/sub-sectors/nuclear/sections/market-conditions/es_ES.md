@@ -1,40 +1,42 @@
 ---
-title: "Nuclear energy supply chain opportunities"
+title: ## Oportunidades en la cadena de suministro de energía nuclear
 published: true
 ---
-With the positive transformation taking place in our nuclear industry, the prospects for businesses to establish themselves in the UK supply chain are vast. 
+Con la transformación positiva que se está desarrollando en nuestro sector nuclear, las perspectivas para las empresas que quieran acceder a la cadena de suministro británica son inmensas. 
 
-We have major infrastructure projects that include: 
+Tenemos grandes proyectos de infraestructura, entre los que se incluyen: 
 
-- new build opportunities
-- decommissioning
-- waste management programmes
+- Nuevas oportunidades de construcción.
+- Desmantelamiento.
+- Programas de tratamiento de residuos.
 
-The industry has set out proposals to develop 18 gigawatts (GW) of nuclear generating capacity at 6 sites in the UK. These projects could lead to a significant reduction in CO2 emissions and the creation of around 35,000 jobs at the peak of construction. 
+El sector ha presentado propuestas de desarrollo para alcanzar una capacidad de generación nuclear de 18 gigavatios (GW) en seis ubicaciones del Reino Unido. Estos proyectos podrían provocar una reducción significativa de las emisiones de CO2 y la creación de unos 35 000 puestos de trabajo en el momento álgido de la construcción. 
 
-We have new build sites in:
+Tenemos nuevos sitios de construcción en:
 
-- Hinkley Point C, Somerset
-- Sizewell, Suffolk
-- Moorside, Cumbria
-- Wylfa, Anglesey
-- Oldbury, Gloucestershire
-- Bradwell, Essex
+- Hinkley Point C, Somerset.
+- Sizewell, Suffolk.
+- Moorside, Cumbria.
+- Wylfa, Anglesey.
+- Oldbury, Gloucestershire.
+- Bradwell, Essex.
 
-Decommissioning is another source of opportunity. The [Nuclear Decommissioning Authority](https://www.gov.uk/government/organisations/nuclear-decommissioning-authority) (NDA) is responsible for the decommissioning and cleaning up of our civil public sector nuclear legacy. The agency  currently manage 17 sites through this process. The goal is to achieve the end state for all sites by 2125.
+El desmantelamiento es otra fuente de oportunidades. La [Nuclear Decommissioning Authority](https://www.gov.uk/government/organisations/nuclear-decommissioning-authority) (NDA) es la responsable del desmantelamiento y la limpieza de nuestro patrimonio nuclear civil público. La agencia gestiona en la actualidad estos procesos en 17 sitios. El objetivo es llegar al estado final de todas las ubicaciones en 2125.
 
-The UK government will spend 3.2 billion GBP on decommissioning in 2016/17. The government have also  invested £90 million every year on research and development to ensure that the complex technical challenges can be conquered effectively. 
+El Gobierno del Reino Unido invertirá 3200 millones de libras en desmantelamiento en 2016/17. El Gobierno ha invertido también 90 millones de libras al año en investigación y desarrollo para garantizar que las cuestiones técnicas complejas se puedan abordar de manera eficaz. 
 
-### Government plans for Small Modular Reactor development
 
-The government have backed plans to develop the next generation of [Small Modular Reactors](https://www.gov.uk/government/collections/small-modular-reactors) (SMR), a technology which could play an important role in the world’s clean energy future. 
+### El Gobierno planifica el desarrollo de reactores modulares pequeños
 
-Government have made a further commitment to invest at least £250 million in nuclear research and development. This includes a [competition to find the best value SMR designs.](https://www.gov.uk/government/publications/small-modular-reactors-competition-phase-one)
+El Gobierno ha respaldado planes para desarrollar la próxima generación de [reactores modulares pequeños](https://www.gov.uk/government/collections/small-modular-reactors) (SMR), una tecnología que podría desempeñar un papel importante en el futuro de las energías limpias en todo el mundo. 
 
-According to the National Nuclear Laboratory, the global SMR market iit's estimated that the global SMR market will be approximately 65-85GW by 2035 and valued at 250 to 400 billion GBP. If the economics of this approach prove competitive, there could be significant advantages for businesses involved in the UK’s development programme.
+El Gobierno sigue comprometido con la inversión de al menos 250 millones de libras en investigación y desarrollo nuclear. Entre estos esfuerzos se incluye un [concurso para encontrar los diseños de SMR más valiosos.](https://www.gov.uk/government/publications/small-modular-reactors-competition-phase-one)
 
-### A world class regulatory system
+Según el National Nuclear Laboratory, se calcula que el mercado global de los SMR alcanzará aproximadamente los 65-85 GW en 2035, y estará valorado en entre 250 000 y 400 000 millones de libras. Si el ámbito económico de este enfoque demuestra ser competitivo, podrían presentarse ventajas significativas para las empresas participantes en el programa de desarrollo del Reino Unido.
 
-At the heart of our nuclear programme is a world-class independent regulatory system. The[ Office for Nuclear Regulation](http://www.onr.org.uk/) and the [Environment Agency ](https://www.gov.uk/government/organisations/environment-agency)work together to make sure that any new nuclear power stations built here meet high standards of safety, security, environmental protection and waste management. This process is called the [Generic Design Assessment](http://www.onr.org.uk/new-reactors/) (GDA).
+### Un sistema normativo de primer nivel
 
-Businesses that achieve GDA approval in the UK are recognised as meeting the most rigorous standards in the nuclear industry, providing them with a stepping-stone for further international growth.
+Nuestro sistema normativo independiente de primer nivel está en el centro de nuestro programa nuclear. La [Office for Nuclear Regulation](http://www.onr.org.uk/) y la [Environment Agency](https://www.gov.uk/government/organisations/environment-agency) colaboran para garantizar que todas las centrales nucleares que se construyan en el país cumplan las normas de seguridad, protección medioambiental y gestión de residuos más estrictas. Este proceso se denomina [evaluación de diseño genérico](http://www.onr.org.uk/new-reactors/) (GDA).
+
+Las empresas que obtengan la aprobación de su GDA en el Reino Unido tendrán el reconocimiento por haber cumplido la normativa más rigurosa del sector nuclear, con lo que tendrán un trampolín para su crecimiento internacional.
+
