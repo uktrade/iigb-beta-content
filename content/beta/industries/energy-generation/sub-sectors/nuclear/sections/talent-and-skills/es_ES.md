@@ -1,12 +1,14 @@
 ---
-title: ## Experiencia líder mundial en todo el país
-
+title: Experiencia líder mundial en todo el país
 published: true
 ---
-More than 65,000 people are currently working in the UK’s civil nuclear industry. These are skilled workers with experience in fuel manufacturing, the operation and maintenance of reactors, and management of the waste generated from the operations.
 
-Nuclear expertise is well distributed across the nation, but there are specific cluster areas where many major businesses share research, development and thinking. These include: 
+Hay más de 65 000 personas trabajando en la actualidad en el sector nuclear civil del Reino Unido. Entre ellas se encuentran trabajadores cualificados con experiencia en la fabricación de combustibles, el funcionamiento y el mantenimiento de los reactores, y la gestión de los residuos generados en las operaciones.
 
-- north west England, where [Sellafield](http://www.sellafieldsites.com/) remains the major centre for the maintenance of nuclear skills
-- south west England, where EDF Energy has established a base and Horizon Nuclear Power has begun deployment
-- Yorkshire and the Humber, where growth is occurring around Sheffield, which is home to the[ Advanced Manufacturing Research Centre](http://www.amrc.co.uk/)
+La experiencia nuclear está bien distribuida por todo el país, pero existen áreas de concentración específicas en las que varias empresas comparten actividades de investigación y desarrollo. Entre ellas se incluyen: 
+
+
+- El noroeste de Inglaterra, donde [Sellafield](http://www.sellafieldsites.com/) sigue siendo el principal centro de mantenimiento de las capacidades nucleares.
+- El suroeste de Inglaterra, donde EDF Energy ha establecido una base y Horizon Nuclear Power ha comenzado su despliegue.
+- Yorkshire y Humber, donde el crecimiento se está desarrollando en torno a Sheffield, que alberga el [Advanced Manufacturing Research Centre](http://www.amrc.co.uk/) 
+
