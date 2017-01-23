@@ -2757,7 +2757,7 @@ form_headquarters:
 form_disclaimer:
   de_DE: Mit Absenden Ihrer Daten bestätigen Sie, dass die von Ihnen eingegebenen
     Daten korrekt sind und stimmen unseren
-  en_US: By sending us your details you confirm that the information you郦ve shared
+  en_US: By sending us your details you confirm that the information you've shared
     with us is true and you accept our
   zh_CN: 发送您的详细信息以后，代表您同意提供的信息是真实并接受
   ja_JP: ''
