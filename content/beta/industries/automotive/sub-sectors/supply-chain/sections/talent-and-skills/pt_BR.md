@@ -1,12 +1,9 @@
 ---
-title: "Our talent and skills"
-published: true
+title: "O nosso talento e capacidades"
 ---
 
-The UK is the global home of motorsport. Seven of the 11 Formula One motor racing teams, including McLaren, Williams and Mercedes-Benz, have made the UK their headquarters.
+O Reino Unido é a sede global do desporto automóvel. Sete das 11 equipas de Fórmula Um, incluindo a McLaren, a Williams e a Mercedes-Benz, estão sediadas no Reino Unido. 
 
-We have world-class universities, with 4 of the world’s top 10 universities, and 9 of the top 10 EU universities according to the [international QS ranking](http://www.topuniversities.com/university-rankings-articles/world-university-rankings/qs-world-university-rankings-201617-out-now).
+Temos universidades de nível mundial, com 4 das melhores 10 universidades do mundo, e 9 das 10 melhores universidades da UE segundo o [ranking internacional da QS](http://www.topuniversities.com/university-rankings).
 
-We have leading engineering companies like Ricardo and world-class automotive research facilities thanks to the recently-established [Catapult network](https://catapult.org.uk/).
-
-We’re leading the move to low carbon propulsion. Europe’s only large scale battery facility for electric cars is here. Currently we account for over 20% of European electric vehicle production.
+Temos empresas de engenharia líderes como a Ricardo e instalações de investigação automóvel de nível mundial, graças à recém-criada rede Catapult.
