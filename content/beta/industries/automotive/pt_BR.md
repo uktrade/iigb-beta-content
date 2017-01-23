@@ -1,5 +1,4 @@
 ---
-title: Automotive
+title: Setor automóvel
 ---
-The UK’s automotive industry is the fastest growing in Europe. This is due to an increasing demand for UK components and a supportive business environment.
-
+A indústria automóvel no Reino Unido é a que tem um crescimento geral mais rápido na Europa desde 2009. Isto deve-se a um aumento na procura de carros fabricados no Reino Unido, bem como a um ambiente de negócios sustentado.
