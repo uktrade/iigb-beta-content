@@ -1,17 +1,15 @@
 ---
-title: "A prime location for global giants"
+title: Una ubicación exclusiva para los gigantes globales
 published: true
 ---
-The UK places highly in international rankings for the best place to invest in offshore wind and has managed to attract investment from across the globe for related infrastructure and manufacturing.
+El Reino Unido aparece en los primeros puestos de las clasificaciones globales de los mejores lugares para invertir en energía eólica marina y ha podido captar inversiones de todo el mundo para la infraestructura y la fabricación relacionadas con ella.
  
-Suppliers like Siemens and MHI Vestas Offshore have already chosen the UK as their site for future world class manufacturing facilities, and there are significant opportunities for further investment in the supply chain.
+Algunos proveedores como Siemens y MHI Vestas Offshore ya han elegido el Reino Unido como ubicación para construir unas instalaciones de fabricación de primer nivel, y ya existen unas oportunidades significativas de inversión en la cadena de suministro.
 
+Ya tenemos 5,7 gigavatios (GW) de energía eólica marina instalada o en construcción. Nuestro objetivo es producir 10 GW en 2020, lo que representa la mayor expansión de cualquier tipo de tecnología de energías renovables en el Reino Unido.
 
-We already have 5.7 gigawatts (GW) of offshore wind installed or under construction. We’re on track to deliver 10GW by 2020 - this represents the largest expansion in any class of renewable energy technology in the UK.
-
-
-We’re also home to the largest operational offshore wind farm in the world, London Array (630 megawatts). By 2020, we’ll have the world’s first wind farm generating over 1GW of energy, at Dong Energy’s Hornsea Project One located off the coast of Yorkshire. This wind farm will be capable of powering over one million UK homes.
+Además contamos con la mayor instalación de energía eólica marina operativa del mundo, el London Array (630 megavatios). En 2020 tendremos la principal instalación generadora de energía eólica del mundo, que producirá más de 1 GW de energía, en el Hornsea Project One de Dong Energy, situado en la costa de Yorkshire. Estas instalaciones podrán suministrar energía a más de un millón de hogares británicos.
  
-Our industry and government are working together to build a competitive and innovative supply chain that creates and sustains jobs, exports and economic benefits for the UK.
+Nuestra industria y nuestro Gobierno están colaborando para crear una cadena de suministro competitiva e innovadora que cree y mantenga puestos de trabajo, exportaciones y ventajas económicas para el Reino Unido.
  
-UK companies lead the world in services for the design, development, financing, construction and operation of offshore wind plants. There are also investment opportunities in the supply chain for the manufacturing of wind turbine components.
+Las empresas británicas son punteras en el mundo en cuanto a servicios de diseño, desarrollo, financiación, construcción y funcionamiento de las plantas eólicas marinas. También hay oportunidades de inversión en la cadena de suministro para la fabricación de componentes para turbinas eólicas.
