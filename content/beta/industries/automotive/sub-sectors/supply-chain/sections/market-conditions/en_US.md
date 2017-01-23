@@ -1,6 +1,5 @@
 ---
 title: The demand for UK components
-published: true
 ---
 The UK’s automotive supply chain is currently enjoying a period of unprecedented growth. In 2015, our automotive manufacturers spent 31 billion GBP on components and that sum is growing by 3 billion GBP per year.
 
