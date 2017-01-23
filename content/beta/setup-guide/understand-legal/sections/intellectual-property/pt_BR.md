@@ -1,5 +1,5 @@
 ---
-title:  Propriedade intelectual no Reino Unido
+title: " Propriedade intelectual no Reino Unido"
 ---
 
 O Reino Unido tem uma legislação de propriedade intelectual muito rigorosa. Esta legislação protege nomes, ideias, produtos, designs e lettering das empresas. 

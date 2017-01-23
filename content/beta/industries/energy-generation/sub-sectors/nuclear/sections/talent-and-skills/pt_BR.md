@@ -1,3 +1,3 @@
 ---
-title: Our talent and skills
+title: "Our talent and skills"
 ---

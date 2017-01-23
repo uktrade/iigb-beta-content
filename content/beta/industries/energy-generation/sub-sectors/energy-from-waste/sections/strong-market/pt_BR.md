@@ -1,5 +1,5 @@
 ---
-title: Projetos a longo prazo fiáveis e com o apoio de um mercado forte
+title: "Projetos a longo prazo fiáveis e com o apoio de um mercado forte"
 ---
 Já há muito que fomos reconhecidos como uma nação pioneira no campo da energia de resíduos. Os líderes mundiais, como a SITA, Veolia e a FCC, têm operações aqui. 
 

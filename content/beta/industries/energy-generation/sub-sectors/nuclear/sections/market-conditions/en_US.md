@@ -1,5 +1,5 @@
 ---
-title: Nuclear energy supply chain opportunities
+title: "Nuclear energy supply chain opportunities"
 published: true
 ---
 With the positive transformation taking place in our nuclear industry, the prospects for businesses to establish themselves in the UK supply chain are vast. 

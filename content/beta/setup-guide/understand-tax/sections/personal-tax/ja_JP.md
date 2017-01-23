@@ -1,5 +1,5 @@
 ---
-title: Personal taxes in the UK
+title: "Personal taxes in the UK"
 published: true
 ---
 You’ll find competitive rates of [personal tax](https://www.gov.uk/topic/personal-tax) in the UK. The rates are:

@@ -1,5 +1,5 @@
 ---
-title: Technologischer Überblick
+title: "Technologischer Überblick"
 published: true
 ---
 Unser Technologiesektor gehört zu den größten in Westeuropa und ist seit zehn Jahren eine der stärksten Wachstumsbranchen. Seine Errungenschaften spielen auch für andere Branchen wie etwa die Automobilindustrie, Finanzdienstleistungen, Handel und Logistik eine entscheidende Rolle.

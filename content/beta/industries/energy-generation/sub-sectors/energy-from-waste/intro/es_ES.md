@@ -1,5 +1,5 @@
 ---
-title: Energy from waste in the UK
+title: "Energy from waste in the UK"
 published: true
 ---
 

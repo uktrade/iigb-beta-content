@@ -1,5 +1,5 @@
 ---
-title: The demand for UK components
+title: "The demand for UK components"
 ---
 The UK’s automotive supply chain is currently enjoying a period of unprecedented growth. In 2015, our automotive manufacturers spent 31 billion GBP on components and that sum is growing by 3 billion GBP per year.
 
@@ -34,4 +34,3 @@ The heart of the UK automotive industry is located in the Midlands with Birmingh
 There are also major automotive clusters in the North East, including the Nissan factory in Sunderland (the largest single car factory in the UK making 500,000 cars a year) and the North West, home to factories of General Motors (Vauxhall), Jaguar Land Rover and Bentley. 
 
 There’s also ‘Motorsport Valley®', a globally renowned cluster of automotive expertise. Located in the English Midlands and Oxfordshire, it’s the home of global motorsport. With 4,500 motorsport companies, many of which now supply global car manufacturers and component suppliers with advanced engineering solutions, Motorsport Valley® has a unique ability to help any automotive company gain a competitive edge. 
-

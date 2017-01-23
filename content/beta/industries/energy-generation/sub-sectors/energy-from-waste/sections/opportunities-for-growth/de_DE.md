@@ -1,5 +1,5 @@
 ---
-title: Chancen für Wachstum
+title: "Chancen für Wachstum"
 ---
 
 Der Markt umfasst verschiedene Abfallquellen:

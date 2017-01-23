@@ -1,5 +1,5 @@
 ---
-title: Ein attraktives Geschäftsumfeld mit regionalen Stärken
+title: "Ein attraktives Geschäftsumfeld mit regionalen Stärken"
 published: true
 ---
 

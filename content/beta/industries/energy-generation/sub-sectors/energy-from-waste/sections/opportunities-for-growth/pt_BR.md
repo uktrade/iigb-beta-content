@@ -1,5 +1,5 @@
 ---
-title: Oportunidades de crescimento da energia de resíduos
+title: "Oportunidades de crescimento da energia de resíduos"
 ---
 Existem oportunidades disponíveis para fazer a sua empresa crescer atendendo ao tamanho do mercado de energia de resíduos. A partir do nosso uso de incineração convencional a tecnologias avançadas, pode expandir para novos mercados com a ampla gama de opções de tratamento de resíduos aqui disponíveis. 
 

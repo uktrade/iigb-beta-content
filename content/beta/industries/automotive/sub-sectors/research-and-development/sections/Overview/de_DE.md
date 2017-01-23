@@ -1,5 +1,5 @@
 ---
-title: Staatlich geförderte Innovation
+title: "Staatlich geförderte Innovation"
 published: true
 ---
 

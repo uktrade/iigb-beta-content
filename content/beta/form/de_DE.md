@@ -1,5 +1,5 @@
 ---
-title: So helfen wir Ihnen
+title: "So helfen wir Ihnen"
 published: true
 list: 
   - text: Unterstützung beim Knüpfen von Kontakten mit Unternehmen in Ihrer Branche

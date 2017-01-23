@@ -1,5 +1,5 @@
 ---
-title: Unternehmenssteuer in Großbritannien
+title: "Unternehmenssteuer in Großbritannien"
 published: true
 ---
 Jedes ausländische Unternehmen mit einer Niederlassung oder einem Büro in Großbritannien muss die hiesige Unternehmenssteuer bezahlen. Der [derzeitige Unternehmenssteuersatz beträgt 20%](https://www.gov.uk/corporation-tax-rates/rates) und wird bis 2020 auf 17% gesenkt.

@@ -1,5 +1,5 @@
 ---
-title: Understand the range of UK visas
+title: "Understand the range of UK visas"
 published: true
 ---
 There are different types of visa for individuals and business depending on your situation. All of these visas are for people from outside of the [European Economic Area (EEA)](https://www.gov.uk/eu-eea) and Switzerland.

@@ -1,5 +1,5 @@
 ---
-title: Agrupaciones de empresas
+title: "Agrupaciones de empresas"
 ---
 
 Las empresas del mismo sector o de sectores complementarios han formado centros de excelencia e innovación en todo el Reino Unido.

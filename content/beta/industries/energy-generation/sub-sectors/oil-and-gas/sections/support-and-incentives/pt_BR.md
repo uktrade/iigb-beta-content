@@ -1,5 +1,5 @@
 ---
-title: Apoio governamental para o petróleo e o gás no Reino Unido 
+title: "Apoio governamental para o petróleo e o gás no Reino Unido "
 ---
 Em 2015, o governo do Reino Unido apresentou um pacote de 1,3 mil milhões de libras de medidas de impostos para a indústria do petróleo e gás, para assegurar que a Plataforma Continental do Reino Unido permanece um destino atrativo para o investimento. 
 

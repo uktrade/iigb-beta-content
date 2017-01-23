@@ -1,5 +1,5 @@
 ---
-title: Energieproduktions-Überblick
+title: "Energieproduktions-Überblick"
 ---
 
 Ganz gleich, ob Ihr Unternehmen mit traditionellen oder neuen Energietechnologien arbeitet: Hier erwarten Sie Wachstumschancen und die Möglichkeit, hohe Gewinne zu erzielen. Großbritannien treibt die Energieeffizienz voran, baut erneuerbare und kohlenstoffarme Energien aus und steigert die Förderung von Öl und Gas.

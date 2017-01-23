@@ -1,5 +1,5 @@
 ---
-title: Access to UK talent
+title: "Access to UK talent"
 ---
 Businesses operating in the UK can take advantage of a broad talent base. The UK is second only to the USA for growing, retaining and attracting talent.
 

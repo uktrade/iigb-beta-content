@@ -1,5 +1,5 @@
 ---
-title: Apoio governamental para o desenvolvimento de energias renováveis 
+title: "Apoio governamental para o desenvolvimento de energias renováveis "
 ---
 O Reino Unido tem financiado opções para apoiar empresas que pretendam desenvolver instalações de energias renováveis. Estas fontes de financiamento mudam regularmente para dar resposta à procura do mercado e dependem do tipo de projeto e da sua localização no Reino Unido.
 

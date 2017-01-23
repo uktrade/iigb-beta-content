@@ -1,5 +1,5 @@
 ---
-title: FinTech no Reino Unido, uma oportunidade de crescimento imbatível no mundo
+title: "FinTech no Reino Unido, uma oportunidade de crescimento imbatível no mundo"
 ---
 Como a [região do mundo com mais rápido crescimento na FinTech](https://www.gov.uk/government/publications/uk-fintech-on-the-cutting-edge), os investidores podem tirar partido de:
 

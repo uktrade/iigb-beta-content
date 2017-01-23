@@ -1,5 +1,5 @@
 ---
-title:Outras áreas de crescimento
+title: "Outras áreas de crescimento"
 ---
 
 As tendências de consumo em alimentos "sem..." reflete as tendências em artigos de mercearia geral. Os compradores de produtos "sem..." exigem mais:

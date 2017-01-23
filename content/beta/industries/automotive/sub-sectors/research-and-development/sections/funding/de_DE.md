@@ -1,5 +1,5 @@
 ---
-title: Finanzierung der automobilen Forschung und Entwicklung in Großbritannien
+title: "Finanzierung der automobilen Forschung und Entwicklung in Großbritannien"
 ---
 
 ### Kohlenstoffarmer Antrieb

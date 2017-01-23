@@ -1,5 +1,5 @@
 ---
-title: Talentierte Absolventen
+title: "Talentierte Absolventen"
 published: true
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: Strong areas of opportunity
+title: "Strong areas of opportunity"
 published: true
 --- 
 ### Creative disruption is driving digital advertising

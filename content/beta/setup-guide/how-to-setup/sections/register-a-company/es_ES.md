@@ -1,5 +1,5 @@
 ---
-title: Registro (constitución) de una sociedad
+title: "Registro (constitución) de una sociedad"
 published: true
 ---
 Al constituir una sociedad, estará creando una entidad legal independiente en el Reino Unido denominada sociedad de responsabilidad limitada.

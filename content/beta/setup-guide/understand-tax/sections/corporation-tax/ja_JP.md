@@ -1,5 +1,5 @@
 ---
-title: Business taxes
+title: "Business taxes"
 published: true
 ---
 ### Tax on profits

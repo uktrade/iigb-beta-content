@@ -1,5 +1,5 @@
 ---
-title: Datenanalyse
+title: "Datenanalyse"
 published: true
 ---
 

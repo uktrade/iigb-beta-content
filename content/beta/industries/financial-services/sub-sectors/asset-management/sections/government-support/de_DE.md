@@ -1,5 +1,5 @@
 ---
-title: Die Britische Regierung unterstutzt die Vermögensverwaltungbranche
+title: "Die Britische Regierung unterstutzt die Vermögensverwaltungbranche"
 published: true
 ---
 

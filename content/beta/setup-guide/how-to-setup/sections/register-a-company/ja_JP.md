@@ -1,5 +1,5 @@
 ---
-title: Register (incorporate) a company in the UK
+title: "Register (incorporate) a company in the UK"
 published: true
 ---
 By incorporating a company, you’ll create a separate legal entity in the UK, which is known as a private limited company.

@@ -1,5 +1,5 @@
 ---
-title: Ein wachsender offener Markt
+title: "Ein wachsender offener Markt"
 ---
 
 Großbritannien ist weltweit einer der offensten Märkte für Vermögensverwaltung und erlebt seit 7 Jahren kontinuierliches Wachstum. Die Gesamtheit aller verwalteten Vermögenswerte ist Ende 2015 auf rekordverdächtige 6,9 Billionen £ gestiegen. 

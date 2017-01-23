@@ -1,5 +1,5 @@
 ---
-title: Weitere Wachstumsbereiche
+title: "Weitere Wachstumsbereiche"
 ---
 
 Verbrauchertrends bei Free-From-Lebensmitteln spiegeln Entwicklungen im allgemeinen Lebensmittelgeschäft wider. Free-From-Käufer verlangen nach mehr:

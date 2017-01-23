@@ -1,5 +1,5 @@
 ---
-title: Intensive Förderung von Regierungsseite
+title: "Intensive Förderung von Regierungsseite"
 published: true
 ---
 

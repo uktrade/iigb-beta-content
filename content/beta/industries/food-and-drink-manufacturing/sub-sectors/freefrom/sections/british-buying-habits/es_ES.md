@@ -1,5 +1,5 @@
 ---
-title: Hábitos de compra británicos
+title: "Hábitos de compra británicos"
 ---
 El mercado de los alimentos hipoalergénicos del Reino Unido tiene un valor aproximado de 455 millones de libras, lo que supone un incremento del 27 % con respecto a 2015.
 

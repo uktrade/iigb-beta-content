@@ -1,5 +1,5 @@
 ---
-title: Datenanalyse in Großbritannien
+title: "Datenanalyse in Großbritannien"
 published: true
 ---
 

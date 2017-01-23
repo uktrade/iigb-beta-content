@@ -1,5 +1,5 @@
 ---
-title: Acceso al talento en el Reino Unido
+title: "Acceso al talento en el Reino Unido"
 ---
 
 Las empresas con actividad comercial en el Reino Unido pueden aprovecharse de una amplia base de talento. El Reino Unido es el segundo mejor país del mundo, solo por detrás de Estados Unidos, en la creación, retención y atracción de talento.

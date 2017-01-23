@@ -1,5 +1,5 @@
 ---
-title: Registar (constituir) uma empresa
+title: "Registar (constituir) uma empresa"
 published: true
 ---
 Ao constituir uma empresa, irá criar uma entidade legal separada no Reino Unido, reconhecida como uma sociedade de responsabilidade limitada.

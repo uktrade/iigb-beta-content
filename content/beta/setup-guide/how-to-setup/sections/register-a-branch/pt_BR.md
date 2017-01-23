@@ -1,5 +1,5 @@
 ---
-title: Registar uma filial de uma empresa estrangeira no Reino Unido
+title: "Registar uma filial de uma empresa estrangeira no Reino Unido"
 ---
 Ao registar uma filial no Reino Unido, uma empresa estrangeira não cria uma entidade legal separada, mas regista uma entidade estrangeira para realizar negócios no Reino Unido. Uma filial não oferece as vantagens de responsabilidade limitadas que existem para uma empresa do Reino Unido. 
 

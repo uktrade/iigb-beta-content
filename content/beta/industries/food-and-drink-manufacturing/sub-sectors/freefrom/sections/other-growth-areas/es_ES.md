@@ -1,5 +1,5 @@
 ---
-title: Otras áreas de crecimiento	
+title: "Otras áreas de crecimiento	"
 ---
 
 Las tendencias de los consumidores en el sector de los alimentos hipoalergénicos reflejan las tendencias generales del sector de la alimentación. Los consumidores de este tipo de productos piden más:

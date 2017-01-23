@@ -1,5 +1,5 @@
 ---
-title: Wie lange es dauert
+title: "Wie lange es dauert"
 published: true
 ---
 

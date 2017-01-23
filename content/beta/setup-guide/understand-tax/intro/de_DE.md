@@ -1,5 +1,5 @@
 ---
-title: Informieren Sie sich über Steuern und Anreize in Großbritannien
+title: "Informieren Sie sich über Steuern und Anreize in Großbritannien"
 published: true
 ---
 

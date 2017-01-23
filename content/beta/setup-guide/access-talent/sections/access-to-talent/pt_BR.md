@@ -1,5 +1,5 @@
 ---
-title: Acesso ao talento do Reino Unido
+title: "Acesso ao talento do Reino Unido"
 ---
 As empresas que operam no Reino Unido podem tirar partido de uma ampla base de talento. O Reino Unido só está atrás dos EUA no crescimento, retenção e atração de talento.
 

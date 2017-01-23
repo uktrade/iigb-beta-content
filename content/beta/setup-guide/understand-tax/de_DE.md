@@ -1,5 +1,5 @@
 ---
-title: Machen Sie sich mit der Besteuerung und Steueranreizen in Großbritannien vertraut
+title: "Machen Sie sich mit der Besteuerung und Steueranreizen in Großbritannien vertraut"
 published: true
 ---
 

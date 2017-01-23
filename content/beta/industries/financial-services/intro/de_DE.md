@@ -1,5 +1,5 @@
 ---
-title: Finanzdienstleistungen in Großbritannien
+title: "Finanzdienstleistungen in Großbritannien"
 published: true
 ---
 

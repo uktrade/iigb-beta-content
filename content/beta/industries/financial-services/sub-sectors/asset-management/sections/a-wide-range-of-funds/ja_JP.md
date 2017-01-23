@@ -1,5 +1,5 @@
 ---
-title: A wide range of fund types and clients
+title: "A wide range of fund types and clients"
 ---
 UK fund management organisations manage various types of funds, from life insurance and pension schemes to unit or investment trusts.
 

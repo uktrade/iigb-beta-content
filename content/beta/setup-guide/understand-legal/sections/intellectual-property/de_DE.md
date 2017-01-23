@@ -1,5 +1,5 @@
 ---
-title: Geistiges Eigentum in Großbritannien
+title: "Geistiges Eigentum in Großbritannien"
 published: true
 ---
 
