@@ -1,5 +1,5 @@
 ---
-title: Solide Langzeitprojekte unterstützt von einem starken Markt
+title: "Solide Langzeitprojekte unterstützt von einem starken Markt"
 published: true
 ---
 

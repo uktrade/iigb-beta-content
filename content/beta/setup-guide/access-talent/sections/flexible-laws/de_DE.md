@@ -1,5 +1,5 @@
 ---
-title: Flexible Arbeitsgesetze
+title: "Flexible Arbeitsgesetze"
 published: true
 ---
 

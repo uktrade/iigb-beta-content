@@ -1,5 +1,5 @@
 ---
-title: Finanztechnologien in Großbritannien
+title: "Finanztechnologien in Großbritannien"
 
 ---
 

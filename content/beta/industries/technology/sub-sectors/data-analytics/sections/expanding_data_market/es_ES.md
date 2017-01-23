@@ -1,5 +1,5 @@
 ---
-title: The UK’s rapidly expanding data market
+title: "The UK’s rapidly expanding data market"
 ---
 
 The UK has one of the world’s strongest and most developed data analytics sectors, and it’s growing. Predictions have put growth over the next 5 years at 177%, with 'big data' user numbers increasing to around 644,000. 

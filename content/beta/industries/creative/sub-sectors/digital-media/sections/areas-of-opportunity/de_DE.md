@@ -1,5 +1,5 @@
 ---
-title: Chancenreiche Geschäftsfelder
+title: "Chancenreiche Geschäftsfelder"
 published: true
 ---
 

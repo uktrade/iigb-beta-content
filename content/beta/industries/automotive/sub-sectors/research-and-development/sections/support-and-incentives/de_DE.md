@@ -1,5 +1,5 @@
 ---
-title: Britische staatliche Förderung für automobile Forschung und Entwicklung
+title: "Britische staatliche Förderung für automobile Forschung und Entwicklung"
 published: true
 ---
 

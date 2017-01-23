@@ -1,5 +1,5 @@
 ---
-title: O governo do Reino Unido apoia o setor de gestão de ativos
+title: "O governo do Reino Unido apoia o setor de gestão de ativos"
 ---
 
 O Reino Unido tem um dos regimes fiscais mais competitivos do mundo tanto para gestores de ativos como de fundos. OS fundos que estão domiciliados no Reino Unido podem tirar partido de cerca de 120 acordos de dupla tributação, mais do que em qualquer outro país.

@@ -1,5 +1,5 @@
 ---
-title: Resumen sobre creatividad
+title: "Resumen sobre creatividad"
 ---
 
 Los negocios creativos pueden prosperar en nuestro país impulsados por la excelencia creativa, las colaboraciones tecnológicas y las oportunidades de crecimiento a gran escala. Los sectores creativos del Reino Unido crecen tres veces más rápido que el resto de la economía y dan empleo a más de dos millones de trabajadores cualificados. 

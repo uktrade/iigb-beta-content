@@ -1,5 +1,5 @@
 ---
-title: Ein Leitfaden für Ihre Unternehmensgründung in Großbritannien
+title: "Ein Leitfaden für Ihre Unternehmensgründung in Großbritannien"
 published: true
 ---
 

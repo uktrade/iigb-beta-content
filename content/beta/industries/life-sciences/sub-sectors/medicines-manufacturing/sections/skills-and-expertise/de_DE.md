@@ -1,5 +1,5 @@
 ---
-title: Fähigkeiten und Fachwissen in den Gesundheitswissenschaften und den Life Sciences
+title: "Fähigkeiten und Fachwissen in den Gesundheitswissenschaften und den Life Sciences"
 published: true
 ---
 

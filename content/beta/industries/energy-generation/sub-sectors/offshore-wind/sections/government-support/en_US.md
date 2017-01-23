@@ -1,5 +1,5 @@
 ---
-title: Government support for offshore wind development
+title: "Government support for offshore wind development"
 ---
 
 The UK government has made a commitment to invest in offshore wind energy for generations to come. The current installed offshore wind capacity of 5.7GW is due to increase to 10 GW by 2020, and then to increase by an estimated 10GW by 2030. 

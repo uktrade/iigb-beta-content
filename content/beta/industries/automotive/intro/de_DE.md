@@ -1,5 +1,5 @@
 ---
-title: Automobilindustrie
+title: "Automobilindustrie"
 published: true
 ---
 

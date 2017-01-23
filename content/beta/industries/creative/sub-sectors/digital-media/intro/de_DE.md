@@ -1,5 +1,5 @@
 ---
-title: Digitale Medien in Großbritannien
+title: "Digitale Medien in Großbritannien"
 published: true
 ---
 

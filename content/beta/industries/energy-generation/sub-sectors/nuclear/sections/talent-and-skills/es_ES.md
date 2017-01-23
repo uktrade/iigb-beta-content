@@ -1,5 +1,5 @@
 ---
-title: Our talent and skills
+title: "Our talent and skills"
 published: true
 ---
 More than 65,000 people are currently working in the UK’s civil nuclear industry. These are skilled workers with experience in fuel manufacturing, the operation and maintenance of reactors, and management of the waste generated from the operations.

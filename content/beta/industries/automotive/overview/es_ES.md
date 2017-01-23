@@ -1,5 +1,5 @@
 ---
-title: Resumen sobre automoción
+title: "Resumen sobre automoción"
 ---
 El Reino Unido, donde se han invertido más de 15 000 millones de libras en el sector de la automoción entre 2012 y 2015, es uno de los destinos más atractivos del mundo para las inversiones extranjeras. 
  

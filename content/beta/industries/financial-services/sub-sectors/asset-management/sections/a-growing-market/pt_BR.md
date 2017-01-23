@@ -1,5 +1,5 @@
 ---
-title: O mercado de ativos aberto do Reino Unido está a crescer
+title: "O mercado de ativos aberto do Reino Unido está a crescer"
 ---
 O Reino Unido é um dos mercados mais abertos para a gestão de ativos e assistiu a 7 anos sucessivos de crescimento. Os fundos totais na gestão aumentaram para um recorde de 6,9 trilhões (1,000,000,000,000) de libras no final de 2015.
 

@@ -1,5 +1,5 @@
 ---
-title: Hábitos de compra dos britânicos
+title: "Hábitos de compra dos britânicos"
 ---
 O mercado de alimentos "sem..." no Reino Unido vale cerca de 455 milhões de libras, mais 27% do que em 2015.
 Cerca de um terço dos consumidores britânicos compra e come alimentos "sem...". Isso divide-se da seguinte forma:

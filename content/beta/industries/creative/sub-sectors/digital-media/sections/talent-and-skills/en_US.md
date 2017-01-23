@@ -1,5 +1,5 @@
 ---
-title: A deep pool of creative talent 
+title: "A deep pool of creative talent "
 ---
 With digital education now heavily emphasised from junior schools to postgraduate level, we have the people you need to ensure your company’s long term growth.
 

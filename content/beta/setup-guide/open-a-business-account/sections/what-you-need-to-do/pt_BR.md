@@ -1,5 +1,5 @@
 ---
-title: O que precisa de fazer
+title: "O que precisa de fazer"
 ---
 Cada banco apresenta um processo de abertura de conta empresarial ligeiramente diferente. Na maioria dos casos, necessitará de:
 

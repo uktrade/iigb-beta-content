@@ -1,5 +1,5 @@
 ---
-title: Seite nicht gefunden
+title: "Seite nicht gefunden"
 linkLabel: "Zurück zum Investieren in Großbritannien &  Nordirland Homepage."
 published: true
 ---

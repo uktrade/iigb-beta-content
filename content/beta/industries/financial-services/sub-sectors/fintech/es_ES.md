@@ -1,5 +1,5 @@
 ---
-title: Financial technology
+title: "Financial technology"
 published: true
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: Creating tomorrow’s medicines
+title: "Creating tomorrow’s medicines"
 ---
 The UK has a long and successful track record in pharmaceutical manufacturing. There’s a strong drive to develop manufacturing for the health and life sciences technologies of the future, such as advanced therapies, digital design or near-patient manufacturing. Whether you’re looking to make tomorrow’s medicines or next generation medical technologies and healthcare products, your company will thrive here.
 

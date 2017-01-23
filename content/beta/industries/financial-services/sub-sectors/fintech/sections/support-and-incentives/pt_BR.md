@@ -1,5 +1,5 @@
 ---
-title: Forte apoio do Reino Unido em matéria regulamentar e fiscal para empresas financeiras
+title: "Forte apoio do Reino Unido em matéria regulamentar e fiscal para empresas financeiras"
 ---
 A indústria dos serviços financeiros é apoiada no Reino Unido pela respetiva entidade reguladora: [Financial Conduct Authority (FCA)](https://www.fca.org.uk/about/the-fca). As entidades reguladoras operam de forma independente ao governo do Reino Unido para regularem empresas financeiras que fornecem serviços a consumidores e mantêm a integridade dos mercados financeiros do Reino Unido.
 

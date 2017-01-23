@@ -1,5 +1,5 @@
 ---
-title: Investment opportunities that promote change
+title: "Investment opportunities that promote change"
 ---
 You’ll find the UK market an exciting and challenging one, with plenty of opportunities for dynamic, innovative companies.
 

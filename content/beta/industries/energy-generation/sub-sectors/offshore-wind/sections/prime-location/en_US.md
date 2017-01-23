@@ -1,5 +1,5 @@
 ---
-title: A prime location for global giants
+title: "A prime location for global giants"
 ---
 The UK places highly in international rankings for the best place to invest in offshore wind and has managed to attract investment from across the globe for related infrastructure and manufacturing.
  

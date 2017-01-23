@@ -1,5 +1,5 @@
 ---
-title: Datenschutz in Großbritannien
+title: "Datenschutz in Großbritannien"
 published: true
 ---
 

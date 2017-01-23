@@ -1,5 +1,5 @@
 ---
-title: Die nötige Dateninfrastruktur und das nötige Wissen für den Erfolg
+title: "Die nötige Dateninfrastruktur und das nötige Wissen für den Erfolg"
 published: true
 ---
 

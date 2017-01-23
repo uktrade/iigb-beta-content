@@ -1,5 +1,5 @@
 ---
-title: Agrupamentos empresariais
+title: "Agrupamentos empresariais"
 ---
 Empresas dos mesmos setores industriais, ou de setores complementares, juntaram-se em centros de excelência e inovação por todo o Reino Unido. 
 

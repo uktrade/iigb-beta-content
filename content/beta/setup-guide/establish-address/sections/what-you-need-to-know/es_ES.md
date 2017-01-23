@@ -1,5 +1,5 @@
 ---
-title: Lo que debe saber
+title: "Lo que debe saber"
 ---
 
 En el Reino Unido hay una amplia gama de propiedades disponibles en alquiler para fines empresariales.

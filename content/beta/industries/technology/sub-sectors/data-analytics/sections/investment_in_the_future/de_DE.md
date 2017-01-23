@@ -1,5 +1,5 @@
 ---
-title: Die Investitionen Großbritanniens in seine Zukunft
+title: "Die Investitionen Großbritanniens in seine Zukunft"
 published: true
 ---
 Wir verfügen derzeit über mehr als 30 Programme, die Unterstützung für Investoren bieten, um Technologieunternehmen zu fördern, von denen viele ihr Hauptaugenmerk auf Datenanalyse gelegt haben. Das Open Data Institute hat über 28 Start-up-Firmen unterstützt, deren Tätigkeit auf dem Gebiet der Open Data und Analyse liegt.

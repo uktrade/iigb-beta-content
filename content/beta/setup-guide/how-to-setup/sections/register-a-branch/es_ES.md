@@ -1,5 +1,5 @@
 ---
-title: Registrar una división de una empresa extranjera en el Reino Unido 
+title: "Registrar una división de una empresa extranjera en el Reino Unido "
 ---
 
 Al registrar una división de una empresa extranjera en el Reino Unido, no se crea una entidad legal independiente, sino que se registra una entidad extranjera para que pueda operar en este país. La división no ofrece las ventajas de responsabilidad limitada que aporta una empresa constituida en Reino Unido. 

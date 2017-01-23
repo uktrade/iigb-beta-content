@@ -1,5 +1,5 @@
 ---
-title: Förderung und Anreize
+title: "Förderung und Anreize"
 ---
 
 In all diesen Regionen gibt es spezielle Institutionen zur Förderung der lokalen Automobilindustrie.

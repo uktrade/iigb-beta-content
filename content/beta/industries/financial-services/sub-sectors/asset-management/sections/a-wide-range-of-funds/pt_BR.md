@@ -1,5 +1,5 @@
 ---
-title: Uma ampla gama de clientes e tipos de fundos
+title: "Uma ampla gama de clientes e tipos de fundos"
 ---
 As organizações de gestão de fundos do Reino Unido gerem vários tipos de fundos, desde seguros de vida e planos de pensão a fundos de investimento ou comuns.
 

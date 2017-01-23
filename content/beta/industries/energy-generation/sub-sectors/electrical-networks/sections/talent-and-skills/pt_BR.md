@@ -1,5 +1,5 @@
 ---
-title:  Uma força de trabalho especializada e dedicada ao crescimento da indústria
+title: " Uma força de trabalho especializada e dedicada ao crescimento da indústria"
 ---
 No Reino Unido, a sua empresa irá beneficiar de uma força de trabalho altamente qualificada, com vasta experiência em investigação e desenvolvimento, focada em beneficiar o cliente.
  

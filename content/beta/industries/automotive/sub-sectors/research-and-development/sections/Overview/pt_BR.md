@@ -1,5 +1,5 @@
 ---
-title: Inovação com apoio governamental
+title: "Inovação com apoio governamental"
 ---
 
 Em 2009, o governo do Reino Unido e a indústria automóvel do Reino Unido criaram uma parceria denominada [Automotive Council](http://www.automotivecouncil.co.uk/), para traçar o renascimento do setor automóvel do Reino Unido. Isto é agora visto internacionalmente como a regra de ouro para a cooperação entre governo e indústria, e conduziu a uma enorme expansão do fabrico de automóveis e da investigação e desenvolvimento (I&D) automóvel no Reino Unido.

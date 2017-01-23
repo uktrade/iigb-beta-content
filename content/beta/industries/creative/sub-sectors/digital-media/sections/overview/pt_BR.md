@@ -1,5 +1,5 @@
 ---
-title: Descrição geral  
+title: "Descrição geral  "
 ---
 Se possuir um bom produto ou serviço digital será aqui bem recebido. Os consumidores britânicos têm um grande apetite por novos serviços e dispositivos digitais, bem como por ofertas criativas. 
 

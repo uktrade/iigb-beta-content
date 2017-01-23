@@ -1,5 +1,5 @@
 ---
-title: Qué debe hacer
+title: "Qué debe hacer"
 ---
 
 Cada banco tiene un proceso ligeramente diferente a la hora de abrir una cuenta bancaria. En la mayoría de los casos, deberá tener:

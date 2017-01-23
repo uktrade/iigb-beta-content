@@ -1,5 +1,5 @@
 ---
-title: Rechtliche Rahmenbedingungen
+title: "Rechtliche Rahmenbedingungen"
 published: true
 ---
 

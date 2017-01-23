@@ -1,5 +1,5 @@
 ---
-title: Leyes laborales flexibles
+title: "Leyes laborales flexibles"
 ---
 
 Las leyes laborales del Reino Unido, flexibles y sencillas, protegen y fomentan los intereses de los empleados. Estas leyes ayudan a las empresas a contratar y administrar al personal apropiado, con las capacidades correctas y en el momento necesario.

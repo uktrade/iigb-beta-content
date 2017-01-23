@@ -1,5 +1,5 @@
 ---
-title: Register a UK branch of a foreign company
+title: "Register a UK branch of a foreign company"
 ---
 By registering a branch in the UK, a foreign company does not create a separate legal entity but is registering a foreign entity to do business in the UK. A branch does not offer the limited liability benefits that come with a UK company. 
 
