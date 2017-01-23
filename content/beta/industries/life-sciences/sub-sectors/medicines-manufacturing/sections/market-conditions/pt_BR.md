@@ -1,5 +1,5 @@
 ---
-title: Creating tomorrow’s medicines
+title: "Creating tomorrow’s medicines"
 ---
 ### Criar os medicamentos do futuro
 

@@ -1,5 +1,5 @@
 ---
-title: Öl und Gas in Großbritannien
+title: "Öl und Gas in Großbritannien"
 published: true
 ---
 

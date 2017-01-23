@@ -1,5 +1,5 @@
 ---
-title: Eröffnen Sie ein geschäftliches Bankkonto in Großbritannien
+title: "Eröffnen Sie ein geschäftliches Bankkonto in Großbritannien"
 published: true
 ---
 

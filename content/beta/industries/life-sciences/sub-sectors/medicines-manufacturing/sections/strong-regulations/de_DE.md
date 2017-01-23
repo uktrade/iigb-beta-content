@@ -1,5 +1,5 @@
 ---
-title: Starke Regulierung mit hohen Standards und geringem Risiko
+title: "Starke Regulierung mit hohen Standards und geringem Risiko"
 published: true
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: Um ambiente comercial atrativo com vantagens regionais
+title: "Um ambiente comercial atrativo com vantagens regionais"
 ---
 
 Londres é determinante para a forte posição internacional do Reino Unido. Os inquiridos do Banker’s Global Asset Management Survey votaram em Londres como a localização global mais atrativa para a deslocação ou expansão de operações de gestão de ativos, ficando à frente de Hong Kong, Singapura e Nova Iorque.

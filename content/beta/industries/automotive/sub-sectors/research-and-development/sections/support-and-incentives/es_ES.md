@@ -1,5 +1,5 @@
 ---
-title: Apoyo del gobierno británico a la en automoción
+title: "Apoyo del gobierno británico a la en automoción"
 ---
 
 El gobierno del Reino Unido está totalmente comprometido con el éxito continuo de su sector automovilístico, y para ello facilita más de 1200 millones de libras en fondos para la investigación en este campo. Entre los ámbitos favorecidos se encuentran la propulsión con bajas emisiones de carbono, los materiales ligeros y los vehículos autónomos y conectados.

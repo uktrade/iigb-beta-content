@@ -1,5 +1,5 @@
 ---
-title: Marktbedingungen
+title: "Marktbedingungen"
 ---
 
 ### UK FinTech - einer der weltbesten Wachstumschancen

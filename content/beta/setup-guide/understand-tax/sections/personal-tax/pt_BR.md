@@ -1,5 +1,5 @@
 ---
-title: Impostos pessoais no Reino Unido
+title: "Impostos pessoais no Reino Unido"
 published: true
 ---
 No Reino Unido, irá encontrar taxas de [impostos pessoais](https://www.gov.uk/topic/personal-tax) competitivas. As taxas são:

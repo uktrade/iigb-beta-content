@@ -1,5 +1,5 @@
 ---
-title: The global home of motorsport
+title: "The global home of motorsport"
 published: true
 ---
 

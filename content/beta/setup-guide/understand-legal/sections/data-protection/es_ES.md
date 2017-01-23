@@ -1,5 +1,5 @@
 ---
-title: Protección de datos en el Reino Unido
+title: "Protección de datos en el Reino Unido"
 ---
 
 Las leyes de privacidad y protección de datos del Reino Unido garantizan que los datos de los clientes se procesen, conserven y eliminen de manera justa, legal, precisa y segura. Su empresa debe respetar la Ley de protección de datos del Reino Unido. 

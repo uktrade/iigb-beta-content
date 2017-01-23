@@ -1,5 +1,5 @@
 ---
-title: Ein Geschäftskonto in Großbritannien eröffnen
+title: "Ein Geschäftskonto in Großbritannien eröffnen"
 published: true
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: Ein Unternehmen in Großbritannien gründen
+title: "Ein Unternehmen in Großbritannien gründen"
 published: true
 ---
 

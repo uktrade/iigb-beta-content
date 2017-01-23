@@ -1,5 +1,5 @@
 ---
-title: Condições de mercado
+title: "Condições de mercado"
 ---
 
 O setor da tecnologia médica do Reino Unido é um ecossistema de investigadores, cientistas, engenheiros, designers e médicos do NHS em pleno crescimento que trabalham numa base industrial estabelecida. Em conjunto impulsionam o percurso de uma nova tecnologia a partir da inovação, através do processo de design e fabrico e, finalmente, para o paciente.

@@ -1,5 +1,5 @@
 ---
-title: O investimento do Reino Unido no futuro
+title: "O investimento do Reino Unido no futuro"
 ---
 
 O Reino Unido tem atualmente mais de 30 programas que fornecem apoio ao investimento para acelerar novas empresas de análise de dados. O Open Data Institute do Reino Unido apoiou mais de 28 startups no trabalho com dados de análise e dados abertos.

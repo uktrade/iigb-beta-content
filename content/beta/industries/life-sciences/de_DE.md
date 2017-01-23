@@ -1,5 +1,5 @@
 ---
-title: Biowissenschaften (Life Sciences)
+title: "Biowissenschaften (Life Sciences)"
 published: true
 ---
 

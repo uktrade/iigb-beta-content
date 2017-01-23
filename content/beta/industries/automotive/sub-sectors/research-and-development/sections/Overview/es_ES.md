@@ -1,5 +1,5 @@
 ---
-title: Innovación con respaldo gubernamental
+title: "Innovación con respaldo gubernamental"
 ---
 
 En 2009, el gobierno del Reino Unido y el sector automovilístico del país crearon una asociación denominada [Automotive Council](http://www.automotivecouncil.co.uk/), para abrir camino al renacimiento del sector en este país. Esta asociación se percibe ahora como el estándar principal para la cooperación entre el gobierno y el sector y ha originado una expansión inmensa tanto de la fabricación de vehículos como de la investigación y el desarrollo automovilísticos en el Reino Unido.

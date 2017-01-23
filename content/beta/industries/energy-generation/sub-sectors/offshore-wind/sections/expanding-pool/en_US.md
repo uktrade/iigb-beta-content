@@ -1,5 +1,5 @@
 ---
-title: An expanding pool of offshore wind experts
+title: "An expanding pool of offshore wind experts"
 ---
 With clusters of wind farms forming across the UK, we offer a competitive and innovative climate for offshore wind investment. The offshore wind sector currently employs around 15,000 people, with this number growing year-on-year as the industry develops. 
 

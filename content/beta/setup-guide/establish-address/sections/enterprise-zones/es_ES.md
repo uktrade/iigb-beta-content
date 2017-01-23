@@ -1,5 +1,5 @@
 ---
-title: Zonas empresariales
+title: "Zonas empresariales"
 ---
 
 Las zonas empresariales ofrecen un amplio abanico de medidas de apoyo para ayudar a las empresas a establecerse y expandirse en el Reino Unido. Existen más de 50 zonas reales o planificadas en Inglaterra y Gales y otras 16 zonas empresariales en Escocia. 

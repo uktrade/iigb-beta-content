@@ -1,5 +1,5 @@
 ---
-title: Uma localização primorosa para gigantes globais
+title: "Uma localização primorosa para gigantes globais"
 ---
 O Reino Unido está bem cotado nos rankings internacionais quanto ao melhor local para investir em energia eólica offshore, e tem conseguido atrair investimento de todo o globo para a produção e as infraestruturas relacionadas.
  

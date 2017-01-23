@@ -1,5 +1,5 @@
 ---
-title: Elektrische Netzwerke in Großbritannien
+title: "Elektrische Netzwerke in Großbritannien"
 published: true
 ---
 

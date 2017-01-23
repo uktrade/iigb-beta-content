@@ -1,5 +1,5 @@
 ---
-title: Support and incentives 
+title: "Support and incentives "
 ---
 The UK has funding options to assist companies that want to develop sustainable energy facilities. These sources of funding change regularly to meet market demand and are dependent on the type of project and your location within the UK.
 

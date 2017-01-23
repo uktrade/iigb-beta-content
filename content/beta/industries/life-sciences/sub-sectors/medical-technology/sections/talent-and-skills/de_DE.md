@@ -1,5 +1,5 @@
 ---
-title: Unsere Talente und Fähigkeiten
+title: "Unsere Talente und Fähigkeiten"
 ---
 
 Der Sektor Medizintechnik beschäftigt fast 115.000 Menschen. Großbritannien verfügt über die größte Anzahl an hochqualifizierten Ingenieuren und Wissenschaftlern in Europa.

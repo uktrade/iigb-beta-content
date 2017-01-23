@@ -1,5 +1,5 @@
 ---
-title: Apoio do governo do Reino Unido ao desenvolvimento da energia eólica offshore 
+title: "Apoio do governo do Reino Unido ao desenvolvimento da energia eólica offshore "
 ---
 
 O governo do Reino Unido comprometeu-se a investir na energia eólica offshore durante várias gerações vindouras. A capacidade de energia eólica offshore atualmente instalada de 5,7 GW será aumentada para 10 GW até 2020 e prevê-se um posterior aumento de mais 10 GW até 2030. 

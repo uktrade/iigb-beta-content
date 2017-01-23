@@ -1,5 +1,5 @@
 ---
-title: Our talent and skills 
+title: "Our talent and skills "
 ---
 Recruitment of new talent with fresh ideas and technical knowhow is easier in the UK. For example, over three-quarters of our games workforce holds an undergraduate degree, and there’s a higher proportion of postgraduate degrees than anywhere else in the world. 
 

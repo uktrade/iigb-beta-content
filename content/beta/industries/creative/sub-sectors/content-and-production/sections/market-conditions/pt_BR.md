@@ -1,5 +1,5 @@
 ---
-title: Condições de mercado
+title: "Condições de mercado"
 published: true
 ---
 ### Trabalho com os melhores em cinema, TV e VFX 

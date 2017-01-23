@@ -1,5 +1,5 @@
 ---
-title: Marktbedingungen
+title: "Marktbedingungen"
 published: true
 ---
 

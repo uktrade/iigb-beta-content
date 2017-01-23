@@ -1,5 +1,5 @@
 ---
-title: O mercado de dados do Reino Unido em rápida expansão
+title: "O mercado de dados do Reino Unido em rápida expansão"
 ---
 
 O Reino Unido tem um dos setores de análise de dados mais desenvolvidos e mais fortes do mundo, e está em expansão. As previsões colocam o crescimento para os próximos 5 anos em 177%, com o número de utilizadores de "big data" a aumentar para cerca de 644 000. 

@@ -1,5 +1,5 @@
 ---
-title: Arbeitskosten in Großbritannien
+title: "Arbeitskosten in Großbritannien"
 published: true
 ---
 

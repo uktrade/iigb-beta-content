@@ -1,5 +1,5 @@
 ---
-title: The data infrastructure and talent to succeed
+title: "The data infrastructure and talent to succeed"
 ---
 
 Having such an advanced data sector means we have the infrastructure and skills to meet rising demand.

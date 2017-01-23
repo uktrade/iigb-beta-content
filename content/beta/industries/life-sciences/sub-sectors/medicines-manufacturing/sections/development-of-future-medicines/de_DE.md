@@ -1,5 +1,5 @@
 ---
-title: Entwicklung von zukünftigen Arzneimitteln
+title: "Entwicklung von zukünftigen Arzneimitteln"
 published: true
 ---
 

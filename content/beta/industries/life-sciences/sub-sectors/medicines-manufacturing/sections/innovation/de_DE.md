@@ -1,5 +1,5 @@
 ---
-title: Fürsprecher für Innovationen
+title: "Fürsprecher für Innovationen"
 published: true
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: Ein hochmoderner Sektor
+title: "Ein hochmoderner Sektor"
 published: true
 ---
 

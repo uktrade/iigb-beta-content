@@ -1,5 +1,5 @@
 ---
-title: Employment costs in the UK
+title: "Employment costs in the UK"
 ---
 
 The UK operates a National Minimum Wage to encourage people to work and prevent businesses from using low wages to compete unfairly.

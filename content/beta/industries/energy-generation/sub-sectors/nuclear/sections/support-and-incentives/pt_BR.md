@@ -1,5 +1,5 @@
 ---
-title: Desenvolvimento e avaliação de competências nucleares
+title: "Desenvolvimento e avaliação de competências nucleares"
 ---
 Existem iniciativas apoiadas pelo governo e por entidades privadas para ajudarem no desenvolvimento de competências e conhecimentos adicionais no setor nuclear do Reino Unido. A [Universidade Nacional para a Energia Nuclear](https://www.nsan.co.uk/news/national-nuclear-college) (National College for Nuclear) trabalha de perto com a indústria num currículo de classe mundial que fornece formação e desenvolvimento técnicos de alto nível. 
 

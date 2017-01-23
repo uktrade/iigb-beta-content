@@ -1,5 +1,5 @@
 ---
-title: Starke regionale Cluster
+title: "Starke regionale Cluster"
 published: true
 ---
 

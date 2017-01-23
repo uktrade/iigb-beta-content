@@ -1,5 +1,5 @@
 ---
-title: Britische Kaufgewohnheiten
+title: "Britische Kaufgewohnheiten"
 ---
 
 Der Free-From-Markt in Großbritannien ist ungefähr 455 Millionen GBP schwer und konnte damit im Vergleich zu 2015 einen Anstieg um 27 % verzeichnen.

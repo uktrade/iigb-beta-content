@@ -1,5 +1,5 @@
 ---
-title: Eine Top Location für Weltgrößen
+title: "Eine Top Location für Weltgrößen"
 published: true
 ---
 

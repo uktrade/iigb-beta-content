@@ -1,5 +1,5 @@
 ---
-title: Nuclear skills development and assessment
+title: "Nuclear skills development and assessment"
 published: true
 ---
 There are government and privately backed initiatives in place to help develop further skills and knowledge in the UK’s nuclear sector. The [National College for Nuclear](https://www.nsan.co.uk/news/national-nuclear-college) works closely with the industry on a world-class curriculum that delivers high-level technical training and development. 

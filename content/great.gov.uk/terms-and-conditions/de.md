@@ -1,4 +1,4 @@
 ---
-title: GREAT.gov.uk Allgemeine Geschäftsbedingungen
+title: "GREAT.gov.uk Allgemeine Geschäftsbedingungen"
 published: true
 ---

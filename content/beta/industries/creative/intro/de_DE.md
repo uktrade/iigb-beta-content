@@ -1,5 +1,5 @@
 ---
-title: Medien und Kultur
+title: "Medien und Kultur"
 published: true
 ---
 

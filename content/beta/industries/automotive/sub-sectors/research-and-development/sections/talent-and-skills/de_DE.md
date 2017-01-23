@@ -1,5 +1,5 @@
 ---
-title: Talente und Fähigkeiten im automobilen Bereich
+title: "Talente und Fähigkeiten im automobilen Bereich"
 published: true
 ---
 

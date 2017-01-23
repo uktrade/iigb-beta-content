@@ -1,5 +1,5 @@
 ---
-title: A infraestrutura de dados e o talento para ser bem-sucedido
+title: "A infraestrutura de dados e o talento para ser bem-sucedido"
 ---
 
 Ter um setor de dados avançado significa que temos a infraestrutura e as competências necessárias para dar resposta a esta procura em crescimento.

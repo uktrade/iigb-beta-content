@@ -1,5 +1,5 @@
 ---
-title:  Líderes mundiales en justicia y estabilidad
+title: " Líderes mundiales en justicia y estabilidad"
 ---
 La cultura de emprendimiento del Reino Unido se ve respaldada por un marco legal que inspira confianza. Los tribunales británicos se atienen a la jurisprudencia y los precedentes legales, pero pueden adaptar las sentencias pasadas para satisfacer las necesidades empresariales modernas. 
 

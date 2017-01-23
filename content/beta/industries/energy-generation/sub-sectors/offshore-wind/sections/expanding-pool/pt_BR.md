@@ -1,5 +1,5 @@
 ---
-title: Um nicho em expansão de especialistas em energia eólica offshore
+title: "Um nicho em expansão de especialistas em energia eólica offshore"
 ---
 Com ninhos de parques eólicos a serem formados por todo o Reino Unido, oferecemos um clima competitivo e inovador para o investimento na energia eólica offshore. O setor da energia eólica offshore emprega atualmente cerca de 15 000 pessoas, com este número a crescer ano após ano à medida que a indústria se desenvolve. 
 

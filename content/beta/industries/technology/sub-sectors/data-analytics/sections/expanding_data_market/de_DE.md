@@ -1,5 +1,5 @@
 ---
-title: Der schnell wachsende Datenmarkt in Großbritannien
+title: "Der schnell wachsende Datenmarkt in Großbritannien"
 published: true
 ---
 

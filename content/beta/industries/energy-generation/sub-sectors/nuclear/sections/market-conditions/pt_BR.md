@@ -1,5 +1,5 @@
 ---
-title: Oportunidades de cadeia de fornecimento de energia nuclear
+title: "Oportunidades de cadeia de fornecimento de energia nuclear"
 ---
 
 Com uma transformação positiva a decorrer na nossa indústria nuclear, as perspetivas para que as empresas se estabeleçam na cadeia de fornecimento do Reino Unido são vastas. 

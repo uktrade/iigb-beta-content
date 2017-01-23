@@ -1,5 +1,5 @@
 ---
-title: Steuerliche Anreize für Unternehmen in Großbritannien
+title: "Steuerliche Anreize für Unternehmen in Großbritannien"
 published: true
 ---
 

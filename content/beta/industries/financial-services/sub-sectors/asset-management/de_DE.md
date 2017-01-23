@@ -1,5 +1,5 @@
 ---
-title: Vermögensmanagement
+title: "Vermögensmanagement"
 published: true
 ---
 
