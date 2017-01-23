@@ -1,6 +1,5 @@
 ---
-title: Motorsport
-published: true
+title: Desporto motorizado
 ---
 
-The UK leads the world in motor sport with a turnover of 9 billion GBP and more than 4,500 businesses operating in the sector.
+O Reino Unido é a sede global do desporto automóvel. Mais de 4500 empresas operam no setor, gerando um volume de negócios de 9 mil milhões de libras. 
