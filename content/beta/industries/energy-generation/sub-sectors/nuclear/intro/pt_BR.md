@@ -1,5 +1,4 @@
 ---
-title: Nuclear in the UK
+title: Energia nuclear no Reino Unido
 ---
-
-From large new build projects to extensive decommissioning schemes, there’s a wide range of opportunities for businesses to become part of the UK’s nuclear supply chain. 
+Desde grandes projetos de novos edifícios a extensivos esquemas de desmantelamento, há uma vasta gama de oportunidades para que as empresas façam parte da cadeia de fornecimento nuclear do Reino Unido. 

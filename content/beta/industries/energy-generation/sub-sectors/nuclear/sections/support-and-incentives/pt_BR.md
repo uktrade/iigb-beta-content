@@ -1,13 +1,10 @@
 ---
-title: Nuclear skills development and assessment
-published: true
+title: Desenvolvimento e avaliação de competências nucleares
 ---
-There are government and privately backed initiatives in place to help develop further skills and knowledge in the UK’s nuclear sector. The [National College for Nuclear](https://www.nsan.co.uk/news/national-nuclear-college) works closely with the industry on a world-class curriculum that delivers high-level technical training and development. 
+Existem iniciativas apoiadas pelo governo e por entidades privadas para ajudarem no desenvolvimento de competências e conhecimentos adicionais no setor nuclear do Reino Unido. A [Universidade Nacional para a Energia Nuclear](https://www.nsan.co.uk/news/national-nuclear-college) (National College for Nuclear) trabalha de perto com a indústria num currículo de classe mundial que fornece formação e desenvolvimento técnicos de alto nível. 
 
+As licenciaturas, focadas na engenharia nuclear, dão à próxima geração uma formação superior e experiência e competências baseadas em trabalho. 
 
-Degree apprenticeships, focused on nuclear engineering, provide the next generation with higher education and work based skills and experience. 
+Adicionalmente, as empresas que aqui trabalham beneficiam do serviço [Preparado para a Energia Nuclear](http://namrc.co.uk/services/f4n/) (Fit for Nuclear) do Centro de Fabrico Nuclear Avançado. Este é um serviço de avaliação único que suporta as empresas de produção na medição das suas operações relativamente às normas necessárias para fornecer à indústria nuclear.
 
-
-Additionally, companies operating here benefit from the Nuclear Advanced Manufacturing Centre’s [Fit for Nuclear](http://namrc.co.uk/services/f4n/) This is a unique assessment service which supports manufacturing companies in measuring their operations against the standards required to supply to the nuclear industry. 
-
-The government also has up to 50 billion GBP available to support finance and insurance for   supplies from within the UK to buyers outside the UK. This support takes the form of guarantees, insurance and loans issued by its export credit agency, UK Export Finance.
+O governo também tem até 50 mil milhões de libras disponíveis para apoiar o financiamento e a obtenção de seguros para bens no Reino Unido a serem encaminhados para compradores fora do Reino Unido. Este apoio toma a forma de garantias, seguros e empréstimos emitidos pela agência de crédito para exportação, a UK Export Finance.
