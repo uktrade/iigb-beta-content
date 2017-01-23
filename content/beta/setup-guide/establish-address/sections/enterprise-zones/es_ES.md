@@ -1,8 +1,9 @@
 ---
-title: Enterprise Zones
+title: "Zonas empresariales"
 ---
-Enterprise Zones offer a broad range of support to help businesses establish and expand in the UK. There are over 50 existing or planned zones in England and Wales, with a further 16 Enterprise Areas in Scotland. 
 
-Businesses in these locations can benefit from simplified planning application processes, various financial advantages and a business-ready infrastructure.
+Las zonas empresariales ofrecen un amplio abanico de medidas de apoyo para ayudar a las empresas a establecerse y expandirse en el Reino Unido. Existen más de 50 zonas reales o planificadas en Inglaterra y Gales y otras 16 zonas empresariales en Escocia. 
+
+Las empresas situadas en estas ubicaciones pueden beneficiarse de trámites de solicitud de planificación simplificados, de diversas ventajas financieras y de una infraestructura preparada para los negocios.
  
-[Find out more about Enterprise Zones](https://www.gov.uk/government/policies/local-enterprise-partnerships-leps-and-enterprise-zones)
+[Más información sobre las zonas empresariales.](https://www.gov.uk/government/policies/local-enterprise-partnerships-leps-and-enterprise-zones)

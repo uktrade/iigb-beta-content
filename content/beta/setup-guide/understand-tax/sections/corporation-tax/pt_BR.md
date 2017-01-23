@@ -1,5 +1,5 @@
 ---
-title: Impostos sobre as empresas no Reino Unido 
+title: "Impostos sobre as empresas no Reino Unido "
 published: true
 ---
 Qualquer empresa estrangeira com uma filial ou um escritório no Reino Unido tem de pagar o imposto sobre as empresas no Reino Unido. A [taxa atual de imposto sobre as empresas é de 20%](https://www.gov.uk/corporation-tax-rates/rates), passando a 17% em 2020. À atual taxa de 20%, o Reino Unido tem a taxa de imposto sobre as empresas mais baixa do G7 e a mais baixa, conjuntamente, no G20. 

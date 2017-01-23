@@ -1,5 +1,5 @@
 ---
-title: Eine Auslandsniederlassung in Großbritannien anmelden
+title: "Eine Auslandsniederlassung in Großbritannien anmelden"
 published: true
 ---
 

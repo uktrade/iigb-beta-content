@@ -1,7 +1,7 @@
 ---
-title: The global home of motorsport
-published: true
+title: "The global home of motorsport"
 ---
+
 UK-based businesses act as major suppliers to teams competing in everything from NASCAR to Formula E to the China Touring Car Championship. Famously, 7 out of 11 Formula 1 racing teams have their headquarters in the UK.
 
 Firms that supply motorsports operate throughout the UK. The largest concentration of motorsport firms are located in 'Motorsport Valley®', a world-renowned business cluster in the south east of England with Oxford at its centre. Michael Porter, a Harvard Business School professor and founder of Monitor Deloitte, has described it as, “A mature economic business cluster, which is number one in the world…the jewel in the crown of British engineering.” 
@@ -25,7 +25,6 @@ Formula 1 research and development centres here are:
 ### From race to road
 
 The UK has made more motorsport innovations in the last 60 years than any other country. Many have found their way onto road cars. These include:
-
 
 - 1950s, disc brakes produced by Jaguar
 - 1960s, 4 valves per cylinder engines produced by Cosworth

@@ -1,5 +1,5 @@
 ---
-title: Data protection in the UK
+title: "Data protection in the UK"
 ---
 The UK’s privacy and data protection laws ensure that customer data is processed, held and disposed of fairly, legally, accurately and securely. Your business must abide by the UK’s Data Protection Act. 
 

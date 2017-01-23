@@ -1,5 +1,5 @@
 ---
-title: Ausländische Spezialisten
+title: "Ausländische Spezialisten"
 published: true
 ---
 

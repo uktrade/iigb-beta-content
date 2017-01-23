@@ -1,5 +1,5 @@
 ---
-title: Digital media
+title: Medios digitales en el Reino Unido 
 ---
 
-The UK embraces digital. We have the market conditions, skilled workers and the financial incentives your business needs to thrive. .
+En el Reino Unido, adoptamos todo lo digital. Contamos con las condiciones de mercado, los trabajadores especializados y los incentivos económicos que necesita su empresa para prosperar.

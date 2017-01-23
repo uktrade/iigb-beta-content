@@ -1,5 +1,5 @@
 ---
-title: Marktbedingungen
+title: "Marktbedingungen"
 published: true
 ---
 
@@ -45,7 +45,6 @@ Dazu gehören:
 - 1990er Jahre: Aktives Fahrwerk mit Traktionskontrolle und Fahrerassistenzsytemen von Williams
 
 - 2000er Jahre: Systeme zur kinetischen Energierückgewinnung von Williams
-
 
 ### Bahnbrechende Technologie jenseits der Formel Eins
 

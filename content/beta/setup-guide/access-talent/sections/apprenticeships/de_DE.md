@@ -1,5 +1,5 @@
 ---
-title: Ausbildungsplätze
+title: "Ausbildungsplätze"
 published: true
 ---
 

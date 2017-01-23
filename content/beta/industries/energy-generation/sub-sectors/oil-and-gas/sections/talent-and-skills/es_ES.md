@@ -1,5 +1,5 @@
 ---
-title: A highly skilled workforce and supportive skills sector 
+title: "A highly skilled workforce and supportive skills sector "
 ---
 
 Our technologies are at the forefront of the environmental sector. This has resulted in a large, highly developed and flexible workforce. 

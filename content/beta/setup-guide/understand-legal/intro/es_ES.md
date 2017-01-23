@@ -1,4 +1,4 @@
 ---
-title: The UK’s legal framework
+title: "El marco legal en el Reino Unido"
 ---
-The UK is the seventh easiest place to do business in the world, according to the World Bank.
+El Reino Unido es el séptimo lugar del mundo con mayor facilidad para hacer negocios, según el Banco Mundial. 

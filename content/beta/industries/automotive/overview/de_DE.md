@@ -1,5 +1,5 @@
 ---
-title: Automobilbranche Überblick
+title: "Automobilbranche Überblick"
 published: true
 ---
 

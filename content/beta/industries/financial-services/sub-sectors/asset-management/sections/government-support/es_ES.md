@@ -1,5 +1,5 @@
 ---
-title: Government support for asset management
+title: "Government support for asset management"
 ---
 The UK has one of the most competitive tax regimes in the world for both funds and asset managers. Funds that are domiciled in the UK can take advantage of around 120 double taxation agreements, more than in any other country.
 

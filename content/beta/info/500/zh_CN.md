@@ -1,5 +1,5 @@
 ---
-title: Internal server error
+title: "Internal server error"
 linkLabel: Please click here to go to the home page
 ---
 

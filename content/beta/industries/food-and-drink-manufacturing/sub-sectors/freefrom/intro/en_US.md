@@ -1,5 +1,5 @@
 ---
-title: Freefrom foods in the UK
+title: "Freefrom foods in the UK"
 ---
 
 The UK freeform market is seen as a priority destination for international food and drink companies. 
@@ -10,4 +10,4 @@ The market offers long term growth opportunities due to:
 - increased awareness of the freefrom category
 - the popularity and demand for a freefrom lifestyle
 - increasing new product development and innovations
--  continued growth of the sector
+- continued growth of the sector

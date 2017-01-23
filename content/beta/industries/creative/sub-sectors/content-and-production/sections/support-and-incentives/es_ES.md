@@ -1,19 +1,19 @@
 ---
-title: Support and incentives
+title: Apoyo e incentivos
 ---
-The UK government is fully committed to supporting the UK as a creative nation.
 
-Your innovative content will be protected and supported here. We support creative businesses in the UK by employing a strong intellectual property regime and regulatory framework.  We also have a number of internationally renowned trade associations offering professional guidance, training and development.
+El gobierno del Reino Unido está totalmente comprometido a la hora de apoyar al país como una nación creativa.
 
-Our creative tax relief offers help in starting  or growing  your business here,  and has made production more attractive than ever.  This allows businesses to access a rebate of up to 25% of qualifying spend for:
-- film
-- animation
-- high-end and children’s TV
-- video games development
-- theatre 
+Aquí, su contenido innovador será protegido y le daremos apoyo. Respaldamos a las empresas creativas en el Reino Unido mediante nuestro estricto régimen de propiedad intelectual y nuestro marco normativo.  También tenemos varias asociaciones sectoriales de renombre internacional que ofrecen asesoría profesional, formación y desarrollo.
 
-We also offer a number of world-class digital startup programmes and opportunities for angel investment in creative content enterprises.
+Nuestras [exenciones fiscales a la creatividad](https://www.gov.uk/guidance/corporation-tax-creative-industry-tax-reliefs) ofrecen ayuda a la hora de empezar a hacer crecer su negocio en nuestro país, y ha hecho que la producción sea más atractiva que nunca.  Así se facilita que las empresas accedan a una rebaja de hasta el 25 % sobre los gastos pertinentes en:
 
-All of these measures complement our low level of corporation tax, which is set to drop to 17% by 2020.
+- Cine
+- Animación
+- Televisión de alta gama e infantil
+- Desarrollo de videojuegos
+- Teatro 
 
-The government also has up to 50 billion GBP available to support finance and insurance for   supplies from within the UK to buyers outside the UK. This support takes the form of guarantees, insurance and loans issued by its export credit agency, UK Export Finance
+También ofrecemos varios programas de startup digitales de nivel internacional y oportunidades de inversión en empresas de contenidos creativos.
+
+Todas estas medidas complementan nuestro bajo impuesto de sociedades, que bajará un 17 % en 2020.

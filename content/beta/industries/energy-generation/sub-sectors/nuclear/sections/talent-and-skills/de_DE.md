@@ -1,6 +1,5 @@
 ---
-title: Unsere Talente und Fähigkeiten
-published: true
+title: "Unsere Talente und Fähigkeiten"
 ---
 
 ### Die weltbeste Expertise

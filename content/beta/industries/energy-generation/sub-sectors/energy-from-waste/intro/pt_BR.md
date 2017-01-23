@@ -1,6 +1,4 @@
 ---
-title: Energy from waste in the UK
-published: true
+title: "Energia a partir de resíduos no Reino Unido"
 ---
-
-With 27 million tonnes of municipal solid waste and 47 million tonnes of waste from businesses produced every year, there is potential for growth and further investment.
+Com 27 milhões de toneladas de resíduos sólidos municipais e 47 milhões de toneladas de resíduos provenientes de empresas de produção a cada ano, existe potencial para crescimento e maior investimento. otential for growth and further investment. 

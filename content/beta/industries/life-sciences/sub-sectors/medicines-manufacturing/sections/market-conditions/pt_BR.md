@@ -1,18 +1,20 @@
 ---
-title: Creating tomorrow’s medicines
+title: "Creating tomorrow’s medicines"
 ---
-The UK has a long and successful track record in pharmaceutical manufacturing. There’s a strong drive to develop manufacturing for the health and life sciences technologies of the future, such as advanced therapies, digital design or near-patient manufacturing. Whether you’re looking to make tomorrow’s medicines or next generation medical technologies and healthcare products, your company will thrive here.
+### Criar os medicamentos do futuro
 
-### A highly advanced sector and supply chain
+O Reino Unido tem um historial longo e bem-sucedido no fabrico de produtos farmacêuticos. Existe uma forte necessidade de desenvolver o fabrico das tecnologias de saúde e de ciências da vida do futuro, como terapias avançadas, design digital ou o fabrico perto dos clientes. Quer pretenda criar os medicamentos do futuro ou as tecnologias médicas e produtos de saúde da próxima geração, é aqui que a sua empresa vai ser bem-sucedida.
 
-There are around 1,300 companies involved in pharmaceutical manufacturing in the UK. Manufacturing in the life sciences accounts for nearly 10% (Gross Value Added) of all UK manufacturing, and sector exports are more than 30 billion GBP.
+### Um setor e uma cadeia de distribuição altamente avançados
 
-The pharmaceuticals sector alone conducts more UK-based business research and development than any other manufacturing sector, making up more than 20% of all business research and development in the UK. 
+Existem cerca de 1300 empresas envolvidas no fabrico de produtos farmacêuticos no Reino Unido. O fabrico nas ciências da vida contabiliza quase 10% (valor acrescentado bruto) de todo o fabrico no Reino Unido e as exportações do setor traduzem-se em mais de 30 mil milhões de libras.
 
-The industry-led Medicines Manufacturing Industry Partnership (MMIP) works with the UK government to continue to improve and enhance the UK medicines manufacturing environment
+O setor farmacêutico por si só conduz mais investigação e desenvolvimento empresarial com base no Reino Unido do que qualquer outro setor de fabrico, resultando em mais de 20% de toda a investigação e desenvolvimento empresarial no Reino Unido. 
 
-### Robust regulation with high standards and low risk
-Businesses which set up or invest in the UK benefit from a low-risk manufacturing environment. Our industry offers a highly respected regulatory framework with robust compliance and quality assurance culture at every level. This means there are fewer chances of product recalls.
+A Parceria da Indústria de Fabrico de Medicamentos (MMIP, Medicines Manufacturing Industry Partnership) trabalha com o governo do Reino Unido para continuar a melhorar e aumentar o ambiente de fabrico de medicamentos do Reino Unido.
 
-The Medicines and Healthcare products Regulatory Agency (MHRA) is a supportive and pragmatic regulator. Its [Innovation Office](https://www.gov.uk/government/groups/mhra-innovation-office) helps businesses clarify product regulatory or manufacturing requirements and can find faster routes to market.
-MHRA has global impact as a regulatory agency and in setting international standards. The agency’s National Institute for Biological Standards and Control produces more than 90% of the international standards for biological medicines.
+### Regulamentação rígida com padrões elevados e baixo risco
+
+As empresas que se estabelecem ou investem no Reino Unido beneficiam de um ambiente de fabrico de baixo risco. A nossa indústria oferece um enquadramento regulamentar altamente respeitado, com uma forte cultura de conformidade e garantia de qualidade em todos os níveis. Isto significa que existem menos hipóteses de devoluções de produtos.
+
+A Agência Reguladora de Medicamentos e Produtos de Saúde (MHRA, Healthcare products Regulatory Agency) é uma entidade reguladora prestável e pragmática. O seu [Escritório de Inovação](https://www.gov.uk/government/groups/mhra-innovation-office) ajuda os negócios a clarificar os requisitos regulamentares ou de fabrico dos produtos e pode encontrar formas mais rápidas de alcançar o mercado. A MHRA tem um impacto global como agência reguladora e como definidora de normas internacionais. O Instituto Nacional de Padrões Biológicos e Controlo da agência produz mais de 90% das normas internacionais para medicamentos biológicos.

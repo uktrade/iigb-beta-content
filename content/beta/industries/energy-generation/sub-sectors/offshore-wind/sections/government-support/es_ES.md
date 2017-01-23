@@ -1,20 +1,18 @@
 ---
-title: Government support for offshore wind development
+title: Apoyo gubernamental del Reino Unido para el desarrollo de la energía eólica marina 
 published: true
 ---
 
-The UK government has made a commitment to invest in offshore wind energy for generations to come. The current installed offshore wind capacity of 5.7GW is due to increase to 10 GW by 2020, and then to increase by an estimated 10GW by 2030. 
+El Gobierno del Reino Unido se ha comprometido con la inversión en energía eólica marina durante las próximas generaciones. La capacidad energética eólica marina instalada actualmente, de 5,7 GW, aumentará hasta los 10 GW en 2020, y se incrementará otros 10 GW en 2030. 
 
-The UK enjoys a longstanding reputation for operating stable and predictable regimes to support investment in renewable electricity infrastructure. Contracts for difference (CfD) provide stable long-term revenues for offshore wind projects, giving certainty on returns for investors.
+El Reino Unido disfruta de una reputación duradera por haber contado con regímenes estables y predecibles y por haber apoyado la inversión en infraestructuras energéticas renovables. Los contratos por diferencias ofrecen rendimiento estable a largo plazo a los proyectos eólicos marinos, y aportan certidumbre sobre el retorno de las inversiones.
  
-Alongside a supportive policy regime, the UK government supports its offshore wind industry by:
+Además de un régimen político favorable, el Reino Unido apoya su sector eólico marino mediante los siguientes métodos:
 
-- providing market confidence and demand visibility (critical for investment by developers and the supply chain)
-- building a competitive supply chain that attracts inward investment
-- offering support to UK-based companies to develop the capability and capacity to bid for, and win, contracts in the UK and overseas
-- supporting innovation that is vital to achieving cost reduction
-- enabling new players to enter the market with new product designs
-- providing support to access funding for developers and the supply chain
-- building a highly skilled workforce
-
-The government also has up to 50 billion GBP available to support finance and insurance for   supplies from within the UK to buyers outside the UK. This support takes the form of guarantees, insurance and loans issued by its export credit agency, UK Export Finance
+- Inspirar confianza en el mercado y exigir visibilidad (esencial para la inversión por parte de los desarrolladores y la cadena de suministro)
+- Crear una cadena de suministro competitiva que atraiga la inversión interna
+- Ofrecer apoyo a las empresas basadas en Reino Unido para desarrollar las capacidades de presentarse a licitaciones y ganarlas en el país y en el extranjero
+- Apoyar la innovación esencial para lograr una reducción de costes.
+- Permitir que nuevos actores accedan al mercado con nuevos diseños de productos
+- Facilitar apoyo para acceder a la financiación para los desarrolladores y la cadena de suministro.
+- Crear una fuerza laboral con altas capacidades

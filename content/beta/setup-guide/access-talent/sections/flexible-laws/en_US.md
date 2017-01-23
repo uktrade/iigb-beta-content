@@ -1,5 +1,5 @@
 ---
-title: Flexible employment laws
+title: "Flexible employment laws"
 ---
 The UK’s straightforward and flexible employment laws protect and promote the interests of employees. These laws help businesses to hire and manage the right people with the right skills as and when they need them.
  

@@ -1,23 +1,18 @@
 ---
-title: An expanding pool of offshore wind experts
+title: "Um nicho em expansão de especialistas em energia eólica offshore"
 ---
-With clusters of wind farms forming across the UK, we offer a competitive and innovative climate for offshore wind investment. The offshore wind sector currently employs around 15,000 people, with this number growing year-on-year as the industry develops. 
+Com ninhos de parques eólicos a serem formados por todo o Reino Unido, oferecemos um clima competitivo e inovador para o investimento na energia eólica offshore. O setor da energia eólica offshore emprega atualmente cerca de 15 000 pessoas, com este número a crescer ano após ano à medida que a indústria se desenvolve. 
 
+A nossa rica história de trabalho offshore significa que temos milhares de trabalhadores qualificados. A sua experiência a trabalhar em diferentes partes do setor da energia offshore assegura uma transição simples para a energia eólica offshore. 
 
-Our rich history of working offshore means we have thousands of skilled workers. Their experience of working in other parts of the offshore energy sector ensures a smooth transition into offshore wind. 
+As maiores áreas de especialização e emprego offshore no Reino Unido são:
 
+- planeamento e desenvolvimento de instalações
+- construção e instalação
+- produção e design
+- operações e manutenção
+- transporte especializado e outros serviços de apoio
 
-The biggest areas of UK offshore employment and expertise are:
-
-
-- site planning and development
-- construction and installation
-- manufacturing and manufacturing design
-- operations and maintenance
-- specialised transport and other support services
-
-
-Top universities like Manchester, Sheffield and Strathclyde all offer subjects which support students entering the offshore wind industry. 
+As universidades de topo, como Manchester, Sheffield e Strathclyde estão a ministrar unidades que ajudam os estudantes a entrarem na indústria da energia eólica offshore. 
  
-Companies in the UK benefit from specialist training providers, such as Maersk Training, Advanced Industrial Solutions and Siemens, that offer highly specialised training for the offshore wind industry. 
-
+As empresas no Reino Unido beneficiam dos formadores especializados, como a Maersk Training, Advanced Industrial Solutions e a Siemens, que oferecem formação altamente especializada à indústria de energia eólica offshore. 

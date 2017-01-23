@@ -1,6 +1,4 @@
 ---
-title: Supply chain opportunities for your business
-published: true
+title: "Oportunidades de cadeia de distribuição para a sua empresa"
 ---
-We welcome businesses that pioneer innovations in cost and efficiency when producing energy from waste. If you’re a supply chain investor, you’ll be in good company, and whether you’re a larger developer or a smaller company, you’ll have access to high-quality equipment and a skilled workforce.
-
+Damos as boas-vindas a empresas que sejam pioneiras em inovações no custo e na eficiência relativamente à produção de energia de resíduos. Se é um investidor na cadeia de distribuição, estará em boa companhia, e quer seja um produtor de grande escala ou uma pequena empresa, terá acesso a equipamento de alta qualidade e a uma força de trabalho qualificada.

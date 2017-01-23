@@ -1,5 +1,5 @@
 ---
-title: Förderung der Gesundheitswissenschaften und Life Sciences durch die Regierung
+title: "Förderung der Gesundheitswissenschaften und Life Sciences durch die Regierung"
 published: true
 ---
 

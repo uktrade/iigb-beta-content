@@ -1,4 +1,4 @@
 ---
-title: Energy generation
+title: Producción de energía en el Reino Unido
 ---
-Whether your company operates with traditional or emerging energy technologies, you’ll find opportunities for growth and high returns here.
+En nuestro país encontrará oportunidades de crecimiento y alto retorno de la inversión, independientemente de si su empresa opera en ámbitos tecnológicos energéticos tradicionales o emergentes.

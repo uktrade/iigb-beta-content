@@ -1,5 +1,5 @@
 ---
-title: O nosso talento e capacidades 
+title: "O nosso talento e capacidades "
 ---
 O recrutamento de novos talentos com ideias frescas e “know how” técnico é mais fácil no Reino Unido. Por exemplo, mais de três quartos da força de trabalho dos nossos jogos são estudantes universitários, e existe uma proporção superior de pós-graduados do que em qualquer outra parte do mundo. 
 

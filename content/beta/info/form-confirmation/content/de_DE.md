@@ -1,5 +1,5 @@
 ---
-title: Untitled
+title: "Untitled"
 published: true
 ---
 

@@ -1,20 +1,19 @@
 ---
-title: Access to UK talent
+title: "Acceso al talento en el Reino Unido"
 ---
-Businesses operating in the UK can take advantage of a broad talent base. The UK is second only to the USA for growing, retaining and attracting talent.
 
-There is a wide range of recruitment companies that can search for and select experienced talent. Universities and apprenticeships can help you hire the right people with the right qualifications and training.
+Las empresas con actividad comercial en el Reino Unido pueden aprovecharse de una amplia base de talento. El Reino Unido es el segundo mejor país del mundo, solo por detrás de Estados Unidos, en la creación, retención y atracción de talento.
 
-### Graduate talent
+Existe un amplio abanico de empresas de contratación que pueden buscar y seleccionar talentos experimentados. Las universidades y los programas de prácticas empresariales pueden ayudarle a contratar a las personas con la cualificación y la formación apropiadas.
 
-The UK is home to 4 of the top 10 universities in the world and has the highest number of leading MBA institutions in Europe. This provides access to a large pool of work-ready graduates.
+#### Talento recién salido de la universidad
 
-### Apprenticeships
+El Reino Unido alberga cuatro de las mejores diez universidades del mundo y tiene el mayor número de instituciones líderes en MBA de Europa. Por este motivo, el país cuenta con acceso a un gran grupo de personas recién salidas de la universidad y listas para trabajar. 
 
-The UK plans to create [3 million apprenticeships by 2020,](https://www.gov.uk/government/publications/apprenticeships-in-england-vision-for-2020) enabling businesses to grow their talent with motivated and skilled workers. Support for businesses seeking to recruit and train apprentices is available via the [National Apprenticeship Service.](http://www.getingofar.gov.uk/employers)
+#### Programas de prácticas
 
-### Overseas talent
+El gobierno del Reino Unido pretende [crear tres millones de puestos en prácticas para 2020,](https://www.gov.uk/government/publications/apprenticeships-in-england-vision-for-2020)  lo que permitirá a las empresas aumentar el talento de su plantilla con trabajadores motivados y capacitados. Las empresas que deseen contratar y formar a trabajadores en prácticas pueden recabar el apoyo del  [Servicio Nacional de Prácticas Profesionales](http://www.getingofar.gov.uk/employers).
 
-The [UK’s flexible visa system](/us/setup-guide/apply-for-visa/) welcomes new businesses, investors, entrepreneurs, skilled workers and academics. This enables you to bring in world-class expertise to your UK business operations.
+#### Talento extranjero
 
-
+El [sistema de visados flexible de Reino Unido](/es/setup-guide/apply-for-visa/) permite un acceso sencillo a nuevas empresas, inversores, trabajadores cualificados y personal académico. Así podrá integrar los conocimientos de expertos de primer orden en sus operaciones empresariales en el Reino Unido. 

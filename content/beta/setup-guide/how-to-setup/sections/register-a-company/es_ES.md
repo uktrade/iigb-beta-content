@@ -1,18 +1,18 @@
 ---
-title: Register (incorporate) a company in the UK
+title: "Registro (constitución) de una sociedad"
 published: true
 ---
-By incorporating a company, you’ll create a separate legal entity in the UK, which is known as a private limited company.
+Al constituir una sociedad, estará creando una entidad legal independiente en el Reino Unido denominada sociedad de responsabilidad limitada.
 
-The process to [register (incorporate) a private limited company in the UK](https://www.gov.uk/register-a-company-online) is straightforward and typically takes less than 24 hours.
+El proceso de [registro (constitución) de una sociedad de responsabilidad limitada en Reino Unido](https://www.gov.uk/register-a-company-online) es sencillo y suele tardar menos de 24 horas.
  
-### Before you start the process, you’ll need:
+### Antes de comenzar el proceso, necesitará:
 
-- a name for the company
-- an address, which can be any UK address, to act as the registered address of the company
-- at least one director (does not need to be UK resident)
-- at least one shareholder (can be corporate or an individual)
+- Un nombre para la sociedad
+- Una dirección, que puede ser cualquier dirección del Reino Unido, que conste como domicilio social de la empresa
+- Al menos un director (no tiene por qué residir en el Reino Unido)
+- Al menos un accionista (puede ser corporativo o particular)
  
-A UK company must have a Memorandum and Articles of Association. These documents must be in place at the time of incorporation. You can select standard documents at the date of incorporation, or professional advisers can prepare and file tailored documents on your company’s behalf.
+Una empresa de Reino Unido debe contar con una memoria y una escritura de constitución. Estos documentos deben constar en todo momento durante la constitución de la sociedad. Puede realizarse con documentos estándares en la fecha de la constitución o recurrir a asesores profesionales para que redacten y registren unos documentos personalizados a nombre de su empresa.
 
-While it is not a legal requirement to have a UK resident director or shareholder to set up a UK company, many banks will prefer this before they will [open a UK business bank account](/us/setup-guide/open-a-business-account/) for your business.
+Aunque contar con un director o accionista residente en el Reino Unido no sea un requisito legal para constituir una sociedad en este país, muchos bancos preferirán que sea así antes de [abrir una cuenta bancaria en Reino Unido](/es/setup-guide/open-a-business-account/) para su sociedad.

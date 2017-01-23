@@ -1,5 +1,5 @@
 ---
-title: Wie man Zugang zu talentierten Fachkräften in Großbritannien bekommt
+title: "Wie man Zugang zu talentierten Fachkräften in Großbritannien bekommt"
 published: true
 ---
 

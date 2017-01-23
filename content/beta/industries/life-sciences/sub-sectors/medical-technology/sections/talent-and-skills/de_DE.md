@@ -1,13 +1,12 @@
 ---
-title: Unsere Talente und Fähigkeiten
-published: true
+title: "Unsere Talente und Fähigkeiten"
 ---
 
 Der Sektor Medizintechnik beschäftigt fast 115.000 Menschen. Großbritannien verfügt über die größte Anzahl an hochqualifizierten Ingenieuren und Wissenschaftlern in Europa.
 
 Unternehmen können so Fachkräfte wirksam quer durch alle Disziplinen wie dem Ingenieurswesen, der Medizin, aber auch in technischen, sozialen und digitalen Diensten einsetzen.
 
-**Förderung beim Produktdesign, der Entwicklung und dem Bereitstellungskonzept**
+### Förderung beim Produktdesign, der Entwicklung und dem Bereitstellungskonzept
 
 Großbritannien bietet die Möglichkeit für Innovatoren in der Medizintechnik:
 

@@ -1,8 +1,6 @@
 ---
-title: "Reliable, long-term projects backed by a strong market"
-published: true
+title: "Projetos a longo prazo fiáveis e com o apoio de um mercado forte"
 ---
-We have long been recognised as a pioneering nation in the field of energy from waste. World leaders such as SITA, Veolia and FCC all have operations here. 
+Já há muito que fomos reconhecidos como uma nação pioneira no campo da energia de resíduos. Os líderes mundiais, como a SITA, Veolia e a FCC, têm operações aqui. 
 
-The UK market is maturing, and there’s further demand for waste management infrastructure. In 2013, the renewable energy market created 6.8 billion GBP in gross value. Estimates suggest that by 2020 there will still be between 5 and 15 million tonnes of waste in the UK that needs treatment. This  will require 3 to 9 billion GBP of investment.
-
+O mercado do Reino Unido está mais maduro e existe maior procura para infraestruturas de gestão de resíduos. Em 2013, o mercado de energia renovável criou 6,8 mil milhões de libras em valor bruto. As estimativas sugerem que até 2020 existam entre 5 e 15 milhões de toneladas de resíduos no Reino Unido que necessitarão de tratamento. Isto irá exigir um investimento de 3 a 9 mil milhões de libras.

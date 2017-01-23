@@ -1,5 +1,5 @@
 ---
-title: Apply for a UK visa
+title: "Solicitar un visado para el Reino Unido "
 published: true
 ---
-Anyone from outside of the European Economic Area and Switzerland may need to apply for a UK visa to work in the UK or visit for business reasons.
+Puede que tenga que solicitar un visado para el Reino Unido si pretende entrar en el país por motivos empresariales o si desea contratar a alguien procedente de fuera del Espacio Económico Europeo (EEE), incluida Suiza.

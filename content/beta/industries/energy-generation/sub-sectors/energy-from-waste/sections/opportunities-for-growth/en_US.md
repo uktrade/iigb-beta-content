@@ -1,5 +1,5 @@
 ---
-title: Energy from waste growth opportunities
+title: "Energy from waste growth opportunities"
 ---
 There are opportunities available to grow your business given the size of the energy from waste market. From our use of conventional incineration to advanced technologies, you can expand into new markets covering the broad range of waste treatment options available here. 
 

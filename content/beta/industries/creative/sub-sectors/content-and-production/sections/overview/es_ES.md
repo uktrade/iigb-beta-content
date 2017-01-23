@@ -1,6 +1,6 @@
 ---
-title: Overview 
+title: "Resumen "
 ---
-The UK offers creative content producers, excellent facilities and locations, a world-leading technical and creative skills base, and strong government support.
+El Reino Unido ofrece a los productores de contenidos creativos unas instalaciones y unas ubicaciones excelentes, una base de capacidades técnicas y creativas puntera en el mundo y un fuerte apoyo gubernamental.
 
-The UK film industry is booming. Our games creators operate in a rapidly expanding market.  High end TV and animation are appreciated worldwide and are supported by generous tax breaks.
+El sector cinematográfico del Reino Unido está en auge. Nuestros creadores de videojuegos trabajan en un mercado en rápida expansión.  Nuestras producciones para la televisión y la animación de alta gama son aclamadas en todo el mundo y se aprovechan de generosas ventajas fiscales. 

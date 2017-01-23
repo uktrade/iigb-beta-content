@@ -1,5 +1,5 @@
 ---
-title: Staatliche Förderung und Anreize
+title: "Staatliche Förderung und Anreize"
 published: true
 ---
 

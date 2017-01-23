@@ -1,4 +1,4 @@
 ---
-title: Oil and gas
+title: "Petróleo e gás"
 ---
-With over 100 years of onshore exploration, and 50 years in the North Sea, we have unique expertise in exploration and production.
+Com mais de 100 anos de exploração onshore e 50 anos no mar do Norte, temos uma experiência única na exploração e produção.

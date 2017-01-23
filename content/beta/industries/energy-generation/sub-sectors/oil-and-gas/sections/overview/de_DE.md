@@ -1,9 +1,6 @@
 ---
-title: Überblick
-published: true
+title: "Überblick"
 ---
-
-### Großbritannien hat mehr als 100 Jahre Erfahrung in der Öl- und Gasindustrie
 
 Heute existieren in Großbritannien über 380 Felder zur Förderung von Öl und Gas. Unterm Strich wurden 43 Milliarden Barrel Öl auf dem Kontinentalschelf zutage gefördert und Schätzungen zufolge sind noch 22 Milliarden förderbare Reserven vorhanden.
 

@@ -1,9 +1,9 @@
 ---
-title: Data protection in the UK
+title: "Protección de datos en el Reino Unido"
 ---
-The UK’s privacy and data protection laws ensure that customer data is processed, held and disposed of fairly, legally, accurately and securely. Your business must abide by the UK’s Data Protection Act. 
 
-Stronger legal protections are in place for sensitive information such as ethnic background, political or religious belief, health records and criminal records.
+Las leyes de privacidad y protección de datos del Reino Unido garantizan que los datos de los clientes se procesen, conserven y eliminen de manera justa, legal, precisa y segura. Su empresa debe respetar la Ley de protección de datos del Reino Unido. 
 
-[Read the Data Protection Act](http://www.legislation.gov.uk/ukpga/1998/29/contents) for details on how this may be relevant for your business.
+Existen protecciones jurídicas más estrictas para la información confidencial, como la etnia, las convicciones políticas o creencias religiosas, el historial médico o los antecedentes penales.
 
+[Lea la Ley de protección de datos](http://www.legislation.gov.uk/ukpga/1998/29/contents) para consultar más detalles sobre cómo podría afectar esta legislación a su empresa.

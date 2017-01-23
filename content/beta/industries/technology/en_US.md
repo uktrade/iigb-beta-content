@@ -1,5 +1,5 @@
 ---
-title: Technology
+title: "Technology"
 published: true
 ---
 

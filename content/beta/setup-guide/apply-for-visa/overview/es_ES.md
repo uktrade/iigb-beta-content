@@ -1,6 +1,7 @@
 ---
-title: Overview
+title: "Resumen"
 ---
-There are more than [200 visa application centres worldwide](https://www.gov.uk/find-a-visa-application-centre), with priority processing (3 to 7 days) in over 100 of them. The UK also offers a Super Priority Visa service providing a visa decision within 24 hours. This service is available in several countries including India and China.
 
-[Check if you need a UK visa](https://www.gov.uk/check-uk-visa) and if so, book an appointment at your nearest visa application centre. 
+Hay más de [200 centros de solicitud de visados](https://www.gov.uk/find-a-visa-application-centre) en todo el mundo y más de un centenar de ellos tienen procesamiento prioritario (de 3 a 7 días). El Reino Unido también ofrece un servicio de visado superprioritario, cuya decisión puede conocerse en 24 horas. Este servicio está disponible en varios países, incluidos India y China.
+
+[Compruebe si necesita un visado para el Reino Unido](https://www.gov.uk/check-uk-visa) y, si es así, reserve una cita en su centro de solicitud de visados más cercano. 

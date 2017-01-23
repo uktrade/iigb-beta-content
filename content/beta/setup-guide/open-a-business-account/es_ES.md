@@ -1,5 +1,4 @@
 ---
-title: Open a UK business bank account 
+title: "Abrir una cuenta bancaria empresarial en el Reino Unido"
 ---
-This allows your business to make and receive payments in the UK without incurring foreign exchange fees. The process can take up to 3 months and you may have to travel to the UK to do so.
-
+Al tener una cuenta bancaria en el Reino Unido, su empresa podrá realizar y recibir pagos en el país sin incurrir en costes por cambio de divisa extranjera. No es ningún requisito legal, pero le permitirá controlar sus transacciones.

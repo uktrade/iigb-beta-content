@@ -1,16 +1,15 @@
 ---
-title: Support and incentives
-published: true
+title: "Apoio e incentivos"
 ---
-The UK government is committed to the continued success of the UK car industry. It’s contributing over 1.2 billion GBP to automotive research funds, covering low carbon propulsion, lightweight materials plusand connected and autonomous vehicles.
 
-We’re also creating the right environment for new technology to thrive. Our regulatory framework for connected and autonomous vehicles is the most progressive in Europe. This enables car manufacturers and major component suppliers to develop and test their technology in the UK with the minimum of bureaucracy. Volvo has already committed to the UK as the only 'neutral' testing venue outside its own factory locations. 
+O governo está empenhado no sucesso contínuo da indústria automóvel do Reino Unido. Está a contribuir com mais de 1,2 mil milhões de libras para fundos de investigação automóvel, cobrindo a propulsão com baixo teor de carbono, materiais leves e veículos ligados e autónomos.
 
-### A supportive business environment, focused on the future
+Também estamos a criar o ambiente certo para que as novas tecnologias possam prosperar. O nosso quadro regulamentar para veículos ligados e autónomos é o mais progressista na Europa (hiperligação para a página de I&D). Isso permite aos fabricantes de automóveis e aos principais fornecedores de componentes desenvolver e testar a sua tecnologia no Reino Unido com o mínimo de burocracia. A Volvo já se comprometeu com o Reino Unido enquanto único lugar de testes ‘neutro’ fora das suas próprias instalações de fabrico. 
 
-The UK benefits from a supportive business environment, offering the most competitive and flexible labour market in western Europe. Workers in the UK car industry add more value per car than anywhere else in Europe. 
+### Um ambiente comercial de apoio, focado no futuro
 
-The UK government is implementing a long-term strategy focused on further developing the skills of its workforce. Working with the Automotive Council, it’s also looking to improve the competitiveness of the UK supply chain and support emerging technologies. This will create even more opportunities for companies investing in the UK. 
+O Reino Unido beneficia de um ambiente comercial de apoio, que oferece o mercado laboral mais competitivo e flexível da Europa ocidental. Os funcionários da indústria automóvel do Reino Unido adicionam mais valor por automóvel do que em qualquer outro local da Europa. 
 
-The government also has up to 50 billion GBP available to support finance and insurance for   supplies from within the UK to buyers outside the UK. This support takes the form of guarantees, insurance and loans issued by its export credit agency, UK Export Finance
+O governo do Reino Unido está a implementar uma estratégia a longo prazo focada no desenvolvimento adicional das capacidades da sua força de trabalho. Em cooperação com o Automotive Council (Conselho automóvel), também procura melhorar a competitividade da cadeia de fornecimento do Reino Unido, além de apoiar as tecnologias emergentes. Isso irá criar ainda mais oportunidades para as empresas investirem no Reino Unido. 
 
+O governo também tem até 50 mil milhões de libras disponíveis para apoiar o financiamento e a obtenção de seguros para bens no Reino Unido a serem encaminhados para compradores fora do Reino Unido. Este apoio toma a forma de garantias, seguros e empréstimos emitidos pela agência de crédito para exportação, a UK Export Finance. 

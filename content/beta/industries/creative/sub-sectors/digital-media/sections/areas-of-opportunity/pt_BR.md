@@ -1,5 +1,5 @@
 ---
-title: Grandes áreas de oportunidades 
+title: "Grandes áreas de oportunidades "
 published: true
 --- 
 ### A interrupção criativa está a impulsionar a publicidade digital

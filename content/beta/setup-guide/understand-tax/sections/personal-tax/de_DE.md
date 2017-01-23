@@ -1,5 +1,5 @@
 ---
-title: Persönliche Steuern in Großbritannien
+title: "Persönliche Steuern in Großbritannien"
 published: true
 ---
 

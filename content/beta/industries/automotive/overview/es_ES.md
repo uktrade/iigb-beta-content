@@ -1,16 +1,12 @@
 ---
-title: Automotive overview
+title: "Resumen sobre automoción"
 ---
-With over 15 billion GBP invested in the UK automotive industry between 2012 and 2015, the UK is one of the world’s most attractive destinations for foreign investment. 
+El Reino Unido, donde se han invertido más de 15 000 millones de libras en el sector de la automoción entre 2012 y 2015, es uno de los destinos más atractivos del mundo para las inversiones extranjeras. 
+ 
+Las empresas automovilísticas que busquen establecerse aquí se encontrarán:
 
-
-Automotive businesses looking to set up here will find:
-
-
-- a country placed seventh in the world for ease of doing business, according to the World Bank
-- the highest value add per employee in car manufacturing of any European country, according to Eurostat
-- competitive labour costs which are lower than Italy, France or Germany
-- low taxes; corporation tax is being reduced from 20% in 2016 to 17% by 2020
-- excellent labour relations
-
-
+- Un país clasificado en séptimo lugar en todo el mundo en cuanto a facilidades para hacer negocios, según el Banco Mundial.
+- El mayor valor añadido por empleado en la fabricación de automóviles de todos los países europeos, según Eurostat.
+- Costes laborales competitivos y menores que los de Italia, Francia o Alemania.
+- Bajos impuestos: el impuesto de sociedades se va a reducir del 20 % en 2016 al 17 % en 2020.
+- Relaciones laborales excelentes.

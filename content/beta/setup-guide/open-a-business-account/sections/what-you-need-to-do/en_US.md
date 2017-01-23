@@ -1,5 +1,5 @@
 ---
-title: What you need to do
+title: "What you need to do"
 ---
 Each bank has a slightly different process for opening a business account. In most cases you will need to have:
 - a UK place of business address 

@@ -1,5 +1,5 @@
 ---
-title: Vermögensverwaltung in Großbritannien
+title: "Vermögensverwaltung in Großbritannien"
 published: true
 ---
 

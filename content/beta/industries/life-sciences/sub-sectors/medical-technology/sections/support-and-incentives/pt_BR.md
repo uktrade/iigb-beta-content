@@ -1,31 +1,26 @@
 ---
-title: Support and incentives
-published: true
+title: "Apoio e incentivos"
 ---
-The UK also offers access to innovative researchers in engineering, physical, social, medical, and digital sciences. 
 
-### Organisations that provide support
+Se pretende investir ou instalar-se no Reino Unido, pode beneficiar de parceiros de tecnologias médicas de apoio a cada passo do caminho - desde o design ao desenvolvimento e fornecimento.
 
-If you’re investing in or setting up in the UK, you can benefit from supportive medical technology partners at every step of your journey - from design to development to delivery.
+O [Centro para o fabrico inovador de dispositivos médicos EPSRC](https://www.epsrc.ac.uk/research/centres/innovativemanufacturing/imrcmedicaldevices/) está a desenvolver métodos avançados para o design estratificado de funcionalidades e fabrico perto do cliente. Isso permite a correspondência rentável entre a função do dispositivo e as necessidades do paciente e o ambiente cirúrgico.
 
-The [EPSRC Centre for innovative manufacturing in medical devices](https://www.epsrc.ac.uk/research/centres/innovativemanufacturing/imrcmedicaldevices) is developing advanced methods for functionally stratified design and near-patient manufacturing. This enables cost effective matching of device function to the patient needs and surgical environment.
+[Innovate UK](https://www.gov.uk/government/organisations/innovate-uk) estimula a inovação com base tecnológica. A sua Knowledge Transfer Partnership (Parceria para a Transferência de Conhecimentos) pode ajudar as empresas a desenvolverem parcerias colaborativas com as universidades, faculdades e organizações de investigação de classe mundial do Reino Unido.
 
-[Innovate UK](https://www.gov.uk/government/organisations/innovate-uk) stimulates technology-enabled innovation. Its Knowledge Transfer Partnership can help businesses develop collaborative partnerships with the UK’s world-class universities, colleges and research organisations.
+A [High-Value Manufacturing Catapult](https://hvm.catapult.org.uk/) pode suportar a criação rápida de protótipos e ajudar as empresas a trabalhar com cientistas e engenheiros líderes para transformar ideias de fabrico em produtos e serviços de valor.
 
-The [High-Value Manufacturing Catapult](https://hvm.catapult.org.uk/) can support rapid prototyping and help businesses work with leading scientists and engineers to transform manufacturing ideas into valuable products and services.
+O Gabinete de Infraestruturas de Investigação Clínica e Rede de Investigação Clínica do [National Institute for Health Research (NIHR)](http://www.nihr.ac.uk/life-sciences-industry/) oferece acesso a colaborações e especialidades clínicas e acadêmicas. Também fornece um serviço gerido para estudos clínicos, oportunidades de financiamento, amostragem de dados e apoio analítico para pesquisa.
 
-The [National Institute for Health Research](http://www.nihr.ac.uk/life-sciences-industry/) (NIHR) Office for Clinical Research Infrastructure and Clinical Research Network offers access to academic and clinical expertise and collaboration. It also provides  a managed service for clinical studies, funding opportunities, data samples and analytical support for research.
+O programa [Invention for Innovation (i4i)](http://www.nihr.ac.uk/funding-and-support/funding-for-research-studies/how-to-apply/research-programmes/invention-for-innovation/) (Invenção para a inovação) do NIHR é um esquema de financiamento para tecnologias de cuidados de saúde avançados e intervenções para benefícios aumentados para o paciente em áreas de necessidade clínica emergente ou existente. O i4i suporta projetos de investigação e desenvolvimento colaborativos com prova de princípio demonstrada e com um caminho claro rumo à adoção e comercialização.
 
-The NIHR’s [Invention for Innovation](http://www.nihr.ac.uk/funding-and-support/funding-for-research-studies/how-to-apply/research-programmes/invention-for-innovation/) (i4i) Programme is a funding scheme to advance healthcare technologies and interventions for increased patient benefit in areas of existing or emerging clinical need. i4i supports collaborative research and development projects that have demonstrated proof-of-principle and have a clear pathway towards adoption and commercialisation.
+A [Medicines and Healthcare products Regulatory Agency (MHRA) (Agência para a regulamentação de medicamentos e dispositivos médicos)](https://www.gov.uk/government/organisations/medicines-and-healthcare-products-regulatory-agency) é um regulador pragmático e de apoio com uma experiência significativa em tecnologias médicas e combinações medicamento-dispositivo. O Gabinete de Inovação da MHRA ajuda as organizações que estão a desenvolver medicamentos e dispositivos médicos inovadores, ou a utilizar novos processos de fabrico.
 
-The [Medicines and Healthcare products Regulatory Agency](https://www.gov.uk/government/organisations/medicines-and-healthcare-products-regulatory-agency) (MHRA) is a pragmatic and supportive regulator with significant expertise in medical technologies and drug-device combinations.The MHRA's Innovation Office helps organisations that are developing innovative medicines, medical devices or using new manufacturing processes.
+O [National Institute for Health and Care Excellence (NICE)](https://www.nice.org.uk/) (Instituto Nacional de Saúde e Excelência Clínica) é líder mundial na avaliação de tecnologia de saúde. Produz orientações independentes, fidedignas e com base em evidências sobre as formas mais eficientes de prevenir, diagnosticar e tratar doenças e maleitas. O seu [Gabinete de acesso ao mercado](https://www.nice.org.uk/about/what-we-do/office-for-market-access) irá ajudá-lo a compreender os processos do NICE, como trabalhar com o corpo para alcançar os seus objetivos e como o NICE está associado a diferentes partes do sistema.
 
-The[ National Institute for Health and Care Excellence](https://www.nice.org.uk/) (NICE) is a world leader in health technology assessment. It produces independent, authoritative and evidence-based guidance on the most efficient ways to prevent, diagnose and treat disease and ill health. Its Office for Market Access will help you understand NICE processes, how to work with the body to achieve your aimsand how NICE links with different parts of the system.
+O [Programa de avaliação de tecnologias médicas](https://www.nice.org.uk/About/What-we-do/Our-Programmes/NICE-guidance/NICE-medical-technologies-evaluation-programme) do NICE identifica tecnologias médicas com potencial para oferecer vantagens substanciais aos pacientes. É provável que as tecnologias médicas sejam adotadas de forma consistente e rápida se o NICE desenvolver orientações sobre elas.
 
-The NICE [Medical Technologies Evaluation Programme](https://www.nice.org.uk/About/What-we-do/Our-Programmes/NICE-guidance/NICE-medical-technologies-evaluation-programme) identifies medical technologies that have the potential to offer substantial benefit to patients. Medical technologies are likely to be adopted consistently and rapidly if NICE develops guidance on them.
+As [Academic Health Science Networks (AHSNs)](http://www.ahsnnetwork.com/) (Rede Académica das Ciências da Saúde) são uma entrada para a indústria no NHS. Baseiam-se no trabalho em parceria e na colaboração entre o NHS, o mundo académico, o setor privado e outros parceiros externos. 
+As AHSNs apresentam uma oportunidade única de alinhar educação, investigação clínica, informática, inovação, formação e educação na prestação de cuidados de saúde. Suportam redes de troca de conhecimentos e fornecem apoio à avaliação rápida e à adoção precoce de inovação.
 
-[Academic Health Science Networks](http://www.ahsnnetwork.com/) (AHSNs) are a gateway for industry into the NHS. They are based on partnership working and collaboration between the NHS, academia, the private sector and other external partners.
-
-AHSNs present a unique opportunity to align education, clinical research, informatics, innovation, training and education, and healthcare delivery. They support knowledge exchange networks and provide support for rapid evaluation and early adoption of innovation.
-
-The government also has up to 50 billion GBP available to support finance and insurance for   supplies from within the UK to buyers outside the UK. This support takes the form of guarantees, insurance and loans issued by its export credit agency, UK Export Finance.
+O governo também tem até 50 mil milhões de libras disponíveis para apoiar o financiamento e a obtenção de seguros para bens no Reino Unido a serem encaminhados para compradores fora do Reino Unido. Este apoio toma a forma de garantias, seguros e empréstimos emitidos pela agência de crédito para exportação, a UK Export Finance. 

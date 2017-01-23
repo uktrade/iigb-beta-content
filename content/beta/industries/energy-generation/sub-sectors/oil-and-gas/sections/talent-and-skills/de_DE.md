@@ -1,6 +1,5 @@
 ---
-title: Hoch qualifizierte Arbeitskräfte und ein unterstützender Bildungssektor
-published: true
+title: "Hoch qualifizierte Arbeitskräfte und ein unterstützender Bildungssektor"
 ---
 
 Unsere Technologien sind führend in puncto Umweltfreundlichkeit. Als Folge davon haben wir eine Vielzahl an äußerst kompetenten und flexiblen Arbeitskräften.

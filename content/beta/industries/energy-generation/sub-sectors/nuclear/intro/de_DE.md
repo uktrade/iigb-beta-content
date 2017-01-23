@@ -1,5 +1,5 @@
 ---
-title: Nuklearenergie in Großbritannien
+title: "Nuklearenergie in Großbritannien"
 published: true
 ---
 

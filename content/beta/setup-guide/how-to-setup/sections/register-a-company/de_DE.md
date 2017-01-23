@@ -1,5 +1,5 @@
 ---
-title: Ein Unternehmen anmelden (eine Kapitalgesellschaft gründen)
+title: "Ein Unternehmen anmelden (eine Kapitalgesellschaft gründen)"
 published: true
 ---
 

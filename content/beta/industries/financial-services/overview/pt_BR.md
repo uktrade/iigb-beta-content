@@ -1,16 +1,16 @@
 ---
-title: Financial services overview
-published: true
+title: "Descrição geral sobre os serviços financeiros"
 ---
-Our position at the heart of the global financial community is one of the reasons that so many international companies choose the UK. Many of the world’s leading investment houses and financial institutions are based here.
-London is recognised globally for its flexible, principles-based approach to regulating its capital markets. 
-London topped every category in the [Global Financial Centres Index 20](http://www.zyen.com/research/gfci.html) compiled by Z/Yen in the September 2016 group, staying ahead of New York, Singapore and Hong Kong.
 
-The index showed that London has:
+A nossa posição no núcleo da comunidade financeira global é um dos motivos pelos quais tantas empresas internacionais optam pelo Reino Unido. Muitas das instituições financeiras e principais casas de investimento do mundo estão aqui sediadas
 
-- the best business environment
-- the most developed financial centre
-- the most impressive infrastructure
-- the best human capital
-- the top overall reputation
+Londres é reconhecida globalmente pela sua abordagem flexível e baseada em princípios para regular os seus mercados de capitais. 
 
+Londres figurou no topo de todas as categorias do [Índice de 20 centros financeiros globais](http://www.zyen.com/research/gfci.html), uma compilação da Z/Yen realizada em setembro de 2016, ficando à frente de Nova Iorque, Singapura e Hong Kong.
+
+O índice demonstrou que Londres apresenta:
+- o melhor ambiente de negócios
+- o centro financeiro mais desenvolvido
+- as infraestruturas mais impressionantes
+- o melhor capital humano
+- a melhor reputação geral

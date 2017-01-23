@@ -1,11 +1,9 @@
 ---
-title: Our talent leads the way
+title: "Our talent leads the way"
 published: true
 ---
-The UK is home to 7 of the 11 Formula 1 motor racing teams. McLaren, Williams and Mercedes-Benz have all made the UK their Headquarters. 
+El Reino Unido alberga siete de los 11 equipos de la Fórmula Uno. McLaren, Williams y Mercedes-Benz han instalado su sede central en el Reino Unido. 
 
+Contamos con universidades de prestigio internacional. Según la clasificación internacional de universidades QS, cuatro de las 10 mejores universidades del mundo y nueve de las 10 mejores de la UE están en el Reino Unido.
 
-We have world-class universities. According to the QS World University Rankings, 4 of the world’s top 10 universities and 9 of the EU’s top 10 universities are in the UK.
-
-
-We have leading engineering companies like Ricardo and world-class automotive research facilities thanks to the recently established [Catapult network](https://catapult.org.uk/).
+Contamos con empresas de ingeniería líderes como Ricardo, e instalaciones de investigación automovilísticas de primer orden, gracias a la red [Catapult, creada hace poco](https://catapult.org.uk/)

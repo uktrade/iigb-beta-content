@@ -1,5 +1,5 @@
 ---
-title: Digitale Medien
+title: "Digitale Medien"
 published: true
 ---
 

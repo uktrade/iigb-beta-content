@@ -1,5 +1,5 @@
 ---
-title: Other growth areas
+title: "Other growth areas"
 ---
 
 Consumer trends in freefrom foods reflect trends in general grocery. Freefrom shoppers are demanding more: 

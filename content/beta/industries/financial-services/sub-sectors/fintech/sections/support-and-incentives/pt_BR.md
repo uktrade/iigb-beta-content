@@ -1,18 +1,16 @@
 ---
-title: Strong regulatory and tax support
+title: "Forte apoio do Reino Unido em matéria regulamentar e fiscal para empresas financeiras"
 ---
-The financial services industry is supported in the UK by its regulator the [Financial Conduct Authority (FCA)](https://www.fca.org.uk/about/the-fca). The regulators operate independently of the UK government to regulate financial firms providing services to consumers and maintain the integrity of the UK’s financial markets.
+A indústria dos serviços financeiros é apoiada no Reino Unido pela respetiva entidade reguladora: [Financial Conduct Authority (FCA)](https://www.fca.org.uk/about/the-fca). As entidades reguladoras operam de forma independente ao governo do Reino Unido para regularem empresas financeiras que fornecem serviços a consumidores e mantêm a integridade dos mercados financeiros do Reino Unido.
 
-[The FCA supports disruptive technologies](https://www.fca.org.uk/news/speeches/uk-fintech-regulating-innovation) and helps companies develop new business models through their [Project Innovate and Innovation Hub](https://www.fca.org.uk/firms/project-innovate-innovation-hub)
+[A FCA apoia tecnologias disruptivas](https://www.fca.org.uk/news/speeches/uk-fintech-regulating-innovation) e ajuda empresas a desenvolver novos modelos de negócio através do seu centro de inovação [Project Innovate and Innovation Hub](https://www.fca.org.uk/firms/project-innovate-innovation-hub).
 
-The UK government offers a range of tax incentives and programmes to promote competition and innovation.
+O governo do Reino Unido disponibiliza uma gama de incentivos e programas fiscais para promover a concorrência e a inovação, incluindo:
 
-They include:
-
-- the Enterprise Investment Scheme
-- the Seed Enterprise Investment Scheme 
+- Enterprise Investment Scheme
+- Seed Enterprise Investment Scheme 
 - Entrepreneurs’ Relief 
-- Research and development tax credits
-- the Patent Box scheme, where companies pay a lower rate of Corporation Tax on profits earned from their patented innovations
+- Research and Development tax credits
+- Patent Box (regime fiscal preferencial para patentes), que permite às empresas pagar uma taxa inferior de IRC aos lucros resultantes das inovações patenteadas
 
-The government also has up to 50 billion GBP available to support finance and insurance for   supplies from within the UK to buyers outside the UK. This support takes the form of guarantees, insurance and loans issued by its export credit agency, UK Export Finance.
+O governo também tem até 50 mil milhões de libras disponíveis para apoiar o financiamento e a obtenção de seguros para bens no Reino Unido a serem encaminhados para compradores fora do Reino Unido. Este apoio toma a forma de garantias, seguros e empréstimos emitidos pela agência de crédito para exportação, a UK Export Finance. 

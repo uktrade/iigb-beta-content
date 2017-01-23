@@ -1,19 +1,20 @@
 ---
-title: Our talent and skills
+title: "O nosso talento e capacidades"
 ---
-The sector employs nearly 115,000 people and the UK has the highest number of skilled engineers and researchers in Europe.
 
-Businesses can leverage a talent base across disciplines - in engineering, physical, social, medicine and digital services.
+O setor emprega perto de 115 000 pessoas e o Reino Unido tem o maior número de investigadores e engenheiros qualificados da Europa.
 
-### Support along the product design, development and delivery pathway
+As empresas podem impulsionar uma base de talentos transversal a várias disciplinas - serviços de engenharia, físicos, sociais, médicos e digitais.
 
-The UK offers the opportunity for medical technologies innovators to:
+### Acompanhamento ao longo do design, desenvolvimento e fornecimento do produto
 
-- conduct research and development based on unmet clinical needs, matched to gaps in care
-- design, prototype and manufacture, with iterative development
-- test efficacy and prove clinical utility through clinical studies
-- validate products and gain regulatory approval
-- demonstrate value through health technology assessment and partnership with the NHS
-- unlock global market opportunities by using an evidence base generated in the UK
+O Reino Unido oferece a oportunidade de os inovadores de tecnologias médicas:
 
-This is all underpinned by access to clinical experts and patients and unique health data resources. In addition, we have a supportive business and investment environment, (with regulation which is sensible and pragmatic) and an established supply and services chain.
+- efetuarem investigação e desenvolvimento com base em necessidades clínicas por suprir, associadas a falhas nos cuidados
+- conceberem, criarem o protótipo e o fabrico, com desenvolvimento iterativo
+- testarem a eficácia e provarem a utilidade clínica através de estudos clínicos
+- validarem produtos e obterem aprovações regulamentares
+- demonstrarem valor através da avaliação de tecnologias de saúde e de parcerias com o NHS
+- desbloquear oportunidades de mercado globais utilizando uma base de evidências gerada no Reino Unido
+
+Tudo isto é apoiado pelo acesso a especialistas clínicos e a pacientes, bem como a recursos de dados de saúde exclusivos. Além disso, possuímos um ambiente comercial e de investimento de apoio, (regulamentado de forma sensível e pragmática) e uma cadeia de fornecimento e serviços estabelecida.

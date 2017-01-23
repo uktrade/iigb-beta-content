@@ -1,5 +1,5 @@
 ---
-title: Kreativer Überblick
+title: "Kreativer Überblick"
 published: true
 ---
 Hier wird die Kreativwirtschaft durch ein hohes kreatives Niveau, Technologiepartnerschaften und starke Wachstumsmöglichkeiten gefördert. Die Kreativbranchen in Großbritannien wachsen dreimal schneller als die übrige Wirtschaft und beschäftigen mehr als 2 Millionen hervorragend ausgebildete Mitarbeiter.

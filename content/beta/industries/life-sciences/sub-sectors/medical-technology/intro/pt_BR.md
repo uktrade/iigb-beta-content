@@ -1,5 +1,5 @@
 ---
-title: Medical technology in the UK
+title: "Tecnologia médica no Reino Unido"
 ---
   
-The UK is the third largest market for medical technology in Europe. Investors can benefit from industry partners that offer product support from design to development to delivery.
+O Reino Unido é o terceiro maior mercado para tecnologia médica na Europa. Os investidores podem beneficiar dos parceiros da indústria que oferecem apoio ao produto desde design a desenvolvimento e fornecimento.

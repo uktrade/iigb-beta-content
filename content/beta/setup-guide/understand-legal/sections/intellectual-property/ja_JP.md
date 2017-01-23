@@ -1,5 +1,5 @@
 ---
-title: Intellectual property in the UK
+title: "Intellectual property in the UK"
 ---
 
 The UK has very strict intellectual property laws. These protect the names, ideas, products, designs and written word of businesses. 

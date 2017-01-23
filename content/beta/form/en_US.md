@@ -1,5 +1,5 @@
 ---
-title: How we help
+title: "How we help"
 published: true
 list: 
   - text: Help you to build connections with businesses across your sector
@@ -8,7 +8,7 @@ list:
     icon: immigration
   - text: Help you find grants and incentives to help your business to grow
     icon: incentives
-  - text: "Advise on hiring staff, from salary benchmarking through recruitment and training"
+  - text: Advise on hiring staff, from salary benchmarking through recruitment and training
     icon: talent
   - text: Share insights into specific markets based on your needs
     icon: insight

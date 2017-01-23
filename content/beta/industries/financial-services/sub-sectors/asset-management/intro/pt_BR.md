@@ -1,5 +1,5 @@
 ---
-title: Asset management
+title: "Gestão de ativos no Reino Unido"
 ---
 
-The UK is one of the largest asset management markets in the world. It is Europe's leading centre for fund management, and already attracts significant overseas funds.
+O Reino Unido é um dos maiores mercados de gestão de ativos do mundo. É o centro europeu líder na gestão de fundos, e já atrai fundos significativos provenientes do estrangeiro.	

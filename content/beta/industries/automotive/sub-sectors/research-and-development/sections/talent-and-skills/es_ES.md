@@ -1,15 +1,11 @@
 ---
-title: Automotive talent and skills
+title: "Talento y capacidades automovilísticos"
 ---
-The UK is the global home of motorsport. Seven of the 11 Formula One motor racing teams, including McLaren, Williams and Mercedes-Benz, have made the UK their headquarters. 
 
+El Reino Unido es la cuna mundial de los deportes de motor. Siete de los once equipos de carreras de Fórmula Uno, incluidos McLaren, Williams y Mercedes-Benz, tienen su sede en nuestro país. 
 
-We have world-class universities, with 4 of the world’s top 10 universities and 9 of the top 10 EU universities according to the international QS ranking.
+Contamos con universidades líderes, de las cuales, cuatro figuran entre las diez mejores del mundo y nueve entre las diez mejores de la UE, según la clasificación internacional QS.
 
+Contamos con empresas de ingeniería líderes como Ricardo, e instalaciones de investigación automovilísticas de primer nivel, gracias a la red Catapult, creada hace poco.
 
-We have leading engineering companies like Ricardo and world-class automotive research facilities thanks to the recently established Catapult network.
-
-
-We’re leading the move to low carbon propulsion. Europe’s only large-scale battery facility for electric cars is here. Currently we account for over 20% of European electric vehicle production.
-
-
+Estamos a la cabeza de la adopción de métodos de propulsión con bajas emisiones de carbono. La única instalación para la fabricación de baterías para coches eléctricos a gran escala de Europa está aquí. En la actualidad, generamos el 20 % de la producción de vehículos eléctricos europeos.

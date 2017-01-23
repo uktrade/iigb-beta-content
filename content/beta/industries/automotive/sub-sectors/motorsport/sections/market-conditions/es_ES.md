@@ -1,45 +1,42 @@
 ---
-title: The global home of motorsport
+title: "Condiciones del mercado"
 published: true
 ---
-UK-based businesses act as major suppliers to teams competing in everything from NASCAR to Formula E to the China Touring Car Championship. Famously, 7 out of 11 Formula 1 racing teams have their headquarters in the UK.
 
-Firms that supply motorsports operate throughout the UK. The largest concentration of motorsport firms are located in 'Motorsport Valley®', a world-renowned business cluster in the south east of England with Oxford at its centre. Michael Porter, a Harvard Business School professor and founder of Monitor Deloitte, has described it as, “A mature economic business cluster, which is number one in the world…the jewel in the crown of British engineering.” 
-In the 50 years since the modern Formula 1 era began in 1967, only 2 teams have won the Constructors Championship with a car designed outside the UK and one of those used a British engine. 
+Las empresas que apoyan los deportes de motor trabajan en todo el Reino Unido. La mayor concentración de empresas relacionadas con los deportes de motor se encuentra en el "Motorsport Valley®", un conjunto de empresas de fama internacional en el sudeste de Inglaterra, en cuyo centro se encuentra Oxford. Michael Porter, un profesor de la Harvard Business School y fundador de Monitor Deloitte, lo ha descrito como “un centro económico maduro, el número uno del mundo... La joya de la corona de la ingeniería británica”. 
+En los 50 años que han pasado desde que nació la Fórmula Uno moderna en 1967, solo dos equipos han ganado el campeonato de constructores con un coche diseñado fuera del Reino Unido, y uno de ellos empleó un motor británico. 
 
-The Formula One teams with headquarters here are: 
+Los equipos de Fórmula Uno con sede en nuestro país son: 
 
-- Red Bull Racing in Milton Keynes, Buckinghamshire
-- McLaren Honda in Woking, Surrey
-- Mercedes AMG Petronas in Brackley, Northamptonshire
-- Renault Sport in Enstone, Oxfordshire
-- Williams Martini Racing in Grove, Oxfordshire
-- Force India in Silverstone, Northamptonshire
-- Manor Racing in Banbury, Oxfordshire
+- Red Bull Racing en Milton Keynes, Buckinghamshire.
+- McLaren Honda en Woking, Surrey.
+- Mercedes AMG Petronas en Brackley, Northamptonshire.
+- Renault Sport en Enstone, Oxfordshire.
+- Williams Martini Racing en Grove, Oxfordshire.
+- Force India en Silverstone, Northamptonshire.
+- Manor Racing en Banbury, Oxfordshire.
 
-Formula 1 research and development centres here are:
+Centros de investigación y desarrollo de Fórmula Uno:
 
-- Haas in Banbury, Oxfordshire
-- Toro Rosso in Milton Keynes, Buckinghamshire
+- Haas en Banbury, Oxfordshire.
+- Toro Rosso en Milton Keynes, Buckinghamshire.
 
-### From race to road
+### De la carrera a la carretera
 
-The UK has made more motorsport innovations in the last 60 years than any other country. Many have found their way onto road cars. These include:
+El Reino Unido ha sido la cuna de más innovaciones en los deportes de motor durante los últimos 60 años que ningún otro país. Muchas de ellas han llegado a los vehículos comerciales.  Entre ellas se incluyen:
 
+- Años 50: discos de freno, producidos por Jaguar.
+- Años 60: motores de cuatro válvulas por cilindro, producidos por Cosworth.
+- Años 70: aerodinámica de suelo, producida por Lotus.
+- Años 80: compuestos, producidos por McLaren.
+- Años 90: chasis activo con control de tracción y ayuda a la conducción, producido por Williams.
+- Primera década de los 2000: frenos regenerativos (KERS), también de Williams.
 
-- 1950s, disc brakes produced by Jaguar
-- 1960s, 4 valves per cylinder engines produced by Cosworth
-- 1970s, ground-effect aerodynamics produced by Lotus
-- 1980s, composites produced by McLaren
-- 1990s, active chassis with traction control and driver aids produced by Williams
-- 2000s, Kinetic Energy Recovery Systems produced by Williams
+### Tecnología pionera más allá de la Fórmula Uno
 
-### Pioneering technology beyond Formula 1
+El Reino Unido ofrece una base para la nueva serie de carreras con coches eléctricos, la Fórmula E. Es un proveedor principal de IndyCar y NASCAR en los EE. UU. y para las series del China Touring Car Championship y las 24 horas de Le Mans. 
 
-The UK provides a base for the new global electric racing series Formula E. It is a major supplier to IndyCar and NASCAR in the USA, the China Touring Car Championship and the 24 Hours of Le Mans series. 
+Estas series de carreras se aprovechan de las nuevas tecnologías desarrolladas por las empresas británicas. Cosworth, con base en Northampton, es un líder global en la electrónica y la telemetría de motores (y en la actualidad facilita registro de datos y telemetría para el Chevrolet Corvette, que ya está en carretera).  Por su parte, Xtrac, basado en Berkshire, tiene fama mundial en el diseño y la fabricación de sistemas de transmisión. 
 
-These racing series benefit from new technology developed by UK companies. Cosworth, based in Northampton, is a global leader in engine electronics and telemetry (and now supplies data logging and telemetry for the road-going Chevrolet Corvette). While Berkshire’s Xtrac is world-renowned for the design and manufacture of transmission systems. 
-
-UK motorsport companies are also going beyond racing into sectors such as energy storage, marine and defence. Williams Advanced Engineering has installed flywheel energy storage technology in two remote Scottish island communities. And Wildcat Automotive has transformed its Wildcat 500DKR off-road racer into a specialist military all-terrain vehicle.
-
-Some are even going beyond physical engineering. McLaren has applied pit-stop techniques to reduce waiting times and increase operating theatre efficiency at Great Ormond Street Hospital.
+Las empresas británicas relacionadas con los deportes de motor van más allá y abarcan sectores como el almacenamiento de energía, el marítimo y la defensa. Williams Advanced Engineering ha instalado tecnología de almacenamiento de energía inercial en dos comunidades escocesas remotas. Además, Wildcat Automotive ha transformado su modelo Wildcat 500DKR en un todoterreno militar especializado.
+Algunas de ellas van incluso más allá de la ingeniería física. McLaren ha aplicado sus técnicas del pit-stop para la reducción de los tiempos de espera y el aumento de la eficacia en quirófano en el Great Ormond Street Hospital. 

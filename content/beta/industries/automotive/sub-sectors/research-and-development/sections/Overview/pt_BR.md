@@ -1,17 +1,14 @@
 ---
-title: Government-backed innovation
+title: "Inovação com apoio governamental"
 ---
-In 2009, the UK government and the UK automotive industry set up a partnership called the [Automotive Council](http://www.automotivecouncil.co.uk/), to chart the renaissance of the UK auto sector. This is now seen internationally as the gold standard for government and industry cooperation, and has led to a huge expansion of both car manufacturing and automotive research and development (R&D) in the UK.
 
+Em 2009, o governo do Reino Unido e a indústria automóvel do Reino Unido criaram uma parceria denominada [Automotive Council](http://www.automotivecouncil.co.uk/), para traçar o renascimento do setor automóvel do Reino Unido. Isto é agora visto internacionalmente como a regra de ouro para a cooperação entre governo e indústria, e conduziu a uma enorme expansão do fabrico de automóveis e da investigação e desenvolvimento (I&D) automóvel no Reino Unido.
 
-### Facilitating innovation
+### Facilitar a inovação
 
+A capacidade da I&D automóvel do Reino Unido é demonstrada pelo facto de 7 das 11 equipas de Fórmula Um estarem sediadas no Reino Unido. A Fórmula Um depende da capacidade de as equipas britânicas e dos respetivos 4500 fornecedores de desporto automóvel no Reino Unido desenvolverem soluções imbatíveis.
 
-The capability of UK automotive R&D is demonstrated by the fact that 7 of the 11 Formula One teams have their headquarters in the UK. Formula One depends on the ability of British teams and their 4,500 UK motorsport suppliers to develop world-beating solutions.
+Enquanto a capacidade dos nossos engenheiros para desenvolver soluções revolucionárias nunca tenha sido questionada, a principal mudança nos últimos anos foi o estabelecimento de uma infraestrutura completa para levar os conceitos do laboratório para produção.
 
-
-While the ability of our engineers to develop revolutionary solutions has never been in doubt, the major change over recent years is the establishment of a comprehensive infrastructure to take concepts from laboratory to production.
-
-
-[Innovate UK,](https://www.gov.uk/government/organisations/innovate-uk) the UK innovation agency, supports the development of concepts to prototypes (Technology Readiness Level, or TRL 3 to 5). While the network of manufacturing Catapults helps transforms prototypes to production-ready products (TRL 5 to 8).
+[Innovate UK,](https://www.gov.uk/government/organisations/innovate-uk) a agência de inovação do Reino Unido, apoia o desenvolvimento de conceitos em protótipos (Nível de Desenvolvimento Tecnológico (TRL, Technology Readiness Level) de 3 a 5). Enquanto isso, a rede de catapultas de fabrico ajuda a transformar protótipos em produtos prontos para produção (TRL 5 a 8).
 

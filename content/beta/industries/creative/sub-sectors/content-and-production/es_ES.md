@@ -1,5 +1,5 @@
 ---
-title: Creative content and production
+title: Creación y producción de contenidos creativos
 ---
 
-If you’re in animation, film, TV, visual effects or games, you’ll thrive in our atmosphere of tech-enabled innovation, strong intellectual property protection and tax support.
+Si su mundo es el de la animación, el cine, la televisión, los efectos visuales (VFX) o los videojuegos, podrá prosperar en nuestra atmósfera de innovación tecnológica, sólida protección de la propiedad intelectual y ventajas fiscales.
