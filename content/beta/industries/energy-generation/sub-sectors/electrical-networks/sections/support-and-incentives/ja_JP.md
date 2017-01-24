@@ -1,11 +1,9 @@
 ---
-title: "Incentives for innovation in a transparent market"
+title: 透明な市場におけるイノベーションへのインセンティ
 ---
-Innovate UK, the UK's innovation agency, provides funding support for innovations, which are integrating, low carbon technologies into the energy system.
- 
-The Department for Business, Energy and Industrial Strategy also has an innovation fund for products and services for decarbonising the electricity network. 
 
+英国のイノベーション推進機関であるInnovate UKは、低炭素技術をエネルギー・システムに統合するイノベーションに対する資金提供を行っています。
 
-The government also has up to 50 billion GBP available to support finance and insurance for   supplies from within the UK to buyers outside the UK. This support takes the form of guarantees, insurance and loans issued by its export credit agency, UK Export Finance. 
+ビジネス・エネルギー・産業戦略省も、電力網の脱炭素化を推進する製品・サービスにおけるイノベーションに対する基金を設けています。
 
-
+さらに、政府はまた、英国内で製造された製品を英国外の買い手に販売するに当たり、融資や保険を提供することを目的として最大500億ポンドを用意しています。これは、英国の輸出信用機関であるUK Export Financeによる保証、保険、あるいは融資の形で提供されます。
