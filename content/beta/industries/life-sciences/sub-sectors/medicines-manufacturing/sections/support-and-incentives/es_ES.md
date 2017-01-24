@@ -1,22 +1,20 @@
 ---
-title: "Government support for health and life sciences"
+title: Apoyo gubernamental para las ciencias biológicas y de la salud
 ---
-The UK provides a very attractive tax regime for regional or global manufacturing. Tax incentives make it easier to reinvest in your next generation research and development. We offer:
 
-- low rates of tax, with headline corporation tax rate falling to 17% by 2020
-- innovation incentives (R&D tax relief and Patent Box) which can be utilised by product developers and their R&D, clinical or manufacturing partners
-- one of the most comprehensive global treaty networks
+El Reino Unido ofrece un régimen fiscal muy atractivo para la fabricación regional o internacional. Los incentivos fiscales facilitan la reinversión en investigación y desarrollo para la próxima generación. Ofrecemos:
 
-The combination of low tax rates and Patent Box could deliver an Effective Tax Rate (ETR) of 11% to 13%.
+- Bajas tasas impositivas. El tipo general del impuesto de sociedades bajará al 17 % en 2020.
+- Incentivos a la innovación (desgravaciones fiscales sobre la I+D y la Caja de patentes) que pueden utilizar los desarrolladores de productos y sus socios de I+D, clínicos o de fabricación.
+- Una de las redes de acuerdos más completas del mundo.
 
-### Championing innovation
+La combinación de tasas impositivas bajas y la Caja de Patentes puede generar un tipo impositivo efectivo (ETR) de entre el 11 % y el 13 %. 
+### A la cabeza de la innovación
 
-We offer direct support for innovative manufacturing businesses. Your company can access national innovation infrastructure, with 3 main elements:
+Ofrecemos apoyo directo a las empresas de fabricación innovadoras. Su empresa podrá acceder a la infraestructura de innovación nacional, con tres elementos principales.
 
-- [Research Councils](http://www.rcuk.ac.uk/) champion science, engineering and technology in the UK, including manufacture via centres for innovative manufacturing.
+Los [Research Councils](http://www.rcuk.ac.uk/) champion science, engineering and technology in the UK, including manufacture via centres for innovative manufacturing. están a la cabeza de la ciencia, la ingeniería y la tecnología en el Reino Unido, incluida la fabricación en los centros de innovación.
 
-- [Catapult](https://catapult.org.uk/) is a specialised national network run by Innovate UK. They make world leading technical capability available to businesses and aid process development, prototyping and scale-up. The network includes the High Value Manufacturing Catapult programme and a National Biologics Manufacturing Centre, as well as the Cell and Gene Therapy Catapult with an at-scale manufacturing centre being built in Stevenage
+[Catapult](https://catapult.org.uk/) es una red nacional especializada gestionada por Innovate UK. Ponen una capacidad técnica líder mundial a disposición de las empresas y ayudan en el desarrollo de procesos, la creación de prototipos y el crecimiento. La red incluye el programa High Value Manufacturing Catapult y el National Biologics Manufacturing Centre (Centro nacional de fabricación biológica), además del programa Cell and Gene Therapy Catapult (Catapult para la terapia genética y celular), con la construcción de un centro de fabricación a escala en Stevenage.
 
-- [The Knowledge Transfer Network](http://www.ktn-uk.co.uk/) helps businesses link up with partners in the value and supply chain. 
-
-The government also has up to 50 billion GBP available to support finance and insurance for   supplies from within the UK to buyers outside the UK. This support takes the form of guarantees, insurance and loans issued by its export credit agency, UK Export Finance.
+[La Knowledge Transfer Network](http://www.ktn-uk.co.uk/) (Red de transferencia de conocimiento) ayuda a las empresas a ponerse en contacto con sus socios de la cadena de valor y suministro. 
