@@ -1,18 +1,18 @@
 ---
-title: "Tax relief and incentives for businesses in the UK"
+title: Incentivos fiscales para empresas en el Reino Unido
+
 ---
 
-There are a number of tax relief schemes and incentives for business owners and investors.
+Existen ciertos programas de desgravaciones fiscales e incentivos para propietarios de empresas e inversores.
 
-### Tax relief for investment
+### Desgravaciones fiscales a la inversión 
 
-The UK offers attractive venture capital schemes to help small and medium enterprises expand.
+El Reino Unido ofrece programas atractivos de capital riesgo para ayudar a las pequeñas y medianas empresas a crecer.
  
-The [Enterprise Investment Scheme](https://www.gov.uk/government/publications/the-enterprise-investment-scheme-introduction) and the [Venture Capital Trust](https://www.gov.uk/government/collections/venture-capital-trusts-statistics) offer tax relief for individuals interested in investing in small businesses.
+El [Programa de Inversión Empresarial](https://www.gov.uk/government/publications/the-enterprise-investment-scheme-introduction) y el [Fondo de Capital Riesgo](https://www.gov.uk/government/collections/venture-capital-trusts-statistics) ofrecen desgravaciones fiscales para personas físicas interesadas en invertir en pequeñas empresas.
 
-### Tax incentives for innovation
+### Incentivos fiscales a la innovación
 
-There are generous [incentives for companies investing in research and development in the UK](https://www.gov.uk/guidance/corporation-tax-research-and-development-rd-relief) to promote fast-growing, innovative services and products. 
+Existen generosos incentivos fiscales para las empresas que inviertan en investigación y desarrollo en el Reino Unido para promover productos y servicios innovadores y que crezcan con rapidez. 
 
-[The Patent Box](https://www.gov.uk/guidance/corporation-tax-the-patent-box) offers a 10% corporation tax on profits from inventions patented in the UK (compared to the usual 20% corporation tax).
-
+[La Caja de patentes](https://www.gov.uk/guidance/corporation-tax-the-patent-box) ofrece un impuesto de sociedades de solo el 10 % sobre los beneficios de inventos patentados en el Reino Unido (en comparación con la tasa habitual del 20 %).
