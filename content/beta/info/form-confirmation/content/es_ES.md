@@ -1,10 +1,8 @@
 ---
 title: 
-linkLabel: Please click here to go to the home page
 ---
+La información que nos ha proporcionado nos indica en qué punto se encuentran sus planes de inversión para que podamos ponerle en contacto con la persona adecuada para ayudarle.
 
-Thanks for your enquiry. 
+En breve recibirá un correo electrónico que le indicará que hemos recibido su información. Enviaremos un correo electrónico de seguimiento en un plazo de siete días.
 
-A member of staff at the Department for
-International Trade will review your enquiry.
-
+Esperamos trabajar con usted muy pronto.

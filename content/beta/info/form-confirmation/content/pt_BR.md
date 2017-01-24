@@ -1,10 +1,8 @@
 ---
 title: 
-linkLabel: Please click here to go to the home page
 ---
+As informações que forneceu indicam-nos o ponto em que se encontram os seus planos de investimento para podermos contactar a pessoa certa para lhe prestar um auxílio adicional.
 
-Thanks for your enquiry. 
+Em breve irá receber um e-mail a confirmar que recebemos as suas informações. Pretendemos enviar-lhe um e-mail de seguimento dentro de 7 dias.
 
-A member of staff at the Department for
-International Trade will review your enquiry.
-
+Estamos ansiosos por trabalhar consigo.

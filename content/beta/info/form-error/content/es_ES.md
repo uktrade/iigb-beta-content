@@ -1,7 +1,6 @@
 ---
 title: 
 ---
+Se ha producido un problema al recibir la información que ha enviado. 
 
-There was a problem receiving the information you submitted.
-
-Please, try sending it again. Thank you!
+Intente enviarla de nuevo. Gracias.
