@@ -1,12 +1,9 @@
 ---
-title: "Support and incentives"
+title: "サポート、インセンティブ "
 ---
 
-All these areas have dedicated bodies which assist and promote their local automotive industry.
+これらの全ての地域には、地域の自動車業界を支援･促進する専門機関が設けられています。
 
-In the Midlands, [Drive West Midland](http://www.drivewestmidlands.co.uk/) is a pioneering programme that supports the development of small or medium sized enterprises and coordinates local support services for the automotive sector. 
+ミッドランズでは、中小企業の発展をサポートする[ドライブ･ウェスト･ミッドランズ (Drive West Midlands)](http://www.drivewestmidlands.co.uk/)  というパイオニアリング･プログラムが設けられており、自動車セクターにおけるローカル･サポート･サービスのコーディネートを行っています。 
 
-Further north, there is the [Northern Automotive Alliance](http://northernautoalliance.com/) and the [North East Automotive Alliance](https://www.northeastautomotivealliance.com/) Both organisations provide support to companies setting up in the region, as well as to the industry at large. 
-
-The government also has up to 50 billion GBP available to support finance and insurance for   supplies from within the UK to buyers outside the UK. This support takes the form of guarantees, insurance and loans issued by its export credit agency, UK Export Finance
-
+さらに北部には、 [ノーザン･オートモーティブ･アライアンス (Northern Automotive Alliance)](http://northernautoalliance.com/)] および [North East Automotive Alliance （ノース・イースト・オートモーティブ・アライアンス)](https://www.northeastautomotivealliance.com/) があります。いずれの組織も、各地域で事業を営み始める会社や、自動車業界全体にサポートを提供しています。 

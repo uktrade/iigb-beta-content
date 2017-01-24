@@ -1,6 +1,5 @@
 ---
-title: "Automotive supply chain"
+title: "自動車サプライチェーン"
 ---
 
-As the demand for UK-made vehicles continues to boom, UK automotive production will exceed 2 million cars by 2020. Which means a huge opportunity for businesses involved in all parts of the supply chain.
-
+英国製の自動車の需要が拡大している中、自動車生産台数は2020年までに200万台を超えると予想されています。このことで、サプライチェーンのどの面に参与している事業にとっても、大きなオポチュニティが生まれています。

@@ -1,38 +1,34 @@
 ---
-title: "The demand for UK components"
-published: true
+title: "部品の需要"
 ---
-The UK’s automotive supply chain is currently enjoying a period of unprecedented growth. In 2015, our automotive manufacturers spent 31 billion GPB on components and that sum is growing by 3 billion GBP per year.
+英国で英国製の車が占める割合は、2011年の36%から2015年の41%に増加しており、現在も増加が続いています。英国の自動車メーカーはさらに年間40億ポンド分の自動車部品を英国のサプライヤーから購入することを希望していますが、英国の部品工場は既に生産能力の上限近くで稼働しているため、国内調達は現在必ずしも可能ではありません。このことは、英国で事業を設立する海外の投資家にとって多大な機会となっています。以下の表は、主要な機会を示しています。
 
-The local content of UK-made cars rose from 36% in 2011 to 41% in 2015, and is continuing to increase. UK car manufacturers have identified an additional 4 billion GBP of annual component purchasing they would like to buy from UK suppliers, but are not always able to do so as UK component plants are already running close to or at full capacity. This provides a huge opportunity for overseas investors setting up in the UK.
+#### 主要サプライチェーンの機会
 
-#### Major supply chain opportunities
-
-| Component | Value (GBP million) | Component  | Value (GBP million) |
+| 部品 | 価値 (100万英ポンド) | 部品  | 価値 (100万英ポンド) |
 |---|---:|---|---:|
-| Engine castings | 550 | 12V Lead/Acid Battery | 90 |
-| Steering systems | 330 | Cast aluminium sub-frames | 90 |
-| Trim | 255 | Brakes | 80 |
-| Engine forgings | 255 | Drive shafts | 80 |
-| Pressing and hot stampings | 240 | Fuel tanks | 75 |
-| Seat components | 225 | Engine accesories | 75 |
-| Alloy wheels | 210 | HVAC assembles | 75 |
-| Lighting | 210 | Misc. (mirrors, pedals, etc.) | 60 |
-| Electronics | 170 | Shock absorbers | 60 |
-| Plasting mouldings | 150 | Oil pans | 30 |
-| Entertainment & navigation | 135 | Premium finish | 50 |
-| Bearings | 120 | Weather strips | 50 |
-| Instrument Clusters | 120 | Switchgear | 30 |
-| Glass | 110 | Other | 520 |
-| Hinges | 105 |
+| エンジンキャスティング | 550 | 12ボルト鉛蓄電池 | 90 |
+| ステアリングシステム | 330 | アルミサブフレーム鋳造 | 90 |
+| トリム | 255 | ブレーキ | 80 |
+| エンジン用鍛造部品 | 255 | ドライブシャフト | 80 |
+| プレス、ホットスタンプ | 240 | 燃料タンク | 75 |
+| 座席用部品 | 225 | エンジン付属品 | 75 |
+| アロイホイール | 210 | HVACアセンブリー | 75 |
+| 照明 | 210 | その他(ミラー、ペダルなど) | 60 |
+| 電子部品 | 170 | 緩衝装置 | 60 |
+| プラスチック成形部品 | 150 | オイルパン | 30 |
+| エンターテインメント、ナビ | 135 | プレミアム仕上げ | 50 |
+| ベアリング | 120 | ウェザーストリップ | 50 |
+| 計器クラスタ | 120 | スイッチギア | 30 |
+| ガラス | 110 | その他 | 520 |
+| ヒンジ | 105 | 
 
-### A committed community and a connected network
+ ### コミットメントを持つコミュニティと、コネクトされたネットワーク 
 
-Car manufacturers are looking to streamline their supply chain by reducing transportation and logistics costs. Choosing local suppliers reduces costs and creates major supply chain opportunities in the UK’s already established regional hubs.
+自動車メーカーは、輸送･物流コストを節減してサプライチェーンの合理化を行おうとしています。ローカル･サプライヤを選択すれば、コスト節減が可能になり、英国で既に確立済みの地域ハブで大規模なサプライチェーンの機会が生まれます。
 
-The heart of the UK automotive industry is located in the Midlands with Birmingham at its centre. It’s the home of Jaguar Land Rover and has the largest concentration of automotive component suppliers in the UK. 
+英国の自動車業界の中心地は、バーミンガム周辺のミッドランズ (Midlands) にあります。ミッドランズは、ジャガー･ランドローバーの本拠地であり、英国最大の自動車部品サプライヤーの集中地です。 
 
-There are also major automotive clusters in the North East, including the Nissan factory in Sunderland (the largest single car factory in the UK making 500,000 cars a year) and the North West, home to factories of General Motors (Vauxhall), Jaguar Land Rover and Bentley. 
+また、サンダーランドにある日産の工場 (年間50万台の生産量を持つ英国最大の自動車工場) をはじめとする北東部、ゼネラルモータース (Vauxhall)、ジャガー･ランドローバー、ベントレーの工場のある北西部も、大規模な自動車生産地域になっています。 
 
-There’s also ‘Motorsport Valley®', a globally renowned cluster of automotive expertise. Located in the English Midlands and Oxfordshire, it’s the home of global motorsport. With 4,500 motorsport companies, many of which now supply global car manufacturers and component suppliers with advanced engineering solutions, Motorsport Valley® has a unique ability to help any automotive company gain a competitive edge. 
-
+また、「モータースポーツ･バレイ (Motorsport Valley®)」も自動車の専門知識･技能地域として世界中で名を轟かせています。イングランドのミッドランズとオックスフォードシャーにあるモータースポーツ･バレイは、世界中のモータースポーツ拠点です。グローバルな自動車メーカーに高度なエンジニアリング･ソリューションを供給している会社も数多く含めた4,500社にのぼるモータースポーツ企業を擁するモータースポーツ･バレイでは、自動車会社が競争的優位性を実現するためにお手伝いできます。 
