@@ -1,5 +1,5 @@
 ---
-title: 
+title: "Standortführer"
 ---
 
 Das Department for International Trade richtet einen neuen Service für ausländische Investoren auf der Suche nach Investitionsmöglichkeiten im Vereinigten Königreich ein. Dieser Service soll Anfang 2017 zur Verfügung stehen.

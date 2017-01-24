@@ -1,5 +1,5 @@
 ---
-title: 
+title: "Location Guide"
 ---
 
 The Department for International Trade is developing a new service aimed at overseas investors looking for investment opportunities in the UK. We intend to launch this service early in 2017.

@@ -1,4 +1,0 @@
----
-title: "Guía de ubicaciones"
----
-
