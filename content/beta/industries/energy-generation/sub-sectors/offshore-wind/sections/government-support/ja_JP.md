@@ -1,20 +1,18 @@
 ---
-title: "Government support for offshore wind development"
+title: 洋上風力開発に対する英国政府の支援
 published: true
 ---
 
-The UK government has made a commitment to invest in offshore wind energy for generations to come. The current installed offshore wind capacity of 5.7GW is due to increase to 10 GW by 2020, and then to increase by an estimated 10GW by 2030. 
+英国政府は、次世代にわたり洋上風力エネルギーに投資していくことを約束しています。現在の5.7ギガワットの洋上風力発電容量は、2020年までに10ギガワットに、そして2030年までには更に約10ギガワット増加する予定です。
 
-The UK enjoys a longstanding reputation for operating stable and predictable regimes to support investment in renewable electricity infrastructure. Contracts for difference (CfD) provide stable long-term revenues for offshore wind projects, giving certainty on returns for investors.
- 
-Alongside a supportive policy regime, the UK government supports its offshore wind industry by:
+英国は、再生可能電力インフラへの投資をサポートする安定的で予測可能な制度を実施していることで、長期にわたって評価を得ています。差額決済契約（CfD）により、洋上風力事業への安定した長期的な収益が提供されており、投資家には収益の確実性を与えています。
 
-- providing market confidence and demand visibility (critical for investment by developers and the supply chain)
-- building a competitive supply chain that attracts inward investment
-- offering support to UK-based companies to develop the capability and capacity to bid for, and win, contracts in the UK and overseas
-- supporting innovation that is vital to achieving cost reduction
-- enabling new players to enter the market with new product designs
-- providing support to access funding for developers and the supply chain
-- building a highly skilled workforce
+支援政策・制度に加えて、英国政府は洋上風力産業を以下のように支援しています。
 
-The government also has up to 50 billion GBP available to support finance and insurance for   supplies from within the UK to buyers outside the UK. This support takes the form of guarantees, insurance and loans issued by its export credit agency, UK Export Finance
+- 市場の信頼と需要の可視性を提供（開発業者による投資及びサプライチェーンにとって必要不可欠）
+- 対英投資を惹きつける競争力の高いサプライチェーンを構築
+- 英国に基盤を置く企業に対し、英国や国外における入札や受注の能力、可能性を伸ばすためのサポートを提供
+- 経費削減に欠かせないイノベーションをサポート
+- 新規プレーヤーが新しい製品設計で市場に参入することを可能にする
+- 開発者やサプライチェーンに対する補助金のアクセス支援を提供
+- 高技術者の人材育成
