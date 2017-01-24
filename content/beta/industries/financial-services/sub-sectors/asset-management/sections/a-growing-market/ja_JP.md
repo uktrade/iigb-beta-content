@@ -1,20 +1,17 @@
 ---
-title: "The UK’s open asset management market is growing"
+title: "成長を遂げつつある英国のオープンな資産運用市場 "
 ---
-The UK is one of the most open markets for asset management, and has had 7 successive years of growth. Total funds under management increased to a record 6.9 trillion GBP at the end of 2015.
+英国は最もオープンな資産運用市場の一つであり、7年連続で成長を遂げています。運用中の資金総額は、2015年末時点で6.9兆ポンドという記録的なレベルに達しています。
 
+海外の投資家は、中規模ファンド運用会社の約40%を所有しています。英国Investment Associationによると、英国の運用資産の57%は海外に親会社を持つ資産運用会社により運用されています。[出典：Investment Association]
 
-Overseas investors own about 40% of medium sized fund management firms. Asset managers with overseas parent organisations manage 57% of assets managed in the UK according to the Investment Association.[source: Investment Association]
+英国はファンドの拠点として重要な位置を占め、2014年末時点では、欧州の運用資産のうち約12%が英国籍となっていました。TheCityUKによると、最大の資産保有国は以下の通りです：
 
-
-The UK is an important location for fund domicile; with around 12% of European assets under management domiciled in the UK at the end of 2014. The largest asset holders according to City UK are:
-
-- Luxembourg (27%)
-- Ireland (15%)
-- France (14%)
-- Germany (14%)
+- ルクセンブルク (27%)
+- アイルランド (15%)
+- フランス (14%)
+- ドイツ (14%)
  
-Companies based in the UK are well placed to capture a growing share of business from developing economies, with high potential for growth.
+英国に拠点を置く企業は、大きな成長の可能性を秘め、そして今現在成長中の経済から、ビジネスをますます勝ち取るために有利な立場にいます。
 
-
-Support services in front, middle and back office are state-of-the-art, offering significant cost efficiencies. We also benefit from a central time zone.
+フロントオフィス、ミドルオフィス、バックオフィスのサポートサービスでは、最新技術を取り入れてコスト効率を上げています。また、世界標準時であることも利点です。
