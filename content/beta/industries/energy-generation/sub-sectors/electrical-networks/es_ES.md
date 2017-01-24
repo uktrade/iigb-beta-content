@@ -1,4 +1,5 @@
 ---
-title: "Electrical networks"
+title: Redes eléctricas en el Reino Unido
 ---
-New technologies and innovation are in demand as the UK's electrical networks industry transforms.  This transformation presents a long-term investment opportunity.
+
+Dado que el sector de las redes eléctricas se transforma rápidamente, se necesita innovación y nuevas tecnologías. Hay oportunidades excelentes de inversión a largo plazo.
