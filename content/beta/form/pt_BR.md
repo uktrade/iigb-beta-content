@@ -1,16 +1,15 @@
 ---
-title: "How we help"
-published: true
+title: "Como ajudamos"
 list: 
-  - text: Help you to build connections with businesses across your sector
+  - text: Ajudá-lo a criar ligações com empresas do seu setor
     icon: connections
-  - text: Assist with visa applications and other immigration issues
+  - text: Auxiliar nos pedidos de vistos e outros assuntos de imigração
     icon: immigration
-  - text: Help you find grants and incentives to help your business to grow
+  - text: Ajudá-lo a encontrar concessões e incentivos para ajudar a sua empresa a crescer
     icon: incentives
-  - text: "Advise on hiring staff, from salary benchmarking through recruitment and training"
+  - text: Aconselhar na contratação de funcionários, desde a análise comparativa de salários ao recrutamento e formação
     icon: talent
-  - text: Share insights into specific markets based on your needs
+  - text: Partilhar conhecimentos sobre mercados específicos com base nas suas necessidades
     icon: insight
 submitted: Form submitted
 reference: Your reference number is
@@ -18,6 +17,7 @@ confirmation_email: "We've sent you a confirmation email."
 next_title: What happens next
 next_detail: "We've sent your contact form to the Invest in Great Britain agents. They will be in touch soon."
 ---
-The Department for International Trade helps overseas companies locate and grow in the UK.
+O Departamento do Comércio Internacional ajuda empresas estrangeiras a estabelecerem e a desenvolverem-se no Reino Unido. 
 
-Based in British Embassies, High Commissions and Consulates in cities around the world, our investment services team can:
+Com base em embaixadas, altos comissariados e consulados britânicos em cidades de todo o mundo, a nossa equipa de serviços de investimento pode:
+

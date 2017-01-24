@@ -1,6 +1,5 @@
 ---
 title: "How we help"
-published: true
 list: 
   - text: Help you to build connections with businesses across your sector
     icon: connections
