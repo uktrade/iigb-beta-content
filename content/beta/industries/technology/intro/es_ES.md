@@ -1,5 +1,6 @@
 ---
-title: "Technology in the UK"
+title: Tecnología
+published: true
 ---
 
-The UK offers unrivalled support for the global expansion of your business. It is the most internationally-focused financial marketplace in the world.
+El sector tecnológico del Reino Unido es uno de los mayores de Europa Occidental. Sus productos desempeñan un papel esencial en el resto de sectores industriales, incluidos el de la automoción, el de los servicios financieros, el comercial y el logístico.

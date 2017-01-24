@@ -1,4 +1,5 @@
 ---
-title: "Data analytics in the UK"
+title: Análisis de datos en el Reino Unido
 ---
-With a highly skilled workforce, technology funding opportunities and solid infrastucture, the UK is well placed to thrive in the continuing data revolution
+
+El Reino Unido, con una fuerza laboral altamente capacitada, oportunidades de financiación tecnológica y una sólida infraestructura, está bien posicionado para prosperar en la continua revolución de los datos. 

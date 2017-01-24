@@ -1,17 +1,15 @@
 ---
-title: "Technology overview"
+title: Resumen sobre tecnología
 ---
 
-Our technology sector is larger than the rest of Europe combined; it has been one of the fastest growing sectors in the UK over the last decade.  The technology we produce underpins all sectors from Financial Services, High-Value Manufacturing, Retail, Agriculture.Retail, Agriculture. 
- 
-The UK offers an outstanding environment for global tech companies.  We have:
- 
-- a strong start-up culture bolstered by tesh clusters all over the UK
-- a ranking of third best place in the world in the  [Global Innovation Index in 2016](https://www.globalinnovationindex.org/analysis-indicator)
-- an active venture capital community  - the UK has the highest number of initial public offerings (IPOs) & more tech “unicorns” (a start-up company valued at over $1 billion) created than anywhere else in Europe
-- the largest e-commerce market in Europe
-- 4 of the world’s top 10 universities, plus educational providers that develop our technology workforce
- 
-The UK's technology economy has strengths in electronic systems, communications, data management and analytics, data centres, cloud services, Artificial Intelligence, cyber, semiconductor design and sensors.  
- 
-Tech businesses are at the heart of the UK economy and are playing an important role in driving growth across the country.
+Nuestro sector tecnológico es mayor que el del resto de Europa combinado, y ha sido uno de los sectores que más rápido ha crecido en el Reino Unido durante la última década. La tecnología que producimos abarca todos los sectores, desde los servicios financieros hasta la fabricación de alto nivel, pasando por el comercio o la agricultura.
+
+El Reino Unido es un entorno sobresaliente para las empresas tecnológicas globales:
+
+Ofrece un acceso completo a capacidades y centros de transporte de primer nivel en la cadena de suministro. También disfruta de un entorno que fomenta la creatividad, la innovación y el diseño, respaldado por un amplio apoyo gubernamental. 
+
+Contamos con una larga historia de innovación en el ámbito electrónico y del hardware informático, con empresas a la vanguardia de los campos de tecnología de procesadores, dispositivos de señal mixta, sensores e iluminación. El mercado de la electrónica de consumo en nuestro país es uno de los más desarrollados y dinámicos del mundo. 
+
+El Reino Unido es un centro internacional de tecnologías digitales, con un panorama académico y empresarial líder en el mundo que trabaja en medios, Internet, comunicaciones y ciberseguridad, y un movimiento de datos abiertos cada vez más importante. Somos líderes en la economía digital y contamos con un sector comercial muy innovador, pionero en la aplicación de las últimas tecnologías y modelos de negocio.
+
+La calidad general y la fiabilidad de la infraestructura de la tecnología de la información y la comunicación (TIC) es un factor crítico para las empresas de todos los sectores. Contamos con una de las infraestructuras de TIC más sólidas del mundo

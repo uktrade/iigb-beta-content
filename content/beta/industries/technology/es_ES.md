@@ -1,7 +1,6 @@
 ---
-title: "Technology"
+title: Tecnología
 published: true
 ---
 
-The UK’s technology sector is one of the largest in Western Europe. Its output plays a vital role in every other industrial sector including automotive, financial services, retail and logistics.
-
+El sector tecnológico del Reino Unido es uno de los mayores de Europa Occidental. Sus productos desempeñan un papel esencial en el resto de sectores industriales, incluidos el de la automoción, el de los servicios financieros, el comercial y el logístico.

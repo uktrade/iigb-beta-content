@@ -1,4 +1,4 @@
 ---
-title: "Creative"
+title: "クリエイティブ産業の"
 ---
-From producing big budget movies to developing world-class computer games, creativity is thriving in the UK.
+超大作映画から、世界一流のコンピュータ･ゲーム開発まで、英国ではクリエイティブ産業も盛んです。
