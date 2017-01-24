@@ -59,9 +59,9 @@ back_to_top:
  de_DE: Zurück zum Anfang
  en_US: Back to top
  zh_CN: 回到顶部
- ja_JP: ''
- es_ES: ''
- pt_BR: ''
+ ja_JP: 英国での事業設立
+ es_ES: Guía para el establecimiento
+ pt_BR: Guia para estabelecer
 setup_guide:
  de_DE: Leitfaden Unternehmensgründung
  en_US: UK setup guide
@@ -73,9 +73,9 @@ home:
  de_DE: Startseite
  en_US: Home
  zh_CN: 首页
- ja_JP: ''
- es_ES: ''
- pt_BR: ''
+ ja_JP: トップページ
+ es_ES: Inicio
+ pt_BR: Início
 privacy:
  de_DE: Datenschutz und Cookies
  en_US: Privacy and cookies
@@ -148,13 +148,6 @@ related_industries:
  de_DE: Relevante Branchen
  en_US: Related industries
  zh_CN: Related industries:CN
- ja_JP: ''
- es_ES: ''
- pt_BR: ''
-how_we_help:
- de_DE: So helfen wir Ihnen
- en_US: How we help
- zh_CN: How we help:CN
  ja_JP: ''
  es_ES: ''
  pt_BR: ''
@@ -2848,4 +2841,3 @@ investment_opts_get_updates:
   es_ES: Recibir actualizaciones
   pt_BR: Receba atualizações
 ---
-
