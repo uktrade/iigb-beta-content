@@ -1,12 +1,10 @@
 ---
-title: "A highly skilled workforce and supportive skills sector "
+title: "高度の技能を持った労働人口ならびに訓練教育部門からのサポート
+"
 ---
 
-Our technologies are at the forefront of the environmental sector. This has resulted in a large, highly developed and flexible workforce. 
+環境部門においては技術が最前線にあります。その結果、大規模で高度に発達した、柔軟な労働人口があります。
 
+35万人以上が英国の石油ガス産業で仕事をしています。その数値には、深海底探査・採収のパイオニアにもなっている5万人以上の海底生産の専門家も含まれています。
 
-Over 350,000 people are employed by the oil and gas industry in the UK. That includes over 50,000 experts in subsea production, who have pioneered deep-sea exploration and extraction. 
-
-
-Our education sector is closely aligned with oil and gas. All levels of training are provided, ensuring present and future generations of our workforce are highly skilled. This includes technical and vocational skills  as well as undergraduate and postgraduate studies and research.   
-
+英国の教育部門も石油ガス産業と密接な関係があります。あらゆるレベルの訓練を提供することにより、英国の現在の労働人口も、将来の世代も、高度の技能を持っていることを保証しています。これは技術的スキルや職業スキルに加えて、学士・修士の研究やリサーチを含んでいます。
