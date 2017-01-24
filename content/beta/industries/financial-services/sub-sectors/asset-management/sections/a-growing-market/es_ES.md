@@ -1,20 +1,18 @@
 ---
-title: "The UK’s open asset management market is growing"
+title: El mercado abierto de gestión de activos del Reino Unido está creciendo
 ---
-The UK is one of the most open markets for asset management, and has had 7 successive years of growth. Total funds under management increased to a record 6.9 trillion GBP at the end of 2015.
 
+El Reino Unido es uno de los mercados más abiertos para la gestión de activos y ha estado creciendo durante siete años sucesivos. Los fondos totales que están siendo administrados han aumentado hasta los 6,9 billones de libras a final de 2015.
 
-Overseas investors own about 40% of medium sized fund management firms. Asset managers with overseas parent organisations manage 57% of assets managed in the UK according to the Investment Association.[source: Investment Association]
+Los inversores extranjeros poseen en torno al 40 % de las empresas de administración de fondos de tamaño medio. Los gestores de activos con organizaciones filiales en el extranjero administran el 57 % de los activos gestionados en el Reino Unido, según la Investment Association. [fuente:  Investment Association]
 
+El Reino Unido es una ubicación importante para domiciliar fondos; en torno a un 12 % de los activos europeos gestionados en 2014 están domiciliados en el Reino Unido. Los países de donde proceden la mayoría de activos gestionados, según City UK, son:
 
-The UK is an important location for fund domicile; with around 12% of European assets under management domiciled in the UK at the end of 2014. The largest asset holders according to City UK are:
-
-- Luxembourg (27%)
-- Ireland (15%)
-- France (14%)
-- Germany (14%)
+- Luxemburgo (27 %).
+- Irlanda (15 %).
+- Francia (14 %).
+A- lemania (14 %).
  
-Companies based in the UK are well placed to capture a growing share of business from developing economies, with high potential for growth.
+Las empresas basadas en el Reino Unido están bien posicionadas para capturar una proporción cada vez más grande de los negocios procedentes de las economías en desarrollo, con un alto potencial de crecimiento.
 
-
-Support services in front, middle and back office are state-of-the-art, offering significant cost efficiencies. We also benefit from a central time zone.
+Los servicios de asistencia internos, externos y medios son vanguardistas y ofrecen una eficiencia extraordinaria. Además, disfrutamos de una zona horaria central.
