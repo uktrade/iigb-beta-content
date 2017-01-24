@@ -1,17 +1,15 @@
 ---
-title: "Investment opportunities that promote change"
+title: Oportunidades de inversión que fomentan el cambio
 ---
-You’ll find the UK market an exciting and challenging one, with plenty of opportunities for dynamic, innovative companies.
 
+Encontrará que el mercado del Reino Unido es estimulante y complejo, con multitud de oportunidades para las empresas dinámicas e innovadoras.
 
-We’re tackling climate change by moving towards a low-carbon future. The networks of the future will have to be different to the ones that have served the UK in the past.
+Nos estamos enfrentando al cambio climático avanzando hacia un futuro con bajas emisiones. Las redes del futuro deberán ser diferentes a aquellas con las que hemos contado en el Reino Unido en el pasado.
  
-Increases in electricity demand and the increasing decarbonisation of power generation, are estimated to require 100 billion GBP of capital investment in infrastructure. 
+Se calcula que los aumentos en la demanda de electricidad y la creciente descarbonización de la generación de electricidad requieran una inversión de 100 000 millones de libras de capital en infraestructuras. 
 
-
-The electricity network is evolving to accommodate new types and location of electricity generation. There are 3 transmission network operators (TNO) and 6 distribution network operators (DNO) in their market. The mix of new smart energy products and services and conventional maintenance of existing network integrity makes this an exciting and dynamic market.
+La red eléctrica está evolucionando para dar cabida a nuevos tipos y ubicaciones de generación de electricidad. Existen tres operadores de redes de transmisión (TNO) y seis operadores de redes de distribución (DNO) en su mercado. La mezcla de nuevos productos y servicios de energía inteligente y el mantenimiento convencional de la integridad de la red existente hace que este mercado sea estimulante y dinámico.
  
-The distribution network is most likely to undergo the biggest change in the coming years and the DNOs are seeking new suppliers to increase customer-focused performance benefits. Rising interest in community energy schemes is also creating a new movement in the market for network products and services.
+Es probable que la red de distribución experimente el mayor cambio en los próximos años, y las DNO buscan nuevos proveedores que puedan aumentar los beneficios de rendimiento centrados en el cliente. El aumento del interés en los programas energéticos comunitarios también está creando un nuevo movimiento en el mercado de productos y servicios para redes.
  
-There’s also an increasing requirement for smart technologies. UK customers are early adopters of smart tech-focused energy solutions.
-
+Además, cada vez hay una mayor demanda de tecnologías inteligentes. Los clientes del Reino Unido están entre los primeros en adoptar soluciones energéticas centradas en la tecnología inteligente.
