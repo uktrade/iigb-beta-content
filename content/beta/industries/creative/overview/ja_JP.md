@@ -1,13 +1,11 @@
 ---
-title: "Creative overview"
+title: "クリエイティブ産業の概要"
 ---
 
-Creative business can thrive here, boosted by our creative excellence, technology partnerships and large scale growth opportunities. The UK’s creative industries are growing 3 times faster than the rest of the economy, employing more than 2 million highly skilled workers. 
+豊かな創造性、技術連携、そして飛躍的な成長の機会を兼ね備える英国は、外国企業が成功を収めるのに適した立地であるといえます。英国のクリエイティブ産業は、他の産業分野と比べて3倍のスピードで成長中であり、200万人以上もの優秀な人材がこの産業に従事しています。
 
+クリエイティブ産業の仕事の60%以上は、大卒者が占めています。高度な技能を備えたこれらの人材は、世界に誇る英国の教育制度によって育まれています。
 
-Over 60% of creative sector jobs are held by graduates. These highly skilled workers come from one of the world’s most renowned education systems.
-
-
-We have a global reputation for excellence across the creative spectrum, including film, TV, advertising and adtech, music, fashion and mobile content.
+英国は、映画、テレビ、広告、アドテック、音楽、ファッション、モバイルコンテンツをはじめとしたクリエイティブ産業の各分野において、世界的に高い評価を受けています。
 
 
