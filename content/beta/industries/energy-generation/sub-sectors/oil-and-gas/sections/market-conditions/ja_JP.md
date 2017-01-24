@@ -1,24 +1,29 @@
 ---
-title: "Market conditions"
+title: 市況
 ---
-With over 100 years experience, businesses can be sure that they’re entering a market that’s widely acknowledged as a global leader.
 
-We are well placed to investigate new technologies and innovations. The UK is now focusing on technically challenging methods of extraction and production, including:
+100年以上の歴史があるため、この市場に参入する企業は、それが広くグローバルリーダーとして認められていることを確信できます。
 
-- heavy oil
-- high-pressure, high-temperature extraction
-- enhanced oil recovery
-- special materials for sealing systems
+また、新技術やイノベーションを探るための優位な状況にあります。英国は現在、以下を含む技術的に困難な採収生産方法に注力しています。
 
+- 重質油
+- 高圧・高温採収
+- 石油増進回収法
+- シーリング系統用特殊材料
 
-### Safe development of shale gas
+## シェールガスの安全な開発
+陸上では、英国政府はシェールガスの安全な開発を支持しています。それは雇用の増加、エネルギー供給の安定確保、そして英国経済の非炭素化計画につながるからです。
 
-Onshore, the UK government is backing the safe development of shale gas because it’s good for jobs, energy security and the UK’s plans to decarbonise the economy. 
+Ernst & Young社が2014年に発表した報告によると、シェールへの投資は330億ポンドまで上昇し、6万4000件の雇用口をサポートする可能性があります。
 
-According to a report published by Ernst & Young in 2014, investment in shale could reach £33 billion and support 64,000 jobs.
+英国地質調査所（British Geological Survey）はシェールガスと石油の膨大な埋蔵量があると思われる地域を確定しました。英国の地質は有望ですが、生産量については確証がありません。今後の可能性を確定するためには探査が必要です。
 
-The British Geological Survey has  identified areas with potentially large reserves of shale gas and oil. UK geology is promising, but we make no assumptions about production levels. We need exploration to determine the potential.
- 
-Our current priority is investment in new gas plants with new build, storage and distribution opportunities. Our switch from coal to gas will require storage and distribution network upgrades.
- 
+現在の優先事項は建設、保管、配給の新しい機会がある新規ガスプラントへの投資です。石炭からガスに切り替わると、保管設備および配給網のアップグレードが必要となります。
 
+### 高度の技能を持った労働人口ならびに訓練教育部門からのサポート
+
+環境部門においては技術が最前線にあります。その結果、大規模で高度に発達した、柔軟な労働人口があります。
+
+35万人以上が英国の石油ガス産業で仕事をしています。その数値には、深海底探査・採収のパイオニアにもなっている5万人以上の海底生産の専門家も含まれています。
+
+英国の教育部門も石油ガス産業と密接な関係があります。あらゆるレベルの訓練を提供することにより、英国の現在の労働人口も、将来の世代も、高度の技能を持っていることを保証しています。これは技術的スキルや職業スキルに加えて、学士・修士の研究やリサーチを含んでいます。
