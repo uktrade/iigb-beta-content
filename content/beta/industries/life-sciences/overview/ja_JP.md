@@ -1,19 +1,15 @@
 ---
-title: "Health and Life Sciences overview"
+title: ヘルスケアとライフサイエン
 published: true
 ---
-The UK is the number one destination for health and life sciences foreign direct investment in Europe.
 
-That’s because the fundamentals are strong: a tax structure that rewards innovation, a world class science base and a track record of life sciences excellence. You’ll find the people and facilities to develop your ideas here – from inception to clinical trials. We have a world-renowned research, test bed and delivery partner in our National Health Service (NHS).
+英国は、ヘルスケアとライフサイエンスの分野では、欧州トップの海外直接投資先です。
+これは、イノベーションを奨励する税制、世界一流の科学基盤、ライフサイエンスにおける素晴らしい実績に起因しています。英国には、企業のアイディアを発案段階から治験まで展開できる人材や設備が整っており、国民健康サービス(National Health Service, NHS) は、世界的に高い評価を受けている研究、テストベッド、デリバリーのパートナーとして役立ちます。
+既に5600社にのぼるライフサイエンス企業が英国で活動しており、総売上高600億ポンド、輸出額300億ポンド以上を実現しています。これらの企業はライフサイエンス分野の製品開発、供給、サービスチェーンを網羅し、22万人以上の人々を雇用しています。
+英国は、ライフサイエンスにおけるグローバル・スーパークラスターとなっており、ロンドン、オックスフォード、ケンブリッジの「ゴールデン･トライアングル」から北アイルランドにおよぶまで、専門知識･技能が密集している地域がいくつかあります。
 
-There are already over 5,600 life sciences companies operating in the UK, generating a turnover of over 60 billion GBP and more than 30 billion GBP in exports. These companies span the life sciences product development, supply and services chain, and employ more than 220,000 people.
+### 強力な研究実績
 
-The UK is a global life sciences supercluster with concentrations of expertise from the golden triangle of London, Oxford and Cambridge to Northern Ireland. 
-
-### Strong research credentials
-
-The UK has 4 of the world’s top 10 universities for medical research and far ranging impact in research citations. UK researchers and institutions have been responsible for many of the major scientific breakthroughs enabling biomedical innovation, from the discovery of penicillin and the structure of DNA to advancements in neuroscience and medical imaging, and developments in stem cells and in vitro fertilization. Industry benefits from the opportunity to partner with this pool of research expertise and human capital.
-
-The UK leads Europe in life sciences financing, raising more capital fuel the strongest biomedical pipeline in Europe. Inward investors can also rely on a well-developed and publicly-funded infrastructure for experimental medicine and clinical trials. 
-
-There’s a pragmatic and supportive regulatory regime, and strong government support. The UK has the deep expertise and international leadership of the Medicines & Healthcare products Regulatory Agency and a world regarded health technology assessment body in the National Institute for Health and Care Excellence. With the world’s largest integrated health system, you can also access a world-renowned research, test bed and delivery partner in our National Health Service (NHS).
+医療分野の研究における世界トップ10の大学のうち、4校は英国にあり、学術文献の引用にも優れています。英国の研究者や研究機関は、生物医学のイノベーションをもたらした重要な科学的大発見を達成してきました。ペニシリンやDNA構造の発見、神経科学や医療画像の進歩、幹細胞や体外受精における発展が進んだのも英国です。企業は、このような研究の専門知識と人的資産を活用することができます。
+英国は、ライフサイエンスの資金提供でも欧州をリードし、欧州随一の生物医学開発パイプラインをサポートする資金を調達しています。海外から英国に投資する企業、研究機関は、実験的医療や治験のための、公共資金による発達したインフラも利用することができます。
+規制は実用的かつ協力的であり、政府からの強力なサポートも受けられます。英国医薬品・医療製品規制庁 (Medicines & Healthcare products Regulatory Agency) は細部まで行き届く専門知識･技能を備え、国際的リーダーシップも発揮しており、国立医療技術評価機構 (National Institute for Health and Care Excellence) は世界的に評価の高い医療技術評価機関となっています。英国が誇る世界最大の包括的医療制度、国民健康サービス（NHS）には、世界的に評価の高い研究、テストベッド、そしてデリバリーのパートナーとしてアクセスできます。
