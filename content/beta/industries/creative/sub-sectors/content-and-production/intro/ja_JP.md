@@ -1,5 +1,5 @@
 ---
-title: "Creative content and production in the UK"
+title: "クリエイティブ･コンテンツと制作 "
 ---
 
-If you’re in animation, film, TV, visual effects or games, you’ll thrive in our atmosphere of tech-enabled innovation, strong intellectual property protection and tax support.
+アニメーション、映画、テレビ、ビジュアルエフェクト (VFX)、ゲーム産業に携わっている企業は、テクノロジーを活用したイノベーション、強力な知的財産権保護、税務サポートなどを利用して成功することができます。
