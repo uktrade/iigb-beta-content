@@ -1,5 +1,4 @@
 ---
-title: "Open a UK business bank account "
+title: "英国で法人銀行口座を開く"
 ---
-This allows your business to make and receive payments in the UK without incurring foreign exchange fees. The process can take up to 3 months and you may have to travel to the UK to do so.
-
+英国で銀行口座を開設すると、外為手数料無しで英国内で取引を行うことができるようになります。法的要件ではありませんが、取引の記録をつけることが可能になります。

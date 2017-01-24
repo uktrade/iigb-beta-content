@@ -1,18 +1,15 @@
 ---
-title: "What you need to do"
+title: "手続"
 ---
-Each bank has a slightly different process for opening a business account. In most cases you will need to have:
-- a UK place of business address 
-- a company representative residing in the UK (usually a director or an employee)
- 
-No matter where you intend to locate your business, you should contact the central inward investment banking team, usually located in London.  Do not apply through a local branch, online or a call centre. Tell the bank that you have foreign shareholders and/or directors of your business and that you need a UK business bank account (rather than an international business bank account that's held offshore).
- 
-After you have done this, you can do most of the application process online and over the phone. You’ll need to provide photographic identification and proof of address for all directors and any substantial shareholders.
+法人銀行口座の開設手順は、各銀行によって多少異なりますが、ほとんどの場合には、以下のものが必要になります：
 
+- 英国内事業所の住所
+- 貴社を代表する英国居住者（通常は取締役又は従業員）
 
-The bank will also need to meet at least one representative of your company face-to-face in the UK to sign a bank mandate to open the business bank account. 
+英国のどこに事業所を構える場合でも、当該銀行の最寄りの支店ではなく、本社にお問い合わせください。その際、貴社には外国籍の株主や取締役がいること、（オフショアの国際法人銀行口座ではなく）英国の法人銀行口座が必要である旨を伝えてください。
 
+この後、申し込み手続のほとんどは、オンラインと電話で行えます。取締役及び大株主全員の、写真付身分証明書及び住所証明書類が必要です。
 
-Once your bank account is open, you will be able to use your local bank branch for your day-to-day banking needs.
+また、貴社のひとり以上の代表者が英国内銀行支店にて担当者と面談し、口座開設のための委任状に署名する必要があります。
 
-
+銀行口座が開設されると、日常的な銀行業務は最寄りの支店で行えます。
