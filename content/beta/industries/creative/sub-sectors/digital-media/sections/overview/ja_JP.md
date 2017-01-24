@@ -1,10 +1,10 @@
 ---
-title: "Overview "
+title: "概要 "
 ---
-If you have a great digital product or service you’ll be welcomed here. UK consumers have a huge appetite for new digital services, devices and creative offerings. 
+素晴らしいデジタル製品やサービスを提供する企業を歓迎します。英国の消費者は、新しいデジタルサービス、デバイス、クリエイティブな物を強く求めてています。
 
-Our world-class creative production services and digital technologies are driving a fast growing market of global importance.
+英国の国際レベルのクリエイティブ制作サービスやデジタルテクノロジーは、この世界的に重要な急速成長市場を推進させています。
 
-Technology has transformed the creative scene and the booming digital economy allows businesses to set up easily and expand globally, from London and other UK digital centres.
+エロンドンや国内のその他のデジタル都市から発信されるテクノロジーは、クリエイティブ業界を変容させ、その成長著しいデジタル経済は事業設立や世界展開を容易にさせています。
 
 
