@@ -1,28 +1,27 @@
 ---
-title: "Market conditions"
+title: マーケット状況　
 published: true
 ---
 
-The UK medical technology sector is a thriving ecosystem of researchers, scientists, engineers, designers and NHS clinicians working in an established industrial base. Together they drive the path of a novel technology from innovation, through the process of design and manufacture, and ultimately to the patient.
+英国の医療技術産業は、確立された産業基盤で働く研究者、科学者、エンジニア、デザイナー、NHS（国民健康サービス）医師で構成される非常に活発な部門で、イノベーションから設計や製造プロセス開発、そして最終的には患者に至るまで技術革新の路線を共に歩んでいます。
 
-There are nearly 3,700 companies in the UK’s medical technology sector, generating a turnover of 21 billion GBP. 98% are small to medium-sized enterprises. They produce a vast range of medical devices and diagnostic technologies.
+売上高210億ポンドを誇る英国の医療技術部門の約3700社のうち、98％が中小企業で、医療機器や診断技術を幅広い分野にわたり提供しています。
 
-There is a significant focus on single use technology, orthopaedic devices and in vitro diagnostics. The service and supply chain for medical technologies provides essential support including design, manufacturing and regulatory expertise.
+単回使用、整形外科用医療機器、体外診断に重点が置かれています。医療技術に関するサービスと供給プロセスにより、設計、製造、規制などの各側面で重要なサポートを提供しています。
 
-The fastest growing segments of the UK industry by revenue are: 
+売上高ベースで最も急成長しているセグメントは以下の通りです。
 
-- medical imaging, with a compound annual growth rate (CAGR) of 10%
-- in vitro diagnostics (CAGR 7%)
-- drug delivery (CAGR 7%)
+・画像診断。複合年間成長率（CAGR)は10%
+・体外診断。複合年間成長率は7％
+・ドラッグ・デリバリー（医薬品の患者への送達技術）。複合年間成長率は7％
 
-The fastest growing segments by employment are: 
+雇用面では、最も急成長しているセグメントは以下となります。
 
-- digital health (CAGR 28%)
-- drug delivery (CAGR 23%)
-- single use technology (CAGR 19%).
+・デジタルヘルス。複合年間成長率は28％
+・ドラッグ・デリバリー。複合年間成長率は23%
+・単回使用関連技術。複合年間成長率は19%
 
-The UK is the third largest market for medical technology in Europe, worth around 7.6 billion GBP.
+英国は欧州第3位の医療技術市場で、およそ76億ポンドの市場規模があります。
 
-The National Health Service (NHS) is the largest customer for medical technologies in the UK and serves more than 60 million patients.
-
-The NHS offers industry the opportunity to engage with clinical experts and commissioners who have a deep understanding of patient care pathways. It allows industry to provide an outcomes-focused approach that delivers quality and cost effectiveness. By developing this evidence base in the UK, companies can unlock business in other global markets.
+医療技術産業にとって最大の顧客は、6000万人以上の患者にヘルスケアサービスを提供する英国国民健康サービス（NHS)です。
+NHSは、医療技術関連企業に対し、患者の治療について熟知している臨床専門家や臨床ケア担当者との接点提供しています。成果重視のアプローチを採用し、高品質とコスト効率を実現させることができます。英国で有効性の根拠となる実績を得ることにより、企業は世界の他の市場でも事業展開が可能になります。
