@@ -1,157 +1,157 @@
 ---
 published: true
 ---
+# Términos y condiciones de great.gov.uk
+
+## 1. Uso del sitio web www.great.gov.uk
+
+1.1 El uso del sitio web www.great.gov.uk está sujeto a los siguientes términos de uso (junto con los documentos que se mencionan en ellos).
+ 
+Lea atentamente estos términos antes de usar el sitio web www.great.gov.uk ya que afectan a su experiencia con el mismo.
+ 
+El sitio web www.great.gov.uk está administrado por el Departamento de Comercio Internacional del Reino Unido (DIT).
+ 
+Al acceder al sitio web www.great.gov.uk y utilizarlo, está confirmando en calidad de usuario que acepta nuestros términos de uso (incluida nuestra [política de privacidad y cookies)](https://www.exportingisgreat.gov.uk/privacy-and-cookies/) y que manifiesta su acuerdo en cumplirlos. Si no acepta nuestros términos, debería abandonar el sitio web ahora mismo.
+ 
+En este sitio web, los términos "nosotros" y "nuestro" se refieren al DIT, y los términos "usted", "su" y "suyo" se refieren al usuario.
+
+1.2 Toda la información que figura en este sitio web es precisa y completa en la fecha de su publicación, a nuestro leal saber y entender.  Usted es responsable de la precisión y exhaustividad de cualquier información que publique en el sitio web o nos envíe a nosotros, en virtud de la cláusula 6.2 de los presentes términos de uso.
+ 
+1.3 Estos términos de uso afectan exclusivamente al uso de este sitio web y no abarcan el uso de ningún otro sitio del Gobierno del Reino Unido. Cuando acceda a otros sitios, lea las declaraciones de privacidad y los términos de uso de aquellos que recopilen información personal.
+
+## 2. Política de hipervínculos
+
+2.1 El DIT recomienda a las organizaciones que quieran remitir a los usuarios a sus materiales que lo hagan mediante un hipervínculo, en lugar de mediante la reproducción de textos.
+2.2 Puede enlazar directamente con páginas alojadas en este sitio web de una forma justa, leal y que no perjudique la reputación de DIT ni se aproveche de la misma, siempre que se atenga a las normas sobre el derecho de autor de la corona y del material de terceros que figura en la cláusula 3 (a continuación). El DIT se reserva el derecho a retirar el permiso para publicar enlaces sin previo aviso.
+ 
+Al publicar dichos enlaces, no debe insinuar que su sitio o su organización esté respaldado por el Gobierno del Reino Unido ni por el DIT. El DIT no permite que sus páginas se carguen en marcos de otros sitios web: las páginas deben cargarse en la totalidad de la ventana del usuario.
+2.3 Publicación de hipervínculos por parte del DIT
+El DIT no se responsabiliza del contenido ni de la fiabilidad de los sitios web con los que enlace este sitio. La aparición en www.great.gov.uk no debería considerarse un respaldo de ningún tipo. El DIT no puede garantizar que estos enlaces funcionen en un momento determinado, y el DIT no tiene control sobre la disponibilidad de las páginas enlazadas.
+
+## 3. Derechos de propiedad intelectual y derechos de autor de la corona
+
+3.1 El contenido que aparece en www.great.gov.uk está sujeto a la protección de los derechos de autor de la corona, a no ser que se indique lo contrario. El material sometido a derechos de autor de la corona suele llevar este símbolo: © Crown copyright.
+ 
+3.2 Según los términos de la licencia gubernamental abierta (y en virtud de la cláusula 3.3, que aparece a continuación), puede utilizar y reutilizar el material protegido por los derechos de autor de la corona incluido en www.great.gov.uk de manera gratuita y en cualquier formato o medio. Los nombres HM Government, Department for International Trade, DIT y Exporting is GREAT, los logotipos y "presentaciones" (incluido nuestro emblema) del Gobierno del Reino Unido, el Departamento de Comercio Internacional, DIT y Exporting is GREAT, y todas las imágenes y casos prácticos que aparecen en www.great.gov.uk quedan excluidos de este permiso. Esto implica que no puede reproducirlos.
+ 
+3.3 Si reutiliza algún material protegido por los derechos de autor de la corona procedente de www.great.gov.uk, debe citar la fuente con la siguiente mención:
+ 
+“El Departamento de Comercio Internacional facilita esta información, y su uso está permitido en virtud de la Licencia Gubernamental Abierta v3.0”
+ 
+Para obtener más información, lea el contenido de la [Licencia Gubernamental Abierta](https://www.nationalarchives.gov.uk/doc/open-government-licence). Las consultas sobre la utilización y reutilización de materiales sujetos a los derechos de autor de la corona deben enviarse a [psi@nationalarchives.gsi.gov.uk](mailto:psi@nationalarchives.gsi.gov.uk)
+ 
+3.4 No puede usar ni los nombres HM Government, Department for International Trade (tampoco el acrónimo DIT), Exporting is GREAT, ni ningún logo, emblema o presentación de DIT sin el consentimiento previo por escrito.
+ 
+Si tiene alguna pregunta sobre los derechos de propiedad intelectual o los derechos de autor de la corona, puede enviar un correo electrónico al equipo de la marca de DIT a [brand@trade.gsi.gov.uk](mailto:brand@trade.gsi.gov.uk), con sus datos de contacto e información sobre cómo y por qué desea usar el nombre o los logotipos.
+
+## 4. Material de terceros
+
+4.1 La capacidad de reproducir el material sujeto a los derechos de autor de la corona según las instrucciones de la cláusula 3 que aparece anteriormente no se extiende a ningún material de este sitio web sujeto a derechos de autor de un tercero. Debe obtener autorización para reproducir ese tipo de materiales por parte del propietario de los derechos pertinentes.
+
+## 5. Protección de datos
+
+5.1 Al usar este sitio web acepta que recopilemos sus datos personales según nuestra [política de privacidad y sobre cookies](https://www.exportingisgreat.gov.uk/privacy-and-cookies/).
+ 
+5.2 El DIT procesará cualquier dato personal que facilite de acuerdo con las leyes de protección de datos pertinentes (incluida la Ley de Protección de Datos de 1998, la Directiva Europea sobre comunicaciones electrónicas de 2003 o cualquier legislación que la altere o sustituya sustancialmente). En virtud de estas leyes, el DIT tiene el deber legal de proteger cualquier información sobre usted que obtenga.
+ 
+5.3 El DIT emplea tecnologías líderes y software de cifrado para proteger sus datos, y mantiene estándares de seguridad estrictos para evitar cualquier acceso no autorizado a los mismos.
+ 
+5.4 Nuestra política de privacidad solo afecta a www.great.gov.uk y a www.exportingisGREAT.gov.uk, por lo que siempre debería tenerlo en cuenta al visitar otros sitios y leer la declaración de privacidad de cualquier sitio que recopile información personal.
+ 
+5.5 El sitio web www.great.gov.uk usa "cookies" para distinguirle de otros usuarios. Así, al DIT le resulta más sencillo mejorar los servicios que le ofrece. Si necesita más información sobre las cookies que usa el DIT y los motivos por los que lo hace, consulte nuestra [política de privacidad y cookies](https://www.exportingisgreat.gov.uk/privacy-and-cookies/).
+
+## 6. Acceso al sitio web www.great.gov.uk
+
+6.1 Puede acceder a los servicios de www.great.gov.uk mediante los formularios digitales del sitio web.
+ 
+6.2 Debe comprender que es el único responsable de cualquier tipo de información que envíe al sitio web (ya envíe la información usted mismo o por parte de un tercero).   Debe garantizar que los datos proporcionados sean veraces, precisos, estén actualizados y no sean engañosos o lleven a error. Además, no debe facilitar información discriminatoria, obscena, ofensiva, difamatoria o que de alguna otra manera resulte ilegal, ilícita o infrinja alguna de las leyes, normativas, directrices o códigos de conducta pertinentes en cuanto a los derechos de autor, marcas registradas u otros derechos de propiedad intelectual de cualquier persona y en cualquier jurisdicción.  Si no proporciona información precisa o completa, estará cometiendo una infracción de estos términos de uso.
+ 
+6.3 Accede a informar al DIT o a sus socios de cualquier cambio que se produzca en su información, cuando ocurran dichos cambios o cuando el DIT o sus socios se lo soliciten. Puede informar al DIT por correo electrónico en [exportingisgreat@trade.gsi.gov.uk](mailto:exportingisgreat@trade.gsi.gov.uk).
+ 
+6.4 El DIT tiene el derecho de rechazar cualquier uso actual o futuro de los servicios facilitados en www.great.gov.uk, si facilita información falsa, imprecisa, desactualizada o incompleta, o si el DIT tiene motivos razonables para creer que sea así.
+ 
+6.5 Si envía al DIT la información en formato digital, los datos proporcionados podrían ser verificados de nuevo por el DIT.
+ 
+6.6 Sus datos, incluidos su nombre y dirección de correo electrónico, se almacenarán de manera segura por parte del DIT según su [política de privacidad y cookies](https://www.exportingisgreat.gov.uk/privacy-and-cookies/).
+
+## 7. Disponibilidad del sitio web y protección antivirus
+
+7.1 El DIT podrá, en cualquier momento, a su entera discreción y sin previo aviso, cambiar los servicios prestados, o dejar de prestarlos, en cualquier parte del sitio www.great.gov.uk. El DIT no se responsabilizará ante usted ni ante ningún tercero si, por cualquier motivo, el sitio web estuviese no disponible o el servicio se interrumpiera en cualquier momento o durante cualquier período.
+ 
+7.2 El DIT se esfuerza por comprobar y verificar el material cuyo acceso está disponible en todas las fases de producción. Sin embargo, el DIT no garantiza que el sitio web www.great.gov.uk sea seguro ni esté libre de malware o virus.
+ 
+Siempre debería ejecutar un software antivirus para analizar todos los materiales descargados de Internet, incluido el del sitio web www.great.gov.uk. El DIT no puede aceptar ninguna responsabilidad por las pérdidas, interrupciones o daños a sus datos o sistemas informáticos que puedan producirse durante el uso del material procedente del sitio web www.great.gov.uk.
+ 
+7.3 No debe hacer un mal uso del sitio web www.great.gov.uk introduciendo deliberadamente virus, troyanos, malware, bombas lógicas o materiales similares.
+ 
+No debe intentar obtener acceso no autorizado al sitio web www.great.gov.uk, al servidor donde se almacena el sitio ni a ningún otro servidor, ordenador o base de datos conectada al mismo.
+ 
+No debe atacar nuestro sitio mediante negación de servicio (DoS) ni negación de servicio distribuida (DDoS). Si infringe esta cláusula estaría cometiendo un delito penal según la Ley de Mal Uso Informático británica de 1990. El DIT denunciará este tipo de infracciones a las autoridades pertinentes y cooperará con ellas para comunicarles su identidad. En el caso de que se dé tal infracción su derecho de uso sobre el sitio web se extinguirá inmediatamente.
+
+## 8. Descargo de responsabilidad
+
+8.1 El sitio web debe entenderse exclusivamente como guía informativa y no debería tomarse como sustitutivo de su propia investigación o de una asesoría independiente. El DIT no acepta ninguna responsabilidad sobre las pérdidas o los daños causados a cualquier persona como consecuencia de un error, una omisión o una declaración engañosa sobre este sitio web, o debido al uso de este sitio web o la dependencia de la información que este contiene.
+ 
+8.2 La información del sitio web www.great.gov.uk se mantendrá tan precisa como sea razonablemente posible. Sin embargo, la precisión, integridad o vigencia del contenido del sitio web no está garantizado de ningún modo, ni implícito ni explícito.
+
+## 9. Solicitudes para eliminar contenido
+
+9.1 Puede solicitar que se elimine contenido de www.great.gov.uk. Solo tomaremos esta medida en determinados casos, por ejemplo, si se infringen leyes de propiedad intelectual, si el sitio contiene datos personales confidenciales o materiales que pudieran considerarse obscenos o difamatorios.
+
+9.2 [Póngase en contacto con nosotros](https://www.contactus.trade.gov.uk/enquiry/topic) para solicitarnos que eliminemos contenidos. Tendrá que enviarnos la dirección web (URL) del contenido y explicarnos por qué cree que debería ser eliminado. Le responderemos para comunicarle si lo eliminaremos o no. Eliminamos el contenido a nuestra discreción, tras consultarlo con el departamento o agencia responsable del mismo. Aun sí puede solicitar que le comuniquemos determinada información, en virtud de la Ley de Libertad de Información y la Ley de Protección de Datos.
+
+## 10. Limitación de responsabilidad
+
+10.1 Hasta el límite permitido por la ley, el DIT excluye todas las condiciones, garantías, declaraciones u otros términos que pudieran afectar al sitio web o a cualquiera de sus contenidos, implícitos o explícitos.
 
-## 1. Use of the [www.GREAT.gov.uk](https://www.GREAT.gov.uk) website
+10.2 El sitio web www.great.gov.uk está dirigido a empresas basadas tanto en el Reino Unido como en el extranjero.  Usted accede a usar el sitio web y cualquier servicio que se ofrezca en el mismo exclusivamente con fines empresariales o profesionales, y entiende que al hacerlo está operando en un contexto empresarial o profesional, y no en calidad de consumidor. 
 
-1.1 Use of this website [www.GREAT.gov.uk](https://www.GREAT.gov.uk) is subject to the following terms of use (together with the documents referred to in it).
+ 10.3 El DIT no se responsabilizará ante ningún usuario por pérdidas o daños, ya sea contractual, extracontractual (incluidas las negligencias), incumplimiento del deber o de ningún otro tipo, aunque sean predecibles, relacionadas con o consecuencia de:
+El uso o la incapacidad de usar el sitio web.
+El uso o la dependencia de los contenidos del sitio web.
+El uso por parte de terceros y el contenido del sitio web.
 
-Read these terms of use carefully before you start to use the [www.GREAT.gov.uk](https://www.GREAT.gov.uk) as these will apply to your use of the website.
+En especial, el DIT no se responsabilizará de:
+Las pérdidas de beneficios, ventas, negocios o ingresos.
+La interrupción de actividades empresariales.
+La pérdida de ahorros previstos.
+La pérdida de oportunidades de negocio, reputación o buen nombre.
+Cualquier pérdida o perjuicio indirecto o consecuente.
+ 
+10.4 El DIT no asume ninguna responsabilidad sobre el contenido de los sitios web enlazados al sitio web www.great.gov.uk.
 
-[www.GREAT.gov.uk](https://www.GREAT.gov.uk) refers to:
+10.5 Al utilizar el sitio web www.great.gov.uk, puede encontrar a otras empresas o particulares con los que decida firmar un acuerdo comercial.  Por ejemplo, puede que sea usted un exportador que utilice nuestro sitio web para encontrar un comprador de sus productos.  Reconoce y manifiesta que está de acuerdo con que no aceptamos ninguna responsabilidad sobre los acuerdos comerciales firmados en relación con el uso de nuestros servicios, y que no asumimos ninguna responsabilidad sobre el éxito o fracaso de los mismos.
+ 
+10.6 Ninguno de estos términos de uso excluye ni limita la responsabilidad del DIT sobre la muerte o los daños personales que surjan de su negligencia, fraude o declaración fraudulenta, ni ninguna otra responsabilidad que no pueda excluirse ni limitarse en virtud de la ley inglesa.
 
-- [www.GREAT.gov.uk/export](https://www.GREAT.gov.uk/export)  
-- [www.GREAT.gov.uk/invest](https://www.GREAT.gov.uk/invest)  
-- [www.GREAT.gov.uk/trade](https://www.GREAT.gov.uk/trade) 
+## 11. Libertad de información
+11.1 Al usar el sitio web www.great.gov.uk acepta que la información que guarda DIT esté sometida a las cláusulas de la [Ley de Libertad de Información del 2000](http://www.legislation.gov.uk/ukpga/2000/36/contents) y la [Normativa de Información Medioambiental de 2004](http://www.legislation.gov.uk/uksi/2004/3391/contents/made), que podrían requerir la divulgación de dicha información.
 
-The [www.GREAT.gov.uk](https://www.GREAT.gov.uk) website is managed by the [Department for International Trade](http://www.gov.uk/dit) (DIT).
+## 12. Cuenta del usuario
 
-By entering and using the www.GREAT.gov.uk you as a user are confirming that you accept our terms of use (including our privacy and cookies policy) and you agree to comply with them. If you do not accept these terms of use you should navigate away from this website now.
+12.1 Es posible que tenga la oportunidad de crear una cuenta de usuario para acceder a algunas partes seguras del sitio web www.great.gov.uk.
+12.2 Tomaremos todas las precauciones necesarias para garantizar el almacenamiento seguro de la información de su cuenta, incluido su nombre de usuario y contraseña.
+12.3 Acepta que la seguridad de su cuenta depende también del diseño de su contraseña, y que debería seleccionar una contraseña lo suficientemente larga como para no ser adivinada fácilmente. No comunicará su contraseña ni su nombre de usuario a ninguna otra persona, ni permitirá que ninguna otra persona acceda a su cuenta. 
 
-On this website the terms ‘we’, ‘us’ and ‘our’ refer to the DIT and the terms ‘you’ and ‘your’ refer to you the user.
-
-1.2 All information we place on this website is, to the best of our knowledge, accurate and complete as at the date of publication. You are responsible for the accuracy and completeness of any information you place on the website or submit to us, in accordance with clause 6.2 of these terms of use.
-
-1.3 These terms of use are for the use of this website only and do not cover the use of any other HM Government site. You should always be aware when you are moving to another site and read the privacy statements and terms of use of any site which collects personal information.
-
-## 2. Hyperlinking policy
-
-2.1 DIT encourages organisations wishing to refer people to its material to do so using a hyperlink rather than reproducing the text.
-
-2.2 Subject to observing the rules on Crown Copyright and third party material outlined in clause 3 (below), you can link directly to pages hosted on this website in a way that is fair and legal and does not damage the reputation of DIT or take advantage of it. DIT reserves the right to withdraw linking permission without notice.
-
-In making such links, you must not imply endorsement of your site or your organisation by HM Government or DIT. DIT does not permit its pages to be loaded into frames on your site – the pages must load into the user’s entire window.
-
-2.3 DIT is not responsible for the content or reliability of any websites that this website links to, nor should listing on www.GREAT.gov.uk be taken as an endorsement of any kind. DIT cannot guarantee that these links will work at any time and DIT has no control over the availability of linked pages.
-
-## 3. Intellectual property and Crown copyright
-
-3.1 Content featured on www.GREAT.gov.uk is subject to Crown copyright protection unless otherwise indicated. Crown copyright material usually carries this symbol: © Crown copyright.
-
-3.2 Under the terms of the open government licence (and subject to clause 3.3, below) you may use and reuse the Crown copyright material included on www.GREAT.gov.uk free of charge and in any format or medium. Excluded from this permission are the HM Government, Department for International Trade, DIT and Exporting is GREAT, names, logos and “get-up” (including our coat of arms) and all images and case studies that appear on www.GREAT.gov.uk. This means you must not reproduce them.
-
-3.3 If you do re-use any Crown Copyright material from www.GREAT.gov.uk you must acknowledge the source with the following attribution:
-
-“This information is provided by the Department for International Trade and used as permitted by the Open Government Licence v3.0”
-
-For more information, read the Open Government Licence. Enquiries about use and re-use of Crown copyright material should be sent to [psi@nationalarchives.gsi.gov.uk](mailto:psi@nationalarchives.gsi.gov.uk).
-
-3.4 Neither the names HM Government, Department for International Trade (nor the acronym DIT), Exporting is GREAT, nor any logo, get up and coat of arms used by DIT may be used by you or on your website without our prior written approval.
-
-If you have a question about our intellectual property and Crown copyright, email the DIT brand team at [brand@trade.gsi.gov.uk](mailto:brand@trade.gsi.gov.uk), with your contact details and detailing how and why you wish to use the name or logo(s).
-
-## 4. Third-party material
-
-4.1 The ability for you to reproduce Crown copyright material in accordance with the instructions in clause 3 (above) does not extend to any material on this website that is the copyright of a third party. Authorisation to reproduce such material has to be obtained by you from the copyright holder concerned.
-
-## 5. Data Protection
-
-5.1 By using this website, you acknowledge that we will collect your personal data in accordance with our privacy and cookies policy.
-
-5.2 DIT will process any personal data you provide in accordance with applicable data protection laws (including the Data Protection Act 1998 and the Electronic Communications (EC Directive) Regulations 2003, or any legislation which substantially amends or replaces the same). Under these laws, DIT has a legal duty to protect any information it collects from you.
-
-5.3 DIT uses leading technologies and encryption software to safeguard your data, and keeps strict security standards to prevent any unauthorised access to it.
-
-5.4 Our privacy policy applies only to www.GREAT.gov.uk and www.exportingisGREAT.gov.uk, so you should always be aware when you are moving to another site and read the privacy statement of any site which collects personal information.
-
-5.5 The www.GREAT.gov.uk website uses ‘cookies’ to distinguish you from other users. This helps DIT to improve services for you. For more information on the cookies DIT uses and the purposes for which it uses them see our privacy and cookies policy.
-
-## 6. Accessing the www.GREAT.gov.uk website
-
-6.1 You can access services on www.GREAT.gov.uk using the digital forms on the website.
-
-6.2 You understand that you are solely responsible for any information submitted by you to the website, (whether that information is submitted on behalf of yourself or a third party). You must ensure details supplied are true, accurate, up-to-date and not misleading or likely to mislead or deceive. In addition, you must not supply information that is discriminatory, obscene, offensive, defamatory or otherwise illegal, unlawful or in breach of any applicable legislation, regulations, guidelines or codes of practice or the copyright, trade mark or other intellectual property rights of any person in any jurisdiction. Failure to provide accurate or complete information shall constitute a breach of these terms of use.
-
-6.3 You agree to inform DIT or its partners of any changes to your information, when such changes occur or when requested by DIT or its partners. You can inform DIT by emailing [exportingisgreat@trade.gsi.gov.uk](mailto:exportingisgreat@trade.gsi.gov.uk).
-
-6.4 DIT has the right to refuse any and all current or future use of the service provided on www.GREAT.gov.uk, if you provide, or if DIT has reasonable grounds to suspect that you have provided, any information that is untrue, inaccurate, not current or incomplete.
-
-6.5 If you send the DIT information on a digital form, the details you provide may be further verified by DIT.
-
-6.6 Your details, including your name and email address, will be stored securely by DIT in accordance with its privacy and cookies policy.
-
-## 7. Website availability and virus protection
-
-7.1 At any time, the DIT may, at its sole discretion, change or discontinue providing the services provided on any part of www.GREAT.gov.uk without notice. DIT will not be liable to you or any third party if, for any reason, the website is unavailable or discontinued at any time or for any period.
-
-7.2 DIT makes every effort to check and test material available for access at all stages of production. However, DIT does not guarantee that the www.GREAT.gov.uk website will be secure or free from bugs or viruses.
-
-You should run antivirus software on all material downloaded from the internet, including from the www.GREAT.gov.uk website. DIT cannot accept any responsibility for any loss, disruption or damage to your data or your computer system which may occur whilst using material derived from the www.GREAT.gov.uk website.
-
-7.3 You must not misuse the www.GREAT.gov.uk website by knowingly introducing viruses, trojans, worms, logic bombs or similar material.
-
-You must not attempt to gain unauthorised access to the www.GREAT.gov.uk website, the server on which the website is stored or any server, computer or database connected to our site.
-
-You must not attack our site via a denial-of-service (DoS) attack or a distributed denial-of-service (DDoS) attack. By breaching this provision you would commit a criminal offence under the Computer Misuse Act 1990. DIT will report any such breach to the relevant law enforcement authorities and will co-operate with those authorities by disclosing your identity to them. In the event of such a breach your right to use this website will cease immediately.
-
-## 8. Disclaimer
-
-8.1 The website is provided as an information guide only and should not be relied on as a substitute for your own research or independent advice. DIT accepts no responsibility for any loss or damage caused to any person as result of any error, omission or misleading statement in the information on this website, or due to using this website or relying on that information.
-
-8.2 The information on the www.GREAT.gov.uk website will be kept as accurate as reasonably possible. However, accuracy, completeness or up-to-dateness of the content of the website is not guaranteed in any way, implied or explicit.
-
-## 9. Requests to remove content
-
-9.1 You can ask for content to be removed from www.GREAT.gov.uk. We’ll only do this in certain cases, for example, if it breaches copyright laws, contains sensitive personal data or material that may be considered obscene or defamatory.
-
-9.2 Contact us to ask for content to be removed. You’ll need to send us the web address (URL) of the content and explain why you think it should be removed. We’ll reply to let you know whether we’ll remove it. We remove content at our discretion in discussion with the department or agency responsible for it. You can still request information under the Freedom of Information Act and the Data Protection Act.
-
-## 10. Limitation of liability
-
-10.1 To the extent permitted by law, DIT excludes all conditions, warranties, representations or other terms which may apply to the website or any content on it, whether express or implied.
-
-10.2 The www.GREAT.gov.uk website is targeted at UK and overseas based businesses. You agree to use the website and any services offered over the website for business or professional purposes only, and you understand that in so doing, you are operating in a business or professional context, and not as a consumer.
-
-10.3 DIT will not be liable to any user for any loss or damage, whether in contract, tort (including negligence), breach of statutory duty, or otherwise, even if foreseeable, arising under or in connection with:
-
-use of, or inability to use, the website
-use of or reliance on any content on the website
-third parties’ use of our website and content on the website
-In particular, DIT will not be liable for:
-
-loss of profits, sales, business or revenue
-business interruption
-loss of anticipated savings
-loss of business opportunity, goodwill or reputation
-any indirect or consequential loss or damage
-10.4 DIT assumes no responsibility for the content of websites linked on the www.GREAT.gov.uk website.
-
-10.5 Through using the www.GREAT.gov.uk website, you may find other businesses or individuals with whom you decide to enter into a commercial arrangement. For example, you may be an exporter who uses our website to find a buyer for your goods. You acknowledge and agree that we accept no liability for commercial arrangements entered into in connection with use of our services, and we assume no responsibility for the success or failure of any such arrangements.
-
-10.6 Nothing in these terms of use excludes or limits liability of the DIT for death or personal injury arising from its negligence, fraud or fraudulent misrepresentation, or any other liability that cannot be excluded or limited by English law.
-
-## 11. Freedom of information
-
-11.1 By using the www.GREAT.gov.uk website you accept that any information held by DIT is subject to the provisions of the Freedom of Information Act 2000 and the Environmental Information Regulations 2004 which may require the release of such information.
-
-## 12. User Account
-
-12.1 You may have the opportunity to create a user account to access some secure parts of the www.GREAT.gov.uk website.
-
-12.2 We will take all reasonable precautions to ensure the secure storage of your account information, including your username and password.
-
-12.3 You acknowledge that the security of your account also depends upon the design of your password, and that you should choose a password of sufficient length which cannot be easily guessed. You will not disclose your password or username to any other person, or allow any other person to access your account.
 
 ## 13. General
 
-13.1 You agree to use the www.GREAT.gov.uk website only for lawful purposes. You also agree to use it in a way that does not restrict or inhibit the use and enjoyment of the website by any third party or infringe the rights of any third party. Such restriction or inhibition includes, without limitation, conduct which is unlawful, or which may harass or cause distress or inconvenience to any person, and the transmission of obscene or offensive content or disruption of normal flow of dialogue within the website.
+13.1 Accede a usar el sitio web www.great.gov.uk exclusivamente con fines legítimos. También manifiesta que está de acuerdo a usarlo de un modo que no restrinja ni limite el uso y disfrute del sitio web por parte de ningún tercero ni que vulnere los derechos del mismo. Entre esta restricción o inhibición se incluye, sin limitaciones, la conducta ilegítima o que pueda molestar o resultar inconveniente a cualquier persona, y la transmisión de contenidos obscenos u ofensivos o la interrupción de la comunicación normal dentro del sitio web.
 
-You must not use this website in a way that is reasonably seen to be offensive or damaging to any HM Government body or any third party contributor of material available on the website.
+No debe usar este sitio web de ninguna manera que pueda percibirse razonablemente como ofensiva o perjudicial para ningún organismo del Gobierno del Reino Unido ni ningún tercero que haya contribuido con el material disponible en el sitio web.
 
-13.2 DIT reserves the right to modify, alter or otherwise update these terms of use at any time for any reason and at our sole discretion. Such changes will be made by amending this page. Please check this page occasionally to take notice of any changes DIT has made, as they are binding on you. By visiting or using the website after the posting of a modification, you are treated as having accepted the modification.
+13.2 El DIT se reserva el derecho a modificar, alterar o actualizar estos términos de uso en cualquier momento y por cualquier motivo, a nuestra entera discreción. Dichos cambios se realizarán mediante la variación de esta página. Compruebe el contenido de esta página ocasionalmente para verificar los cambios que haya realizado el DIT, ya que resultan vinculantes para el usuario. Al visitar o usar nuestro sitio web tras haber publicado una modificación, se le tratará como si hubiera aceptado dicha modificación.
+ 
+13.3 Estos términos de uso deben interpretarse y regirse según la legislación de Inglaterra y Gales.
 
-13.3 These terms of use shall be governed by and construed in accordance with the laws of England and Wales. Any dispute arising under these terms of use shall be subject to the exclusive jurisdiction of the courts of England and Wales.
+Cualquier conflicto que surja de estos términos debe estar sujeto a la jurisdicción exclusiva de los tribunales de Inglaterra y Gales.
 
-## 14. Contact the Department for International Trade
+## 14. Contacto con el Departamento de Comercio Internacional
 
-14.1 To submit an enquiry, use the contact form or telephone on +44 (0) 20 7215 5000, Monday to Friday 9am to 5pm).
+14.1 Para enviar una consulta, use el [formulario de contacto](https://www.contactus.trade.gov.uk/enquiry/topic) o envíe un correo electrónico a [exportingisgreat@trade.gsi.gov.uk](exportingisgreat@trade.gsi.gov.uk). También puede llamar por teléfono al 020 7215 5000, de lunes a viernes de 9:00 a 17:00).
+ 
+=====
+
+
+
+
