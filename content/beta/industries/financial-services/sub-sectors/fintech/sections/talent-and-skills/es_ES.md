@@ -1,4 +1,5 @@
 ---
-title: "Nationwide digital talent"
+title: El talento digital se expande por todo el país
 ---
-London is a world leader for financial and entrepreneurial talent and there are clusters of digital excellence across the rest of the UK. Employing about 61,000 people, the UK’s FinTech sector is one of the largest in the world, ahead of that in New York and bigger than the FinTech sectors in Singapore, Hong Kong and Australia combined. 
+
+Londres es un líder mundial en talento financiero y de emprendimiento, y hay centros de excelencia digital en todo el resto del Reino Unido. El sector de la tecnología financiera británico, que emplea a en torno a 61 000 personas, es uno de los mayores del mundo, por delante del de Nueva York y de los de Singapur, Hong Kong y Australia combinados. 
