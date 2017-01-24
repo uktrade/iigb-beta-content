@@ -10,7 +10,7 @@ The market includes a variety of waste streams:
 - commercial and industrial waste from a range of activities
 - construction and demolition waste including waste wood used at biomass facilities
 
-The next generation of waste from energy plants will be powered by experimental technologies that produce biofuels for vehicles from organic or plastic waste.
+The next generation of energy from waste plants will be powered by experimental technologies that produce biofuels for vehicles from organic or plastic waste.
 
 Businesses based in the UK are developing these innovative new sources for biofuels, helping to cement our place as a fantastic base for international operations. 
 

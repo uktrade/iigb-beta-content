@@ -2,27 +2,25 @@
 title: "Market conditions"
 published: true
 ---
+El sector de la tecnología médica del Reino Unido es un próspero ecosistema de investigadores, científicos, ingenieros, diseñadores y facultativos del NHS, que trabajan en una base sectorial consolidada. En conjunto, hacen avanzar las nuevas tecnologías desde el proceso innovador hasta la entrega al paciente, y a través de los procesos de diseño y fabricación.
 
-The UK medical technology sector is a thriving ecosystem of researchers, scientists, engineers, designers and NHS clinicians working in an established industrial base. Together they drive the path of a novel technology from innovation, through the process of design and manufacture, and ultimately to the patient.
+Hay casi 3700 empresas en el sector de la tecnología médica en el Reino Unido, que generan un volumen de ventas de 21 000 millones de libras. El 98 % de las mismas son pequeñas y medianas empresas. Producen un amplísimo abanico de dispositivos médicos y tecnologías de diagnóstico. 
 
-There are nearly 3,700 companies in the UK’s medical technology sector, generating a turnover of 21 billion GBP. 98% are small to medium-sized enterprises. They produce a vast range of medical devices and diagnostic technologies.
+Existe un énfasis significativo en la tecnología de un solo uso, los dispositivos ortopédicos y el diagnóstico in vitro. La cadena de servicio y suministro para las tecnologías médicas facilita un apoyo esencial que incluye conocimientos aplicados al diseño, la fabricación y la regulación.
 
-There is a significant focus on single use technology, orthopaedic devices and in vitro diagnostics. The service and supply chain for medical technologies provides essential support including design, manufacturing and regulatory expertise.
+Los segmentos que más rápido crecen en este sector en el Reino Unido, por volumen de ingresos, son: 
 
-The fastest growing segments of the UK industry by revenue are: 
+- Diagnóstico por imagen, con una tasa de crecimiento anual compuesto (TCAC) del 10 %.
+- - Diagnóstico in vitro (TCAC del 7 %).
+Suministro de fármacos (TCAC del 7 %).
 
-- medical imaging, with a compound annual growth rate (CAGR) of 10%
-- in vitro diagnostics (CAGR 7%)
-- drug delivery (CAGR 7%)
+Los segmentos que más crecen en creación de empleo son: 
 
-The fastest growing segments by employment are: 
+- Salud digital (TCAC del 28 %).
+- Suministro de fármacos (TCAC del 23 %).
+- Tecnología de un solo uso (TCAC 19 %).
 
-- digital health (CAGR 28%)
-- drug delivery (CAGR 23%)
-- single use technology (CAGR 19%).
+El Reino Unido es el tercer mayor mercado de la tecnología médica en Europa, con un valor aproximado de 7600 millones de libras.
+El Servicio Nacional de Salud (NHS) es el mayor cliente del mercado de la tecnología médica en el país y sirve a más de 60 millones de pacientes.
 
-The UK is the third largest market for medical technology in Europe, worth around 7.6 billion GBP.
-
-The National Health Service (NHS) is the largest customer for medical technologies in the UK and serves more than 60 million patients.
-
-The NHS offers industry the opportunity to engage with clinical experts and commissioners who have a deep understanding of patient care pathways. It allows industry to provide an outcomes-focused approach that delivers quality and cost effectiveness. By developing this evidence base in the UK, companies can unlock business in other global markets.
+El NHS ofrece al sector la oportunidad de colaborar con expertos clínicos e inspectores que tienen un profundo conocimiento del entorno de los cuidados al paciente. Así, el sector puede adoptar un enfoque basado en los resultados eficiente y de calidad. Al desarrollar esta base empírica en el Reino Unido, las empresas pueden desbloquear oportunidades de negocio en otros mercados globales.

@@ -1,5 +1,5 @@
 ---
-title: "Pharmaceutical manufacturing"
+title: Fabricación farmacéutica
 published: true
 ---
-The UK is respected globally for its regulation and standards within the medical industry. With a robust compliance and quality assurance culture at every level, around 1,300 companies involved in medicine manufacturing call the UK home.
+El sector cuenta con una regulación sólida, altos estándares y un entorno de fabricación con riesgos bajos. El conocimiento especializado está disperso por todo el país y aporta a las empresas una base de capacidades significativa para prestar sus servicios en un sector que hace un uso intensivo de los conocimientos.
