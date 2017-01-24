@@ -1,11 +1,9 @@
 ---
-title: "The UK’s investment in the future"
+title: La inversión del Reino Unido en el futuro
 ---
 
-The UK currently has more than 30 programmes that provide investment support to accelerate new data analytics companies. The UK’s Open Data Institute has supported more than 28 start-up companies working in open data and analytics.
+El Reino Unido tiene en la actualidad más de 30 programas que facilitan apoyo financiero para acelerar a las nuevas empresas de análisis de datos. El Open Data Institute, una entidad británica, ha dado apoyo a más de 28 startups que trabajan con datos abiertos y análisis de datos.
 
-The sector is seen as vital to the economic health of the nation and this is backed up by substantial investment in the industry. All 7 UK Research Councils have invested in big data analytics projects providing total investment of more than 300 million GBP.  
+El sector se percibe como uno esencial para la salud económica de la nación y esto se ve respaldado por una inversión sustancial en el mismo. Los siete Research Councils del Reino Unido han invertido en proyectos de análisis del Big Data por una cantidad total de más de 300 millones de libras.
 
-An established and thriving market, solid infrastructure and a skilled workforce point to a bright future for the UK’s data analytics sector.
-
-The government also has up to 50 billion GBP available to support finance and insurance for   supplies from within the UK to buyers outside the UK. This support takes the form of guarantees, insurance and loans issued by its export credit agency, UK Export Finance.
+Un mercado consolidado y próspero, una infraestructura sólida y una fuerza laboral capacitada hacen vislumbrar un futuro brillante para el sector del análisis de datos en nuestro país.
