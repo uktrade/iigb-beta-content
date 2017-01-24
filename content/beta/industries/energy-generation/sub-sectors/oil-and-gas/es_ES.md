@@ -1,4 +1,5 @@
 ---
-title: "Oil and gas"
+title: Petróleo y gas en el Reino Unido
 ---
-With over 100 years of onshore exploration, and 50 years in the North Sea, we have unique expertise in exploration and production.
+
+Tenemos una experiencia única en exploración y producción, con más de 100 años de exploración tierra adentro y 50 años en el mar del Norte
