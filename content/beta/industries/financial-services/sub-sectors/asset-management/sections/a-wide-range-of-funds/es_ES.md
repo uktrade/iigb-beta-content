@@ -1,13 +1,13 @@
 ---
-title: "A wide range of fund types and clients"
+title: Un amplio abanico de tipos de fondos y clientes
 ---
-UK fund management organisations manage various types of funds, from life insurance and pension schemes to unit or investment trusts.
 
-Client types include:
+Las organizaciones británicas de administración de fondos gestionan varios tipos de activos, desde seguros de vida o planes de pensiones a fondos de inversión o mutuos.
 
-- institutional, which accounted for 81% of assets managed in the UK in 2015, 41% of which were pension funds
-- retail where the UK managed a total of 1063 billion GBP by end 2014, that's an increase of 32% in 2 years
-- private clients with 705 billion GBP managed the end of 2014
+Entre los tipos de clientes se incluyen:
 
-London is a global centre for private equity and property funds and has an 18% share of the hedge fund market. Since 2005, we have also attracted 16% of global Sovereign Wealth Funds.
+- Los institucionales, que supusieron el 81 % de los activos administrados en el Reino Unido en 2015. El 41 % de los mismos fueron planes de pensiones.
+- Los comerciales, que en el Reino Unido alcanzaron un valor de 1,063 billones de libras a finales de 2014, lo que representó un incremento del 32 % en dos años.
+- Los clientes privados, con 705 000 millones de libras administradas a final de 2014.
 
+Londres es un centro global para los fondos de valores e inmobiliarios, y cuenta con un 18 % del mercado de fondos de cobertura. Desde 2005 hemos atraído también un 16 % de los fondos soberanos globales.
