@@ -1,9 +1,7 @@
 ---
-title: Tecnología financiera en el Reino Unido
+title: La tecnología financiera en el Reino Unido, una oportunidad de crecimiento única en el mundo.
 published: true
 ---
-
-## La tecnología financiera en el Reino Unido, una oportunidad de crecimiento única en el mundo.
 
 Al ser la [región del mundo que más crece en cuestiones de tecnología financiera](https://www.gov.uk/government/publications/uk-fintech-on-the-cutting-edge), los inversores pueden aprovecharse de:
 
