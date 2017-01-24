@@ -1,4 +1,5 @@
 ---
-title: "Energy generation in the UK"
+title: 英国におけるエネルギー生産
 ---
-Whether your company operates with traditional or emerging energy technologies, you’ll find opportunities for growth and high returns here.
+
+英国では、貴社が従来のエネルギー技術、新エネルギー技術に関わっているかに依らず、成長と高い利益の機会が見つかるでしょう。
