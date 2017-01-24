@@ -1,5 +1,5 @@
 ---
-title: "Page not found"
+title: Página no encontrada
 linkLabel: Please click here to go to the home page
 ---
 
