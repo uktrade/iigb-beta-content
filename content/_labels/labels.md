@@ -196,7 +196,7 @@ post_strengths:
 related_industries:
   de_DE: Relevante Branchen
   en_US: Related industries
-  zh_CN: Related industries:CN
+  zh_CN: 相关行业
   ja_JP: ''
   es_ES: ''
   pt_BR: ''
@@ -225,16 +225,16 @@ please_select:
   de_DE: Ja
   en_US: 'Yes'
   zh_CN: 是
-  ja_JP: ''
-  es_ES: ''
-  pt_BR: ''
+  ja_JP: はい
+  es_ES: Si
+  pt_BR: Sim
 'no':
   de_DE: Nein
   en_US: 'No'
   zh_CN: 否
-  ja_JP: ''
-  es_ES: ''
-  pt_BR: ''
+  ja_JP: いいえ
+  es_ES: No
+  pt_BR: Não
 form_next:
   de_DE: Weiter
   en_US: Next
@@ -260,45 +260,45 @@ form_contact_details:
   de_DE: Ihre Kontaktdaten
   en_US: Your contact details
   zh_CN: 您的联系方式
-  ja_JP: ''
-  es_ES: ''
-  pt_BR: ''
+  ja_JP: ご連絡先
+  es_ES: Sus datos de contacto
+  pt_BR: Os seus dados de contacto
 form_contact_details_reason:
   de_DE: Wir benötigen diese um Sie mit Ihrem Ansprechpartner vor Ort in Verbindung
     zu setzen
   en_US: We will use these to put you in touch with your local office
   zh_CN: 我们将会把您的联系方式交给当地的地办事处。
-  ja_JP: ''
-  es_ES: ''
-  pt_BR: ''
+  ja_JP: これらの情報をもとに、貴社の最寄りの事務所をご紹介します
+  es_ES: Los utilizaremos para ponerle en contacto con su oficina local
+  pt_BR: Iremos utilizá-los para o/a colocar em contacto com o escritório local
 form_full_name:
   de_DE: Vollständiger Name
   en_US: Full name
   zh_CN: 您的姓名
-  ja_JP: ''
-  es_ES: ''
-  pt_BR: ''
+  ja_JP: ご氏名
+  es_ES: Nombre completo
+  pt_BR: Nome completo
 form_enter_full_name:
   de_DE: Geben Sie Ihren vollständigen Namen ein
   en_US: Enter your full name
   zh_CN: 请输入您的姓名
-  ja_JP: ''
-  es_ES: ''
-  pt_BR: ''
+  ja_JP: ご氏名を入力してください
+  es_ES: Introduzca su nombre completo
+  pt_BR: Introduza o seu nome completo
 form_email:
   de_DE: Arbeits-E-Mail
   en_US: Work email
   zh_CN: 工作电子邮件
-  ja_JP: ''
-  es_ES: ''
-  pt_BR: ''
+  ja_JP: 勤務先の電子メール
+  es_ES: Dirección de correo electrónico empresarial
+  pt_BR: E-mail - Trabalho
 form_enter_email:
   de_DE: Geben Sie Ihre Emailadresse ein
   en_US: Enter your email address
   zh_CN: 请输入工作电子邮件
-  ja_JP: ''
-  es_ES: ''
-  pt_BR: ''
+  ja_JP: 電子メールアドレスを入力してください
+  es_ES: Introduzca su dirección de correo electrónico
+  pt_BR: Introduza o seu endereço de e-mail
 form_enter_valid_email:
   de_DE: Bitte geben Sie Ihre Email im richtigen Format ein, z.B. name@domain.de
   en_US: Please check you have entered a valid email address
@@ -310,9 +310,9 @@ form_phone:
   de_DE: Arbeits-Telefon (optional)
   en_US: Work phone (optional)
   zh_CN: 工作联系电话(可选填)
-  ja_JP: ''
-  es_ES: ''
-  pt_BR: ''
+  ja_JP: 勤務先の電話番号 (任意)
+  es_ES: Número de teléfono empresarial (opcional)
+  pt_BR: Telefone - Trabalho (opcional)
 form_enter_phone:
   de_DE: Enter your telephone number:DE
   en_US: Enter your telephone number
@@ -322,40 +322,40 @@ form_enter_phone:
   pt_BR: ''
 form_city:
   de_DE: Stadt, in der Sie derzeit wohnen
-  en_US: City where you currently reside (optional)
+  en_US: Closest city to your current business location
   zh_CN: 您目前居住城市
-  ja_JP: ''
-  es_ES: ''
-  pt_BR: ''
+  ja_JP: 現在の事業所の最寄りの都市
+  es_ES: Ciudad más cercana a la ubicación actual de su negocio
+  pt_BR: Cidade mais próxima da localização atual da sua empresa
 form_enter_city:
   de_DE: Geben Sie die Stadt, in der Sie derzeit wohnen, ein (optional)
-  en_US: Enter the city you reside in
+  en_US: Enter the closest city to your current business location (optional)
   zh_CN: 请输入您目前居住城市(可选填)
-  ja_JP: ''
-  es_ES: ''
-  pt_BR: ''
+  ja_JP: 現在の事業所の最寄りの都市を入力してください (任意)
+  es_ES: Introduza a cidade mais próxima da localização atual da sua empresa (opcional)
+  pt_BR: Introduzca la ciudad más cercana a la ubicación actual de su negocio (opcional)
 form_investment:
   de_DE: Ihre Investition
   en_US: Your investment
   zh_CN: 您的投资
-  ja_JP: ''
-  es_ES: ''
-  pt_BR: ''
+  ja_JP: 貴社の投資について
+  es_ES: Su inversión
+  pt_BR: O seu investimento
 form_enter_annual_turnover:
   de_DE: Wählen Sie die Option, die Ihrem Jahresumzsatz am besten entspricht
-  en_US: Select the range that reflects your annual revenue
+  en_US: Select the range that reflects your annual turnover
   zh_CN: 请选择您的公司目前的大概年收入
-  ja_JP: ''
-  es_ES: ''
-  pt_BR: ''
+  ja_JP: 貴社の年間総売上高に相当する範囲を選択してください
+  es_ES: Seleccione el intervalo que refleje su volumen de negocio anual
+  pt_BR: Selecione a opção mais próxima da sua receita anual
 form_annual_turnover:
   label:
     de_DE: Geschätzter derzeitiger Jahresumsatz
     en_US: Estimated current annual revenue
     zh_CN: 公司目前估计的年收入
-    ja_JP: ''
-    es_ES: ''
-    pt_BR: ''
+    ja_JP: 現在の年間売上高 (推定でも構いません)
+    es_ES: Ingresos anuales actuales aproximados
+    pt_BR: Estimativa da atual receita anual
   options:
     '0': Under £100,000
     '1': Between £100,000 and £1 million
@@ -385,41 +385,41 @@ form_annual_turnover:
     - 5,000 万 - 1 亿英镑
     - 超过 1 亿英镑
     ja_JP:
-    - Under £100,000
-    - Between £100,000 and £1 million
-    - Between £1 million and £10 million
-    - Between £10 million and £50 million
-    - Between £50 million and £100 million
-    - More than £100 million
+    - 10万英ポンド未満
+    - 10万英ポンドから100万英ポンド
+    - 100万英ポンドから1,000万英ポンド
+    - 1,000万英ポンドから5,000万英ポンド
+    - 5,000万英ポンドから1億英ポンド
+    - 1億英ポンド以上
     es_ES:
-    - Under £100,000
-    - Between £100,000 and £1 million
-    - Between £1 million and £10 million
-    - Between £10 million and £50 million
-    - Between £50 million and £100 million
-    - More than £100 million
+    - Menos de 100 000 libras
+    - Entre 100 000 y 1 millón de libras
+    - Entre 1 millón y 10 millones de libras
+    - Entre 10 y 50 millones de libras
+    - Entre 50 y 100 millones de libras
+    - Más de 100 millones de libras
     pt_BR:
-    - Under £100,000
-    - Between £100,000 and £1 million
-    - Between £1 million and £10 million
-    - Between £10 million and £50 million
-    - Between £50 million and £100 million
-    - More than £100 million
+    - Inferior a 100 000 £
+    - Entre 100 000 £ e 1 milhão de £
+    - Entre 1 milhão de £ e 10 milhões de £
+    - Entre 10 milhões de £ e 50 milhões de £
+    - Entre 50 milhões de £ e 100 milhões de £
+    - Superior a 100 milhões de £
 form_enter_staff_number:
   de_DE: Wählen Sie die Option, die Ihrer Mitarbeiteranzehl am besten entspricht
   en_US: Select the range that is closest to your number of staff
   zh_CN: 请选择目前工作人员的大概人数
-  ja_JP: ''
-  es_ES: ''
-  pt_BR: ''
+  ja_JP: 貴社の従業員数に最も近い範囲を選択してください
+  es_ES: Seleccione el intervalo que más se aproxime a su número de empleados
+  pt_BR: Selecione a opção mais próxima do seu número de pessoal
 form_staff_number:
   label:
     de_DE: Geschätzte derzeitige Mitarbeiteranzahl
     en_US: Estimated current number of staff
     zh_CN: 目前工作人员估计人数
-    ja_JP: ''
-    es_ES: ''
-    pt_BR: ''
+    ja_JP: 現在の従業員数 (推定でも構いません)
+    es_ES: Número aproximado de personal en la actualidad
+    pt_BR: Estimativa do número de pessoal atual
   options:
     '0': Less than 10
     '1': Between 10 and 50
@@ -441,42 +441,42 @@ form_staff_number:
     - 50 - 250 人
     - 超过 250 人
     ja_JP:
-    - Less than 10
-    - Between 10 and 50
-    - Between 50 and 250
-    - More than 250
+    - 10人未満
+    - 10～50人
+    - 50～250人
+    - 250人を超える
     es_ES:
-    - Less than 10
-    - Between 10 and 50
-    - Between 50 and 250
-    - More than 250
+    - Menos de 10
+    - Entre 10 y 50
+    - Entre 50 y 250
+    - Más de 250
     pt_BR:
-    - Less than 10
-    - Between 10 and 50
-    - Between 50 and 250
-    - More than 250
+    - Menos de 10
+    - Entre 10 e 50
+    - Entre 50 e 250
+    - Mais de 250
 form_location:
   de_DE: Interessieren Sie sich für einen bestimmten Standort in Großbritannien?
   en_US: Are you considering a specific location in the UK?
   zh_CN: 您是否正在考虑在英国的一个特定的位置?
-  ja_JP: ''
-  es_ES: ''
-  pt_BR: ''
+  ja_JP: 英国の特定の場所をご検討中ですか。
+  es_ES: ¿Está pensando en una ubicación concreta en el Reino Unido?
+  pt_BR: Está a considerar um local específico no Reino Unido?
 form_enter_which_part:
   de_DE: Bitte wählen Sie einen Standort aus
   en_US: Select a location
   zh_CN: 请选择您的首选英国位置？
-  ja_JP: ''
-  es_ES: ''
-  pt_BR: ''
+  ja_JP: 場所を選択してください
+  es_ES: Seleccione una ubicación
+  pt_BR: Selecione uma localização
 form_which_part:
   label:
-    de_DE: Wo in Großbritannien?
+    de_DE: Wo ist ihr Hauptstandort?
     en_US: Where is your primary location?
     zh_CN: 您的首选英国位置?
-    ja_JP: ''
-    es_ES: ''
-    pt_BR: ''
+    ja_JP: 本社はどちらですか。
+    es_ES: ¿Dónde se encuentra su sede principal?
+    pt_BR: Qual é a sua localização principal?
   options:
     '0': London and the South East
     '1': Bristol and the South West
@@ -522,53 +522,53 @@ form_which_part:
     - 贝尔法斯特和爱尔兰北部
     - 诺丁汉和东米德兰兹
     ja_JP:
-    - London and the South East
-    - Bristol and the South West
-    - Birmingham and the West Midlands
-    - Manchester and the North West
-    - Newcastle and the North East
-    - Cardiff and Wales
-    - Edinburgh and Southern Scotland
-    - Aberdeen and North Eastern Scotland
-    - Belfast and Northern Ireland
-    - Nottingham and East Midlands
+    - ロンドンおよび北東
+    - ブリストルおよび南西部
+    - バーミンガムおよびウェスト･ミッドランズ
+    - マンチェスターおよび北西部
+    - ニューカッスルおよび北東部
+    - カーディフおよびウェールズ
+    - エディンバラおよびスコットランド南部
+    - アバディーンおよびスコットランド北東部
+    - ベルファストおよび北アイルランド
+    - ノッティンガムおよびイースト･ミッドランズ
     es_ES:
-    - London and the South East
-    - Bristol and the South West
-    - Birmingham and the West Midlands
-    - Manchester and the North West
-    - Newcastle and the North East
-    - Cardiff and Wales
-    - Edinburgh and Southern Scotland
-    - Aberdeen and North Eastern Scotland
-    - Belfast and Northern Ireland
-    - Nottingham and East Midlands
+    - Londres y el Sudeste
+    - Bristol y el Sudoeste
+    - Birmingham y las Midlands del Oeste
+    - Mánchester y el Noroeste
+    - Newcastle y el Noreste
+    - Cardiff y Gales
+    - Edimburgo y el Sur de Escocia
+    - Aberdeen y el Noreste de Escocia
+    - Belfast e Irlanda del Norte
+    - Nottingham y las Midlands del Este
     pt_BR:
-    - London and the South East
-    - Bristol and the South West
-    - Birmingham and the West Midlands
-    - Manchester and the North West
-    - Newcastle and the North East
-    - Cardiff and Wales
-    - Edinburgh and Southern Scotland
-    - Aberdeen and North Eastern Scotland
-    - Belfast and Northern Ireland
-    - Nottingham and East Midlands
+    - Londres e região sudeste
+    - Bristol e região sudoeste
+    - Birmingham e Midlands ocidentais
+    - Manchester e região noroeste
+    - Newcastle e região nordeste
+    - Cardiff e Gales
+    - Edimburgo e sul da Escócia
+    - Aberdeen e nordeste da Escócia
+    - Belfast e Irlanda do Norte
+    - Nottingham e Midlands orientais
 form_enter_when:
   de_DE: Geben Sie ein ungefähres Startdatum für die Aufnahme Ihrer Geschäfte in Großbritannien
     ein
   en_US: Enter the approximate date you want to be operating in the UK
   zh_CN: 请输入您預期在英国的业务运行的日子
-  ja_JP: ''
-  es_ES: ''
-  pt_BR: ''
+  ja_JP: 英国における営業開始をご希望の日付を大まかにご記入ください
+  es_ES: Introduzca la fecha aproximada en la que desea estar operando en el Reino Unido
+  pt_BR: Introduza a data aproximada em que pretende estar a operar no Reino Unido
 form_when:
-  de_DE: Für wann planen Sie die Aufnahme Ihrer Geschäftstätigkeit in Großbritannien?
-  en_US: When do you hope to have your business running in the UK?
+  de_DE: Geben Sie ein ungefähres Startdatum für die Aufnahme Ihrer Geschäfte im Vereinigten Königreich ein?
+  en_US: When do you hope to have your business running in the UK (month/year)
   zh_CN: 您預期在英国的业务运行的日子
-  ja_JP: ''
-  es_ES: ''
-  pt_BR: ''
+  ja_JP: 英国における事業開始をご希望の時期をご記入ください (月／年)
+  es_ES: ¿Cuándo espera tener su negocio operativo en el Reino Unido (mes/año)?
+  pt_BR: Quando espera ter a sua empresa a funcionar no Reino Unido (mês/ano)
 form_when_month:
   label:
     de_DE: Monat
@@ -677,18 +677,17 @@ form_when_year:
     es_ES: ''
     pt_BR: ''
   options:
-    '0': '2016'
-    '1': '2017'
-    '2': '2018'
-    '3': '2019'
-    '4': '2020'
-    '5': '2021'
-    '6': '2022'
-    '7': '2023'
-    '8': '2024'
-    '9': '2025'
+    '0': '2017'
+    '1': '2018'
+    '2': '2019'
+    '3': '2020'
+    '4': '2021'
+    '5': '2022'
+    '6': '2023'
+    '7': '2024'
+    '8': '2025'
+    '9': '2026'
     de_DE:
-    - '2016'
     - '2017'
     - '2018'
     - '2019'
@@ -698,8 +697,8 @@ form_when_year:
     - '2023'
     - '2024'
     - '2025'
+    - '2026'
     en_US:
-    - '2016'
     - '2017'
     - '2018'
     - '2019'
@@ -709,8 +708,8 @@ form_when_year:
     - '2023'
     - '2024'
     - '2025'
+    - '2026'
     zh_CN:
-    - '2016'
     - '2017'
     - '2018'
     - '2019'
@@ -720,8 +719,8 @@ form_when_year:
     - '2023'
     - '2024'
     - '2025'
+    - '2026'
     ja_JP:
-    - '2016'
     - '2017'
     - '2018'
     - '2019'
@@ -731,8 +730,8 @@ form_when_year:
     - '2023'
     - '2024'
     - '2025'
+    - '2026'
     es_ES:
-    - '2016'
     - '2017'
     - '2018'
     - '2019'
@@ -742,8 +741,8 @@ form_when_year:
     - '2023'
     - '2024'
     - '2025'
+    - '2026'
     pt_BR:
-    - '2016'
     - '2017'
     - '2018'
     - '2019'
@@ -753,41 +752,42 @@ form_when_year:
     - '2023'
     - '2024'
     - '2025'
+    - '2026'
 form_company:
   de_DE: Ihr Unternehmen
   en_US: Your company
   zh_CN: 您的公司
-  ja_JP: ''
-  es_ES: ''
-  pt_BR: ''
+  ja_JP: 貴社について
+  es_ES: Su empresa
+  pt_BR: A sua empresa
 form_company_reason:
   de_DE: Helfen Sie uns, Ihren aktuellen Betrieb zu verstehen
   en_US: Help us understand your current operations
   zh_CN: 帮助我们了解您目前的业务
-  ja_JP: ''
-  es_ES: ''
-  pt_BR: ''
+  ja_JP: 貴社の現在の運営について当省が理解するために、ご協力ください
+  es_ES: Ayúdenos a conocer sus operaciones actuales
+  pt_BR: Ajude-nos a compreender as suas operações atuais
 form_registered_company:
   de_DE: Eingetragener Firmenname
   en_US: Registered company name
   zh_CN: 公司注册名称
-  ja_JP: ''
-  es_ES: ''
-  pt_BR: ''
+  ja_JP: 正式登録の社名
+  es_ES: Nombre registrado de la empresa
+  pt_BR: Nome da empresa registado
 form_enter_registered_company:
-  de_DE: Geben Sie Ihren eingetragenen Firmennamen ein
+  de_DE: Geben Sie Ihren eingetragenen Unternehmensnamen ein
   en_US: Enter your registered company name
   zh_CN: 请输入您的公司注册名称
-  ja_JP: ''
-  es_ES: ''
-  pt_BR: ''
+  ja_JP: 正式登録された会社名を入力してください
+  es_ES: Introduzca el nombre registrado de su empresa
+  pt_BR: Introduza o nome registado da sua empresa
 form_website:
   de_DE: Internetadresse Ihres Unternehmens
-  en_US: Company website address
+  en_US: Company website address (optional)
   zh_CN: 公司网站地址
-  ja_JP: ''
-  es_ES: ''
-  pt_BR: ''
+  ja_JP: 貴社のウェブサイト アドレス (任意)
+  es_ES: Dirección del sitio web de la empresa (opcional)
+  pt_BR: Endereço do website da empresa (opcional)
 form_enter_website:
   de_DE: Geben Sie die Webadresse Ihrer Firma ein
   en_US: Enter your company website address
@@ -796,41 +796,48 @@ form_enter_website:
   es_ES: ''
   pt_BR: ''
 form_enter_primary_industry:
-  de_DE: Wählen Sie die Branche aus, in der Sie hauptsächlich tätig sind, aus oder
-    wählen Sie 'Andere Branche'
+  de_DE: Wählen Sie die Branche aus, in der Sie hauptsächlich tätig sind, aus oder wählen Sie "Sonstiges"
   en_US: Select the industry you mainly operate in or select Other
   zh_CN: 请选择您的主要经营行业
-  ja_JP: ''
-  es_ES: ''
-  pt_BR: ''
+  ja_JP: 主要業種をご選択いただくか、または「その他」を選択してください
+  es_ES: Seleccione el sector en el que opera principalmente o seleccione Otros
+  pt_BR: Selecione a indústria em que opera maioritariamente ou selecione Outra
 form_primary_industry:
   label:
-    de_DE: Primäre Branche der Geschäftstätigkeit
+    de_DE: Hauptbranche
     en_US: Primary operating industry
     zh_CN: 主要经营行业
-    ja_JP: ''
-    es_ES: ''
-    pt_BR: ''
+    ja_JP: 主要業種
+    es_ES: Sector principal de operación
+    pt_BR: Indústria principal
   options:
-    '0': Asset management
-    '1': Automotive research and development
-    '2': Automotive supply chain
-    '3': Big data and analytics
-    '4': Creative content and production
-    '5': Digital media
-    '6': Electrical networks
-    '7': Energy from waste
-    '8': Financial services
-    '9': Fintech
-    '10': Medical technology
-    '11': Motorsport
-    '12': Nuclear
-    '13': Offshore wind
-    '14': Oil and gas
-    '15': Pharmaceutical manufacturing
-    '16': Technology
-    '17': Other
+    '0' : Advanced manufacturing
+    '1' : Aerospace
+    '2' : Asset management
+    '3' : Automotive research and development
+    '4' : Automotive supply chain
+    '5' : Big data and analytics
+    '6' : Creative content and production
+    '7' : Digital media
+    '8' : Electrical networks
+    '9' : Energy from waste
+    '10' : Financial services
+    '11' : Fintech
+    '12' : Food and drink manufacturing
+    '13' : Free from
+    '14' : Healthcare
+    '15' : Medical technology
+    '16' : Motorsport
+    '17' : Nuclear
+    '18' : Offshore wind
+    '19' : Oil and gas
+    '20' : Pharmaceutical manufacturing
+    '21' : Retail
+    '22' : Technology
+    '23' : Other
     de_DE:
+    - Fortgeschrittene Fertigungstechnologien
+    - Luftfahrt
     - Vermögensmanagement
     - Automobile Forschung und Entwicklung
     - Automobile Lieferkette
@@ -841,15 +848,21 @@ form_primary_industry:
     - Abfallenergie
     - Finanzdienstleistungen
     - FinTech
+    - Lebensmittel- und Getränkeherstellung
+    - Free-From-Lebensmittel
+    - Gesundheitswesen
     - Medizintechnologie
     - Motorsport
     - Nuklearenergie
     - Offshore-Windenergie
     - Öl und Gas
     - Pharmaproduktion
+    - Einzelhandel
     - Technologie
     - Andere Branche
     en_US:
+    - Advanced manufacturing
+    - Aerospace
     - Asset management
     - Automotive research and development
     - Automotive supply chain
@@ -859,105 +872,133 @@ form_primary_industry:
     - Electrical networks
     - Energy from waste
     - Financial services
-    - Fintech
+    - FinTech
+    - Food and drink manufacturing
+    - Free from
+    - Healthcare
     - Medical technology
     - Motorsport
     - Nuclear
     - Offshore wind
     - Oil and gas
     - Pharmaceutical manufacturing
+    - Retail
     - Technology
     - Other
     zh_CN:
-    - 产管理
-    - 车研发
-    - 车供应链
-    - 数据与分析
-    - 意内容与制作
-    - 字媒体
-    - 力网络
-    - 物能源
-    - 融服务
-    - 融科技
-    - 疗技术
-    - 车运动
+    - 先进制造
+    - 航空航天
+    - 资产管理
+    - 汽车研发
+    - 汽车供应链
+    - 大数据和分析
+    - 创意内容和生产
+    - 数字媒体
+    - 电网
+    - 转废为能
+    - 金融服务
+    - 金融科技
+    - 食品和饮料制造
+    - 不含
+    - 医疗保健
+    - 医疗技术
+    - 赛车
     - 核能
-    - 上风电
-    - 油与天然气
-    - 制药
+    - 近海风能
+    - 石油和天然气
+    - 医药制造
+    - 零售
     - 技术
     - 其他
     ja_JP:
-    - Asset management
-    - Automotive research and development
-    - Automotive supply chain
-    - Big data and analytics
-    - Creative content and production
-    - Digital media
-    - Electrical networks
-    - Energy from waste
-    - Financial services
-    - Fintech
-    - Medical technology
-    - Motorsport
-    - Nuclear
-    - Offshore wind
-    - Oil and gas
-    - Pharmaceutical manufacturing
-    - Technology
-    - Other
+    - 高度製造
+    - 航空･宇宙
+    - 資産運用
+    - 自動車研究開発
+    - 自動車サプライチェーン
+    - ビッグデータ、分析
+    - クリエイティブ･コンテンツ、制作
+    - デジタルメディア
+    - 電力ネットワーク
+    - 廃棄物発電
+    - 金融サービス
+    - フィンテック
+    - 飲食料製造
+    - フリーフロム
+    - 医療
+    - 医療テクノロジー
+    - モータースポーツ
+    - 原子力発電
+    - オフショア風力発電
+    - 石油･ガス
+    - 製薬
+    - リテール
+    - テクノロジー
+    - その他
     es_ES:
-    - Asset management
-    - Automotive research and development
-    - Automotive supply chain
-    - Big data and analytics
-    - Creative content and production
-    - Digital media
-    - Electrical networks
-    - Energy from waste
-    - Financial services
-    - Fintech
-    - Medical technology
-    - Motorsport
-    - Nuclear
-    - Offshore wind
-    - Oil and gas
-    - Pharmaceutical manufacturing
-    - Technology
-    - Other
+    - Fabricación avanzada
+    - Aeroespacial
+    - Administración de activos
+    - Investigación y desarrollo de automoción
+    - Cadena de suministro automovilística
+    - Big Data y análisis
+    - Creación y producción de contenidos creativos
+    - Medios digitales
+    - Redes eléctricas
+    - Producción de energía a partir de residuos
+    - Servicios financieros
+    - FinTech
+    - Fabricación de alimentos y bebidas
+    - Productos hipoalergénicos
+    - Atención sanitaria
+    - Tecnología médica
+    - Deportes de motor
+    - Energía nuclear
+    - Energía eólica marina
+    - Petróleo y gas
+    - Fabricación farmacéutica
+    - Comercio minorista
+    - Tecnología
+    - Otros
     pt_BR:
-    - Asset management
-    - Automotive research and development
-    - Automotive supply chain
-    - Big data and analytics
-    - Creative content and production
-    - Digital media
-    - Electrical networks
-    - Energy from waste
-    - Financial services
-    - Fintech
-    - Medical technology
-    - Motorsport
+    - Fabrico avançado
+    - Aeroespacial
+    - Gestão de ativos
+    - Investigação e desenvolvimento automóvel
+    - Cadeia de fornecimento automóvel
+    - Big Data e análise
+    - Produção e conteúdos criativos
+    - Meios digitais
+    - Redes elétricas
+    - Energia de resíduos
+    - Serviços financeiros
+    - FinTech
+    - Indústria alimentar e de bebidas
+    - Isento de
+    - Cuidados de saúde
+    - Tecnologia médica
+    - Desportos motorizados
     - Nuclear
-    - Offshore wind
-    - Oil and gas
-    - Pharmaceutical manufacturing
-    - Technology
-    - Other
+    - Energia eólica offshore
+    - Petróleo e gás
+    - Fabrico de produtos farmacêuticos
+    - Retalho
+    - Tecnologia
+    - Outra
 form_other:
-  de_DE: Andere Branche
+  de_DE: sonstiges
   en_US: Other
   zh_CN: 其他
-  ja_JP: ''
-  es_ES: ''
-  pt_BR: ''
+  ja_JP: その他
+  es_ES: Otros
+  pt_BR: Outra
 form_enter_other:
   de_DE: Geben Sie Ihre Branche ein
   en_US: Enter your industry
   zh_CN: 请输入您的行业
-  ja_JP: ''
-  es_ES: ''
-  pt_BR: ''
+  ja_JP: 業種を入力してください
+  es_ES: Introduzca su sector
+  pt_BR: Introduza a sua indústria
 form_mailing_list:
   de_DE: Das Department for International Trade und Ihre Partner könnten Ihre Daten
     verwenden um Ihnen relevante Neuigkeiten und Informationen zuzusenden.
@@ -983,27 +1024,27 @@ form_mailing_list_confirmation:
   es_ES: ''
   pt_BR: ''
 form_enter_headquarters:
-  de_DE: Geben Sie das Land Ihres Firmenhauptsitzes ein
+  de_DE: Geben Sie das Land Ihres Unternehmenshauptsitzes ein
   en_US: Enter the country where your company has its headquarters
   zh_CN: 请输入您的公司总部所在国家
-  ja_JP: ''
-  es_ES: ''
-  pt_BR: ''
+  ja_JP: 貴社の本社のある国名を入力してください
+  es_ES: Introduzca el país en el que se encuentre la sede central de su empresa
+  pt_BR: Introduza o país onde a sua empresa está sediada
 form_enter_headquarters_help:
   de_DE: Bitte geben Sie hier Text ein damit Sie eine Auswahl machen können
   en_US: Start typing to select an option
   zh_CN: 开始输入并选择一个选项
-  ja_JP: ''
-  es_ES: ''
-  pt_BR: ''
+  ja_JP: 入力を開始すると、オプションを選択できます
+  es_ES: Empiece a escribir para seleccionar una opción
+  pt_BR: Comece a digitar para selecionar uma opção
 form_headquarters:
   label:
-    de_DE: Land des Firmenhauptsitzes
-    en_US: Headquarters country
+    de_DE: Hauptsitz ihres Unternehmens
+    en_US: Country
     zh_CN: 公司总部所在国家
-    ja_JP: ''
-    es_ES: ''
-    pt_BR: ''
+    ja_JP: 国名
+    es_ES: País
+    pt_BR: País
   options:
     '0': Andorra
     '1': United Arab Emirates
@@ -2755,21 +2796,26 @@ form_headquarters:
     - Zambia
     - Zimbabwe
 form_disclaimer:
-  de_DE: Mit Absenden Ihrer Daten bestätigen Sie, dass die von Ihnen eingegebenen
-    Daten korrekt sind und stimmen unseren
-  en_US: By sending us your details you confirm that the information you've shared
-    with us is true and you accept our
+  de_DE: Mit Absenden Ihrer Daten bestätigen Sie, dass die von Ihnen eingegebenen Daten korrekt sind und stimmen unseren
+  en_US: By sending us your details you confirm that the information you've shared with us is true and you accept our
   zh_CN: 发送您的详细信息以后，代表您同意提供的信息是真实并接受
-  ja_JP: ''
-  es_ES: ''
-  pt_BR: ''
+  ja_JP: 情報をご送付いただくことで、当省にご提出いただいた情報が真実であり、同意していただいたことをご確認いただくことになりますのでご了解ください
+  es_ES: Al enviarnos sus datos, usted confirma que la información que nos proporciona es verídica y acepta nuestros
+  pt_BR: Ao enviar-nos os seus detalhes confirma que as informações que partilhou conosco são verdadeiras e que aceita os nossos
 form_disclaimer_tc:
   de_DE: Nutzungsbedingungen zu.
   en_US: terms and conditions.
   zh_CN: 我们的附带条约。
-  ja_JP: ''
-  es_ES: ''
-  pt_BR: ''
+  ja_JP: 当省の利用規約に。
+  es_ES: términos y condiciones.
+  pt_BR: termos e condições.
+form_validation_error:
+  de_DE: Geben Sie Ihre Email im richtigen Format ein, z.B. name@domain.de
+  en_US: Enter your email in the correct format, for example name@domain.com
+  zh_CN: 請以正确的格式输入您的电子邮件，例如name@domain.com
+  ja_JP: 例えばname@domain.comなど、正しい形式でメールアドレスを入力してください。
+  es_ES: Introduzca su dirección de correo electrónico con un formato correcto, por ejemplo, nombre@dominio.com
+  pt_BR: Introduza o seu e-mail no formato correto, por exemplo nome@domínio.com
 feedback_name:
   de_DE: Vollständiger Name
   en_US: Name
