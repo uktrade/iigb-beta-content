@@ -1,17 +1,15 @@
 ---
-title: "Investment opportunities that promote change"
+title: 変化を促進する投資機会
 ---
-You’ll find the UK market an exciting and challenging one, with plenty of opportunities for dynamic, innovative companies.
 
+英国は、ダイナミックで革新的な発想ができる企業にとってさまざまな機会であふれており、取り組む価値のある魅力的な市場です。
 
-We’re tackling climate change by moving towards a low-carbon future. The networks of the future will have to be different to the ones that have served the UK in the past.
- 
-Increases in electricity demand and the increasing decarbonisation of power generation, are estimated to require 100 billion GBP of capital investment in infrastructure. 
+今後は気候変動に取り組むべく、低炭素社会へと移行しつつあります。未来の電力網は、英国の既存の設備とは異なる姿になるでしょう。
 
+電力需要の増加と発電プロセスにおける脱炭素化の加速により、インフラに対して1,000億ポンドの資本投資が必要になると見込まれています、
 
-The electricity network is evolving to accommodate new types and location of electricity generation. There are 3 transmission network operators (TNO) and 6 distribution network operators (DNO) in their market. The mix of new smart energy products and services and conventional maintenance of existing network integrity makes this an exciting and dynamic market.
- 
-The distribution network is most likely to undergo the biggest change in the coming years and the DNOs are seeking new suppliers to increase customer-focused performance benefits. Rising interest in community energy schemes is also creating a new movement in the market for network products and services.
- 
-There’s also an increasing requirement for smart technologies. UK customers are early adopters of smart tech-focused energy solutions.
+新たな発電方法や発電地が導入されるにつれて、電力網は進化を遂げつつあります。現在、英国市場では送電事業者3社と配電事業者6社が操業しています。既存の電力網をこれまで通り保全するとともに、新エネルギー関連製品・サービスを提供することが要求されており、ダイナミックで面白い市場が生まれています。
 
+今後数年間で、配電網にこれまでになく大きな変化が生じる可能性が高く、配電事業者は顧客中心のパフォーマンス利益を高めるべく新しいサプライヤーを求めています。コミュニティ・エネルギー・スキームへの関心の高まりも、電力網関連製品・サービス市場に新たな動きをもたらしつつあります。
+
+スマート技術への要求も高まっています。英国の顧客は、スマート技術に特化したエネルギー・ソリューションをいち早く取り入れています。
