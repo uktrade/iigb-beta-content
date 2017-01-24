@@ -1,5 +1,6 @@
 ---
-title: "Health and life sciences in the UK"
+title: ヘルスケアとライフサイエンス
 published: true
 ---
-The UK is an attractive place for health and life sciences companies to invest. Currently, there are over 5,600 companies operating in the UK, generating an approximate 60.7 billion GBP.
+
+ヘルスケアとライフサイエンス企業にとって、英国は魅力的な投資先です。英国では既に5,600社にのぼるライフサイエンス企業が事業を行っており、約607億ポンドの総売上高を計上しています。
