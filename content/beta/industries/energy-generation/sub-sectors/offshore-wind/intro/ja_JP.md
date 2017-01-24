@@ -1,4 +1,5 @@
 ---
-title: "Offshore wind in the UK"
+title: 英国における洋上風力エネルギー
 ---
-The UK is home to the largest offshore wind energy portfolio in the world and ranks highly as the best place to invest.
+
+はじめに：英国は、世界最大規模の洋上風力エネルギーのポートフォリオを誇り、投資先として最良の場所であるという高い評価を得ています。
