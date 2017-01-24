@@ -1,9 +1,10 @@
 ---
-title: "Government support for UK oil and gas"
+title: 石油ガス産業への英国政府の支援
 ---
 In 2015, the UK government introduced a £1.3 billion package of tax measures for the oil and gas industry to ensure that the UK Continental Shelf remains an attractive destination for investment. 
 
+英国政府は、英国大陸棚が今後も魅力的な投資先であることを保証するために、2015年に石油ガス産業に向けた総額13億ポンドの税措置を導入しました。
 
-The government also committed 20 million GBP in funding for the second round of seismic surveys to support new exploration activity on the UK Continental Shelf. This will give companies a greater chance of discovering opportunities without having to fund the surveys themselves.
+さらに、英国大陸棚における新規探査活動をサポートするために、英国政府は2度目の地震探査用に2000万ポンドの融資を確約しました。これにより、企業は探査資金を自分で調達しなくても、新たな機会を発見するチャンスが大きくなりました。
 
-The government also has up to 50 billion GBP available to support finance and insurance for   supplies from within the UK to buyers outside the UK. This support takes the form of guarantees, insurance and loans issued by its export credit agency, UK Export Finance. 
+また、英国政府は、英国内のサプライヤーから英国外のバイヤーへの供給の保険や融資をサポートするために500億ポンドを用意しています。このサポートとは、輸出信用機関であるUK Export Financeから発行される保証、保険、そして融資です。
