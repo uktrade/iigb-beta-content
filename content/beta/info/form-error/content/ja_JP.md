@@ -2,6 +2,6 @@
 title: 
 ---
 
-There was a problem receiving the information you submitted.
-
-Please, try sending it again. Thank you!
+フォームが当省のデータベースに登録されませんでした。
+ 
+ご提出いただいた情報の受信に問題がありました。もう一度送信してみてください。ありがとうございます。

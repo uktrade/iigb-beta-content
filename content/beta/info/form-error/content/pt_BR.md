@@ -2,6 +2,6 @@
 title: 
 ---
 
-There was a problem receiving the information you submitted.
+Falha ao enviar o formulário para a nossa base de dados. 
 
-Please, try sending it again. Thank you!
+Ocorreu um problema ao receber as informações que enviou. Por favor, tente novamente. Obrigado.
