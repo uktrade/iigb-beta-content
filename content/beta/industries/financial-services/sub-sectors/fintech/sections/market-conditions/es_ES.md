@@ -24,9 +24,11 @@ Existe un amplio espacio en el mercado para los proveedores consolidados y las t
 ### El estatus y el entusiasmo fomentan la demanda
 
 La demanda de tecnologías financieras en el Reino Unido es fuerte y se ve impulsada por el [estatus de Londres como capital financiera global.](http://www.longfinance.net/global-financial-centres-index-20/1037-gfci-20.html) Esta concentración de la actividad de los servicios financieros supone una gran oportunidad para los proveedores de soluciones tecnológicas financieras, especialmente en los siguientes ámbitos:
-●        Comercio.
-●        Regulación.
-●        Datos.
-●        Cumplimiento.
+
+- Comercio.
+- Regulación.
+- Datos.
+- Cumplimiento.
+
 Los consumidores del Reino Unido están entre los primeros en adoptar nuevos productos, y están abiertos a modelos de servicio nuevos e innovadores. Invierten mucho más en comercio electrónico que sus homólogos de Alemania, Francia y los Estados Unidos. La adopción de la tecnología financiera por parte de los consumidores se está popularizando. El índice de adopción [EY FinTech Adoption Index ](http://www.ey.com/gl/en/industries/financial-services/ey-fintech-adoption-index) determina que en torno al 14 % de los consumidores digitalmente activos se identifican como usuarios de tecnologías financieras, una cifra que en Londres se eleva al 25 %.
 Muchas pequeñas y medianas empresas (pymes) también han adoptado soluciones tecnológicas financieras, principalmente en los campos de las finanzas y los pagos alternativos. 
