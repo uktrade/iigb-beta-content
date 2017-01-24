@@ -1,6 +1,7 @@
 ---
-title: "Page not found"
-linkLabel: Please click here to go to the home page
+title: "ページが見つかりません。"
 ---
 
-Unfortunately the page you were looking for could not be found
+ご自身でURLを入力された場合、タイプミスなどがないか、もう一度ご確認ください。
+
+リンクからこちらに到着した場合、[リンク切れを報告](https://contact-us.export.great.gov.uk/feedback/invest/)してください。

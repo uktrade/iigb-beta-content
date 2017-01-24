@@ -1,4 +1,4 @@
 ---
-title: "Declaração de privacidade e cookies "
+title: "Declaração de privacidade e cookies"
 ---
 

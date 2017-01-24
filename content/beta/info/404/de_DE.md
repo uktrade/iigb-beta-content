@@ -1,7 +1,6 @@
 ---
 title: "Seite nicht gefunden"
 linkLabel: "Zurück zum Investieren in Großbritannien &  Nordirland Homepage."
-published: true
 ---
 
 Wenn Sie eine URL eingegeben haben, überprüfen Sie die korrekte Schreibweise.

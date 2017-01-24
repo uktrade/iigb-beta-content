@@ -1,5 +1,3 @@
-# Declaración de great.gov.uk sobre privacidad y cookies
-
 ## Su información personal
 
 En esta página se explica qué tipo de información personal conserva el [Departamento de Comercio Internacional (DIT)](http://www.gov.uk/dit) sobre usted, cómo la utiliza, cómo la protege o cómo puede usted saber cuál es.

@@ -92,7 +92,7 @@ SW1A 2AH
 
 You’ll get a confirmation that the DIT has received your complaint within 5 days and a full answer within 20 days. The DIT will tell you if there’s going to be a delay.
 
-If you’re unhappy with the answer or need any advice, contact the Information Commissioner’s Office (ICO).
+If you’re unhappy with the answer or need any advice, contact the [Information Commissioner’s Office (ICO)](https://ico.org.uk/concerns/getting/).
 
 The ICO can investigate your complaint and take action against anyone who has misused personal data.
 
