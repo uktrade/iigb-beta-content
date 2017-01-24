@@ -1,12 +1,9 @@
 ---
-title: "A highly skilled workforce and supportive skills sector "
+title: Una fuerza laboral altamente capacitada y el respaldo del sector formativo
 ---
 
-Our technologies are at the forefront of the environmental sector. This has resulted in a large, highly developed and flexible workforce. 
+Nuestras tecnologías se encuentran en la vanguardia del sector medioambiental. Como resultado, la fuerza laboral es amplia, muy desarrollada y flexible. 
 
+Hay más de 350 000 personas trabajando en el sector del petróleo y el gas en el Reino Unido. Entre ellas se incluyen 50 000 expertos en la producción subacuática, que han sido pioneros en la exploración y extracción marítima. 
 
-Over 350,000 people are employed by the oil and gas industry in the UK. That includes over 50,000 experts in subsea production, who have pioneered deep-sea exploration and extraction. 
-
-
-Our education sector is closely aligned with oil and gas. All levels of training are provided, ensuring present and future generations of our workforce are highly skilled. This includes technical and vocational skills  as well as undergraduate and postgraduate studies and research.   
-
+Nuestro sector educativo está estrechamente alineado con el del petróleo y el gas. Ofrecemos formación en todos los niveles, garantizando así que las generaciones actuales y futuras de trabajadores estén altamente cualificados. Entre ella se encuentra la formación técnica y profesional, además de estudios de grado y posgrado e investigación. 
