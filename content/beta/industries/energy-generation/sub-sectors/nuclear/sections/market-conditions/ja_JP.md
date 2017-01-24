@@ -33,7 +33,7 @@ published: true
 
 ### 世界有数の規制制度
 
-英国の原子力プログラムの中核にあるのは、世界有数の独立した規制制度です。英国原子力規制庁 (http://www.onr.org.uk/)および英国環境庁 (https://www.gov.uk/government/organisations/environment-agency)は、英国に建設される新規原子力発電所が高水準の安全性、保安性、環境保護、廃棄物管理を満たすべく連携を図っています。このプロセスは「[包括的設計審査](http://www.onr.org.uk/new-reactors/) (GDA)と呼ばれています。
+英国の原子力プログラムの中核にあるのは、世界有数の独立した規制制度です。[英国原子力規制庁](http://www.onr.org.uk/)および[英国環境庁](https://www.gov.uk/government/organisations/environment-agency)は、英国に建設される新規原子力発電所が高水準の安全性、保安性、環境保護、廃棄物管理を満たすべく連携を図っています。このプロセスは「[包括的設計審査](http://www.onr.org.uk/new-reactors/) (GDA)と呼ばれています。
 
 
 英国内でGDAの承認を獲得した企業は、原子力産業における最も厳格な水準を満たしたとみなされるため、さらなる国際的成長への足がかりを得ることができます。
