@@ -2,6 +2,6 @@
 title: 
 ---
 
-There was a problem receiving the information you submitted.
+ご提出いただいた情報の受信に問題がありました。
 
-Please, try sending it again. Thank you!
+もう一度送信してみてください。ありがとうございます。

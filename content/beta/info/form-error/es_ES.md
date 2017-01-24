@@ -1,3 +1,3 @@
 ---
-title: "Form failed to reach our database"
+title: "El formulario no ha llegado a nuestra base de datos. "
 ---

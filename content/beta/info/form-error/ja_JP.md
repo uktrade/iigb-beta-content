@@ -1,3 +1,3 @@
 ---
-title: "Form failed to reach our database"
+title: "フォームが当省のデータベースに登録されませんでした。"
 ---

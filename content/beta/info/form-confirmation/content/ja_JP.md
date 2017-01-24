@@ -1,10 +1,8 @@
 ---
 title: 
-linkLabel: Please click here to go to the home page
 ---
+ご提供いただいた情報は、貴社の投資計画について当省が理解し、より良くお手伝いするために適切な人材を配属するために役立たせていただきます。
 
-Thanks for your enquiry. 
+ご提出いただいた情報を受領したことを確認するメールが間もなく届きます。7日以内にフォローアップのメールをお送りできるよう努力致します。
 
-A member of staff at the Department for
-International Trade will review your enquiry.
-
+貴社のお役に立てることを楽しみにしております。
