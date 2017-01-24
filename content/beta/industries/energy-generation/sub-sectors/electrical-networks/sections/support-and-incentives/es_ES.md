@@ -1,5 +1,5 @@
 ---
-title: ## Incentivos para la innovación en un mercado transparente
+title: Incentivos para la innovación en un mercado transparente
 ---
 
 Innovate UK, la agencia de innovación del Reino Unido, ofrece apoyo de financiación para las innovaciones que integren las tecnologías de bajas emisiones de carbono en el sistema energético.
