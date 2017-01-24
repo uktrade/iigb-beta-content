@@ -2,39 +2,38 @@
 title: 原子力エネルギーサプライチェーンへの投資機会
 published: true
 ---
-With the positive transformation taking place in our nuclear industry, the prospects for businesses to establish themselves in the UK supply chain are vast. 
+英国の原子力産業にはポジティブな変革が生じつつあり、英国のサプライチェーン内における事業設立には大きな可能性があります。
 
-We have major infrastructure projects that include: 
+インフラ関連の大規模プロジェクトには、以下のようなものがあります。
+- 新規建設
+- 廃止措置
+- 原子力廃棄物管理プログラム
 
-- new build opportunities
-- decommissioning
-- waste management programmes
+原子力産業は、英国内の6発電所において18ギガワット（GW）の発電能力を実現する提案を行っています。こうしたプロジェクトを通じて、CO2排出が大幅に減少するばかりでなく、建設ピーク時に約35,000人の雇用を生み出すことが見込まれます。
 
-The industry has set out proposals to develop 18 gigawatts (GW) of nuclear generating capacity at 6 sites in the UK. These projects could lead to a significant reduction in CO2 emissions and the creation of around 35,000 jobs at the peak of construction. 
+新発電所は以下の地域に建設される予定です。
+- サマセット州ヒンクリー・ポイントC
+- サフォーク州サイズウェル
+- カンブリア州ムーアサイド
+- アングルシー島ウィルファ
+- グロスターシャー州オールドベリー
+- エセックス州ブラッドウェル
 
-We have new build sites in:
+原子力発電所の廃止措置にも機会が存在します。 [英国原子力廃止措置機関](https://www.gov.uk/government/organisations/nuclear-decommissioning-authority) (NDA)は、官民両セクターの核遺産の廃止措置や処分を管轄しています。英国原子力廃止措置機関は現在、廃止措置プロセス中の17施設を管理しており、2125年までに全施設の処理を終了することを目標にしています。
 
-- Hinkley Point C, Somerset
-- Sizewell, Suffolk
-- Moorside, Cumbria
-- Wylfa, Anglesey
-- Oldbury, Gloucestershire
-- Bradwell, Essex
+英国政府による2016/17年度の廃止措置関連予算は32億ポンドです。政府はまた、複雑な技術的課題を効果的に解決するべく毎年9,000万ポンドを研究開発に投資しています。
 
-Decommissioning is another source of opportunity. The [Nuclear Decommissioning Authority](https://www.gov.uk/government/organisations/nuclear-decommissioning-authority) (NDA) is responsible for the decommissioning and cleaning up of our civil public sector nuclear legacy. The agency  currently manage 17 sites through this process. The goal is to achieve the end state for all sites by 2125.
+### 英国政府、小型モジュラー炉の開発を計画
 
-The UK government will spend 3.2 billion GBP on decommissioning in 2016/17. The government have also  invested £90 million every year on research and development to ensure that the complex technical challenges can be conquered effectively. 
+政府は、世界のクリーンエネルギーの将来において重要な役割を果たすことが期待されている次世代[小型モジュラー炉](https://www.gov.uk/government/collections/small-modular-reactors) (SMR)の開発計画を支援しています。
 
-### Government plans for Small Modular Reactor development
+政府はさらに、「[ベスト・バリューなSMR設計を発見するための競争](https://www.gov.uk/government/publications/small-modular-reactors-competition-phase-one)」をはじめ、原子力関連の調査研究に少なくとも2億5,000万ポンドを投資することを公約しています。
 
-The government have backed plans to develop the next generation of [Small Modular Reactors](https://www.gov.uk/government/collections/small-modular-reactors) (SMR), a technology which could play an important role in the world’s clean energy future. 
+英国国立原子力研究所（NNL）によると、グローバルなSMR市場は2035年までに総発電量約65～85GW、金額ベースでは2,500～4,000億ポンドになると推計されており、本アプローチに経済的優位性があることがわかれば、英国内の開発計画に関与する企業に大きな利益がもたらされる可能性があります。
 
-Government have made a further commitment to invest at least £250 million in nuclear research and development. This includes a [competition to find the best value SMR designs.](https://www.gov.uk/government/publications/small-modular-reactors-competition-phase-one)
+### 世界有数の規制制度
 
-According to the National Nuclear Laboratory, the global SMR market iit's estimated that the global SMR market will be approximately 65-85GW by 2035 and valued at 250 to 400 billion GBP. If the economics of this approach prove competitive, there could be significant advantages for businesses involved in the UK’s development programme.
+英国の原子力プログラムの中核にあるのは、世界有数の独立した規制制度です。英国原子力規制庁 (http://www.onr.org.uk/)および英国環境庁 (https://www.gov.uk/government/organisations/environment-agency)は、英国に建設される新規原子力発電所が高水準の安全性、保安性、環境保護、廃棄物管理を満たすべく連携を図っています。このプロセスは「[包括的設計審査](http://www.onr.org.uk/new-reactors/) (GDA)と呼ばれています。
 
-### A world class regulatory system
 
-At the heart of our nuclear programme is a world-class independent regulatory system. The[ Office for Nuclear Regulation](http://www.onr.org.uk/) and the [Environment Agency ](https://www.gov.uk/government/organisations/environment-agency)work together to make sure that any new nuclear power stations built here meet high standards of safety, security, environmental protection and waste management. This process is called the [Generic Design Assessment](http://www.onr.org.uk/new-reactors/) (GDA).
-
-Businesses that achieve GDA approval in the UK are recognised as meeting the most rigorous standards in the nuclear industry, providing them with a stepping-stone for further international growth.
+英国内でGDAの承認を獲得した企業は、原子力産業における最も厳格な水準を満たしたとみなされるため、さらなる国際的成長への足がかりを得ることができます。
