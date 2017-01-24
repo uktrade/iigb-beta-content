@@ -1,9 +1,10 @@
 ---
-title: "An environment for growth"
+title: "成長を可能にする環境"
 published: true
 ---
-The UK is home to the world’s biggest online spenders. We're a nation of established internet users and early adopters, with over 64% of households having 3 or more internet enabled devices. By 2017, 95% of UK homes and businesses will have access to superfast broadband. Current coverage is already higher than France, Germany, Italy and Spain. 
+英国の消費者は、世界多く投じて最大のオンライン消費国です。64％以上の世帯がインターネットへの接続が可能なデバイスを3台以上持ち、インターネット利用がが定着しています。このように英国の人々はを好みます。2017年までには、95％の家庭と企業が超高速ブロードバンドにアクセスできるようになります。現時点で既に普及率はフランス、ドイツ、イタリア、スペインより高くなっています。
 
-The sector saw Gross Value Added (GVA) of all digital tech in the UK grow by 27% between 2010 and 2014, with GVA for 2014 reaching 87 billion GBP.
+このセクターでは、英国における全デジタルテクノロジーの粗付加価値（GVA）が2010年から2014年にかけて27％成長し、2014年のGVAは870億ポンドでした。
 
-A 2015 World Economic Forum report cites the UK as one of the best environments in the world for informations and communications technology (ICT) development. 
+2015年の世界経済フォーラムによるとにおいて、英国はICT開発にとって世界で最良の環境の一つであるとされました。
+
