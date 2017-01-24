@@ -1,5 +1,5 @@
 ---
-title: ## Nuestro talento y capacidades
+title: Nuestro talento y capacidades
 ---
 El sector da empleo a casi 115 000 personas, y el Reino Unido cuenta con el mayor número de ingenieros e investigadores capacitados de Europa.
 
