@@ -1,13 +1,10 @@
 ---
-title: "UK government support for automotive R&D"
+title: "自動車関連R&Dを支援する英国政府 "
 ---
-The UK government is absolutely committed to the continued success of the UK car industry by providing over 1.2 billion GBP to automotive research funds. These cover low-carbon propulsion, lightweight materials and connected and autonomous vehicles.
+英国政府は自動車関連の研究開発基金として12億ポンド以上を拠出して、英国の自動車産業が引き続き成功を収めるべく強力に取り組んでいます。これらの資金は、低炭素化の推進、軽量素材および、コネクテッドカー＆自動運転車などを対象としています。
 
-We’re also creating the right environment for new technology to thrive. Our regulatory framework for connected and autonomous vehicles is the most progressive in Europe. This enables car manufacturers and major component suppliers to develop and test their technology with the minimum of bureaucracy. Already, Volvo has committed to the UK as the only ‘neutral’ testing venue outside its own factory locations. 
+英国はまた、新テクノロジーの成功を促進する環境作りに取り組んでいます。英国のコネクテッドカー＆自動運転車に関する規制枠組はヨーロッパの最先端を行くものです。これにより、自動車メーカーや主要部品サプライヤーは、煩雑な行政手続きを最小限に抑えつつ、テクノロジーの開発やテストを行うことができます。ボルボ社はすでに、自社工場の敷地外では唯一の「中立的な」テスト地であるとして英国を活用しています。
 
-### A supportive business environment, focused on the future
+### 将来を見据えた協力的なビジネス環境
 
-The UK benefits from a supportive business environment, offering the most competitive and flexible labour market in western Europe. Workers in the UK car industry add more value per car than anywhere else in Europe. 
-
-The government also has up to 50 billion GBP available to support finance and insurance for   supplies from within the UK to buyers outside the UK. This support takes the form of guarantees, insurance and loans issued by its export credit agency, UK Export Finance
-
+英国は協力的なビジネス環境による恩恵を受けており、西ヨーロッパで最も競争力のある、柔軟な労働市場を誇っています。英国の自動車産業における労働者は、ヨーロッパの他のどの国よりも高い一台当たり付加価値を生み出しています。
