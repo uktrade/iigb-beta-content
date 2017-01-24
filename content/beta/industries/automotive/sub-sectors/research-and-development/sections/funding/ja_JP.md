@@ -1,24 +1,24 @@
 ---
-title: "Funding for automotive research and development in the UK"
+title: "英国における自動車産業のR&Dに対する資金提供 "
 published: true
 ---
-### Low carbon propulsion
+### 低炭素化の推進
 
-The UK is already a global powertrain centre, manufacturing over 2.5 million petrol and diesel engines a year. We’re now leading the move into electrified powertrains, with battery electric vehicles or hydrogen fuel cells. The UK government and the UK car industry has agreed to jointly invest an unprecedented 1 billion GBP over 10 years developing low carbon propulsion systems. This is administered via the [Advanced Propulsion Centre (APC).](http://www.apcuk.co.uk/) APC runs 2 competitions per year for companies seeking up to 50% funding for projects that will lead to a reduction in the carbon emissions of road vehicles.
-
-
-
-### Lightweighting
-
-The UK has an unmatched track record in the development of lightweight materials, from the first carbon fibre used in Formula One by McLaren in 1981 to the current model range of Jaguar Land Rover, the world’s most aluminium-intensive car manufacturer.
-
-One of the most significant materials for the future of road cars is carbon fibre composites.  This presents an opportunity to take the UK’s leading position in motorsport and aerospace and apply it to the emerging market for mass-produced carbon fibre for car production. This is being assisted by the [High Value Manufacturing Catapult,](https://hvm.catapult.org.uk/) a world-leading network of facilities where composites companies can take advantage of the latest test and development machinery. 
+英国はすでに、グローバルな動力センターとして、毎年250万台のガソリンエンジンやディーゼルエンジンを製造していますが、現在では電気自動車や水素燃料電池車など、電動パワートレインへの移行においても先駆的な取り組みを行っています。英国政府と自動車産業は、低炭素推進体制の構築を目的として今後10年間で空前の10億ポンドを共同出資することに合意しました。この取組みは、[先端推進システム技術センター(APC) ](http://www.apcuk.co.uk/)により運営されています。APCは道路車両の炭素排出量の削減を実現するプロジェクトを実施する企業を対象に、最大50%の資金提供を行うコンテストを1年に2回開催しています。
 
 
-### Connected and Autonomous Vehicles (CAVs)
 
-The UK is a leader in the field of CAVs. The UK government has created a 200 million GBP fund administered by the Centre for Connected and Autonomous Vehicles (CCAV), which is jointly funded by the industry and the government. It offers grants through a competitive bidding process.
+### 軽量化
 
-The UK offers substantial advantages in CAV technology. According to Eurostat, 40% of all large European software companies are based in the UK. With a history of early adoption of technology from home PCs to Internet shopping, the UK has all the right building blocks to develop CAVs. 
+1981年、マクラーレンが初のF1用炭素繊維を開発したのを皮切りに、世界で最もアルミニウムを多用する自動車メーカーであるジャガー・ランドローバーの現行モデルに到るまで、英国は軽量素材の開発に関して他の追随を許しません。
 
-We’re also establishing ourselves as a leading destination for CAV development, with the world’s most progressive regulatory regime. Testing is possible on any of our roads.
+ロードカーの未来にとって最も重要な素材の一つに炭素繊維複合材料があります。モータースポーツ産業や航空宇宙産業における英国の優位性を活用して、大量生産された炭素繊維を自動車製造に投入することにより新たな市場の創出機会が生じています。現在、複合材料関連企業が最新のテスト開発機を利用できる世界有数の施設ネットワークである[高付加価値製造カタパルト ](https://hvm.catapult.org.uk/)が支援を提供しています。. 
+
+
+### コネクテッドカー＆自動運転車(CAV)
+
+英国は、CAVの分野で世界をリードしています。英国政府は2億ポンドの基金を創設し、自動車業界と政府が共同出資した「コネクテッドカー＆自動運転車センター」がその運用に当たっています。同センターは、競争的入札プロセスを通じて助成金を交付しています。
+
+英国は、CAV関連技術について絶対的な優位性を誇っています。EU統計局によると、ヨーロッパにおける大手ソフトウェア関連企業の40%が英国に本拠を置いています。家庭用パソコンからインターネットショッピングまで、早くからテクノロジーを採用してきた歴史を誇る英国は、CAVの開発にふさわしい要素をすべて備えているといえます。
+
+また、英国は世界で最も進んだ規制制度を整備しており、英国内のすべての道路でテスト走行ができるなど、CAVの有力な開発拠点としての地位を固めつつあります。

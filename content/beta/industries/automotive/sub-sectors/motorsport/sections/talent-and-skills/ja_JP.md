@@ -1,11 +1,11 @@
 ---
-title: "Our talent leads the way"
+title: "英国の人材と技能"
 published: true
 ---
-The UK is home to 7 of the 11 Formula 1 motor racing teams. McLaren, Williams and Mercedes-Benz have all made the UK their Headquarters. 
+クラーレン、ウィリアムズやメルセデスベンツなど7チームが英国を本拠としています。
 
+英国には世界トップクラスの大学が多く、QS世界大学ランキングによると、世界トップ10のうちの4校、EUトップ10のうちの9校が英国にあります。
 
-We have world-class universities. According to the QS World University Rankings, 4 of the world’s top 10 universities and 9 of the EU’s top 10 universities are in the UK.
+また、近年設立されたカタパルトのネットワークにより、リカルド社を始めとする最先端のエンジニアリング企業や[世界有数の自動車研究開発施設 ](https://catapult.org.uk/)にもアクセスできます
 
-
-We have leading engineering companies like Ricardo and world-class automotive research facilities thanks to the recently established [Catapult network](https://catapult.org.uk/).
+低炭素化の推進をリードする英国には、ヨーロッパ唯一の電気自動車向け大規模電池製造施設が設立されています。現在、ヨーロッパで生産される電気自動車の20%以上が英国で製造されています。

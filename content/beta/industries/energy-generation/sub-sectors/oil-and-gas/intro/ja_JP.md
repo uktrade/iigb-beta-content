@@ -1,5 +1,5 @@
 ---
-title: "Oil and gas in the UK"
+title: 英国における石油とガス
 ---
 
-With over 100 years of onshore exploration, and 50 years in the North Sea, we have unique expertise in exploration and production.
+陸上探査では100年以上、北海では50年の経験のある英国は、探査と生産の両方においてユニークな専門知識があります。

@@ -1,15 +1,12 @@
 ---
-title: "Automotive talent and skills"
+title: "自動車関連の人材と技能 "
 ---
-The UK is the global home of motorsport. Seven of the 11 Formula One motor racing teams, including McLaren, Williams and Mercedes-Benz, have made the UK their headquarters. 
+英国は世界有数のモータースポーツの拠点です。F1自動車レースの全11チームのうち、マクラーレン、ウィリアムズやメルセデスベンツなど7チームが英国を本拠としています。
 
+英国には世界トップクラスの大学が多く、QS世界大学ランキングによると、世界トップ10のうちの4校、EUトップ10のうちの9校が英国にあります。
 
-We have world-class universities, with 4 of the world’s top 10 universities and 9 of the top 10 EU universities according to the international QS ranking.
+また、近年設立されたカタパルトのネットワークにより、リカルド社を始めとする最先端のエンジニアリング企業や世界有数の自動車研究開発施設にもアクセスできます。
 
-
-We have leading engineering companies like Ricardo and world-class automotive research facilities thanks to the recently established Catapult network.
-
-
-We’re leading the move to low carbon propulsion. Europe’s only large-scale battery facility for electric cars is here. Currently we account for over 20% of European electric vehicle production.
+低炭素化の推進をリードする英国には、ヨーロッパ唯一の電気自動車向け大規模電池製造施設が設立されています。現在、ヨーロッパで生産される電気自動車の20%以上が英国で製造されています。
 
 

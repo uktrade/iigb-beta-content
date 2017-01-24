@@ -1,16 +1,17 @@
 ---
-title: "Energy generation overview"
+title: エネルギー生産の概要
 published: true
 ---
-The UK is improving energy efficiency, expanding renewable and low carbon energy and maximising production of oil and gas. 
+貴社が従来のエネルギー技術、新エネルギー技術を利用されているかに関わらず、英国では、成長と高い利益の機会が見つかるでしょう。英国は、エネルギー効率の改善、再生可能及び低炭素エネルギーの拡大、そして石油、ガス生産の最大化に努めています。
 
-Energy is a major driver of our growth. Energy projects, totalling over 200 billion GBP, account for around 60% of our total infrastructure project pipeline.
+エネルギーは、英国において成長の主要な原動力です。エネルギー事業は総額2,000億ポンドを超え、英国全体のインフラ事業の約60％を占めます。
 
-The UK is one of the best places in the world to invest in renewable energy. We offer significant supply chain opportunities across the sector, including waste energy, electrical networks and offshore wind. This will help the UK meet projected increases in electricity demand, achieve its low carbon targets and enjoy economic growth.
+英国は、世界で再生エネルギーに投資をするのに最適な場所の一つです。廃エネルギー、電気回路ネットワーク、洋上風力エネルギーなど、セクター全体において重要なサプライチェーンの機会を提供します。これにより、英国は電力需要の推定増加に応え、低炭素目標を達成し、経済成長を享受することができます。
 
-The industry has set out proposals to develop 18 gigawatts (GW) of nuclear generating capacity at 6 sites. With nuclear accounting for 20% of the UK’s electricity demand, you can expect high returns on investments at every step of the supply chain. We have also committed to invest at least 250 million GBP in nuclear research and development.
+この産業では、6ヶ所における18ギガワット（GW）の原子力発電開発を行うという計画案が出されています。英国の電力需要の20％が原子力であることから、サプライチェーンの全段階における投資で高い利益を期待することができます。また、原子力の研究開発に対する2億5,000万ポンド以上の投資が決まっています。
 
-The UK Continental Shelf remains an important prospect for oil and gas, with significant reserves remaining, and potential discoveries still to be made. Technology will play a notable future role: the UK welcomes companies with experience of decommissioning and the safe development of shale onshore.
-A skilled and experienced energy labour pool of more than 600,000 people has grown up over many years to support the sector, with clusters spread across across the UK. 
+イギリス大陸棚は、現在も大規模の油田、ガス田が残存し、今後も新規で見つかる可能性があるため、重要な鉱脈です。テクノロジーが将来重要な役割を果たすことは間違いありません。英国は、廃鉱や陸上シェールガスの開発に長けた企業を歓迎します。
 
-We’re committed to building a sustainable energy future for the UK, with regulatory and financial support measures to protect and provide attractive incentives to investors.
+英国では、このセクターを支援するために、長年にわたり全国のクラスターにおいて技術を持った経験豊富なエネルギー従事者が増加し、60万人以上が活躍しています。
+
+私達は、魅力的なインセンティブを保護、提供するための規制や金銭的な支援策を取り、英国の将来のために持続可能なエネルギーを生産していくことに熱心に取り組んでいます。

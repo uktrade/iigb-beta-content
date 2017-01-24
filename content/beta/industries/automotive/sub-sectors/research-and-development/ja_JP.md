@@ -1,5 +1,4 @@
 ---
-title: "Automotive research and development"
+title: "自動車産業の研究開発 "
 ---
-
-With world-class test centres and a reputation for groundbreaking innovation, the UK leads the way in automotive research and development.
+世界有数のテストセンターと画期的なイノベーションで定評のある英国は、自動車研究開発の分野で世界をリードしています。
