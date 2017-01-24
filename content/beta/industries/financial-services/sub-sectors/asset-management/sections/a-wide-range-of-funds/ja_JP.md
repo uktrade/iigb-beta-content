@@ -1,13 +1,13 @@
 ---
-title: "A wide range of fund types and clients"
+title: "多様なファンド･タイプとクライアント "
 ---
-UK fund management organisations manage various types of funds, from life insurance and pension schemes to unit or investment trusts.
+英国のファンド運用組織では、生命保険や年金、ユニット･トラストや投資信託を含めた様々なタイプのファンドを運用しています。
 
-Client types include:
+クライアントは以下のように分類されます。
 
-- institutional, which accounted for 81% of assets managed in the UK in 2015, 41% of which were pension funds
-- retail where the UK managed a total of 1063 billion GBP by end 2014, that's an increase of 32% in 2 years
-- private clients with 705 billion GBP managed the end of 2014
+- 機関投資家。2015年に英国で運用される資産の81%を占め、そのうちの41%は年金ファンド
+- リテール。英国では2014年末時点で合計1兆630億ポンドを運用（2年間で32%増）
+- プライベート･クライアント。2014年末時点で7,050億ポンドを運用
 
-London is a global centre for private equity and property funds and has an 18% share of the hedge fund market. Since 2005, we have also attracted 16% of global Sovereign Wealth Funds.
+ロンドンはプライベートエクイティや不動産ファンドのグローバル･センターで、ヘッジファンド市場でも18%のシェアを占めています。また、2005年以来、世界中のソブリンウェルスファンドのうち16%を運用しています。
 
