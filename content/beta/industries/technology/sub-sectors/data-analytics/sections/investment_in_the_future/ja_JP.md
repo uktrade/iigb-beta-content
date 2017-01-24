@@ -2,10 +2,8 @@
 title: "The UK’s investment in the future"
 ---
 
-The UK currently has more than 30 programmes that provide investment support to accelerate new data analytics companies. The UK’s Open Data Institute has supported more than 28 start-up companies working in open data and analytics.
+英国では現在、30以上の投資促進プログラムを通じて新しいデータ・アナリティクス企業をサポートしています。また、英国のOpen Data Institute (ODI)は、オープンデータやデータ分析に携わっている28社以上のスタートアップ企業をサポートしています。
 
-The sector is seen as vital to the economic health of the nation and this is backed up by substantial investment in the industry. All 7 UK Research Councils have invested in big data analytics projects providing total investment of more than 300 million GBP.  
+このセクターは国家の経済成長に不可欠であると位置づけられ、当産業に対する積極的な投資が行われています。英国に7つあるリサーチ・カウンシルは、ビッグデータ・アナリティクスの事業に対し、総額3億ポンド以上の投資をしています。
 
-An established and thriving market, solid infrastructure and a skilled workforce point to a bright future for the UK’s data analytics sector.
-
-The government also has up to 50 billion GBP available to support finance and insurance for   supplies from within the UK to buyers outside the UK. This support takes the form of guarantees, insurance and loans issued by its export credit agency, UK Export Finance.
+安定的で、活発な市場、強固なインフラ、高度技能を有する労働人口、すべてが英国におけるデータ・アナリティクスセクターの明るい将来を物語っています。
