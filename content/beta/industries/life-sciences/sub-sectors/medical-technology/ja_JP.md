@@ -1,4 +1,5 @@
 ---
-title: "Medical technology"
+title: 英国における医療技術
 ---
-The UK medical technology sector is a thriving ecosystem of researchers, scientists, engineers and designers and NHS clinicians. These groups drive the path of a novel technology from innovation through to the patient in the UK and internationally.
+
+英国は欧州第3位の医療技術市場です。製品設計から開発や販売に至るすべての領域で優れた企業が存在しており、英国に進出する海外企業の事業をサポートすることが可能です。
