@@ -1,6 +1,5 @@
 ---
 title: "Steuerliche Anreize für Unternehmen in Großbritannien"
-published: true
 ---
 
 Es gibt zahlreiche Steuererleichterungen und Anreize für Unternehmer und Investoren.

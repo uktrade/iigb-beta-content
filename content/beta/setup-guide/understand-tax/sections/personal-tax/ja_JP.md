@@ -1,10 +1,9 @@
 ---
-title: "Personal taxes in the UK"
-published: true
+title: "英国における個人税"
 ---
-You’ll find competitive rates of [personal tax](https://www.gov.uk/topic/personal-tax) in the UK. The rates are:
+英国の[個人所得税](https://www.gov.uk/topic/personal-tax)も他国と比べ有利であり、税率は以下の通りです：
  
-- 0% on first £11,000 of earnings
-- 20% on earnings from £11,001 to £43,000
-- 40% on earnings from £43,001 to £150,000
-- 45%  on earnings over £150,000
+- 11,000ポンド以下の収入に対しては税率0%
+- 11,001～43,000ポンドの収入に対しては税率20%
+- 43,001～150,000ポンドの収入に対しては税率40%
+- 150,000ポンドを超える収入に対しては税率45%

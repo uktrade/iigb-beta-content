@@ -1,18 +1,17 @@
 ---
-title: "Tax relief and incentives for businesses in the UK"
+title: "英国の事業に対する税制上の優遇措置"
 ---
 
-There are a number of tax relief schemes and incentives for business owners and investors.
+事業主や投資家が利用できるいくつかの税控除制度や優遇措置があります。
 
-### Tax relief for investment
+### 投資に対する税控除
 
-The UK offers attractive venture capital schemes to help small and medium enterprises expand.
- 
-The [Enterprise Investment Scheme](https://www.gov.uk/government/publications/the-enterprise-investment-scheme-introduction) and the [Venture Capital Trust](https://www.gov.uk/government/collections/venture-capital-trusts-statistics) offer tax relief for individuals interested in investing in small businesses.
+英国では、中小企業の成長を支えるために魅力的なベンチャー投資制度が設けられています。
 
-### Tax incentives for innovation
+[Enterprise Investment Scheme](https://www.gov.uk/government/publications/the-enterprise-investment-scheme-introduction)及び[Venture Capital Trust](https://www.gov.uk/government/collections/venture-capital-trusts-statistics)は、小企業に投資する個人に適用される税控除制度です。
 
-There are generous [incentives for companies investing in research and development in the UK](https://www.gov.uk/guidance/corporation-tax-research-and-development-rd-relief) to promote fast-growing, innovative services and products. 
+### イノベーションのための税制上の優遇措置
 
-[The Patent Box](https://www.gov.uk/guidance/corporation-tax-the-patent-box) offers a 10% corporation tax on profits from inventions patented in the UK (compared to the usual 20% corporation tax).
+革新的なサービスや製品を提供する急成長企業を創出するために、英国で研究開発に投資する企業には寛大な税制上の優遇措置が提供されます。
 
+[Patent Box](https://www.gov.uk/guidance/corporation-tax-the-patent-box)では、英国で特許を取得した発明から得た収益にかかる法人税率を通常の20%から10%に引き下げています。
