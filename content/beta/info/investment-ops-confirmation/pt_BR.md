@@ -1,0 +1,3 @@
+---
+title: "Obrigado pela adesão…"
+---
