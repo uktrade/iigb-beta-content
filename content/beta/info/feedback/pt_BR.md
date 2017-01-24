@@ -1,7 +1,5 @@
 ---
-title: "Help us improve this service"
+title: "Ajude-nos a melhorar este serviço"
 ---
 
-We would love to hear your thoughts, concerns or problems 
-
-with any aspects of the service so we can improve it.
+Gostaríamos de conhecer a sua opinião, as suas preocupações ou problemas relativamente a qualquer aspeto do serviço, para que o possamos melhorar.
