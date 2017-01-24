@@ -31,16 +31,16 @@ search_error:
  de_DE: Ein Fehler ist aufgetreten. Bitte melden sie ihn.
  en_US: An error has occurred. Please contact your administrator
  zh_CN: An error has occurred. Please contact your administrator:CN
- ja_JP: ''
- es_ES: ''
- pt_BR: ''
+ ja_JP: An error has occurred. Please contact your administrator
+ es_ES: An error has occurred. Please contact your administrator
+ pt_BR: An error has occurred. Please contact your administrator
 on_this_page:
  de_DE: Auf dieser Seite
  en_US: On this page
  zh_CN: 本页包括
- ja_JP: ''
- es_ES: ''
- pt_BR: ''
+ ja_JP: On this page
+ es_ES: On this page
+ pt_BR: On this page
 pre_word:
  de_DE: Subsektoren
  en_US: ''
@@ -55,20 +55,13 @@ post_word:
  ja_JP: ''
  es_ES: ''
  pt_BR: ''
-back_to_top:
- de_DE: Zurück zum Anfang
- en_US: Back to top
- zh_CN: 回到顶部
- ja_JP: 英国での事業設立
- es_ES: Guía para el establecimiento
- pt_BR: Guia para estabelecer
 setup_guide:
  de_DE: Leitfaden Unternehmensgründung
  en_US: UK setup guide
  zh_CN: 英国创业指南
- ja_JP: ''
- es_ES: ''
- pt_BR: ''
+ ja_JP: 英国での事業設立
+ es_ES: Guía para establecerse en el Reino Unido 
+ pt_BR: Guia para estabelecer no Reino Unido
 home:
  de_DE: Startseite
  en_US: Home
@@ -80,16 +73,16 @@ privacy:
  de_DE: Datenschutz und Cookies
  en_US: Privacy and cookies
  zh_CN: 隐私和Cookie政策
- ja_JP: ''
- es_ES: ''
- pt_BR: ''
+ ja_JP: プライバシー
+ es_ES: Privacidad y cookies
+ pt_BR: Privacidade e cookies
 terms:
  de_DE: AGB
  en_US: Terms and conditions
  zh_CN: 条款与条件
- ja_JP: ''
- es_ES: ''
- pt_BR: ''
+ ja_JP: 規約
+ es_ES: Términos y condiciones
+ pt_BR: Termos e condições
 contact:
  de_DE: Kontakt
  en_US: Get in touch
@@ -101,25 +94,28 @@ industries:
  de_DE: Branchen
  en_US: Industries
  zh_CN: 行业
- ja_JP: 
+ ja_JP: 産業
  es_ES: Sectores
  pt_BR: Indústrias
 industry_overviews:
  de_DE: Industry overviews:DE
  en_US: Industry overviews
  zh_CN: Industry overviews:CN
- ja_JP: ''
- es_ES: ''
- pt_BR: ''
+ ja_JP: Industry overviews:JP
+ es_ES: Industry overviews:ES
+ pt_BR: Industry overviews:BR
 industry_overviews_intro:
  de_DE: Find high level information about your industry sector including success
    stories from other companies we have worked with:DE
  en_US: High level information about UK industry sectors and associated specialisms
  zh_CN: Find high level information about your industry sector including success
    stories from other companies we have worked with:CN
- ja_JP: ''
- es_ES: ''
- pt_BR: ''
+ ja_JP: Find high level information about your industry sector including success
+   stories from other companies we have worked with:JP
+ es_ES: Find high level information about your industry sector including success
+   stories from other companies we have worked with:ES
+ pt_BR: Find high level information about your industry sector including success
+   stories from other companies we have worked with:BR
 industries_intro:
  de_DE: Find specific information about the industry your company operates in, including
    market conditions and incentives:DE
@@ -127,30 +123,33 @@ industries_intro:
    market conditions and incentives
  zh_CN: Find specific information about the industry your company operates in, including
    market conditions and incentives:CN
- ja_JP: ''
- es_ES: ''
- pt_BR: ''
+ ja_JP: Find specific information about the industry your company operates in, including
+   market conditions and incentives:JP
+ es_ES: Find specific information about the industry your company operates in, including
+   market conditions and incentives:ES
+ pt_BR: Find specific information about the industry your company operates in, including
+   market conditions and incentives:BR
 great_british_industries:
  de_DE: Bedeutende britische Industriezweige
  en_US: UK industries
  zh_CN: 英国的产业
- ja_JP: ''
- es_ES: ''
- pt_BR: ''
+ ja_JP: 英国の主要産業
+ es_ES: Grandes sectores en Gran Bretaña
+ pt_BR: Indústrias da Grã-Bretanha
 post_strengths:
  de_DE: Branchen
  en_US: industries
  zh_CN: 行业
- ja_JP: ''
- es_ES: ''
- pt_BR: ''
+ ja_JP: 産業
+ es_ES: Sectores
+ pt_BR: Indústrias
 related_industries:
  de_DE: Relevante Branchen
  en_US: Related industries
- zh_CN: Related industries:CN
- ja_JP: ''
- es_ES: ''
- pt_BR: ''
+ zh_CN: 相关行业
+ ja_JP: 関連産業
+ es_ES: Sectores relacionados
+ pt_BR: Indústrias relacionadas
 discover:
  de_DE: Entdecken Sie mehr
  en_US: Discover more
@@ -162,9 +161,9 @@ please_select:
  de_DE: Bitte auswählen
  en_US: Select
  zh_CN: 选择
- ja_JP: ''
- es_ES: ''
- pt_BR: ''
+ ja_JP: 選択する
+ es_ES: Seleccionar
+ pt_BR: Selecionar
 'yes':
  de_DE: Ja
  en_US: 'Yes'
@@ -183,23 +182,23 @@ form_next:
  de_DE: Weiter
  en_US: Next
  zh_CN: 下一步
- ja_JP: ''
- es_ES: ''
- pt_BR: ''
+ ja_JP: 次
+ es_ES: Siguiente
+ pt_BR: Próximo
 form_previous:
  de_DE: Zurück
  en_US: Previous
  zh_CN: 上一步
- ja_JP: ''
- es_ES: ''
- pt_BR: ''
+ ja_JP: 前
+ es_ES: Anterior
+ pt_BR: Anterior
 form_submit:
  de_DE: Absenden
  en_US: Send
  zh_CN: 送出
- ja_JP: ''
- es_ES: ''
- pt_BR: ''
+ ja_JP: 送信
+ es_ES: Enviar
+ pt_BR: Enviar
 form_contact_details:
  de_DE: Ihre Kontaktdaten
  en_US: Your contact details
@@ -261,9 +260,9 @@ form_enter_phone:
  de_DE: Enter your telephone number:DE
  en_US: Enter your telephone number
  zh_CN: Enter your telephone number:CN
- ja_JP: ''
- es_ES: ''
- pt_BR: ''
+ ja_JP: Enter your telephone number:JP
+ es_ES: Enter your telephone number:ES
+ pt_BR: Enter your telephone number:BR
 form_city:
  de_DE: Stadt, in der Sie derzeit wohnen
  en_US: Closest city to your current business location
@@ -957,9 +956,9 @@ form_enter_mailing_list:
    wollen.
  en_US: Select whether you'd like to receive relevant news and information
  zh_CN: Select whether you'd like to receive relevant news and information:CN
- ja_JP: ''
- es_ES: ''
- pt_BR: ''
+ ja_JP: Select whether you'd like to receive relevant news and information:JP
+ es_ES: Select whether you'd like to receive relevant news and information:ES
+ pt_BR: Select whether you'd like to receive relevant news and information:BR
 form_mailing_list_confirmation:
  de_DE: Ja, Ich möchte solche Informationen bekommen.
  en_US: Yes, I would like to get this information.
@@ -2757,16 +2756,16 @@ feedback_name:
  de_DE: Vollständiger Name
  en_US: Name
  zh_CN: 您的姓名
- ja_JP: ''
- es_ES: ''
- pt_BR: ''
+ ja_JP: ご氏名
+ es_ES: Nombre
+ pt_BR: Nome
 feedback_email:
  de_DE: E-Mail
  en_US: Email
  zh_CN: 工作电子邮件
- ja_JP: ''
- es_ES: ''
- pt_BR: ''
+ ja_JP: メール
+ es_ES: Correo electrónico
+ pt_BR: E-mail
 feedback_feedback:
  de_DE: Feedback
  en_US: Feedback
