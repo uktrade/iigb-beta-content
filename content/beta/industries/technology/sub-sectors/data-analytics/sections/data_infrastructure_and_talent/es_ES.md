@@ -1,18 +1,13 @@
 ---
-title: "The data infrastructure and talent to succeed"
+title: La infraestructura de datos y el talento para triunfar
 ---
 
-Having such an advanced data sector means we have the infrastructure and skills to meet rising demand.
+Al contar con un sector de datos tan avanzado, tenemos la infraestructura y las capacidades necesarias para hacer frente a una demanda en aumento.
 
+El Reino Unido se sitúa por delante de la competencia gracias a una infraestructura de centros de datos y de computación en la nube bien desarrollada. El Reino Unido ya es el mayor mercado de centros de datos de Europa, y tiene más del 26 % de la capacidad regional.
 
-A well-developed data centre and cloud computing infrastructure sets the UK ahead of the competition. The UK is already the largest data centre market in Europe with over 26% of the capacity for the region.
+Se calcula que 31 000 personas trabajan en cargos de especialista relacionados con el Big Data en el Reino Unido, y la reserva de talento, junto a la demanda, harán que esa cifra aumente un 243 % en los próximos cinco años.
 
+Algunas universidades, como la de Goldsmiths, Edimburgo y Sheffield ofrecen grados en análisis de datos, y otras ofrecen cursos en ciencias de datos, inteligencia artificial o visualización. Oxford, Cambridge, el University College London (UCL), Warwick y Edimburgo, tres de las cuales se encuentran entre las seis mejores universidades del mundo, han creado el centro nacional de conocimientos sobre ciencia de datos del Reino Unido, el Instituto Alan Turing.
 
-It’s estimated that 31,000 people work in specialist big data roles in the UK and the talent pipeline, together with demand, should see that increase by 243% over the next 5 years. 
-
-
-Universities such as Goldsmiths, Edinburgh and Sheffield offer degrees in big data analytics, with others offering courses in data science, artificial intelligence and visualisation. Oxford, Cambridge, University College London (UCL), Warwick and Edinburgh, 3 of whom are among the top 6 universities in the world, have launched the UK’s national centre of expertise for data science, The Alan Turing Institute.
-
-
-With such an extensive talent pool there is plenty of opportunity for companies to hire the staff they need for growth.
-
+Con una reserva de talento tan amplia, existen multitud de oportunidades para que las empresas contraten al personal que necesitan para crecer.
