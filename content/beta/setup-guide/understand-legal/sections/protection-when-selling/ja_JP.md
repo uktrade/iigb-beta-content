@@ -1,7 +1,7 @@
 ---
-title: "Selling products to the UK government"
+title: 英国政府に対して製品やサービスを販売する
 ---
-The UK has an open and fair procedure for buying products and services from businesses. 
 
-[Search for opportunities to sell goods or services to the UK government.](https://www.gov.uk/tendering-for-public-sector-contracts/overview)
+英国政府は企業から製品やサービスを購入する場合、オープンで公平な手続きを尊守します。
 
+[英国政府に製品やサービスを販売する機会を検索する](https://www.gov.uk/tendering-for-public-sector-contracts/overview)
