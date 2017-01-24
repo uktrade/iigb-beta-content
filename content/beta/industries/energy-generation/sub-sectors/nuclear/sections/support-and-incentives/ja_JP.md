@@ -1,13 +1,13 @@
 ---
-title: "Nuclear skills development and assessment"
+title: 原子力関連技能の開発および評価
 published: true
 ---
-There are government and privately backed initiatives in place to help develop further skills and knowledge in the UK’s nuclear sector. The [National College for Nuclear](https://www.nsan.co.uk/news/national-nuclear-college) works closely with the industry on a world-class curriculum that delivers high-level technical training and development. 
 
+英国の原子力セクターにおける技能や知識をさらに開発するために、官民による取り組みを推進しています。[全国原子力カレッジ](https://www.nsan.co.uk/news/national-nuclear-college)は、原子力業界と緊密に連携して、高水準の技術訓練や技術開発を行う世界有数のカリキュラムを提供しています。
 
-Degree apprenticeships, focused on nuclear engineering, provide the next generation with higher education and work based skills and experience. 
+ここでは原子力工学に特価した実習学位制度 (degree apprenticeships)
+により、次世代の技術者に高等教育や業務ベースの技能・経験を提供しています。
 
+さらに、英国で操業する企業は英国先進製造研究センターの「[フィット・フォ－・ニュークリア」](http://namrc.co.uk/services/f4n/)を利用することができます。これは製造業者を支援する独自の評価サービスで、原子力産業に製品供給を行う際に要求される基準に従って操業しているかどうかを評価するものです。
 
-Additionally, companies operating here benefit from the Nuclear Advanced Manufacturing Centre’s [Fit for Nuclear](http://namrc.co.uk/services/f4n/) This is a unique assessment service which supports manufacturing companies in measuring their operations against the standards required to supply to the nuclear industry. 
-
-The government also has up to 50 billion GBP available to support finance and insurance for   supplies from within the UK to buyers outside the UK. This support takes the form of guarantees, insurance and loans issued by its export credit agency, UK Export Finance.
+政府はまた、英国内で製造された製品を英国外の買い手に販売するに当たり、融資や保険を提供することを目的として最大500億ポンドを用意しています。これは、英国の輸出信用機関であるUK Export Financeによる保証、保険、あるいは融資の形で提供されます。
