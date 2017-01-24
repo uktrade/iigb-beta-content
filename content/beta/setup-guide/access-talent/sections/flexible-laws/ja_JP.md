@@ -1,9 +1,8 @@
 ---
-title: "Flexible employment laws"
+title: "柔軟な労働法"
 ---
-The UK’s straightforward and flexible employment laws protect and promote the interests of employees. These laws help businesses to hire and manage the right people with the right skills as and when they need them.
- 
-Employers have statutory responsibilities to make sure their employees have a right to work in the UK. Specific employment laws cover minimum entitlements to working conditions, pay and leave. 
+英国の明快で柔軟な労働法規は従業員を守り、その利益を促進するものです。その法規はまた、事業が必要なときに適切な技能を持った人材を採用し、管理することをサポートするものです。
 
+事業主はその従業員が英国で仕事をする権利があるということを確かめる法的責任があります。個別の労働法規の中には、最低の労働条件、給料および休暇の権利を保障するものもあります。
 
-[Learn more about UK contract types and employer responsibilities](https://www.gov.uk/contract-types-and-employer-responsibilities/overview)
+[英国における契約の種類及び雇用主の責任の詳細](https://www.gov.uk/contract-types-and-employer-responsibilities/overview)

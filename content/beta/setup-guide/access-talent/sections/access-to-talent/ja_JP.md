@@ -1,20 +1,19 @@
 ---
-title: "Access to UK talent"
+title: "優秀な人材へのアクセス"
 ---
-Businesses operating in the UK can take advantage of a broad talent base. The UK is second only to the USA for growing, retaining and attracting talent.
+ 
+英国で事業を行う事業は幅広い人材基盤を利用することができます。優秀な人材を育成し、保持し、引き寄せることにおいて、英国は米国に次ぐ世界第2位とされています。
 
-There is a wide range of recruitment companies that can search for and select experienced talent. Universities and apprenticeships can help you hire the right people with the right qualifications and training.
+優秀で経験豊かな人的資源を探し出し、選定する人材紹介会社がたくさんあります。英国の大学や徒弟制度が適切な資格と訓練経験を持った人材の採用を支えています。
 
-### Graduate talent
+### 新卒の採用
 
-The UK is home to 4 of the top 10 universities in the world and has the highest number of leading MBA institutions in Europe. This provides access to a large pool of work-ready graduates.
+英国には世界トップ10大学のうち4校があり、欧州で最多数の一流MBA機関があります。つまり、就職の準備が整った新卒業生の豊かな人材の宝庫へアクセスすることができます。
 
-### Apprenticeships
+### 徒弟制度
 
-The UK plans to create [3 million apprenticeships by 2020,](https://www.gov.uk/government/publications/apprenticeships-in-england-vision-for-2020) enabling businesses to grow their talent with motivated and skilled workers. Support for businesses seeking to recruit and train apprentices is available via the [National Apprenticeship Service.](http://www.getingofar.gov.uk/employers)
+[2020年までに300万人の徒弟を作る](https://www.gov.uk/government/publications/apprenticeships-in-england-vision-for-2020)英国政府の計画により、事業は労働意欲と技能を持つそれらの人材を活用しビジネスを成長させることが可能になります。徒弟を採用し訓練したいと思っている事業は、全国徒弟制サービス（[National Apprenticeship Service](http://www.getingofar.gov.uk/employers)）でサポートを受けることができます。
 
-### Overseas talent
+### 海外からの人材
 
-The [UK’s flexible visa system](/us/setup-guide/apply-for-visa/) welcomes new businesses, investors, entrepreneurs, skilled workers and academics. This enables you to bring in world-class expertise to your UK business operations.
-
-
+[英国の柔軟な査証制度](/jp/setup-guide/apply-for-visa/)では、新しい事業、投資家、起業家、専門技術者および学者を歓迎しています。これにより、世界クラスの専門知識を貴社の英国内事業に活用することができます。

@@ -1,12 +1,9 @@
 ---
-title: "Employment costs in the UK"
+title: "英国における人件費"
 ---
 
-The UK operates a National Minimum Wage to encourage people to work and prevent businesses from using low wages to compete unfairly.
- 
-There's also a National Living Wage, which applies to those aged 25 and over.
+英国は、就労者の労働意欲を促進するとともに、事業が低い賃金により不公平な競争をすることを防ぐために、国定最低賃金（National Minimum Wage）を設定しています。
 
-[Learn more about the National Minimum Wage and the National Living Wage](https://www.gov.uk/national-minimum-wage/who-gets-the-minimum-wage)
+さらに、25歳以上の就労者に向けた国定生活賃金（National Living Wage）があります。
 
-[National Insurance](https://www.gov.uk/national-insurance/overview) must be paid for (or in respect of) all employees. As an employer you'll have to pay 13.8% in addition to the 12% payable by employees for earnings over 112 GBP per week.
-
+[国定最低賃金および国定生活賃金の詳細](https://www.gov.uk/national-minimum-wage/who-gets-the-minimum-wage)
