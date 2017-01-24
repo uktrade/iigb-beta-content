@@ -1,4 +1,4 @@
 ---
-title: "Hire skilled workers for your UK operations "
+title: "英国における事業のために有能な人材を雇用する"
 ---
-The UK has a world-class pool of talent and business-friendly employment laws. You can also bring employees to the UK from other countries through a flexible visa system.
+英国には世界最高レベルの優秀な労働人口に加えて、雇用側に配慮した労働法があります。また、柔軟な査証制度により外国の労働者を英国に招くこともできます。

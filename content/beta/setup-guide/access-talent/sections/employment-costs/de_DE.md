@@ -1,6 +1,5 @@
 ---
 title: "Arbeitskosten in Großbritannien"
-published: true
 ---
 
 In Großbritannien gibt es einen staatlichen Mindestlohn. Er soll Menschen zum Arbeiten motivieren und Betriebe vor unfairem Wettbewerb durch Dumping-Gehälter schützen.

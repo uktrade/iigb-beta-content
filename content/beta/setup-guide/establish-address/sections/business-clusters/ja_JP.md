@@ -1,11 +1,10 @@
 ---
 title: "Business clusters"
 ---
-Businesses from the same or complementary industry sectors have come together as centres of excellence and innovation across the UK. 
+同種または類似の産業部門に所属する様々な企業が英国各地で、「センター・オブ・エクセレンス・アンド・イノベーション」として集まっています。
 
-Locating your business in a relevant cluster could help you to:
+そのようなクラスターの中に拠点を設けることには以下のメリットがあります。
 
-- access a larger pool of skilled labour
-- improve your supply chains
-- share knowledge, ideas, research and development costs
-
+- より多くの高技能労働人口へのアクセス
+- サプライチェーンの改善
+- 知識、アイデア、研究開発費用の共有・分担

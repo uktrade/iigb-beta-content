@@ -1,4 +1,4 @@
 ---
-title: "Understand UK tax and incentives"
+title: "英国の税制及び優遇措置"
 ---
-The UK has one of the most competitive tax systems in the world and the corporate tax rules are simple and clear.
+英国の税制度は世界でも最も競争力のある制度のひとつであり、法人税の規則は明快です。

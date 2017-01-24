@@ -1,5 +1,4 @@
 ---
-title: "How long it takes"
+title: "所要期間"
 ---
-It can take 3 weeks to 3 months for a bank account application to be approved and meetings to be arranged, so factor this time into your business planning process. 
-
+銀行口座の申し込みが承認され、面談の予約が取れるまでは、3週間から3ヶ月間かかることがあります。そのため、事業計画ではこの時間を考慮されることをお勧めいたします。

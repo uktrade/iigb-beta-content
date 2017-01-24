@@ -1,12 +1,10 @@
 ---
-title: "What you need to know"
+title: "重要なポイント"
 ---
-The UK has a wide range of properties for lease or rent for business purposes.
+英国には事業用としてリースまたは賃借できる幅広い物件があります。
 
+中小企業または起業家はよく、柔軟な契約期間や設備（インターネット接続など）の利点を享受するために、レンタルオフィスを選びます。
 
-Small companies and entrepreneurs often opt for serviced offices to take advantage of the flexibility they offer in terms of infrastructure (such as internet access) and rental agreement lengths.
- 
-Larger companies may want to build, extend or change the use of premises. The UK has a straightforward planning process and one of Europe’s most efficient procedures for obtaining construction permits. Local planning authorities approve almost 90% of planning applications and 75% are completed within 3 months.
+より大きな企業は自ら社屋を建設、増築あるいは建築用途を変更したい可能性があります。英国での事業所設立プロセスは簡略で、建設許可を得るための手順も欧州で最も効率が良いといわれています。計画担当当局・地方自治体は約90%の計画申請を承認し、その75%は3ヶ月以内に完了します。
 
-
-There are sites across the UK with existing planning permission, which can reduce the time needed to set up your premises. These are called Enterprise Zones and have simplified planning laws.
+また、開発許可がすでにおりている用地が英国各地にありますので、貴社の社屋完成に要する時間を節減することができます。上記はエンタープライズ・ゾーンといわれ、開発計画の法規が簡略化されています。

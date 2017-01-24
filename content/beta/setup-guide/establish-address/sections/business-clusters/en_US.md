@@ -8,4 +8,3 @@ Locating your business in a relevant cluster could help you to:
 - access a larger pool of skilled labour
 - improve your supply chains
 - share knowledge, ideas, research and development costs
-
