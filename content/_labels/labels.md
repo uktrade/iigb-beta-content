@@ -38,9 +38,9 @@ on_this_page:
  de_DE: Auf dieser Seite
  en_US: On this page
  zh_CN: 本页包括
- ja_JP: On this page
- es_ES: On this page
- pt_BR: On this page
+ ja_JP: このページ
+ es_ES: En esta página
+ pt_BR: Nesta página
 pre_word:
  de_DE: Subsektoren
  en_US: ''
