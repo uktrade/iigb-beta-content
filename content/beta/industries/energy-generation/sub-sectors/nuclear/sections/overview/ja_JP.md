@@ -1,7 +1,8 @@
 ---
-title: "Overview"
+title: 概要
 published: true
 ---
-We’re committed to delivering new and replacement energy supplies that can provide secure, reliable, low carbon electricity. Nuclear power sits at the heart of these plans. 
 
-Nuclear energy has operated reliably and safely in the UK for over 60 years. We have extensive experience of the full nuclear life cycle, from front-end design through to decommissioning. Today, our 8 existing nuclear power plants generate around 20% of the UK’s electricity demand.
+英国は、安全で信頼性の高い低炭素電力を提供できる新エネルギーや代替エネルギーの供給に取り組んでいます。この取り組みの中核にあるのが原子力です。
+
+英国では60年以上にわたって原子力を安全かつ確実に利用しており、初期段階の設計から解体まで、核エネルギーのライフサイクル全体におけるさまざまな経験を蓄積しています。今日では、既存の原子力発電所8施設が、英国の電力需要の約20%をまかなっています。
