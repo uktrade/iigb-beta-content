@@ -1,8 +1,8 @@
 ---
-title: "Reliable, long-term projects backed by a strong market"
+title: 強力な市場が支える信頼性の高い長期的プロジェクト
 published: true
 ---
-We have long been recognised as a pioneering nation in the field of energy from waste. World leaders such as SITA, Veolia and FCC all have operations here. 
 
-The UK market is maturing, and there’s further demand for waste management infrastructure. In 2013, the renewable energy market created 6.8 billion GBP in gross value. Estimates suggest that by 2020 there will still be between 5 and 15 million tonnes of waste in the UK that needs treatment. This  will require 3 to 9 billion GBP of investment.
+英国は長年にわたり、廃棄物発電におけるパイオニアとして認められてきました。SITA、Veolia、FCCなどこのセクターで世界をリードしている企業の全てが英国内で事業を展開しております。
 
+英国市場は成熟しており、廃棄物管理のインフラに関する需要も増えています。2013年の再生可能エネルギー市場は、総額で68億ボンドの価値を創出しました。2020年時点では、処理を必要とする廃棄物がまだ500万～1500万トン英国に存在すると推定されています。これに対処するために、30億～90億ポンドの投資が必要となります。
