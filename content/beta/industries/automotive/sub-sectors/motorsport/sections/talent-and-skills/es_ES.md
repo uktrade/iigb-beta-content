@@ -1,5 +1,5 @@
 ---
-title: "Our talent leads the way"
+title: Nuestro talento y capacidades
 published: true
 ---
 El Reino Unido alberga siete de los 11 equipos de la Fórmula Uno. McLaren, Williams y Mercedes-Benz han instalado su sede central en el Reino Unido. 

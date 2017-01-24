@@ -1,7 +1,6 @@
 ---
-title: "Creating tomorrow’s medicines"
+title: "Criar os medicamentos do futuro"
 ---
-### Criar os medicamentos do futuro
 
 O Reino Unido tem um historial longo e bem-sucedido no fabrico de produtos farmacêuticos. Existe uma forte necessidade de desenvolver o fabrico das tecnologias de saúde e de ciências da vida do futuro, como terapias avançadas, design digital ou o fabrico perto dos clientes. Quer pretenda criar os medicamentos do futuro ou as tecnologias médicas e produtos de saúde da próxima geração, é aqui que a sua empresa vai ser bem-sucedida.
 

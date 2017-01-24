@@ -1,22 +1,24 @@
 ---
-title: "Government support for health and life sciences"
+title: "Apoio governamental para a saúde e para as ciências da vida"
 ---
-The UK provides a very attractive tax regime for regional or global manufacturing. Tax incentives make it easier to reinvest in your next generation research and development. We offer:
 
-- low rates of tax, with headline corporation tax rate falling to 17% by 2020
-- innovation incentives (R&D tax relief and Patent Box) which can be utilised by product developers and their R&D, clinical or manufacturing partners
-- one of the most comprehensive global treaty networks
+O Reino Unido fornece um regime fiscal muito atrativo para os fabricos regional e global. Os incentivos fiscais facilitam o reinvestimento na sua investigação e desenvolvimento da próxima geração. Oferecemos:
 
-The combination of low tax rates and Patent Box could deliver an Effective Tax Rate (ETR) of 11% to 13%.
+- baixas taxas fiscais, com a principal taxa de imposto sobre as sociedades a cair para 17% em 2020
+- incentivos fiscais (alívio fiscal para investigação e desenvolvimento e Patent Box), que podem ser utilizados por criadores de produtos e os seus departamentos de investigação e desenvolvimento e parceiros clínicos ou de fabrico
+- uma das mais abrangentes redes de convenções mundiais
 
-### Championing innovation
+A combinação de baixas taxas fiscais e Patent Box pode possibilitar uma Taxa de Imposto Efetiva (TIE) de 11% a 13%. 
 
-We offer direct support for innovative manufacturing businesses. Your company can access national innovation infrastructure, with 3 main elements:
 
-- [Research Councils](http://www.rcuk.ac.uk/) champion science, engineering and technology in the UK, including manufacture via centres for innovative manufacturing.
+### Promover a inovação
 
-- [Catapult](https://catapult.org.uk/) is a specialised national network run by Innovate UK. They make world leading technical capability available to businesses and aid process development, prototyping and scale-up. The network includes the High Value Manufacturing Catapult programme and a National Biologics Manufacturing Centre, as well as the Cell and Gene Therapy Catapult with an at-scale manufacturing centre being built in Stevenage
+Oferecemos apoio direto a negócios de fabrico inovadores. A sua empresa pode aceder a uma infraestrutura de inovação nacional com 3 elementos principais.
 
-- [The Knowledge Transfer Network](http://www.ktn-uk.co.uk/) helps businesses link up with partners in the value and supply chain. 
+- A [Research Councils](http://www.rcuk.ac.uk/) promove a ciência, a engenharia e a tecnologia no Reino Unido, incluindo o fabrico através de centros para o fabrico inovador.
 
-The government also has up to 50 billion GBP available to support finance and insurance for   supplies from within the UK to buyers outside the UK. This support takes the form of guarantees, insurance and loans issued by its export credit agency, UK Export Finance.
+- A [Catapult](https://catapult.org.uk/) é uma rede nacional especializada liderada pela Innovate UK. Na Catapult, disponibilizam as capacidades técnicas líderes a nível mundial a empresas e ajudam no desenvolvimento, prototipagem e scale-up dos processos. A rede inclui o programa High Value Manufacturing Catapult e um Centro Nacional de Fabrico de Produtos Biológicos, bem como o Cell and Gene Therepy Catapult, com um centro de fabrico à escala construído em Stevenage.
+
+- A [Rede de Transferência de Conhecimentos](http://www.ktn-uk.co.uk/) ajuda as empresas a estabelecerem a ligação com parceiros na cadeia de valor e de distribuição. 
+
+O governo também tem até 50 mil milhões de libras disponíveis para apoiar o financiamento e a obtenção de seguros para bens no Reino Unido a serem encaminhados para compradores fora do Reino Unido. Este apoio toma a forma de garantias, seguros e empréstimos emitidos pela agência de crédito para exportação, a UK Export Finance. 

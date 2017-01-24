@@ -1,5 +1,5 @@
 ---
-title: "Employment costs in the UK"
+title: Costes de empleo en el Reino Unido
 ---
 
 En el Reino Unido existe un salario mínimo nacional para incentivar el trabajo y evitar que las empresas paguen sueldos bajos que fomenten la competencia desleal.

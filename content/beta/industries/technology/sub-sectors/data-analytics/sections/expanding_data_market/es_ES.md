@@ -1,5 +1,5 @@
 ---
-title: "The UK’s rapidly expanding data market"
+title: El mercado de los datos en el Reino Unido, en rápida expansión
 ---
 
 El Reino Unido cuenta con uno de los sectores de análisis de datos más sólidos y desarrollados del mundo, y sigue creciendo. Las predicciones afirman que el crecimiento durante los próximos cinco años alcanzará el 177 %, con el número de usuarios de 

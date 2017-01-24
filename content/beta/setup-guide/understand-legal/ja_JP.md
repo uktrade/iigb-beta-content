@@ -1,5 +1,5 @@
 ---
-title: "Understand the UK’s legal framework "
+title: 英国の法制度を理解する
 ---
 
-The UK is the seventh easiest place to do business in the world, according to the World Bank.
+世界銀行のビジネス環境ランキングでは、英国は第7位にランクインしています。

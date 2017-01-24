@@ -1,13 +1,13 @@
 ---
-title: "Intellectual property in the UK"
+title: 英国における知的財産
 ---
 
-The UK has very strict intellectual property laws. These protect the names, ideas, products, designs and written word of businesses. 
+英国には知的財産に関する厳格な法律があります。それは事業の名称、発案、製品、デザイン、そして文言を守ります。
 
-You have automatic protection for:
+以下のものについての保護は自動的に発生します。
 
-- copyright (writing and literary works, art, photography, films, TV, music, web content, sound recordings)
-- design right (shapes and objects)
 
-[Find out more about intellectual property protection.](https://www.gov.uk/intellectual-property-an-overview/what-ip-is)
+- 著作権（文章・文学、芸術、写真、映画、テレビ、音楽、オンライン・コンテンツ、録音）
+- 意匠権（形や物体）
 
+[知的財産の保護の詳細](https://www.gov.uk/intellectual-property-an-overview/what-ip-is)
