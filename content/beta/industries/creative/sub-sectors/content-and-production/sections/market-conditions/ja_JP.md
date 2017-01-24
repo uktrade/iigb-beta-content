@@ -1,38 +1,40 @@
 ---
-title: "The UK's creative strengths"
-published: true
+title: "市況 "
 ---
-### Work with the best in film, TV and VFX
+### 映画、テレビ、VFXの一流企業との協業 
 
-Our TV production is one of the world’s largest providers of original content. There are over 1,500 independent TV production companies, and over 44,000 people working in the industry.    
+英国のテレビ番組制作は、世界最大規模のオリジナル･コンテンツ･プロバイダーです。独立系テレビ番組制作会社は1,500社以上あり、44,000人がこの業界に従事しています。    
+英国では、
 
-In the UK, you’ll find:
-- access to studios that can host any size of film or TV production 
-- highly skilled technicians and world class actors
-- leading companies in post- production and visual effects
+- さまざまな規模の映画やテレビ番組制作に対応できるスタジオ
+- 高度なスキルを持つ技術者や世界一流の俳優
+- ポストプロダクションやビジュアルエフェクトの一流企業
 
-Six of the world's largest film studios, including Warner Bros and Disney, have operations here. We’re also the home of Harry Potter, Game of Thrones and Star Wars.  
 
-We offer state-of-the-art studio facilities suitable for the biggest movie productions and a variety of locations from urban scenes to unique historical sites.
+などにアクセスできます。
 
-International TV sales reached over 1.2 billion GBP in 2014/15, and we’re the world leaders in exporting TV formats, bought by different markets and localised. For example, The Great British Bake off format is now reproduced in 20 countries. 
+ワーナーブラザーズやディズニーをはじめとした世界最大規模の映画スタジオ6社も、英国で運営を行っています。また、ハリー･ポッター、ゲーム・オブ・スローンズ、スターウォーズも英国で制作されています。  
 
-We’re also a world class film talent base, with a very strong visual effects (VFX) industry. The Academy Award for Best Visual Effects has had a UK nominee for 6 of the last 7 years.
+最大級の映画制作にも対応できる最新機能を備えたスタジオ設備、また都市部や個性豊かな史跡などロケーションも豊富です。
 
-### Animation thrives across all areas
+海外でのテレビ番組売上高は2014/15年度に12億ポンドに達し、テレビ番組フォーマットは様々な市場で購入、ローカライゼーションが行われ、海外輸出における世界リーダーの地位を確立しました。例えば、グレート・ブリティッシュ・ベイクオフは、20ヶ国で再生されています。 
 
-Our animation market generates over 300 million GBP in revenues every year. There’s a high crossover of talent between the creative industries, and animated content is also increasingly in demand. 
+また、ビジュアルエフェクト業界は大変好調で、映画関係の才能豊かな人材を有しています。アカデミー賞のベスト･ビジュアル･エフェクトのカテゴリーでは、過去7年中6年で英国の候補者が挙げられました。
 
-Companies based in the UK produce content for films, TV and commercials, and the opportunities for mobile and gaming content are growing rapidly. 
+### アニメーションが全分野で活躍
 
-Merchandising and visitor experience creation are 2 related growth areas with a large appetite for animated content.
+英国のアニメーション市場は、毎年3億ポンドの収入を上げています。才能豊かな人材はクリエイティブ産業内の様々なジャンルを超えて活躍し、アニメーション･コンテンツの需要も高まりつつあります。 
 
-### A growing games market with a sophisticated audience
+英国に拠点を持つ企業は映画、テレビ、コマーシャルなど様々なコンテンツを制作し、モバイルやゲームのコンテンツ制作における機会も急速に拡大中です。 
 
-The UK has one of the most advanced games industries globally, with over 30 years’ experience of producing some of the world’s most innovative and commercially successful titles. It’s underpinned by world-class universities producing a stream of talented developers and designers, an enthusiastic gaming population as well as a business environment that meshes creative and technical expertise.
+アニメーション･コンテンツへの需要が高まる中、マーチャンダイジングやビジター･エクスペリエンスの制作はもそれに伴う大きな成長分野の2例です。
 
-British gamers spend more on games than in any other European country. Our digital games market is the world’s sixth largest. This is supported by high speed internet, high social network penetration and high smartphone usage. You’ll find an audience for gaming here which is one of the most established, diverse and progressive in the world.
+### 洗練された利用者の多い、成長中のゲーム市場
 
-We’re at the forefront of social and mobile platforms, with a rapidly growing startup scene and more than a third of UK studios focusing on the mobile market. Konami, King.com, Activision Blizzard and Electronic Arts all have a presence here.
+英国のゲーム業界は世界の最先端を歩み、極めて革新的で商業的にも大成功を収めているタイトルを30年以上にわたり創出してきました。世界一流の大学が才能豊かなデベロッパーやデザイナー、熱心なゲームプレイヤー人口、クリエイティブ面と技術面を融合させるビジネス環境を生み出しています。
 
-Companies are in a great position to grow in the global games market. You’ll benefit from our high level of screen and video effects and animation skills crossover.
+英国のゲームプレイヤー達によるゲーム購入額は、欧州諸国最大です。英国のデジタル･ゲーム市場は世界第6位の規模で、ハイスピードインターネット、ソーシャルネットワークの高い浸透率、スマートフォンの高普及率に支えられています。英国のゲームプレーヤー層は世界で最も確立されており、多様性と先進性が特徴です。
+
+ソーシャル／モバイルプラットフォームにおいてもリードしており、スタートアップ企業が急速に成長を遂げています。英国のスタジオの3分の1以上はモバイル市場に注力しています。コナミ、King.com、Activision Blizzard、Electronic Artsは全て、英国でも事業を営んでいます。
+
+以上のようなことから、英国はグローバルなゲーム市場で成長を目指す企業にとって理想的といえます。ハイレベルのスクリーン／ビデオエフェクト、アニメーション･スキルを横断的に活用できます。
