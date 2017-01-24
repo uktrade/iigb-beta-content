@@ -1,23 +1,19 @@
 ---
-title: "An expanding pool of offshore wind experts"
+title: 洋上風力専門家の増加
 ---
-With clusters of wind farms forming across the UK, we offer a competitive and innovative climate for offshore wind investment. The offshore wind sector currently employs around 15,000 people, with this number growing year-on-year as the industry develops. 
 
+英国は、全国に風力発電所のクラスターがあるため、洋上風力投資にとって競争力が高く革新的な環境を提供します。現在、洋上風力産業は1万5,000人を雇用し、産業が成長するにつれて毎年その数は増加しています。
 
-Our rich history of working offshore means we have thousands of skilled workers. Their experience of working in other parts of the offshore energy sector ensures a smooth transition into offshore wind. 
+洋上関連事業の豊かな歴史の結果として、英国には高度な技術を持った労働者が何千人もいます。洋上エネルギーセクターの他分野での経験が、洋上風力へのスムーズな移行を確実なものにします。
 
+英国の洋上関連の雇用と専門の分野：
 
-The biggest areas of UK offshore employment and expertise are:
+- 配置計画と開発
+- 建設と設置
+- 製造と製造設計
+- 操業とメンテナンス
+- 特殊輸送とその他のサポートサービス
 
+マンチェスター大学、シェフィールド大学、ストラスクライド大学などの一流大学では、洋上風力産業に就職するためのサポートとなる課目を学生に提供しています。
 
-- site planning and development
-- construction and installation
-- manufacturing and manufacturing design
-- operations and maintenance
-- specialised transport and other support services
-
-
-Top universities like Manchester, Sheffield and Strathclyde all offer subjects which support students entering the offshore wind industry. 
- 
-Companies in the UK benefit from specialist training providers, such as Maersk Training, Advanced Industrial Solutions and Siemens, that offer highly specialised training for the offshore wind industry. 
-
+英国にある企業は、マースク・トレーニング（Maersk Training）、アドバンスト・インダストリアル・ソリューションズ（Advanced Industrial Solutions）、シーメンス（Siemens）などの専門訓練プロバイダーから洋上風力産業の高度専門訓練が受けることができます。
