@@ -1,4 +1,4 @@
 ---
-title: "Financial services in the UK"
+title: "英国における金融サービス "
 ---
-The UK offers unrivalled support for the global expansion of your business. It is the most internationally-focused financial marketplace in the world.
+英国では、貴社の事業を世界的に拡げるために最高のサポートをご提供できます。英国は、世界で最も国際性を重視した金融市場です。
