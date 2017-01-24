@@ -1,16 +1,14 @@
 ---
-title: "Automotive overview"
+title: "英国自動車産業の概要 "
 ---
-With over 15 billion GBP invested in the UK automotive industry between 2012 and 2015, the UK is one of the world’s most attractive destinations for foreign investment. 
+英国の自動車産業は、2012年から2015年に150億ポンドの投資が行われ、海外からの投資先として英国は世界で最も魅力的な国の一つとなっています。 
 
+英国が投資先として自動車関係の企業に選ばれる理由は、以下のとおりです：
 
-Automotive businesses looking to set up here will find:
-
-
-- a country placed seventh in the world for ease of doing business, according to the World Bank
-- the highest value add per employee in car manufacturing of any European country, according to Eurostat
-- competitive labour costs which are lower than Italy, France or Germany
-- low taxes; corporation tax is being reduced from 20% in 2016 to 17% by 2020
-- excellent labour relations
+- 世界銀行のビジネス環境ランキングで第7位にランクインした国
+- EU統計局によると、自動車製造における従業員ひとり当たりの付加価値が欧州で最も高い国
+- イタリア、フランス、ドイツより下回る、有利な労働コスト
+- 低い法人税率 - 2016年の20％から2020年までに17%へと引き下げ
+- 良好な労使関係
 
 
