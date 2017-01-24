@@ -1,18 +1,13 @@
 ---
-title: "The data infrastructure and talent to succeed"
+title: 成功に導くデータ基盤と人材
 ---
 
-Having such an advanced data sector means we have the infrastructure and skills to meet rising demand.
+このように世界屈指のデータ産業を擁するということは、今後この分野における需要の増加に対応できるインフラとスキルを備えているということを意味します。
 
+英国が誇る先進のデータセンター及びクラウドコンピューティング基盤は、他国を凌いでいます。英国のデータセンターは欧州で流通する全データ容量の26%を占め、欧州最大のデータセンター市場となっています。
 
-A well-developed data centre and cloud computing infrastructure sets the UK ahead of the competition. The UK is already the largest data centre market in Europe with over 26% of the capacity for the region.
+英国では3万1000人がビッグデータ関連の専門職に従事していると推計され、伸び続ける需要により今後5年において243%増加する見込みです。
 
+ゴールドスミス、エジンバラ、シェフィールドの各大学ではビッグデータ・アナリティクスの学位を取得することができ、他の大学でもデータサイエンス、人工知能（AI）や情報可視化のコースを受講することができます。世界トップ6の大学のうち3校を含む、オックスフォード、ケンブリッジ、ユニバーシティ・カレッジ・ロンドン（UCL）、ウォリックそしてエジンバラの各大学では、アランチューリング研究所というデータサイエンスの国立専門センターを設立しました。
 
-It’s estimated that 31,000 people work in specialist big data roles in the UK and the talent pipeline, together with demand, should see that increase by 243% over the next 5 years. 
-
-
-Universities such as Goldsmiths, Edinburgh and Sheffield offer degrees in big data analytics, with others offering courses in data science, artificial intelligence and visualisation. Oxford, Cambridge, University College London (UCL), Warwick and Edinburgh, 3 of whom are among the top 6 universities in the world, have launched the UK’s national centre of expertise for data science, The Alan Turing Institute.
-
-
-With such an extensive talent pool there is plenty of opportunity for companies to hire the staff they need for growth.
-
+このような豊かな人材プールにより、企業が成長に必要なスタッフを採用する機会は充分あります。
