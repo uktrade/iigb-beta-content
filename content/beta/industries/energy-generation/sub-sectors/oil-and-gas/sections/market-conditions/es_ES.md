@@ -1,5 +1,5 @@
 ---
-title: "Market conditions"
+title: "Condiciones de mercado"
 ---
 Con más de 100 años de experiencia, las empresas pueden estar seguras de estar accediendo a un mercado ampliamente reconocido como un líder global.
 
