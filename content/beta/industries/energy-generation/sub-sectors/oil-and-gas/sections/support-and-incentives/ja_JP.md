@@ -1,7 +1,6 @@
 ---
 title: 石油ガス産業への英国政府の支援
 ---
-In 2015, the UK government introduced a £1.3 billion package of tax measures for the oil and gas industry to ensure that the UK Continental Shelf remains an attractive destination for investment. 
 
 英国政府は、英国大陸棚が今後も魅力的な投資先であることを保証するために、2015年に石油ガス産業に向けた総額13億ポンドの税措置を導入しました。
 
