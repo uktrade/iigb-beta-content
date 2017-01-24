@@ -1,7 +1,7 @@
 ---
-title: "Overview"
+title: 石油・ガス産業に100年以上の経験を持つ英国
 ---
-There are over 380 fields producing oil and gas in the UK today. That’s resulted in 43 billion barrels of oil being recovered from the UK Continental Shelf, with estimates stating that 22 billion barrels of recoverable reserves remain. 
 
+現在、英国で石油とガスを生産している油田は380以上あります。その結果、英国大陸棚から430億バレルの石油が採収され、推計ではまだ220億バレルの可採埋蔵量があります。
 
-The UK’s potential doesn’t stop there. New opportunities, like decommissioning, are opening up for companies too. 
+この産業における英国の可能性はそれだけではありません。廃棄など、企業にとっての新しい機会も現れてきています。
