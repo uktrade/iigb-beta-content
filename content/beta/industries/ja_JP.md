@@ -1,5 +1,5 @@
 ---
-title: "Industries"
+title: "産業"
 ---
 
-With pro-business legislation and an appetite for innovation, UK business sectors are renowned for being world-leading. From revolutionary developments in automotive components through to filming the latest and greatest blockbusters, the UK is the next logical step for your business. Find out more about your sector below.
+ビジネスに配慮した法令やイノベーションを重視する環境により、英国の各産業は世界をリードしています。自動車部品の革新的な発明から、最新の超大作映画の製作まで、英国は次のレベルを目指す貴社にとって賢明な投資先です。以下で各産業の状況を見ることができます。

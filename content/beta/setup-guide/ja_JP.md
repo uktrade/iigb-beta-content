@@ -1,5 +1,5 @@
 ---
-title: "Your guide to setting up in the UK"
+title: "英国で事業を設立するためのガイドライン"
 ---
 
-The time to invest in the UK is now. If you’re ready to take the next step for your business, here’s how to do it.
+英国に投資するには、今こそ英国に投資する理想的なタイミングです。その準備を進めるために、以下の各ポイントを参考にしてください。

@@ -1,5 +1,5 @@
 ---
-title: "Your guide to setting up in the UK"
+title: "O seu guia para se estabelecer no Reino Unido"
 ---
 
-The time to invest in the UK is now. If you’re ready to take the next step for your business, here’s how to do it.
+O momento de investir no Reino Unido é agora. Se está preparado para levar o seu negócio a dar o próximo passo, esta é a forma de o fazer. 
