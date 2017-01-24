@@ -1,5 +1,5 @@
 ---
-title: "Invest in GREAT Britain & Northern Ireland"
+title: 英国への投資
 ---
 
-Get help with setting up your business in the UK and see current investment opportunities.
+英国で事業を設立する際のサポートおよび今日の投資機会
