@@ -15,7 +15,7 @@ Hay distintos tipos de visados para particulares y empresas, dependiendo de su s
 
 [Más información sobre los visados de nivel 1 para emprendedores.](https://www.gov.uk/tier-1-entrepreneur/overview)
 
-####Puede optar a un visado de nivel 1 (talento excepcional) si:
+#### Puede optar a un visado de nivel 1 (talento excepcional) si:
 
 - Es un líder reconocido (talento excepcional)
 - Es un líder emergente (promesa excepcional)

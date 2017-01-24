@@ -9,4 +9,4 @@ Disfrutará de protección automática sobre:
 - Derechos de autor (textos y obras literarias, arte, fotografías, películas, televisión, música, contenido web y grabaciones de sonidos)
 - Derechos sobre el diseño (formas y objetos)
 
-[Más información sobre la protección de la propiedad intelectual.[(https://www.gov.uk/intellectual-property-an-overview/what-ip-is)
+[Más información sobre la protección de la propiedad intelectual.](https://www.gov.uk/intellectual-property-an-overview/what-ip-is)
