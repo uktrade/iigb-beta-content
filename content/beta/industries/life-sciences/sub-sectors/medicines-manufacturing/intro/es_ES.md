@@ -1,6 +1,5 @@
 ---
-title: "Pharmaceutical manufacturing in the UK"
+title: Fabricación farmacéutica
 published: true
 ---
-
-The industry has robust regulation, high standards and a low-risk manufacturing environment.  Expertise is spread throughout the nation giving companies a significant skills base to deliver in a knowledge-intensive industry.
+El sector cuenta con una regulación sólida, altos estándares y un entorno de fabricación con riesgos bajos. El conocimiento especializado está disperso por todo el país y aporta a las empresas una base de capacidades significativa para prestar sus servicios en un sector que hace un uso intensivo de los conocimientos.
