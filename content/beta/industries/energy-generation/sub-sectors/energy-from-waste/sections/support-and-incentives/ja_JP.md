@@ -1,9 +1,9 @@
 ---
 title: "Support and incentives "
 ---
-The UK has funding options to assist companies that want to develop sustainable energy facilities. These sources of funding change regularly to meet market demand and are dependent on the type of project and your location within the UK.
 
+英国は持続可能エネルギー施設を開発したい企業を支援するための資金調達オプションを用意しています。これらの資金調達源は、マーケットの需要を満たすよう定期的に変更され、プロジェクトの種類と英国内の所在地により異なります。
 
-The UK’s [UK’s Renewable Heat Incentive](https://www.ofgem.gov.uk/environmental-programmes/domestic-rhi) helps businesses meet the cost of installing renewable heat technologies.
+英国の[Renewable Heat Incentive]((https://www.ofgem.gov.uk/environmental-programmes/domestic-rhi)は、再生可能な熱生産技術の導入コストを補助する優遇策です。
 
-The government also has up to 50 billion GBP available to support finance and insurance for   supplies from within the UK to buyers outside the UK. This support takes the form of guarantees, insurance and loans issued by its export credit agency, UK Export Finance.
+また、英国政府は、英国内のサプライヤーから英国外のバイヤーへの供給の保険や融資をサポートするために500億ポンドを用意しています。このサポートとは、UK Export Financeという輸出信用機関から発行される保証、保険、そして融資です。
