@@ -1,6 +1,5 @@
 ---
-title: "Set up a company in the UK"
+title: "英国で会社を設立する"
 ---
 
-You can set up a private limited UK company online in just 24 hours, or register a branch of your existing company in up to 4 weeks.
-
+英国市場に参入する海外投資家は一般的に、現地法人又は子会社を英国内に設立しています。あるいは、外国企業の英国支店を登記するという手段もあります。

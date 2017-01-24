@@ -18,4 +18,4 @@ Antes de iniciar o processo, necessitará:
  
 Uma empresa do Reino Unido tem de ter os estatutos de sociedade. Estes documentos devem estar válidos no momento da constituição da sociedade. Pode selecionar documentos padrão na data da constituição da sociedade; em alternativa, consultores profissionais podem preparar e preencher documentação à medida em nome da sua empresa.
 
-Embora não seja um requisito legal ter um diretor ou acionista residente no Reino Unido para estabelecer uma empresa no Reino Unido, muitos bancos preferem esta opção antes da [abertura de uma conta bancária empresarial](https://invest.great.gov.uk/pt/setup-guide/open-a-business-account/) para a sua empresa.
+Embora não seja um requisito legal ter um diretor ou acionista residente no Reino Unido para estabelecer uma empresa no Reino Unido, muitos bancos preferem esta opção antes da [abertura de uma conta bancária empresarial](/br/setup-guide/open-a-business-account/) para a sua empresa.

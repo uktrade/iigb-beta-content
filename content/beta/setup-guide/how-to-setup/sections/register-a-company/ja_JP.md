@@ -1,18 +1,17 @@
 ---
-title: "Register (incorporate) a company in the UK"
-published: true
+title: "会社を登記（法人化）する"
 ---
-By incorporating a company, you’ll create a separate legal entity in the UK, which is known as a private limited company.
+会社法人として登記することで、「非公開有限責任会社」と呼ばれる法人格が新たに英国内に成立します。
 
-The process to [register (incorporate) a private limited company in the UK](https://www.gov.uk/register-a-company-online) is straightforward and typically takes less than 24 hours.
+英国で非公開有限会社を登記（法人化）する手続きは簡単で、所要時間は通常24時間未満です。
  
-### Before you start the process, you’ll need:
+### 手続きを開始する前に、以下の情報が必要です。
 
-- a name for the company
-- an address, which can be any UK address, to act as the registered address of the company
-- at least one director (does not need to be UK resident)
-- at least one shareholder (can be corporate or an individual)
+- 企業名
+- 登記上の住所となる所在地（英国内であればどこでも可）
+- 役員予定者1人以上（非英国居住者も可）
+- 株主1人もしくは1社以上（個人、法人いずれも可）
  
-A UK company must have a Memorandum and Articles of Association. These documents must be in place at the time of incorporation. You can select standard documents at the date of incorporation, or professional advisers can prepare and file tailored documents on your company’s behalf.
+英国に会社を設立するには、基本定款と付属定款が必要です。これらの文書は、登記の際に定められている必要があります。登記に際し、モデル定款を採用するか、あるいは専門アドバイザーらに貴社の条件に合わせて定款を誂えるよう委託することも可能です。
 
-While it is not a legal requirement to have a UK resident director or shareholder to set up a UK company, many banks will prefer this before they will [open a UK business bank account](/us/setup-guide/open-a-business-account/) for your business.
+英国在住の取締役や株主を有することは、法人設立の法的要件ではありませんが、英国の銀行で[法人口座を開設するには](/jp/setup-guide/open-a-business-account/)、銀行側から英国在住の役員または株主を有することが要件として提示されることがよくあります。
