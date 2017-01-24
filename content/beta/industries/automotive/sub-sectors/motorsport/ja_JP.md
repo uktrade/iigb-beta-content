@@ -1,6 +1,5 @@
 ---
-title: "Motorsport"
-published: true
+title: "英国のモータースポーツ "
 ---
 
-The UK leads the world in motor sport with a turnover of 9 billion GBP and more than 4,500 businesses operating in the sector.
+英国は、グローバルなモータースポーツの拠点です。同産業には4,500社を超える企業が事業を展開しており、90億ポンドの売上げを実現しています。英国を拠点とする企業は、ナスカーやフォーミュラE、中国ツーリングカー選手権など、さまざまなレースで競うチームに対する主要サプライヤーとして活躍しています。特に、F1に参加する全11チームのうち、7チームが英国に拠点を置いていることはよく知られています。
