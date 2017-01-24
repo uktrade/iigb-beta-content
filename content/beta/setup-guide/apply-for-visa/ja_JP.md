@@ -1,5 +1,4 @@
 ---
-title: "Apply for a UK visa"
-published: true
+title: "英国の査証（ビザ）を申請する "
 ---
-Anyone from outside of the European Economic Area and Switzerland may need to apply for a UK visa to work in the UK or visit for business reasons.
+業務目的で英国に入国する場合、又は、欧州経済領域（EEA、スイスを含む）外から人材を雇用する場合は、英国の査証（ビザ）を申請することが必要になる場合があります。
