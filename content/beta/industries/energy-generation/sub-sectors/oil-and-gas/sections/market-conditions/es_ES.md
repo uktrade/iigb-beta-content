@@ -1,24 +1,21 @@
 ---
 title: "Market conditions"
 ---
-With over 100 years experience, businesses can be sure that they’re entering a market that’s widely acknowledged as a global leader.
+Con más de 100 años de experiencia, las empresas pueden estar seguras de estar accediendo a un mercado ampliamente reconocido como un líder global.
 
-We are well placed to investigate new technologies and innovations. The UK is now focusing on technically challenging methods of extraction and production, including:
+Estamos perfectamente posicionados para investigar las nuevas tecnologías e innovaciones. El Reino Unido se está centrando en métodos de extracción y producción técnicamente complejos, entre los que se incluyen:
 
-- heavy oil
-- high-pressure, high-temperature extraction
-- enhanced oil recovery
-- special materials for sealing systems
+- Aceite pesado.
+- Extracción a alta presión y alta temperatura.
+- Recuperación mejorada.
+- Materiales especiales para sistemas de sellado.
 
+### Desarrollo seguro de gas de esquisto
 
-### Safe development of shale gas
+El Gobierno británico está respaldando el desarrollo seguro de gas de esquisto tierra adentro porque es beneficioso para el empleo, la seguridad energética y los planes del país para reducir las emisiones de carbono en la economía. 
 
-Onshore, the UK government is backing the safe development of shale gas because it’s good for jobs, energy security and the UK’s plans to decarbonise the economy. 
+Según un informe publicado por Ernst & Young en 2014, la inversión en el esquisto podría llegar a los 33 000 millones y crear 64 000 puestos de trabajo.
 
-According to a report published by Ernst & Young in 2014, investment in shale could reach £33 billion and support 64,000 jobs.
-
-The British Geological Survey has  identified areas with potentially large reserves of shale gas and oil. UK geology is promising, but we make no assumptions about production levels. We need exploration to determine the potential.
+El Estudio Geológico Británico ha identificado áreas con grandes reservas potenciales de gas de esquisto y petróleo. La geología del país es prometedora, pero no realizamos suposiciones sobre los niveles de producción. Necesitamos explorar más a fondo para determinar el potencial.
  
-Our current priority is investment in new gas plants with new build, storage and distribution opportunities. Our switch from coal to gas will require storage and distribution network upgrades.
- 
-
+Nuestra prioridad actual es la inversión en nuevas plantas de gas con nuevas oportunidades de construcción, almacenamiento y distribución. El cambio del carbón al gas requerirá mejoras en las redes de almacenamiento y distribución.
