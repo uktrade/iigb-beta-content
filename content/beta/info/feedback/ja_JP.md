@@ -1,7 +1,5 @@
 ---
-title: "Help us improve this service"
+title: "サービスの向上にご協力ください"
 ---
 
-We would love to hear your thoughts, concerns or problems 
-
-with any aspects of the service so we can improve it.
+このサービスについてのご意見、ご不満、問題点などをぜひお聞かせください。サービスの向上に役立てさせていただきます。

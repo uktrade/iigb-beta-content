@@ -1,5 +1,3 @@
 ---
-published: false
-title: "Privacy and cookies"
+title: "great.gov.uk　プライバシーとCookieに関する方針"
 ---
-

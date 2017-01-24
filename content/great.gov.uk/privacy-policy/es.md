@@ -1,5 +1,4 @@
 ---
-published: false
-title: "Privacy and cookies"
+title: "Declaración de great.gov.uk sobre privacidad y cookies"
 ---
 

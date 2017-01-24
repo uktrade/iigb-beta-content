@@ -1,9 +1,8 @@
 ---
-title: "An attractive business environment with regional strengths"
+title: "地域的な長所を活かした、魅力的な事業環境 "
 ---
-London is central to the UK’s strong international position. Respondents to The Banker’s Global Asset Management Survey have voted it the most attractive global location for relocating or expanding asset management operations, ahead of Hong Kong, Singapore and New York.
- 
-Edinburgh, Manchester, Cardiff and Birmingham are also well known as bases for companies with expertise in fund management.
+ロンドンは、英国が強力な国際的地位を維持する上で要となっています。Banker’s Global Asset Management Survey によると、資産運用オペレーションの移転先や拡張先として、香港、シンガポール、ニューヨークを抑えてロンドンが世界中で最も魅力的であるとされています。
 
+エジンバラ、マンチェスター、カーディフ、バーミンガムも、専門性の高い資産運用会社の拠点としてよく知られています。
 
-Currently, the asset management sector in the UK employs over 90,000 people nationwide.
+現在、英国全体の資産運用セクターでは90,000人が勤務しています。

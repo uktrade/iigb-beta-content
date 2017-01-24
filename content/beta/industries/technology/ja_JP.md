@@ -1,7 +1,6 @@
 ---
-title: "Technology"
+title: テクノロジー
 published: true
 ---
 
-The UK’s technology sector is one of the largest in Western Europe. Its output plays a vital role in every other industrial sector including automotive, financial services, retail and logistics.
-
+英国のテクノロジー産業は西欧で最大級です。自動車から、金融サービス、リテール、ロジスティクスに至る全てのセクターを支える基盤において、英国のテクノロジーが活用されています。

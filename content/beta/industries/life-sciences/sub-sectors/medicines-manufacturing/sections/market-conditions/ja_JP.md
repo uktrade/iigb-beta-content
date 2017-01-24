@@ -1,18 +1,21 @@
 ---
-title: "Creating tomorrow’s medicines"
+title: 明日の薬を創る
 ---
-The UK has a long and successful track record in pharmaceutical manufacturing. There’s a strong drive to develop manufacturing for the health and life sciences technologies of the future, such as advanced therapies, digital design or near-patient manufacturing. Whether you’re looking to make tomorrow’s medicines or next generation medical technologies and healthcare products, your company will thrive here.
 
-### A highly advanced sector and supply chain
+英国は医薬品製造に長年の実績があります。また、先端医療、デジタル設計、治療現場に近い場所での製造など、未来のヘルスケアやライフサイエンスの関連製品技術を開発する強いモチベーションがあります。英国は、明日の医薬品、次世代の医療技術やヘルスケア製品を探索している企業に、成功する環境を提供します。
 
-There are around 1,300 companies involved in pharmaceutical manufacturing in the UK. Manufacturing in the life sciences accounts for nearly 10% (Gross Value Added) of all UK manufacturing, and sector exports are more than 30 billion GBP.
+### 最先端の産業及びサプライ・チェーン
 
-The pharmaceuticals sector alone conducts more UK-based business research and development than any other manufacturing sector, making up more than 20% of all business research and development in the UK. 
+英国で医薬品製造に携わっている企業は約1300社あります。ライフサイエンス分野での製造は、粗付加価値ベースで英国の全製造分野の約10%を占め、この分野の輸出は総額で300億ポンド以上です。
 
-The industry-led Medicines Manufacturing Industry Partnership (MMIP) works with the UK government to continue to improve and enhance the UK medicines manufacturing environment
+医薬品部門だけでも英国産業界の全研究開発の20%以上を占め、他のどの製造部門よりも多くのR&Dを英国で行っています。
 
-### Robust regulation with high standards and low risk
-Businesses which set up or invest in the UK benefit from a low-risk manufacturing environment. Our industry offers a highly respected regulatory framework with robust compliance and quality assurance culture at every level. This means there are fewer chances of product recalls.
+業界主導の組織Medicines Manufacturing Industry Partnership (MMIP)は英国政府と協調し、英国の医薬品製造環境を絶えず改良し、向上させています。
 
-The Medicines and Healthcare products Regulatory Agency (MHRA) is a supportive and pragmatic regulator. Its [Innovation Office](https://www.gov.uk/government/groups/mhra-innovation-office) helps businesses clarify product regulatory or manufacturing requirements and can find faster routes to market.
-MHRA has global impact as a regulatory agency and in setting international standards. The agency’s National Institute for Biological Standards and Control produces more than 90% of the international standards for biological medicines.
+### 徹底した規制、高水準かつ低リスクの製造環境
+
+英国に投資し、事業を設立する企業は、低リスクの製造環境というメリットのもとで、ビジネスを行うことができます。あらゆるレベルでコンプライアンスを徹底し、品質を保証する文化があり、規制枠組みは高い評価を得ています。その結果、製品回収のリスクが少なくなります。
+
+英国医薬品・医療製品規制庁（Medicines and Healthcare products Regulatory Agency、MHRA）は協力的かつ実用的な機関であり、その中にある[Innovation Office](https://www.gov.uk/government/groups/mhra-innovation-office)は、企業に対し製品の規制や製造上の要件を明確にし、より早く市場にアクセスできるようサポートします。
+
+MHRAは規制当局として、また国際規格の設定に際し世界的な影響力があります。当庁の国立生物学的製剤研究所（National Institute for Biological Standards and Control、NIBSC）は、生物医薬品に関する国際標準の90％以上を作成しています。

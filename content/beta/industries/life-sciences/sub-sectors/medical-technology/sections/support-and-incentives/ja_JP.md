@@ -1,31 +1,26 @@
 ---
-title: "Support and incentives"
+title: 支援とインセンティブ
 published: true
 ---
-The UK also offers access to innovative researchers in engineering, physical, social, medical, and digital sciences. 
 
-### Organisations that provide support
+英国で投資や会社設立をする場合は、製品デザイン、開発、納品のあらゆる段階で、医療技術パートナーの協力を得ることができます。
 
-If you’re investing in or setting up in the UK, you can benefit from supportive medical technology partners at every step of your journey - from design to development to delivery.
+[EPSRC Centre for innovative manufacturing in medical devices](https://www.epsrc.ac.uk/research/centres/innovativemanufacturing/imrcmedicaldevices)では、機能的層別設計と治療現場製造に関する高度な手法を開発しています。これにより医療機器の機能を患者ニーズと手術環境にコスト効率よく合わせることができます。
 
-The [EPSRC Centre for innovative manufacturing in medical devices](https://www.epsrc.ac.uk/research/centres/innovativemanufacturing/imrcmedicaldevices) is developing advanced methods for functionally stratified design and near-patient manufacturing. This enables cost effective matching of device function to the patient needs and surgical environment.
+[Innovate UK](https://www.gov.uk/government/organisations/innovate-uk)は、テクノロジーを活用したイノベーションを推進しています。知識移転パートナーシップ（Knowledge Transfer Partnership）により、企業が英国の世界クラスの大学、カレッジ、研究機関などとの共同パートナーシップを築くことができます。
 
-[Innovate UK](https://www.gov.uk/government/organisations/innovate-uk) stimulates technology-enabled innovation. Its Knowledge Transfer Partnership can help businesses develop collaborative partnerships with the UK’s world-class universities, colleges and research organisations.
+[High-Value Manufacturing Catapult](https://hvm.catapult.org.uk/)は、ラピッドプロトタイピングを支え、企業が優れた科学者やエンジニアと協働することにより、製造アイデアを価値ある製品やサービスに変えていくことをサポートしています。
 
-The [High-Value Manufacturing Catapult](https://hvm.catapult.org.uk/) can support rapid prototyping and help businesses work with leading scientists and engineers to transform manufacturing ideas into valuable products and services.
+[National Institute for Health Research](http://www.nihr.ac.uk/life-sciences-industry/) の臨床研究インフラストラクチャー室および臨床研究ネットワークは、学界および臨床専門家へのアクセスと協働を提供しています。また、研究分析サポート、データサンプル、助成金、臨床試験などの各側面においても情報提供サービスを提供しています。
 
-The [National Institute for Health Research](http://www.nihr.ac.uk/life-sciences-industry/) (NIHR) Office for Clinical Research Infrastructure and Clinical Research Network offers access to academic and clinical expertise and collaboration. It also provides  a managed service for clinical studies, funding opportunities, data samples and analytical support for research.
+NIHRの[Invention for Innovation (i4i)](http://www.nihr.ac.uk/funding-and-support/funding-for-research-studies/how-to-apply/research-programmes/invention-for-innovation/)プログラムは、既存のあるいは今後の臨床ニーズがある分野において患者の利益を増大するために、医療技術と医療介入を促進させる資金調達方法です。i4iは、原理の証明を行い、採択と商業化への確かな道筋のある共同研究開発プロジェクトをサポートしています。
 
-The NIHR’s [Invention for Innovation](http://www.nihr.ac.uk/funding-and-support/funding-for-research-studies/how-to-apply/research-programmes/invention-for-innovation/) (i4i) Programme is a funding scheme to advance healthcare technologies and interventions for increased patient benefit in areas of existing or emerging clinical need. i4i supports collaborative research and development projects that have demonstrated proof-of-principle and have a clear pathway towards adoption and commercialisation.
+[Medicines and Healthcare products Regulatory Agency](https://www.gov.uk/government/organisations/medicines-and-healthcare-products-regulatory-agency) (MHRA)は実用的で協力的な規制機関で、医療技術および薬剤とデバイスの組み合わせに関する専門知識を豊富に持っています。新規の医薬品や医療機器を開発し、あるいは新規の製造プロセスを用いる企業を応援しています。
 
-The [Medicines and Healthcare products Regulatory Agency](https://www.gov.uk/government/organisations/medicines-and-healthcare-products-regulatory-agency) (MHRA) is a pragmatic and supportive regulator with significant expertise in medical technologies and drug-device combinations.The MHRA's Innovation Office helps organisations that are developing innovative medicines, medical devices or using new manufacturing processes.
+[National Institute for Health and Care Excellence](https://www.nice.org.uk/) (NICE)は、医療技術評価の分野における世界的なリーダーです。病気や健康障害を予防、診断、治療するためのもっとも効率的な方法に関する、独立的で権威あるエビデンス・ベースのガイダンスを公表しています。NICEのOffice for Market Accessは、NICEのプロセス、どのように当機関と協力し企業の目的を達成できるのか、そしてNICEと医療制度の他の部分との関係を説明しています。
 
-The[ National Institute for Health and Care Excellence](https://www.nice.org.uk/) (NICE) is a world leader in health technology assessment. It produces independent, authoritative and evidence-based guidance on the most efficient ways to prevent, diagnose and treat disease and ill health. Its Office for Market Access will help you understand NICE processes, how to work with the body to achieve your aimsand how NICE links with different parts of the system.
+NICEの[Medical Technologies Evaluation Programme](https://www.nice.org.uk/About/What-we-do/Our-Programmes/NICE-guidance/NICE-medical-technologies-evaluation-programme)は、患者に大きな利益をもたらす可能性のある医療技術を特定します。NICEがある医療技術についてガイダンスを制定すれば、網羅的にかつ速やかに採用される可能性が高くなります。
 
-The NICE [Medical Technologies Evaluation Programme](https://www.nice.org.uk/About/What-we-do/Our-Programmes/NICE-guidance/NICE-medical-technologies-evaluation-programme) identifies medical technologies that have the potential to offer substantial benefit to patients. Medical technologies are likely to be adopted consistently and rapidly if NICE develops guidance on them.
+[Academic Health Science Networks (AHSN)](http://www.ahsnnetwork.com/)は企業がNHSに参画していくための入り口です。NHS、学界、民間セクター、その他の外部組織間でのパートナーシップと協調に基づいています。
 
-[Academic Health Science Networks](http://www.ahsnnetwork.com/) (AHSNs) are a gateway for industry into the NHS. They are based on partnership working and collaboration between the NHS, academia, the private sector and other external partners.
-
-AHSNs present a unique opportunity to align education, clinical research, informatics, innovation, training and education, and healthcare delivery. They support knowledge exchange networks and provide support for rapid evaluation and early adoption of innovation.
-
-The government also has up to 50 billion GBP available to support finance and insurance for   supplies from within the UK to buyers outside the UK. This support takes the form of guarantees, insurance and loans issued by its export credit agency, UK Export Finance.
+AHSNは教育、臨床研究、情報科学、イノベーション、教育訓練、そしてヘルスケア供給の連携を図るユニークな機会を提供しています。知識共有ネットワークを支援し、イノベーションの迅速な評価と早期採用に関するサポートを行っています。

@@ -1,5 +1,5 @@
 ---
-title: "Asset management"
+title: "英国における資産運用 "
 ---
 
-The UK is one of the largest asset management markets in the world. It is Europe's leading centre for fund management, and already attracts significant overseas funds.
+英国は、世界最大級の資産運用市場です。欧州における資産運用のリーディング･センターであり、既に多額の海外資金が集結しています。

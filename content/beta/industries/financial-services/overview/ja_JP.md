@@ -1,16 +1,12 @@
 ---
-title: "Financial services overview"
-published: true
+title: "金融サービスの概要 "
 ---
-Our position at the heart of the global financial community is one of the reasons that so many international companies choose the UK. Many of the world’s leading investment houses and financial institutions are based here.
-London is recognised globally for its flexible, principles-based approach to regulating its capital markets. 
-London topped every category in the [Global Financial Centres Index 20](http://www.zyen.com/research/gfci.html) compiled by Z/Yen in the September 2016 group, staying ahead of New York, Singapore and Hong Kong.
-
-The index showed that London has:
-
-- the best business environment
-- the most developed financial centre
-- the most impressive infrastructure
-- the best human capital
-- the top overall reputation
-
+多くの国際企業が英国を選ぶ理由のひとつに、英国がグローバル金融コミュニティの中心地であることが挙げられます。世界有数の投資会社や金融機関の多くが英国に本拠を置いています。
+ロンドンは、資本市場の規制に関して原則主義に基づく柔軟なアプローチを採用しているため、世界で高く評価されています。
+ロンドンは、Z/Yenグループが2016年9月にまとめた[世界グローバル金融センター指数20 (Global Financial Centres Index 20) ](http://www.zyen.com/research/gfci.html)において、ニューヨーク、シンガポール、香港を抑えて全てのカテゴリーでトップに立ちました。
+この調査では、ロンドンを以下のように評価しています：
+- 最高のビジネス環境
+- 最も発達した金融センター
+- 最も優れた金融インフラストラクチャー
+- トップクラスの人材プール
+- 総合的に見てトップの評価

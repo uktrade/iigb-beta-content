@@ -1,3 +1,3 @@
 ---
-title: "Enquiry submitted"
+title: "英国における投資にご関心をお持ちいただき、ありがとうございました。"
 ---

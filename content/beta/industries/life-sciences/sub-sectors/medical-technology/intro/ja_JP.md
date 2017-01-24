@@ -1,5 +1,5 @@
 ---
-title: "Medical technology in the UK"
+title: 英国における医療技術
 ---
-  
-The UK is the third largest market for medical technology in Europe. Investors can benefit from industry partners that offer product support from design to development to delivery.
+
+英国は欧州第3位の医療技術市場です。製品設計から開発や販売に至るすべての領域で優れた企業が存在しており、英国に進出する海外企業の事業をサポートすることが可能です。

@@ -1,143 +1,141 @@
 
-## Your personal information
+## 個人情報
 
-This page explains what kind of personal information the [Department for International Trade](http://www.gov.uk/dit) (DIT) holds about you, how it’s used, how it’s protected and how you can find out about it.
+本ページでは、国際通商省（DIT）が収集する皆様の個人情報の種類、収集した個人情報の用途や保護について、さらには個人情報に関する照会方法についてご説明します。
 
-Please read this page carefully to understand how we collect, use and store your personal information.  Please also re-visit it from time to time to review any changes that have been made.
+本ページをご一読頂き、DITによる個人情報の収集、利用、保管方針についてご理解ください。この方針は変更される場合がありますので、定期的にご覧ください。
+## DITが保管する個人情報
 
-## What information the DIT stores about you
+GREAT.gov.ukおよびDITが保管する個人情報には、例えば以下のようなものがあります。
+- ご氏名
+- 皆様が選択したユーザー名およびパスワード
+- メールアドレス
+- ご所属の企業の住所
+- ご所属の企業の輸出実績
+- 皆様のコンピューターからインターネットに接続する際に使用されるIPアドレス
+- ブラウザの種類およびバージョン、使用中のブラウザプラグイン
+- タイムゾーン設定
+- OSおよびプラットフォーム
+- 本サイトの流入、回遊、退出時にご使用になったURL（日時を含む）
+- 閲覧ページまたは検索語句
+- ページ応答時間、ダウンロードエラー、特定のページへの訪問時間、ページインタラクション情報（スクロール、クリック、「マウスオーバー」など）
+- 本ウェブサイトからの退出方法
+- カスタマーサービス・ヘルプラインに電話される時にお使いになった電話番号
 
-GREAT.gov.uk and the DIT will, for example, store the following information about you:
-* your name
-* your chosen username and password
-* your email address
-* your business’s address
-* your business’s exporting experience
-* your internet protocol (IP) address used your computer to connect to the internet
-* your browser type and version, and any browser plug-ins you use
-* your time-zone setting
-* your operating system and platform
-* the full uniform resource locators (URLs) you used to get to our site, through our site and from our site (including the date and time)
-* pages you viewed or terms you searched for
-* page response times, download errors, length of visits to certain pages, page interaction information (such as scrolling, clicks, and ‘mouse-overs’)
-* methods used to browse away from the page
-* phone numbers used to call our customer service helpline
+これらの情報には個人情報ではないものも含まれておりますが、これらの情報のうちどの範囲が個人情報に該当するかは、適用されるデータ保護関連法令により異なります。
 
-Not all of this information will be personal data, and the extent to which any of this information is personal data may depend on applicable data protection laws.
+これらの情報の一部は、Cookieの使用や、他の関連トラッキング技術を用いて収集されます。Cookieは本ウェブサイト上で皆様を他のユーザーと識別するために用いられます。DITは、Cookieの機能や、本ウェブサイト上でのDITによるCookieの利用に関する詳細リストを提供しております。詳細については[Cookieに関するポリシー](https://www.exportingisgreat.gov.uk/privacy-and-cookies/)をご覧ください。
 
-Some of this information will be collected through the use of cookies and other related tracking technologies.  Cookies are used to distinguish you from other users of this website. DIT provides details on what cookies do and a full list of cookies that DIT uses on its websites. For more information see our cookie policy.
+DITが運営する他のウェブサイトやDITが提供するサービスを皆様がご利用になった場合、DITは皆様に関する情報を収集する場合があります。また、DITは第三者（パートナーや業務委託先など）と提携し、第三者から皆様に関する情報を収集する場合があります。
 
-DIT may receive information about you if you use any of the other websites the DIT operates or services DIT provides. DIT also works with third parties (for example, partners and subcontractors) and may receive information about you from these third parties.  You should refer to the privacy policies of those third parties if you have concerns about their disclosure of your personal information to us.
+第三者からのDITに対する皆様の個人情報の開示については、該当する第三者のプライバシーポリシーをご確認ください。
 
-## How the DIT protects your personal information
+## DITの個人情報保護方針
 
-The DIT complies with the Data Protection Act 1998. 
+DITは1998年英国データ保護法を遵守しています。
 
-The DIT will:
-* tell you why the information is needed. For example, we ask about your company’s exporting experience to decide whether it is suitable for inclusion in the Find a Buyer service.
-* only ask for what’s needed
-* make sure nobody has access to it who shouldn’t
-* tell you if the information is shared with other organisations and if you can say no to this
-* only keep the information for as long as it’s needed
-* not make it available for commercial use (for example, for marketing) without your permission
+DITは、以下の方針に従います。
+- 情報が必要な理由をご説明します。例えば、「Find a Buyer」サービスに登録するのが適切かどうかを決定するにあたり、ご所属の企業の輸出実績についてお伺いしております。
+- 必要な情報のみをお伺いしています。
+- 権限のない人がアクセスできないよう適切な措置を施しています。
+- 他の組織と情報を共有するかどうか、また、皆様が共有を拒否できるかどうかをご説明しています。
+- 必要な期間に限り情報を保管します。
+- 皆様の許可無く商用利用（マーケティング等）することはありません。
 
-You must:
-* give accurate information
-* tell the DIT about any changes, for example, to your address
+皆様には、以下のお願いをしています。
+- 正確な情報を提供いただくこと
+- 皆様の住所等、情報の変更についてお知らせください
 
-## Sharing your information
+## 情報共有
 
-Your information can be shared with other teams in the DIT or other organisations where this is needed to process your application.
+DIT内の他のチームやDIT以外の組織が皆様の申請を処理する必要がある場合、皆様の情報を共有する場合があります。
 
-There are some cases when your information can be shared for other reasons, for example, to prevent crime. 
+犯罪防止など、他の理由で皆様の情報が共有される場合もあります。
 
-If you’re asking for information that isn’t published on www.GREAT.gov.uk, DIT may need to contact other organisations to find answers to your questions.
+www.GREAT.gov.uk上で公開されていない情報について皆様がご質問された場合、DITはご質問に回答するため、必要に応じて他の組織に連絡する場合があります。
 
-If your question is technical, DIT may need to pass information to technology suppliers. DIT will only pass on personal data if it is necessary to do so, and will not keep your personal data or records of its correspondence longer than necessary.
+技術的なご質問の場合、DITは技術サプライヤーに情報を転送する必要がある場合があります。DITは必要な場合に限り個人情報を転送し、必要な期間を超えて皆様の個人データや通信記録を保持しません。
+## DIT職員による情報処理
 
-## The DIT staff handling your information
+DIT職員は、情報処理の訓練を受けており、個人情報やその他の機密情報を保護する重要性について理解しています。
 
-The DIT staff are trained in handling information and understand how important it is to protect personal and other sensitive information.
-Within DIT, access to your personal information is limited to those members of our team who need access to it in order to provide you with our services which you request; to communicate with you (including, with your consent,  to send you marketing communications); and to carry out legal or regulatory obligations. 
+DITでは、皆様がお求めになったサービスの提供、連絡（皆様の同意の下でマーケティング資料をご送付する場合を含む）、あるいは法令の義務を履行を目的として、必要のあるチーム職員のみが皆様の個人情報にアクセスすることができます。
 
-## Your rights
+## 皆様の権利
 
-You have the right to:
-* ask to receive a copy of the personal information the DIT holds about you
-* amend inaccurate personal information
-* stop us sending you direct marketing communications
-* in limited circumstances, to have personal information erased, or to restrict or challenge or processing of that personal information
+皆様には以下の権利があります。
+- DITが保持する皆様の個人情報のコピーを請求すること
+- 不正確な個人情報を修正すること
+- DITからのダイレクトマーケティング資料を拒否すること
+- 一定の状況下において、個人情報の消去を求め、あるいは当該個人情報の処理について制限や異議申立てを行うこと
 
-To exercise any of these rights, fill in the [DIT contact form](https://www.contactus.trade.gov.uk/enquiry/topic) or write a letter to:
+上記の権利を行使される場合、[DITコンタクトフォーム](https://www.contactus.trade.gov.uk/enquiry/topic)よりご連絡頂くか、その旨を書面で以下の住所にお送りください。
 
-Department for International Trade  
-King Charles Street  
-Whitehall  
-London  
-SW1A 2AH  
+Department for International Trade
+King Charles Street
+Whitehall
+London
+SW1A 2AH
 
-Copies of your information and details of use cost £10, payable in advance.
+皆様の情報や利用の詳細に関するコピーの発行手数料は10ポンドです（事前のお支払いをお願いしています）。
+安全保障等の理由でDITが情報提供をしない場合があることをあらかじめご了承ください。
 
-Sometimes the DIT can withhold information, for example, to protect national security.
+## 不服申立ての手順
 
-## How to make a complaint
+DITによる個人情報取扱方法に関する不服申立てについては、下記の住所に書面でご連絡ください。
 
-If you’re unhappy with the way the DIT handled your personal information, you can write to:
+Department for International Trade
+King Charles Street
+Whitehall
+London
+SW1A 2AH
 
-Department for International Trade  
-King Charles Street  
-Whitehall  
-London  
-SW1A 2AH  
+DITでは、皆様の不服申立てを受領した旨の確認書を5日以内、完全な回答を20日以内に発送します。遅延が生じる場合はDITよりその旨ご連絡します。
 
-You’ll get a confirmation that the DIT has received your complaint within 5 days and a full answer within 20 days. The DIT will tell you if there’s going to be a delay.
+回答に不満がある場合や助言が必要な場合は、[情報コミッショナー事務局(ICO)](https://ico.org.uk/concerns/getting/)にご連絡ください。
 
-If you’re unhappy with the answer or need any advice, contact the Information Commissioner’s Office (ICO).
+ICOは皆様の不服申立てについて調査し、個人情報を濫用した者に対する措置を講じる場合があります。
 
-The ICO can investigate your complaint and take action against anyone who has misused personal data.
 
-## Changes to this privacy policy
+## 本プライバシーポリシーの変更
+本プライバシーポリシーに対する一切の変更については、本ウェブページに公開します。プライバシーポリシーの更新や変更について適宜ご確認ください。
+DITによる皆様の個人情報の取り扱いについては、DIT情報憲章に明記されています。
 
-Any changes made to this privacy policy will be posted on this webpage. Please check back for updates or changes to our privacy policy.
-The way the DIT deals with your personal information is set out in its information charter.
+## DIT Cookieポリシー
+DITは、利用しやすく有益で信頼性の高いサービスの提供を望んでいます。インターネット上でサービスを提供する場合、コンピューターや携帯電話など皆様のデバイスに関する若干の情報を利用する場合があります。
+これは、Cookieと呼ばれる小さなファイルです。Cookieは直接皆様を特定するために用いることはできません。これらの情報は、例えば以下のように皆様に提供するサービスを改善するために用いられます。
+- 同じ情報を複数回提供する必要がないように、サービスがデバイスを識別することを可能にする
+- サービスの利用人数を測定して、利便性を高める
+ご自身でCookieファイルを管理する場合や、詳細についてお知りになりたい場合には、Cookieについてをご覧ください。
 
-## DIT cookies policy
+## ## 本ウェブサイト上でのCookieの利用
 
-DIT wants to provide services that are easy to use, useful and reliable. Where services are delivered on the internet, this sometimes involves placing small amounts of information on your device, for example, computer or mobile phone. 
+www.GREAT.gov.ukではCookieを利用しています。本ウェブサイトはこれにより、同じ質問を複数回しないなど、より適切な情報を提供することができます。
 
-These include small files known as cookies. They cannot be used to directly identify you personally. These pieces of information are used to improve services for you through, for example:
-* enabling a service to recognise your device so you don’t have to give the same information several times
-* measuring how many people are using services, so they can be made easier to use
+本ウェブサイトはGoogleアナリティクスを使用しています。GoogleアナリティクスはCookieを設定することにより、本ウェブサイトへの訪問者数や利用量を正確に推計することができます。これにより、皆様がサービスを必要とするときに迅速に利用できるようになります。
 
-You can manage these small files yourself and learn more about them through on About Cookies.
+www.GREAT.gov.ukで用いられるGoogleアナリティクスは以下の通りです。
 
-## Use of cookies on this website
+名称：_ga
+保持期限：2年間
+目的：ユーザーの識別
 
-The www.GREAT.gov.uk website uses cookies. These enable the website to provide more appropriate information to you, for example, by not asking for the same information on multiple occasions.
+名称：_gat
+保持期限：10分間
+目的：Googleアナリティクスのリクエストを制限するため
 
-The website uses Google Analytics, which sets cookies to help us accurately estimate the number of visitors to the website and volumes of usage. This to ensure that the service is available when you want it and fast.
+Find a BuyerサービスやFind a Supplierサービスのユーザーには、以下のCookieが追加で設定されます。
 
-The Google Analytics cookies used on www.GREAT.gov.uk are:
+名称：_SessionID
+保持期限：なし
+目的：セッションIDの保持
 
-Name: _ga  
-Expires: after 2 years 
-Purpose: to distinguish users  
+名称：_Sso_session_cookie
+期限：なし
+目的：シングルサインオン用にセッションIDの保持
 
-Name: _gat  
-Expires: after ten minutes  
-Purpose: Used to limit requests to Google Analytics  
+名称：_Seen_cookie_message
+保持期限：なし
+目的：すでに表示されたCookieポップアップメッセージの表示を防止
 
-Additional cookies are set for users of the Find a Buyer service and the Find a Supplier service. These are: 
-
-Name: _SessionID  
-Expires: never  
-Purpose: Maintains the session id  
-
-Name: _Sso_session_cookie  
-Expires: never  
-Purpose: Maintains the session id for single sign on  
- 
-Name: _Seen_cookie_message  
-Expires: never  
-Purpose: Prevents cookies pop-up message displaying if already seen and acknowledged  
-For further details on the cookies set by Google Analytics, please refer to the [Google Code](https://developer.google.com/) website.
+Googleアナリティクスが設定するクッキーについての詳細は、[Google codeウェブサイト](https://developer.google.com/)をご参照ください。

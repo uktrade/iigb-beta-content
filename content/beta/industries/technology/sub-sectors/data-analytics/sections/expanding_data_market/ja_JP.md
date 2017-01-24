@@ -1,18 +1,13 @@
 ---
-title: "The UK’s rapidly expanding data market"
+title: 急速に拡大する英国のデータ市場
 ---
 
-The UK has one of the world’s strongest and most developed data analytics sectors, and it’s growing. Predictions have put growth over the next 5 years at 177%, with 'big data' user numbers increasing to around 644,000. 
+データ・アナリティクス分野において、英国は世界を牽引し続ける存在です。今後5年間の成長率は177%と見込まれており、更に「ビッグデータ」のユーザー数は約64万4000人にのぼると予測されています。
 
+この成長により、英国経済には2017年までに5万8000人の雇用が創出され、2020年までにおよそ2410億ポンドの経済効果がもたらされると予測されています。
 
-The expected benefits of this growth to the UK economy are huge. The industry is forecast to create 58,000 new jobs by 2017 and generate 241 billion GBP by 2020. 
+技術革新によってより多くのデータが取り扱われるようになった昨今、英国の企業はその膨大なデータの収集、処理および分析をする上で世界を牽引しています。低消費電力無線や5Gネットワークによるデータ収集から、堅固なオープンデータセットの共有に至るまで、英国が誇るテクノロジーの専門性は、幅広い分野の技術の振興に役立っています。
 
+英国に拠点を置く企業によるクラウド技術の導入率は、2010年の48%から2015年の84%までほぼ倍増し、クラウド・ストレージ・ソリューションを採用する英国企業がまずます増加しています。
 
-More connectivity means more data and our companies are leading the way in collecting, processing and understanding it. From data gathering through 5G networks and low energy radio, through to data sharing with robust open data sets, our expertise extends across the full range of technological advancements.
-
-
-More and more UK companies are adopting cloud-based storage solutions. Adoption of cloud technologies by businesses based in the UK has almost doubled from 48% in 2010 to 84% in 2015. 
-
-
-The UK is currently the world’s second largest exporter of computer and information services.
-
+英国は現在コンピュータ・情報関連サービスの輸出において世界第2位となっています。

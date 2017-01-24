@@ -1,19 +1,20 @@
 ---
-title: "Our talent and skills"
+title: 人材とスキル
 ---
-The sector employs nearly 115,000 people and the UK has the highest number of skilled engineers and researchers in Europe.
 
-Businesses can leverage a talent base across disciplines - in engineering, physical, social, medicine and digital services.
+英国の医療技術産業は約11万5000人を雇用しておりが、欧州内で最も多くの熟練エンジニアと研究者を保有しているのが英国です。
 
-### Support along the product design, development and delivery pathway
+エンジニアリング、リハビリ･介護サービス、社会福祉、医薬品、デジタルサービスなど、企業は分野横断的に優秀な人的資源を活用することができます。
 
-The UK offers the opportunity for medical technologies innovators to:
+### 製品のデザイン・開発・納品プロセスにわたるサポート
 
-- conduct research and development based on unmet clinical needs, matched to gaps in care
-- design, prototype and manufacture, with iterative development
-- test efficacy and prove clinical utility through clinical studies
-- validate products and gain regulatory approval
-- demonstrate value through health technology assessment and partnership with the NHS
-- unlock global market opportunities by using an evidence base generated in the UK
+英国では、革新的な医療技術を開発する企業に以下の機会を提供します。
 
-This is all underpinned by access to clinical experts and patients and unique health data resources. In addition, we have a supportive business and investment environment, (with regulation which is sensible and pragmatic) and an established supply and services chain.
+- 医療ニーズが満たされていないあるいはケアが不足している分野での研究開発
+- デザイン、プロトタイプ、および製造技術のインタラクティブ開発
+- 臨床試験により有効性を検証し、臨床的有用性を証明する
+- 製品の有効性を確認し、規制当局の承認を得る
+- 医療技術評価やNHSとの連携により、製品の価値を実証する
+- 英国で培われたエビデンスにより、世界中の市場で機会をつかむ
+
+これはすべて臨床専門家、患者、そして独自のヘルスデータ資源へのアクセスにより支えられています。さらに、実用的で合理的な規制を伴う英国のビジネス／投資環境および確立されたサービス／サプライチェーンによりサポートされています。

@@ -1,5 +1,5 @@
 ---
-title: "Nuclear in the UK"
+title: 英国の原子力エネルギー
 ---
 
-From large new build projects to extensive decommissioning schemes, there’s a wide range of opportunities for businesses to become part of the UK’s nuclear supply chain. 
+大型の新規建設プロジェクトから大規模な廃止措置計画まで、企業が英国の原子力サプライチェーンに参画できる、さまざまな機会が存在しています。

@@ -1,20 +1,18 @@
 ---
 title: "Energy from waste growth opportunities"
 ---
-There are opportunities available to grow your business given the size of the energy from waste market. From our use of conventional incineration to advanced technologies, you can expand into new markets covering the broad range of waste treatment options available here. 
-
-The market includes a variety of waste streams:
-
-- waste - mixed waste from either domestic premises or business
-- organic feedstock - such as food waste and green waste from food processing, farms,  gardens and parks
-- commercial and industrial waste from a range of activities
-- construction and demolition waste including waste wood used at biomass facilities
-
-The next generation of waste from energy plants will be powered by experimental technologies that produce biofuels for vehicles from organic or plastic waste.
-
-Businesses based in the UK are developing these innovative new sources for biofuels, helping to cement our place as a fantastic base for international operations. 
-
-There’s also an estimated 1 billion GBP pipeline of opportunities for community heating projects in the UK, which could be fulfilled by waste to energy and biomass projects.
+巨大な廃棄物発電は大きなビジネスを成長させる機会を与えてくれます。
+従来の焼却技術から先端技術まで、英国で利用できる広範囲の廃棄物処理オプションにわたる新しい市場にビジネスを展開していくことができます。
+当市場には多様な廃棄物の流れがあります。
 
 
+- ・一般住宅や企業施設からの混合廃棄物
+- ・有機原料、つまり食品加工、農場、庭園、公園などから排出された生ゴミや植物性廃棄物
+- ・多様な活動から排出された商業廃棄物や産業廃棄物
+- ・バイオマス施設で用いられる廃木材などの建設廃材
 
+次世代の廃棄物発電所は有機廃棄物やプラスチック廃棄物からバイオ燃料を生成する実験的技術により電力を作ります。
+
+英国に本拠を置く企業がこのようなバイオ燃料の革新的なエネルギー源を開発し、国際的な事業を展開する素晴らしい基盤としての英国の地位を固めています。
+
+また、英国の地域暖房プロジェクトに関しても、推計10億ポンドのビジネス機会パイプラインがあります。これらのプロジェクトは、廃棄物発電およびバイオマスにより達成する可能性があります。

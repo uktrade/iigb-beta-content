@@ -1,4 +1,6 @@
 ---
-title: "Electrical networks"
+title: 英国の電力網産業
 ---
-New technologies and innovation are in demand as the UK's electrical networks industry transforms.  This transformation presents a long-term investment opportunity.
+
+急速に変革を遂げつつある電力網産業
+ではイノベーションや新技術が求められており、長期投資の機会の宝庫であるといえます。

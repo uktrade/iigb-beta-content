@@ -1,4 +1,4 @@
 ---
-title: "Terms and Conditions"
+title: "great.gov.ukの利用規約"
 ---
 

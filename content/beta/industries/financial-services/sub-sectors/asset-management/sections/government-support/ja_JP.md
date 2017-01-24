@@ -1,9 +1,8 @@
 ---
-title: "Government support for asset management"
+title: "英国政府による資産運用セクターのサポート "
 ---
-The UK has one of the most competitive tax regimes in the world for both funds and asset managers. Funds that are domiciled in the UK can take advantage of around 120 double taxation agreements, more than in any other country.
+英国の税制は、ファンド・マネージャーと資産運用会社の双方にとってきわめて有利に設定されています。英国では他のどの国よりも多い約120の二重課税防止条約を結んでおり、英国籍を持つファンドはこれを活用することができます。
 
+英国政府は、英国を投資運用の世界的リーダーにするという方針を掲げており、このセクターに対して強力な取り組みを行っています。2013年には、英国の税制改正、規制環境の改善、ファンドの承認までの所要時間の短縮、効果的なマーケティングで英国を世界にアピールすることに焦点を当てた政府[の投資運用戦略Investment Management Strategy ](https://www.gov.uk/government/news/uk-investment-management-strategy-launched-by-ministers)が導入されました。
 
-The UK government has the ambition for us to lead the world in investment management and has demonstrated a strong commitment to the sector. In 2013, it implemented the [Investment Management Strategy](https://www.gov.uk/government/news/uk-investment-management-strategy-launched-by-ministers), which is focused on improving the UK's taxation regime, improving the regulatory environment, reducing fund authorisation times, and representing the UK globally through effective marketing.
-
-The government also has up to 50 billion GBP available to support finance and insurance for   supplies from within the UK to buyers outside the UK. This support takes the form of guarantees, insurance and loans issued by its export credit agency, UK Export Finance. 
+さらに、政府はまた、英国内で製造された製品を英国外の買い手に販売するに当たり、融資や保険を提供することを目的として最大500億ポンドを用意しています。これは、英国の輸出信用機関であるUK Export Financeによる保証、保険、あるいは融資の形で提供されます。

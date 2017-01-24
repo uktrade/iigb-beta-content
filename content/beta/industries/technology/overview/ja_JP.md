@@ -1,17 +1,13 @@
 ---
-title: "Technology overview"
+title: テクノロジー産業の概要
 ---
 
-Our technology sector is larger than the rest of Europe combined; it has been one of the fastest growing sectors in the UK over the last decade.  The technology we produce underpins all sectors from Financial Services, High-Value Manufacturing, Retail, Agriculture.Retail, Agriculture. 
- 
-The UK offers an outstanding environment for global tech companies.  We have:
- 
-- a strong start-up culture bolstered by tesh clusters all over the UK
-- a ranking of third best place in the world in the  [Global Innovation Index in 2016](https://www.globalinnovationindex.org/analysis-indicator)
-- an active venture capital community  - the UK has the highest number of initial public offerings (IPOs) & more tech “unicorns” (a start-up company valued at over $1 billion) created than anywhere else in Europe
-- the largest e-commerce market in Europe
-- 4 of the world’s top 10 universities, plus educational providers that develop our technology workforce
- 
-The UK's technology economy has strengths in electronic systems, communications, data management and analytics, data centres, cloud services, Artificial Intelligence, cyber, semiconductor design and sensors.  
- 
-Tech businesses are at the heart of the UK economy and are playing an important role in driving growth across the country.
+英国のテクノロジー産業は、英国を除いた欧州全体の産業規模を上回り、過去10年間にわたり英国で最も急速に成長した産業のひとつです。金融サービスから、高付加価値製造業（HVM）、小売業、農業に至る全ての産業を支える基盤に、英国のテクノロジーが活用されています。
+
+英国は、世界中のテクノロジー企業に対しビジネスに最適な環境を提供しています。例えば、豊かなスキルを持つ人材や世界一流の交通ハブへのアクセスが可能なサプライチェーン、創造性、イノベーション、優れたデザインなどを促進する環境を備えており、政府からも多様なサポートを得られます。
+
+また、英国には電子機器、ITハードウェアなどの技術革新における長い歴史があり、プロセッサ･コア技術、ミクストシグナル・デバイス、センサーや照明など、各分野をリードする企業が活躍しています。英国の家電市場は、世界で最も発展したダイナミックな市場のひとつです。
+
+英国ではデジタル･テクノロジーのグローバル･センターとして、世界一流の研究者や企業が、マスコミ、インターネット、通信、サイバーセキュリティなどの分野で活躍しており、オープンデータの活用も促進されています。インターネット経済でも英国は先頭を走り、革新する小売業界では、最新のテクノロジーやビジネスモデルの応用が進められています。
+
+高品質で信頼性のあるICT（情報通信技術）インフラは、業種に関わらず全ての事業にとって不可欠であり、英国では、高度に整備されたICTインフラが利用可能です。

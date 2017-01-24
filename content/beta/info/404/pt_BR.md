@@ -1,6 +1,7 @@
 ---
-title: "Page not found"
-linkLabel: Please click here to go to the home page
+title: "Página não encontrada"
 ---
 
-Unfortunately the page you were looking for could not be found
+Se introduziu um endereço web, verifique se o introduziu corretamente.
+
+Se uma ligação o trouxe até aqui, [comunique a existência da ligação quebrada](https://contact-us.export.great.gov.uk/feedback/invest/).
