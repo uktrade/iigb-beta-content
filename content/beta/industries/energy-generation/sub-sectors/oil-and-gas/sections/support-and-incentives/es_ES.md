@@ -1,9 +1,8 @@
 ---
-title: "Government support for UK oil and gas"
+title: Apoyo gubernamental al petróleo y el gas en el Reino Unido 
 ---
-In 2015, the UK government introduced a £1.3 billion package of tax measures for the oil and gas industry to ensure that the UK Continental Shelf remains an attractive destination for investment. 
+En 2015, el Gobierno del Reino Unido introdujo un paquete de medidas fiscales de 1300 millones de libras dirigidas al sector del petróleo y el gas para garantizar que la plataforma continental británica siga siendo un destino atractivo para la inversión. 
 
+El Gobierno también se ha comprometido a dedicar 20 millones de libras en financiación para la segunda ronda de sondeos sísmicos y fomentar nuevas actividades de exploración en la plataforma. Así, las empresas podrán tener más opciones de descubrir oportunidades sin tener que financiar ellas mismas los sondeos.
 
-The government also committed 20 million GBP in funding for the second round of seismic surveys to support new exploration activity on the UK Continental Shelf. This will give companies a greater chance of discovering opportunities without having to fund the surveys themselves.
-
-The government also has up to 50 billion GBP available to support finance and insurance for   supplies from within the UK to buyers outside the UK. This support takes the form of guarantees, insurance and loans issued by its export credit agency, UK Export Finance. 
+El Gobierno pone a disposición hasta 50 000 millones de libras para ofrecer financiación y asegurar los suministros procedentes del Reino Unido a los compradores extranjeros. Este apoyo se realiza en forma de garantías, seguros y préstamos emitidos por la agencia de crédito a la exportación, la UK Export Finance. ance and loans issued by its export credit agency, UK Export Finance. 
