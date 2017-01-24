@@ -1,32 +1,29 @@
 ---
-title: "Home to world-beating growth and opportunity"
-published: true
+title: "世界有数の成長機会をもたらす英国のフィンテック "
 ---
-As the [world’s fastest growing region for FinTech](https://www.gov.uk/government/publications/uk-fintech-on-the-cutting-edge), investors can benefit from:
-- a strong demand from a sophisticated market
-- an excellent IT and transport infrastructure
-- one of the largest pools of financial and entrepreneurial talent in the world
+[フィンテックに関して世界で最も急速な成長を遂げている英国 ](https://www.gov.uk/government/publications/uk-fintech-on-the-cutting-edge)では、投資家は以下のような利点を享受することができます。
 
-In 2015, the sector had a turnover of about 6.6 billion GBP in revenue and attracted about 524 million GBP in investment.
+- 洗練された市場における多大な需要
+- 優れたITや運輸のインフラストラクチャー
+- 世界最大級の金融関連人材や起業家人材
 
-The 4 strongest performing areas are:
+2015年におけるこのセクターの総売上は約66億ポンドで、同年の投資額は約5億2400万ポンドでした。
+特に優れた実績を上げたのは以下の4分野です。
+- 決済部門：現在多方面からイノベーターが参入
+- プラットフォーム部門：特にピア･ツー･ピア融資、トレーディング、個人資産運用、アグリゲーター
+- ソフトウェア：リスクマネジメント、決済、資産運用、資本市場、保険、会計
+- データ･アナリティクス：信用照会、資本市場、保険など
+フィンテックの市場には、実績あるプロバイダーと革新的なテクノロジーの両方にとって共存する余地が充分あります。様々な資金調達オプションがあるこのセクターでは、エンジェル投資家、プライベートエクイティ投資家、アクセラレーターやインキュベーター・スキームなどが活躍しています。
 
-- payments, which currently attract a wide range of innovators
-- platforms, particularly peer-to-peer lending, trading, personal wealth management and aggregators
-- software for risk management, payments, asset management, capital markets, insurance and accounting
-- data analytics such as credit reference, capital markets and insurance
+### ステータスと積極的な姿勢が需要を促進
 
-There is ample room in the market for established providers and disruptive technologies. Many different sources of finance are available and the sector is well served by angel and private equity investors, accelerator and incubator schemes.
+[世界の金融ハブとしてのロンドンのス ](http://www.longfinance.net/global-financial-centres-index-20/1037-gfci-20.html)テータスからの後押しもあり、英国におけるフィンテックの需要は極めて好調です。金融サービスが集中することにより、フィンテック･ソリューションのプロバイダーにとっては特に以下の分野で絶好の機会が生じています。
 
-### Status and enthusiasm drives demand
+- トレーディング
+-  規制
+- データ
+- コンプライアンス
+ 
+英国の消費者は早い時期に新しいテクノロジーを採用することが多く、画期的な新規サービス･デリバリー･モデルに対して積極的です。ドイツ、フランスや米国の消費者と比べてeコマースへの支出も多額で、消費者によるフィンテックの採用が主流になりつつあります。EY[のフィンテック採用指数（FinTech Adoption Index ](http://www.ey.com/gl/en/industries/financial-services/ey-fintech-adoption-index)）によると、デジタルを積極的に取り入れる消費者の約14%がフィンテックのユーザーであると回答していますが、この割合はロンドンでは25%に達しています。
 
-Demand for FinTech in the UK is strong, driven by [London’s status as the global capital of finance](http://www.longfinance.net/global-financial-centres-index-20/1037-gfci-20.html). This concentration of financial services activity means great opportunity for FinTech solutions providers, particularly in the areas of:
-
-- trading
-- regulation
-- data
-- compliance
-
-UK consumers are early adopters, and are open to new, innovative models of service delivery. They spend much more on e-commerce than their equivalents in Germany, France and the USA. Consumer adoption of FinTech is becoming mainstream. The [EY FinTech Adoption Index](http://www.ey.com/gl/en/industries/financial-services/ey-fintech-adoption-index) states that around 14% of digitally active consumers identify themselves as FinTech users, rising to 25% in London.
-
-Many small and medium enterprises (SMEs) have also adopted FinTech solutions, mainly in alternative finance and payments.
+中小企業でも、主にオルタナティブ･ファイナンスと決済手段の分野でフィンテック･ソリューションを採用しています。
