@@ -1,6 +1,6 @@
 ---
-title: "Overview"
+title: "概要"
 ---
-[Check if you need a UK visa](https://www.gov.uk/check-uk-visa) and if so, book an appointment at your nearest visa application centre. 
+[査証申請センターは世界各地に200ヶ所以上あり](https://www.gov.uk/find-a-visa-application-centre)、そのうちの100ヶ所以上では優先サービス（3～7日）も行っています。また、英国では24時間以内に査証の可否をお知らせできるSuper Priority Visaサービスも、インド及び中国を含めた数ヶ国で提供しています。
 
-There are more than [200 visa application centres worldwide](https://www.gov.uk/find-a-visa-application-centre), with priority processing (3 to 7 days) in over 100 of them. The UK also offers a Super Priority Visa service providing a visa decision within 24 hours. This service is available in several countries including India and China.
+[英国の査証が必要であるかどうかはこちらでご確認いただけます。](https://www.gov.uk/check-uk-visa)査証が必要な場合は、最寄りの査証申請センターで予約してください。 
