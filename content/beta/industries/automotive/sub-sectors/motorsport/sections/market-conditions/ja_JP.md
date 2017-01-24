@@ -1,45 +1,40 @@
 ---
-title: "The global home of motorsport"
-published: true
+title: "市況"
 ---
-UK-based businesses act as major suppliers to teams competing in everything from NASCAR to Formula E to the China Touring Car Championship. Famously, 7 out of 11 Formula 1 racing teams have their headquarters in the UK.
+モータースポーツのサプライヤー企業は英国全体で事業を展開しています。モータースポーツ関連企業が最も集中しているのは、イングランド南東部のオックスフォードを中心とする、「モータースポーツバレー」という名で世界的に知られている産業地域です。ハーバード・ビジネス・スクール教授でモニター・デロイト社の創設者であるマイケル・ポーター氏は、「世界随一の成熟した経済産業地域で、英国エンジニアリングの結晶である」と述べています。
 
-Firms that supply motorsports operate throughout the UK. The largest concentration of motorsport firms are located in 'Motorsport Valley®', a world-renowned business cluster in the south east of England with Oxford at its centre. Michael Porter, a Harvard Business School professor and founder of Monitor Deloitte, has described it as, “A mature economic business cluster, which is number one in the world…the jewel in the crown of British engineering.” 
-In the 50 years since the modern Formula 1 era began in 1967, only 2 teams have won the Constructors Championship with a car designed outside the UK and one of those used a British engine. 
+1967年に近代的なF1時代が幕を開けて以来50年が経ちますが、英国以外で設計されたマシンでF1コンストラクターズチャンピオンシップを勝ち取ったチームは2つのみで、そのうち1チームは英国製のエンジンを用いていました。
 
-The Formula One teams with headquarters here are: 
+英国に本拠を構えるF1チーム
+- レッドブル・レーシング：バッキンガムシャー州ミルトン キーンズ
+- マクラーレン・ホンダ：サリー州ウォーキング
+- メルセデスAMG・ペトロナス： ノーサンプトンシャー州ブラックレー
+- ルノー・スポーツ：オックスフォードシャー州エンストン
+- ウィリアムズ・マティーニ・レーシング：オックスフォードシャー州グローヴ
+- フォース・インディア：ノーサンプトンシャー州シルバーストーン
+- マナー・レーシング：オックスフォードシャー州バンブリー
 
-- Red Bull Racing in Milton Keynes, Buckinghamshire
-- McLaren Honda in Woking, Surrey
-- Mercedes AMG Petronas in Brackley, Northamptonshire
-- Renault Sport in Enstone, Oxfordshire
-- Williams Martini Racing in Grove, Oxfordshire
-- Force India in Silverstone, Northamptonshire
-- Manor Racing in Banbury, Oxfordshire
+F1研究開発センター
+- ハース：オックスフォードシャー州バンブリー
+- トロ・ロッソ： バッキンガムシャー州ミルトン キーンズ
 
-Formula 1 research and development centres here are:
+### レースからロードへ
 
-- Haas in Banbury, Oxfordshire
-- Toro Rosso in Milton Keynes, Buckinghamshire
+英国は、過去60年間において他のどの国よりも多くのモータースポーツ・イノベーションをもたらし、その多くは、以下の代表例にみられるように、ロードカーにも導入されています。
+- 1950年代：ジャガーによるディスクブレーキの導入
+- 1960年代：コスワースによる4気筒エンジンの導入
+- 1970年代：ロータスによる グランド・エフェクト空気力学の導入
+- 1980年代：マクラーレンによる複合材料の導入
+- 1990年代：ウィリアムズによるトラクションコントロールや 運転支援機能付きアクティブシャシーの導入
+- 2000年代：ウィリアムズによる運動エネルギー回生システムの導入
 
-### From race to road
+### F1を超えるテクノロジーの開拓
 
-The UK has made more motorsport innovations in the last 60 years than any other country. Many have found their way onto road cars. These include:
+英国は、新しいグローバルな電気自動車レースであるフォーミュラEの拠点を提供しており、米国のインディカーやナスカー、中国ツーリングカー選手権やル・マン24時間耐久レースなどへの主要製品サプライヤーを擁しています。
 
+これらのレース・シリーズでは、英国企業が開発した新テクノロジーが活用されています。ノーサンプトンに本拠を置くコスワースは、エンジンエレクトロニクスやテレメトリーの分野におけるグローバルリーダーであり、現在ではロードカーのシボレー・コルベットにデータロギングやテレメトリー技術を提供しています。また、バークシャー州のエクストラック社は、トランスミッション系の設計や製造で世界的に知られています。
 
-- 1950s, disc brakes produced by Jaguar
-- 1960s, 4 valves per cylinder engines produced by Cosworth
-- 1970s, ground-effect aerodynamics produced by Lotus
-- 1980s, composites produced by McLaren
-- 1990s, active chassis with traction control and driver aids produced by Williams
-- 2000s, Kinetic Energy Recovery Systems produced by Williams
+英国のモータースポーツ企業は、レースにとどまらず、エネルギー貯蔵、海事や国防などのセクターでも事業を展開しています。ウィリアムズ・アドバンスト・エンジニアリング社は、スコットランド辺境の諸島にある2つのコミュニティーにフライホイール・エネルギー貯蔵テクノロジーを導入しました。また、ワイルドキャット・オートモーティブはワイルドキャット500DKRオフロードレーサーを全天候型特殊軍用車両用に変換しています。
 
-### Pioneering technology beyond Formula 1
+物理工学を超えて活躍する企業もあります。マクラーレンはピットストップの技術を応用して、グレート オーモンド ストリート病院の待ち時間短縮と手術室の効率改善をもたらしました。
 
-The UK provides a base for the new global electric racing series Formula E. It is a major supplier to IndyCar and NASCAR in the USA, the China Touring Car Championship and the 24 Hours of Le Mans series. 
-
-These racing series benefit from new technology developed by UK companies. Cosworth, based in Northampton, is a global leader in engine electronics and telemetry (and now supplies data logging and telemetry for the road-going Chevrolet Corvette). While Berkshire’s Xtrac is world-renowned for the design and manufacture of transmission systems. 
-
-UK motorsport companies are also going beyond racing into sectors such as energy storage, marine and defence. Williams Advanced Engineering has installed flywheel energy storage technology in two remote Scottish island communities. And Wildcat Automotive has transformed its Wildcat 500DKR off-road racer into a specialist military all-terrain vehicle.
-
-Some are even going beyond physical engineering. McLaren has applied pit-stop techniques to reduce waiting times and increase operating theatre efficiency at Great Ormond Street Hospital.
