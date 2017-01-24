@@ -1,11 +1,12 @@
 ---
-title: "Our talent and skills"
+title: 世界有数の専門家を全国に
 published: true
 ---
-More than 65,000 people are currently working in the UK’s civil nuclear industry. These are skilled workers with experience in fuel manufacturing, the operation and maintenance of reactors, and management of the waste generated from the operations.
 
-Nuclear expertise is well distributed across the nation, but there are specific cluster areas where many major businesses share research, development and thinking. These include: 
+現在、65,000人を超える人材が英国の民生用原子力産業に従事しています。彼らは燃料の製造、原子炉の操業およびメンテナンス、操業により生じる廃棄物の管理などに関する熟練作業者です。
 
-- north west England, where [Sellafield](http://www.sellafieldsites.com/) remains the major centre for the maintenance of nuclear skills
-- south west England, where EDF Energy has established a base and Horizon Nuclear Power has begun deployment
-- Yorkshire and the Humber, where growth is occurring around Sheffield, which is home to the[ Advanced Manufacturing Research Centre](http://www.amrc.co.uk/)
+原子力の専門家は全国に存在していますが、多くの主要企業が研究開発拠点やシンクタンクを置く特定のクラスターエリアが存在します。クラスターエリアには、以下の地域があります。
+
+- イングランド北西部。[セラフィールド ](http://www.sellafieldsites.com/) は現在なお原子力関連スキルの維持を目的とした一大拠点となっています。
+- イングランド南西部。EDFエナジー社の拠点があり、ホライズン・ニュークリア・パワー社 も事業展開を始めています。
+- ヨークシャーおよびハンバー地域。[英国先進製造研究センター](http://www.amrc.co.uk/) （AMRC）のあるシェフィールドを中心に成長しつつある地域です。
