@@ -1,5 +1,5 @@
 ---
-title: "Data analytics"
+title: 英国におけるデータ・アナリティクス
 ---
 
-With robust open data sets, technology funding opportunities and solid infrastructure, the UK is well placed to thrive in the continuing data revolution.
+高度技能を有する労働人口、テクノロジー分野での資金調達、そして強固なインフラを備える英国は、今後続くデータ革命の中で企業が成長していく条件が揃っています。
