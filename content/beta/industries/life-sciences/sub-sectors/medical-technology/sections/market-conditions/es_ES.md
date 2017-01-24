@@ -11,7 +11,7 @@ Existe un énfasis significativo en la tecnología de un solo uso, los dispositi
 Los segmentos que más rápido crecen en este sector en el Reino Unido, por volumen de ingresos, son: 
 
 - Diagnóstico por imagen, con una tasa de crecimiento anual compuesto (TCAC) del 10 %.
-- - Diagnóstico in vitro (TCAC del 7 %).
+- Diagnóstico in vitro (TCAC del 7 %).
 Suministro de fármacos (TCAC del 7 %).
 
 Los segmentos que más crecen en creación de empleo son: 
