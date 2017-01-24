@@ -1,4 +1,4 @@
 ---
-title: "Energy from waste"
+title: はじめに
 ---
-With 27 million tonnes of municipal solid waste and 47 million tonnes of waste from businesses produced every year, there potential for growth and further investment. 
+毎年、2700万トンの都市ゴミと4700万トンの産業廃棄物が排出されており、市場成長とさらなる投資の機会があります。
