@@ -1,9 +1,8 @@
 ---
-title: "Data protection in the UK"
+title: 英国におけるデータ保護
 ---
-The UK’s privacy and data protection laws ensure that customer data is processed, held and disposed of fairly, legally, accurately and securely. Your business must abide by the UK’s Data Protection Act. 
+英国のプライバシーおよびデータ保護法令により、顧客データが公平に、合法的に、正確に、そして安全に処理・保持・破棄されることが定められています。貴社も英国のデータ保護法に従わなければなりません。
 
-Stronger legal protections are in place for sensitive information such as ethnic background, political or religious belief, health records and criminal records.
+民族的背景、政治観、宗教観、健康記録、犯罪歴などの機密情報については、さらに強い法的保護策が講じられています。
 
-[Read the Data Protection Act](http://www.legislation.gov.uk/ukpga/1998/29/contents) for details on how this may be relevant for your business.
-
+[データ保護法を読む](http://www.legislation.gov.uk/ukpga/1998/29/contents)ことにより、貴社の事業内容との関連をご確認ください。
