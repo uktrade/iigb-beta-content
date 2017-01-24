@@ -1,17 +1,16 @@
 ---
-title: "A prime location for global giants"
+title: 国際的な大企業にとって最高の場所
 published: true
 ---
-The UK places highly in international rankings for the best place to invest in offshore wind and has managed to attract investment from across the globe for related infrastructure and manufacturing.
- 
-Suppliers like Siemens and MHI Vestas Offshore have already chosen the UK as their site for future world class manufacturing facilities, and there are significant opportunities for further investment in the supply chain.
 
+英国は、洋上風力エネルギーに対する投資先の最良の場所として国際ランキングで高く評価され、世界中から関連インフラや製造業への投資を惹きつけています。
 
-We already have 5.7 gigawatts (GW) of offshore wind installed or under construction. We’re on track to deliver 10GW by 2020 - this represents the largest expansion in any class of renewable energy technology in the UK.
+シーメンス（Siemens）やMHIヴェスタス・オフショア（MHI Vestas Offshore）などのサプライヤーは、将来の国際的レベルの製造施設の場所として既に英国を選択しています。サプライチェーンには、更なる投資の重要な機会があります。
 
+洋上風力エネルギーは、5.7ギガワット（GW）が既に設置、又は建設中です。2020年までには10ギガワット発電することを目指しており、英国における再生可能エネルギー技術の分野で最大規模の拡張となります。
 
-We’re also home to the largest operational offshore wind farm in the world, London Array (630 megawatts). By 2020, we’ll have the world’s first wind farm generating over 1GW of energy, at Dong Energy’s Hornsea Project One located off the coast of Yorkshire. This wind farm will be capable of powering over one million UK homes.
- 
-Our industry and government are working together to build a competitive and innovative supply chain that creates and sustains jobs, exports and economic benefits for the UK.
- 
-UK companies lead the world in services for the design, development, financing, construction and operation of offshore wind plants. There are also investment opportunities in the supply chain for the manufacturing of wind turbine components.
+また、英国には発電容量630ギガワットで世界最大の洋上風力発電所ロンドンアレイ（London Array）があります。2020年までに、ヨークシャー沖に位置するドン・エナジー（Dong Energy）のホーンシー・プロジェクト・ワン（Hornsea Project One）において、世界初の1ギガワット以上の風力発電所が建設されます。この風力発電所は、英国の100万以上の世帯に電力を供給することができます。
+
+産業界と政府が協力し、英国の雇用、輸出、経済的利益を創出し、維持するための、競争力が高く革新的なサプライチェーンを築いています。
+
+英国の企業は、洋上風力発電所の設計、開発、融資、建設、操業のサービスで世界をリードしています。風力タービンコンポーネント製造のサプライチェーンにおいても投資機会があります。
