@@ -2797,6 +2797,13 @@ langSel_language:
   ja_JP: 言語
   es_ES: Idioma
   pt_BR: Lingua
+langSel_choose:
+  de_DE: Wählen Sie Ihre Sprache.
+  en_US: Choose your language
+  zh_CN: 选择语言
+  ja_JP: 言語を選択
+  es_ES: Seleccione su idioma
+  pt_BR: Escolha a sua língua.
 langSel_close:
   de_DE: Schließen
   en_US: Close
