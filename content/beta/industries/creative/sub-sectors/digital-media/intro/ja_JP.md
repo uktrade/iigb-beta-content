@@ -1,5 +1,5 @@
 ---
-title: "Digital media in the UK "
+title: "英国におけるデジタルメディア "
 ---
 
-The UK embraces digital. We have the market conditions, skilled workers and the financial incentives your business needs to thrive. 
+英国は、デジタルを進んで活用しており、貴社の繁栄のために必要な市場条件、技術者、金銭的インセンティブを提供します。
