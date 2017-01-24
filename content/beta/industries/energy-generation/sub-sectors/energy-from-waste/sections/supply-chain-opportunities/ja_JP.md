@@ -1,6 +1,7 @@
 ---
-title: "Supply chain opportunities for your business"
+title: サプライチェーンにおける機会
 published: true
 ---
-We welcome businesses that pioneer innovations in cost and efficiency when producing energy from waste. If you’re a supply chain investor, you’ll be in good company, and whether you’re a larger developer or a smaller company, you’ll have access to high-quality equipment and a skilled workforce.
 
+英国市場は、廃棄物発電において革新的なコスト効率を実現する企業を求めています。サプライチェーンに投資する企業も、
+その規模に関わらず、高品質な設備と高いスキルをもった人材にアクセスできます。
