@@ -1,11 +1,9 @@
 ---
-title: "Incentives for innovation in a transparent market"
+title: ## Incentivos para la innovación en un mercado transparente
 ---
-Innovate UK, the UK's innovation agency, provides funding support for innovations, which are integrating, low carbon technologies into the energy system.
+
+Innovate UK, la agencia de innovación del Reino Unido, ofrece apoyo de financiación para las innovaciones que integren las tecnologías de bajas emisiones de carbono en el sistema energético.
  
-The Department for Business, Energy and Industrial Strategy also has an innovation fund for products and services for decarbonising the electricity network. 
+El Departamento de Empresas, Energía y Estrategia Industrial también tiene un fondo de innovación para productos y servicios que reduzcan las emisiones en la red eléctrica. 
 
-
-The government also has up to 50 billion GBP available to support finance and insurance for   supplies from within the UK to buyers outside the UK. This support takes the form of guarantees, insurance and loans issued by its export credit agency, UK Export Finance. 
-
-
+El Gobierno pone a disposición hasta 50 000 millones de libras para ofrecer financiación y asegurar los suministros procedentes del Reino Unido a los compradores extranjeros. Este apoyo se realiza en forma de garantías, seguros y préstamos emitidos por la agencia de crédito a la exportación, la UK Export Finance. 
