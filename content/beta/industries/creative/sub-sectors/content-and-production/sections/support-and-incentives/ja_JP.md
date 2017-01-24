@@ -1,19 +1,17 @@
 ---
-title: "Support and incentives"
+title: "サポート、インセンティブ "
 ---
-The UK government is fully committed to supporting the UK as a creative nation.
+英国政府では、クリエイティブ業界のサポートを重視しています。
+英国では、強力な知的財産権制度と規制の枠組みを駆使してクリエイティブ業界をサポートしており、イノベーティブなコンテンツが保護、支援されています。また、国際的に有名な業界団体もあり、プロフェッショナルなガイダンスの提供、トレーニングや育成を行っています。
 
-Your innovative content will be protected and supported here. We support creative businesses in the UK by employing a strong intellectual property regime and regulatory framework.  We also have a number of internationally renowned trade associations offering professional guidance, training and development.
+[クリエイティブ産業の優遇税制](https://www.gov.uk/guidance/corporation-tax-creative-industry-tax-reliefs) では、英国で事業を創設、拡大する際に援助し、更に作品の魅力を高めることができます。この制度により、以下の目的で適用対象の支払いを行うと最大25%のリベートを受けられます：
 
-Our creative tax relief offers help in starting  or growing  your business here,  and has made production more attractive than ever.  This allows businesses to access a rebate of up to 25% of qualifying spend for:
-- film
-- animation
-- high-end and children’s TV
-- video games development
-- theatre 
+- 映画
+- アニメーション
+- ハイエンド及び子供向けのテレビ
+- ビデオゲーム開発
+- 演劇 
 
-We also offer a number of world-class digital startup programmes and opportunities for angel investment in creative content enterprises.
+世界一流のデジタル・スタートアップ・プログラムや、クリエイティブ･コンテンツ企業へのエンジェル投資の機会も提供しています。
 
-All of these measures complement our low level of corporation tax, which is set to drop to 17% by 2020.
-
-The government also has up to 50 billion GBP available to support finance and insurance for   supplies from within the UK to buyers outside the UK. This support takes the form of guarantees, insurance and loans issued by its export credit agency, UK Export Finance
+これらの施策は、2020年までに17%に引き下げ予定の低税率の法人税と併せて、大きなメリットを提供します。

@@ -1,5 +1,5 @@
 ---
-title: "Invest in GREAT Britain & Northern Ireland"
+title: Invertir en Gran Bretaña e Irlanda del Norte
 ---
 
-Get help with setting up your business in the UK and see current investment opportunities.
+Obtenga ayuda al establecer su empresa en el Reino Unido y descubra las oportunidades actuales de inversión.

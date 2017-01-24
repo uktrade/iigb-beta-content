@@ -1,8 +1,8 @@
 ---
-title: "Our talent and skills "
+title: "英国の人材の能力やスキル "
 ---
-Recruitment of new talent with fresh ideas and technical knowhow is easier in the UK. For example, over three-quarters of our games workforce holds an undergraduate degree, and there’s a higher proportion of postgraduate degrees than anywhere else in the world. 
+英国では新しいアイディアや技術的ノウハウを持つ若い人材を採用することが容易にできます。ゲーム業界従事者のうち4人中3人は大卒者で、大学院卒者の割合は世界最高です。 
 
-Creative companies employ over 1.9 million people, and as a content producer and distributor based here you’ll be able to select from a pool of over 100,000 creative subject graduates per year.
+クリエイティブ業界の従事者は190万人を超えており、英国を拠点にするコンテンツ･プロデューサーやディストリビュータは、毎年10万人を超えるクリエイティブ科目専攻の大卒者から人材を厳選することができます。
 
-A strong commitment to research and development in the UK across all content production areas helps us adopt new technologies first and stay ahead of the competition.
+英国では、全てのコンテンツ制作分野において研究開発が重視されており、新技術を率先して採用し、競合相手よりも一歩先を進むことができます。

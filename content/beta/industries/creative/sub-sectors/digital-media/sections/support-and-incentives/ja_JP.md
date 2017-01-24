@@ -1,19 +1,16 @@
 ---
-title: "Government support for digital media"
+title: "投資へのサポート"
 ---
-The UK government is fully committed to supporting the UK as a leading digital nation. 
-
-Our help for early stage innovation and research and development (R&D) is second to none. You can take advantage of a number of tax incentives to develop and innovate here including:
+英国政府は、最先端デジタル国として産業をサポートすることに懸命に努めています。
+初期段階のイノベーション及び研究開発（R＆D）への支援は、他に類を見ません。以下の ような多数の優遇税制を利用して、英国で開発及びイノベーションをすることができます。
  
-- Seed Enterprise Investment Scheme – a model for tax efficient investment at the seed and angel phase which is attracting new investors into the technology and start up environment
-- R&D tax credits – small and medium sized companies can write R&D investment off against tax to a rate of 230%
-- The Patent Box enables companies to apply a lower rate of Corporation Tax to profits earned from its patented inventions
+- Seed Enterprise Investment Scheme：節税効果のある、起業（シード、エンジェル）段階の投資モデルの一つで、テクノロジーやスタートアップ環境への初めての投資に最適
+- R＆D税金控除：中小企業のR＆D投資は230％減価償却控除
+- Patent Box税制により、特許発明から得た収益にかかる法人税の軽減税率が申請可能
 
-The government has invested more than 200 million GBP in a network of Technology and Innovation Centres supporting the commercialisation of new technologies by business. Innovate UK, the UK’s innovation support agency, invests in R&D related to strategic sector development targets.
+英国政府は、企業による新しいテクノロジーの商業化を支援するテクノロジー・イノベーションセンターのネットワークに対し、2億ポンド以上を投資しています。英国のイノベーション支援機関であるイノベートUK（Innovate UK）は、戦略的セクター開発目標に関連したR＆Dへの投資をおこなっています。
 
-We also offer a number of world-class digital start-up programmes and opportunities for angel investment. 
+また、エンジェル投資のための国際的レベルのデジタルスタートアッププログラムや機会も多数提供されています。
 
-All of these measures complement our low level of corporation tax, which is set to drop to 17% by 2020.
-
-The government also has up to 50 billion GBP available to support finance and insurance for   supplies from within the UK to buyers outside the UK. This support takes the form of guarantees, insurance and loans issued by its export credit agency, UK Export Finance
+これらに加えて、2020年までに17％に減税が予定されている低率の法人税を享受することができます。
 

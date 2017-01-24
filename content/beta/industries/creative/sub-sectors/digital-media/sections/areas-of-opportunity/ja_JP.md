@@ -1,25 +1,23 @@
 ---
-title: "Strong areas of opportunity"
+title: "豊富な機会を擁する"
 published: true
 --- 
-### Creative disruption is driving digital advertising
+### クリエイティブ ディスラプションがデジタル広告を推進する
 
-The size of the UK digital advertising market was 7.2 billion GBP in 2014. Mobile advertising increased to 1.6 billion GBP; that's up 63% on the previous year. 
+英国のデジタル広告の市場規模は、2014年において72億ポンドでした。そのうち、モバイル広告が16億ポンドに増え、前年比で63％増加しました。
 
-Delivering targeted and effective advertising has also generated new business segments which are thriving here. That means many new opportunities for market entrants in areas such as programmatic trading, native advertising and analytics.
+また、効果的な標的広告を配信するために、英国では新しい事業セグメント誕生し、繁栄しています。そのため、プログラマティックトレーディング、ネイティブ広告、アナリティクス等の分野における新規市場参入者にとって、新しい機会が豊富に存在します。
 
-### Personalisation is boosting mobile
+### パーソナリゼーションがモバイル事業を促進
 
-The UK is Europe’s largest mobile content market, with over 1 billion GBP spent on mobile applications, content and services each year.  It also has the highest mobile advertising spend per head. Our e-commerce market was worth 104 billion GBP in 2014. 
+英国は、欧州最大のモバイルコンテンツ市場であり、毎年10億ポンド以上がモバイルアプリ、コンテンツ、サービスに対して消費されています。また、一人当たりのモバイル広告支出も最大です。2014年のeコマースの市場価値は1,040億ポンドでした。
+英国におけるモバイル事業は、プラットフォームやコンテンツのパーソナリゼーションにおける強力な指導力、スマートフォンや携帯電話利用契約の選択肢の増加、そして人気の高いゲームと広告産業によって支えられています。これは全て、強化されたモバイルネットワーク・インフラストラクチャーによりサポートされています。
+英国ではモバイル広告ネットワークが増加しており、コンテンツ収益獲得のための選択肢が増えています。
+その他の成長機会：
 
-Mobile in the UK has been boosted by our strong leadership in personalisation of platforms and content, an increase in smartphones and choice of mobile contracts, and a strong games and advertising industry. This is all supported by an enhanced mobile network infrastructure.
+- ソーシャルメディア：英国は欧州最大のソーシャルネットワークユーザー国のひとつ
+- デジタルラジオ、デジタルテレビ：英国には世界最大級のデジタルラジオネットワークがあり、97％の世帯がデジタルテレビを所有している
+- メディア、アートの革新的なテクノロジー：映画のセンサー、モーションキャプチャなど
+- デジタル音楽：2015年の全音楽消費の54％を占めた
 
-More mobile advertising networks are setting up in the UK, providing greater options to generate revenue from content.
-
-Other growth opportunities include: 
-- social media - Britons are amongst the biggest users of social networks in Europe
-- digital radio and TV – the UK has one of the world’s largest digital radio networks, and 97% of UK homes have digital TV
-- innovative tech in production and art – for example sensors and motion capture in film
-- digital music – accounted for 54% of all music consumption in 2015 
-
-Our offer has ensured investment by some of the world’s biggest digital players including Google, Facebook and Amazon, and Alibaba.
+英国はこのような環境を提供することにより、グーグル（Google）、フェイスブック（Facebook）、アマゾン（Amazon）、アリババ（Alibaba）等、世界最大のデジタルプレーヤーからの投資を得ています。

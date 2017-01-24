@@ -1,17 +1,15 @@
 ---
-title: "Technology overview"
+title: "Descrição geral sobre a tecnologia"
 ---
 
-Our technology sector is larger than the rest of Europe combined; it has been one of the fastest growing sectors in the UK over the last decade.  The technology we produce underpins all sectors from Financial Services, High-Value Manufacturing, Retail, Agriculture.Retail, Agriculture. 
- 
-The UK offers an outstanding environment for global tech companies.  We have:
- 
-- a strong start-up culture bolstered by tesh clusters all over the UK
-- a ranking of third best place in the world in the  [Global Innovation Index in 2016](https://www.globalinnovationindex.org/analysis-indicator)
-- an active venture capital community  - the UK has the highest number of initial public offerings (IPOs) & more tech “unicorns” (a start-up company valued at over $1 billion) created than anywhere else in Europe
-- the largest e-commerce market in Europe
-- 4 of the world’s top 10 universities, plus educational providers that develop our technology workforce
- 
-The UK's technology economy has strengths in electronic systems, communications, data management and analytics, data centres, cloud services, Artificial Intelligence, cyber, semiconductor design and sensors.  
- 
-Tech businesses are at the heart of the UK economy and are playing an important role in driving growth across the country.
+O nosso setor de tecnologia é maior do que o do resto da Europa em conjunto e é um dos setores com crescimento mais acelerado no Reino Unido na última década. A tecnologia que produzimos sustenta todos os setores, como os Serviços Financeiros, a Produção com Elevado Valor Acrescentado, o Retalho e a Agricultura.
+
+O Reino Unido oferece um ambiente excecional para as empresas tecnológicas globais:
+
+O país oferece acesso abrangente à cadeia de fornecimento aos centros de competências e de transportes de classe mundial. É também dotado de um ambiente que incentiva a criatividade, a inovação e o design, apoiado por um suporte governamental alargado.
+
+Temos um longo historial de inovação no setor da eletrónica e do hardware informático, com empresas na vanguarda da tecnologia nas áreas de núcleos de processadores, dispositivos de sinal misto, sensores e iluminação. O mercado de eletrónica para o consumidor final é um dos mais desenvolvidos e dinâmicos do mundo.
+
+Este é um centro global para as tecnologias digitais, com empresas e académicos líderes mundiais a trabalhar em meios de comunicação social, internet, comunicações, cibersegurança e no crescente movimento de dados abertos. Somos líderes na economia digital (internet) e temos um setor de retalho altamente inovador, campeão na aplicação das tecnologias e modelos de negócio mais recentes.
+
+A qualidade e a fiabilidade geral da infraestrutura das tecnologias de informação e comunicação (TIC) é um fator de importância crítica para as empresas dos diferentes setores. Temos uma das infraestruturas de TIC mais fortes do globo. 

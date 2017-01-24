@@ -1,21 +1,17 @@
 ---
-title: "A deep pool of creative talent "
+title: "技術を持ったクリエイティブな人材のプール "
 ---
-With digital education now heavily emphasised from junior schools to postgraduate level, we have the people you need to ensure your company’s long term growth.
+中学校から大学院レベルまでを通してデジタル教育に大きな重点が置かれるようになり、英国には貴社が長期的に成長するために必要な人材が揃っています。
 
-The UK has an educated and skilled digital workforce operating in a highly competitive environment, which keeps it at the cutting edge.
+英国で教育を受け、技術を持ったデジタル人材が非常に競争的な環境で働いているため、最先端のレベルの技術を保つことができています。
 
-Our universities are ranked second in the world for the quality of their industry collaboration and we have around 120,000 students studying digital media-related disciplines. Our college courses have a strong focus on skills that support interactive media, mobile and games development. The result is a deep talent pool, from software engineers and developers to animators and games designers.
+英国の大学は、産業連携の質において世界第2位を誇り、約12万人の学生がデジタルメディア関連の学科を専攻しています。学科はインタラクティブメディア、モバイル、ゲームの開発に役立つスキルに大きな焦点が当てられているため、ソフトウェアエンジニア、デベロッパー、アニメーター、ゲームデザイナーなど幅広い専門分野にわたる人材のプールがあります。
 
-Working from the UK means you’ll be operating within a  large research community and an ecosystem of partners, academic institutions and skilled workers. These networks mean smaller companies can easily work with and learn from each other, and collaborate with major firms too.
+英国から発信することで、貴社は大きなリサーチコミュニティーと、パートナー、大学機関、技術者から成るエコシステムの一部として活動することができます。このようなネットワークにより、小企業同士が手を組み、お互いに学び合い、大企業とコラボレーションすることが可能となっています。
 
-### London’s global status and our regional hotspots
+### の都市注力しての手厚さロンドンの世界的地位と、地方都市のホットスポット
 
-London has been rated top for technology readiness in a study of 30 of the world's most dynamic cities, and is considered to be the [best city in Europe for digital entrepreneurs. ](https://digitalcityindex.eu/city/16) 
-
-Tech City in London’s East End has grown to become a global centre for creative digital companies. Startups like adtech pioneers Unruly have scaled up globally from the capital. 
-
-The North of England also has several centres of digital media excellence. There are centres in Liverpool, Manchester, Sheffield, Rotherham, Leeds, Hull, Sunderland and the Newcastle and Durham areas. Together they generated 9.9 billion GBP GVA to the UK economy in 2014. The potential for growth is great, with a further 6 billion GBP estimated by 2020.    
-
-There are other clusters of digital talent across the UK, most notably in Brighton, Reading and Cambridge. 
-
+ロンドンは、世界で最もダイナミックな 30都市の研究で、テクノロジーの即応性についてトップにランキングされており、[デジタル起業家にとって欧州一最適な都市 ](https://digitalcityindex.eu/city/16) であるとされています。
+ロンドンのイーストエンドにあるテックシティーは、クリエイティブデジタル企業の世界的中心地となるまでに成長しました。アドテクノロジーのパイオニアであるアンルーリー（Unruly）などのスタートアップ が、ロンドンから世界的規模にまで成長しています。
+また、イングランド北部にも優れたデジタルメディアの中心地が複数あります。リバプール、マンチェスター、シェフィールド、ロザラム、リーズ、ハル、サンダーランド、ニューカッスル、ダラム地域に中心地が存在し、これらの都市全体で2014年には英国経済に対して99億ポンドのGVAを貢献しました。
+英国にはブライトン、レディング、ケンブリッジなど、その他のデジタル人材クラスターもあります。
