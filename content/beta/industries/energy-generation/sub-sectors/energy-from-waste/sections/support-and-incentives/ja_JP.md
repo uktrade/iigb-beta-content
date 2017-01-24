@@ -4,6 +4,6 @@ title: "Support and incentives "
 
 英国は持続可能エネルギー施設を開発したい企業を支援するための資金調達オプションを用意しています。これらの資金調達源は、マーケットの需要を満たすよう定期的に変更され、プロジェクトの種類と英国内の所在地により異なります。
 
-英国の[Renewable Heat Incentive]((https://www.ofgem.gov.uk/environmental-programmes/domestic-rhi)は、再生可能な熱生産技術の導入コストを補助する優遇策です。
+英国の[Renewable Heat Incentive](https://www.ofgem.gov.uk/environmental-programmes/domestic-rhi)は、再生可能な熱生産技術の導入コストを補助する優遇策です。
 
 また、英国政府は、英国内のサプライヤーから英国外のバイヤーへの供給の保険や融資をサポートするために500億ポンドを用意しています。このサポートとは、UK Export Financeという輸出信用機関から発行される保証、保険、そして融資です。
