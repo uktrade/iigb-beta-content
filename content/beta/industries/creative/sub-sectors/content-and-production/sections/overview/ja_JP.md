@@ -1,6 +1,6 @@
 ---
-title: "Overview "
+title: "概要 "
 ---
-The UK offers creative content producers, excellent facilities and locations, a world-leading technical and creative skills base, and strong government support.
+英国においてクリエイティブ･コンテンツの制作会社は、優れた設備やロケーション、世界一流の技術力や創造力を備えたスキルベース、積極的な政府のサポートを享受しています。 
 
-The UK film industry is booming. Our games creators operate in a rapidly expanding market.  High end TV and animation are appreciated worldwide and are supported by generous tax breaks.
+英国の映画業界は急速に成長しており、ゲーム･クリエーター達もこの成長著しい市場で活躍しています。世界中で楽しまれているハイエンドのテレビやアニメーションなどは、優遇税制措置によってサポートされています。
