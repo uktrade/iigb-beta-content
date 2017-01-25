@@ -2790,35 +2790,35 @@ report_problem_placeholder:
  ja_JP: ''
  es_ES: ''
  pt_BR: ''
-langSel_language:
+language:
   de_DE: Sprache
   en_US: Language
   zh_CN: 语言
   ja_JP: 言語
   es_ES: Idioma
   pt_BR: Lingua
-langSel_choose:
+choose_language:
   de_DE: Wählen Sie Ihre Sprache.
   en_US: Choose your language
   zh_CN: 选择语言
   ja_JP: 言語を選択
   es_ES: Seleccione su idioma
   pt_BR: Escolha a sua língua.
-langSel_close:
+close:
   de_DE: Schließen
   en_US: Close
   zh_CN: 关闭
   ja_JP: 閉じる
   es_ES: Cerrar
   pt_BR: Fechar
-langSel_country:
+country_region:
   de_DE: Land/Region
   en_US: Country/region
   zh_CN: 国家/地区
   ja_JP: 国／地域
   es_ES: País/región
   pt_BR: País/região
-langSel_country_text:
+country_text:
   de_DE: Wir bieten auch regionsspezifische Investitionsinformationen an.
   en_US: We also provide region specific investment information.
   zh_CN: 我们还提供特定地区的投资信息
