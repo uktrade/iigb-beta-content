@@ -20,7 +20,7 @@ Alrededor de un tercio de los consumidores británicos compra y consume alimento
 
 Los sucedáneos lácteos muestran un buen crecimiento, con un incremento del 26 % en las ventas en 2015.
 
-## El mercado de los productos sin gluten
+### El mercado de los productos sin gluten
 
 Esta categoría ha ido más allá de la venta de alimentos sin gluten a personas celiacas y, en la actualidad, atrae a consumidores que consideran estos productos una alternativa más saludable o que los eligen en función de su estilo de vida.
 
@@ -28,7 +28,7 @@ Los productos de panadería sin gluten constituyen la mayor parte de esta catego
 
 La innovación es una parte fundamental del crecimiento: el 12 % de los nuevos productos de alimentación que se lanzaron al mercado en el Reino Unido en 2015 era sin gluten.			
 
-## Asociación con Coeliac UK
+### Asociación con Coeliac UK
 
 [Coeliac UK](https://www.coeliac.org.uk/), fundada en 1968, es la mayor organización benéfica dedicada a la celiaquía del mundo, y también la más antigua. Proporciona información actualizada sobre el mercado de productos sin gluten y deriva a las agencias adecuadas para asesorar sobre la legislación, el etiquetado, el control de calidad y las pruebas de gluten.
 
