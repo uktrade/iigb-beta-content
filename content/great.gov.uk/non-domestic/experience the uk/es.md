@@ -1,5 +1,4 @@
 ---
-title: "Welcome to the UK"
-published: true
+title: "Bienvenido al Reino Unido"
 ---
-Home to cutting edge innovators, a place that nurtures talent and creates exceptional products and services. Your future belongs here.
+Hogar de innovadores de vanguardia, un lugar que alienta el talento y crea productos y servicios excepcionales. Su futuro está aquí.

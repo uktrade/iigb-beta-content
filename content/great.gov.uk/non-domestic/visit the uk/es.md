@@ -1,5 +1,4 @@
 ---
-published: false
-title: "Visit the UK"
+title: "Visitar el Reino Unido"
 ---
-Take a journey through vibrant cities, breathtaking scenery, unrivalled heritage and iconic landmarks and discover what makes the UK great.
+Conozca de primera mano su patrimonio inigualable, sus monumentos más emblemáticos y sus hermosos paisajes. Visítenos y descubra qué hace especial a Gran Bretaña.
