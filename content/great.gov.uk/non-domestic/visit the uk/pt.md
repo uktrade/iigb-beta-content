@@ -1,5 +1,4 @@
 ---
-published: false
-title: "Visit the UK"
+title: "Visite o Reino Unido"
 ---
-Take a journey through vibrant cities, breathtaking scenery, unrivalled heritage and iconic landmarks and discover what makes the UK great.
+Conheça o património sem paralelo, os marcos icónicos e as paisagens deslumbrantes. Venha sentir aquilo que engrandece a Grã-Bretanha.

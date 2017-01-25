@@ -1,5 +1,4 @@
 ---
-published: false
-title: "Invest in the UK"
+title: "Investir no Reino Unido"
 ---
-Discover the UK’s wealth of investment opportunities and how the UK government will support your global ambition.
+Conheça o vasto leque de oportunidades de investimento do Reino Unido e saiba de que forma o governo irá apoiar o seu empreendimento.

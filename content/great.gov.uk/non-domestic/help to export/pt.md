@@ -1,5 +1,4 @@
 ---
-published: false
-title: "The demand is out there, you should be too"
+title: "A procura está em toda a parte, você também deve estar."
 ---
-Are you a UK business looking for support to sell overseas? The demand is out there, you should be too.
+É uma empresa do Reino Unido à procura de apoio para vender a nível internacional? A procura está em toda a parte, você também deve estar.
