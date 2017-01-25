@@ -1,5 +1,4 @@
 ---
-title: "Welcome to the UK"
-published: true
+title: "英国にようこそ"
 ---
-Home to cutting edge innovators, a place that nurtures talent and creates exceptional products and services. Your future belongs here.
+英国では、最先端のイノベーターの本拠地として、才能を育み、抜群な商品やサービスを生み出しています。皆さまも、英国で将来を築き上げてはいかがでしょうか。
