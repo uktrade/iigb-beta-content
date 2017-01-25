@@ -2,8 +2,6 @@
 title: "Advanced Manufacturing Overview"
 ---
 
-UK businesses will spend over 90 billion GBP on products to support the advanced manufacturing industry in 2017, making the UK an attractive proposition to overseas investors.
-
 Between 2005 and 2015, manufacturing productivity grew 3 times faster than the rest of the UK’s economy as a whole.
 
 The industry is currently made up of over 90,000 companies and employs 2.7 million people according to the Engineering and Employers Federation.

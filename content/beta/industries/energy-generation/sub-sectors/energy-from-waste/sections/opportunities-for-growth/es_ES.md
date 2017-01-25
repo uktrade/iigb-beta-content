@@ -1,20 +1,18 @@
 ---
-title: "Energy from waste growth opportunities"
+title: Oportunidades de crecimiento en la producción de energía a partir de residuos
 ---
-There are opportunities available to grow your business given the size of the energy from waste market. From our use of conventional incineration to advanced technologies, you can expand into new markets covering the broad range of waste treatment options available here. 
 
-The market includes a variety of waste streams:
+Dado el tamaño del mercado de la obtención de energía a partir de residuos, tiene a su disposición oportunidades para hacer crecer su empresa. Desde el uso de la incineración convencional a tecnologías más avanzadas, aquí puede expandirse a nuevos mercados que cubran el amplio abanico de opciones para el tratamiento de residuos disponibles. 
 
-- waste - mixed waste from either domestic premises or business
-- organic feedstock - such as food waste and green waste from food processing, farms,  gardens and parks
-- commercial and industrial waste from a range of activities
-- construction and demolition waste including waste wood used at biomass facilities
+El mercado abarca varios flujos de residuos:
 
-The next generation of waste from energy plants will be powered by experimental technologies that produce biofuels for vehicles from organic or plastic waste.
+- Basura, o residuos mixtos procedentes de hogares o instalaciones empresariales.
+- Residuos orgánicos, como los restos de alimentos y los residuos verdes procedentes del procesamiento de alimentos, instalaciones agrícolas, jardines y parques.
+- Residuos comerciales e industriales procedentes de varias actividades.
+- Residuos procedentes de actividades de construcción y demolición, incluidos los residuos madereros utilizados en instalaciones de biomasa.
 
-Businesses based in the UK are developing these innovative new sources for biofuels, helping to cement our place as a fantastic base for international operations. 
+La próxima generación de centrales eléctricas que utilicen los residuos como combustible emplearán tecnologías experimentales que produzcan biocombustibles para vehículos a partir de residuos orgánicos o plásticos.
 
-There’s also an estimated 1 billion GBP pipeline of opportunities for community heating projects in the UK, which could be fulfilled by waste to energy and biomass projects.
+Las empresas basadas en el Reino Unido están desarrollando estas nuevas e innovadoras fuentes para biocombustibles, con lo que ayudan a cimentar nuestra posición como una base inmejorable para las operaciones internacionales. 
 
-
-
+Además, se calcula que existe una serie de oportunidades valoradas en 1000 millones de libras en torno a los proyectos de calefacción comunitaria en el Reino Unido, que podrían aprovecharse desde los proyectos energéticos a partir de residuos y los proyectos de biomasa.

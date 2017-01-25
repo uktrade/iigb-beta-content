@@ -2,7 +2,7 @@
 title: "Resumen sobre el comercio minorista"
 ---
 
-El Reino Unido va camino de convertirse en el mercado del lujo líder en Europa en 2018, por delante de Francia e Italia. Esto es lo que pronostica la agencia de investigación del comercio minorista Conlumino, que predice que el valor del mercado europeo de productos de lujo alcanzará los 96 000 millones de libras en 2018.
+Esto es lo que pronostica la agencia de investigación del comercio minorista Conlumino, que predice que el valor del mercado europeo de productos de lujo alcanzará los 96 000 millones de libras en 2018.
 
 El Reino Unido ocupa también el tercer puesto mundial de venta en línea al público. Los consumidores del Reino Unido están entre los primeros en adoptar nuevos productos, y están abiertos a modelos de servicio nuevos e innovadores. Incurren en el mayor gasto en línea por persona del mundo: más de 3 500 dólares estadounidenses al año.
 

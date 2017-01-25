@@ -2,10 +2,7 @@
 title: "Aerospace overview"
 ---
 
-UK aerospace is Europe’s leading aerospace manufacturing nation, second only in the world  to the United States. The sector supplies high-value, high-tech components for almost every major aircraft platform.
-
 With close to 3,000 companies across the UK, our aerospace sector makes a significant contribution to the UK economy. In particular, it:    
-
 - generates over 31 billion GBP in turnover
 - exports over 90% of its production directly employs over 128,000 people with 26,000 in research, design and engineering
 

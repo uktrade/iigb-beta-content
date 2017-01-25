@@ -2,7 +2,7 @@
 title: "Food and Drink Manufacturing overview"
 ---
 
-The food and drink manufacturing industry is the UK's largest manufacturing sector with a turnover of 76 billion GBP. The industry employs over 400,000 people which will need to increase by 170,000 by 2020 to meet demand. 
+The industry employs over 400,000 people which will need to increase by 170,000 by 2020 to meet demand. 
 
 The UK has 64 million consumers who spend around 200 billion GBP a year on food and drink. Weekly spend has risen by almost 60% since 2007 to around 40 GBP per person per week.
 

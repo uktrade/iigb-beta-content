@@ -1,6 +1,6 @@
 ---
-title: "Supply chain opportunities for your business"
+title: Oportunidades para su empresa en la cadena de suministro
 published: true
 ---
-We welcome businesses that pioneer innovations in cost and efficiency when producing energy from waste. If you’re a supply chain investor, you’ll be in good company, and whether you’re a larger developer or a smaller company, you’ll have access to high-quality equipment and a skilled workforce.
 
+Acogemos a todas las empresas pioneras en innovaciones eficientes aplicadas a la producción energética a partir de residuos. Si usted puede invertir en la cadena de suministro, estará bien acompañado. Además, ya sea un desarrollador grande o una empresa pequeña, tendrá acceso a un equipamiento de alta calidad y a una fuerza laboral bien formada.
