@@ -1,5 +1,4 @@
 ---
-published: false
-title: "Study in the UK"
+title: "英国における勉強"
 ---
-Get a headstart from an exceptional British education that will inspire you to achieve.
+何かを達成したいというインスピレーションを与えてくれる評判の英国教育で、一歩先を進みませんか。

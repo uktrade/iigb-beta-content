@@ -1,5 +1,4 @@
 ---
-published: false
-title: "Visit the UK"
+title: "訪英"
 ---
-Take a journey through vibrant cities, breathtaking scenery, unrivalled heritage and iconic landmarks and discover what makes the UK great.
+他に追従のない歴史、象徴的なランドマーク、美しい景色などをご覧いただき、英国の素晴らしさをぜひ体験してください。

@@ -1,5 +1,4 @@
 ---
-published: false
-title: "The demand is out there, you should be too"
+title: "確実に存在する需要をご活用いただけます"
 ---
-Are you a UK business looking for support to sell overseas? The demand is out there, you should be too.
+英国企業で、海外での売上高増強のためのサポートをお求めですか。確実に存在する需要をご活用いただけます。
