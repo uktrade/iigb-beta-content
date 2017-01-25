@@ -2240,254 +2240,254 @@ form_headquarters:
    - Zimbabwe
    es_ES:
    - Andorra
-   - United Arab Emirates
-   - Afghanistan
-   - Antigua and Barbuda
-   - Anguilla
+   - Emiratos Árabes Unidos
+   - Afganistán
+   - Antigua y Barbuda
+   - Anguila
    - Albania
    - Armenia
    - Angola
-   - Antarctica
+   - Antártida
    - Argentina
-   - American Samoa
+   - Samoa Americana
    - Austria
    - Australia
    - Aruba
-   - Åland Islands
-   - Azerbaijan
-   - Bosnia and Herzegovina
+   - Islas Åland
+   - Azerbaiyán
+   - Bosnia-Herzegovina
    - Barbados
-   - Bangladesh
-   - Belgium
+   - Bangladés
+   - Bélgica
    - Burkina Faso
    - Bulgaria
-   - Bahrain
+   - Baréin
    - Burundi
-   - Benin
-   - Saint-Barthélemy
-   - Bermuda
-   - Brunei Darussalam
+   - Benín
+   - San Bartolomé
+   - Bermudas
+   - Brunéi
    - Bolivia
    - Bonaire
-   - Brazil
+   - Brasil
    - Bahamas
-   - Bhutan
-   - Bouvet Island
-   - Botswana
-   - Belarus
-   - Belize
-   - Canada
-   - Cocos (Keeling) Islands
-   - Congo, The Democratic Republic of the
-   - Central African Republic
-   - Congo
-   - Switzerland
-   - Cote D'Ivoire
-   - Cook Islands
+   - Bután
+   - Isla Bouvet
+   - Botsuana
+   - Bielorrusia
+   - Bélice
+   - Canadá
+   - Islas Cocos (Keeling)
+   - República Democrática del Congo
+   - República Centroafricana
+   - República del Congo
+   - Suiza
+   - Costa de Marfil
+   - Islas Cook
    - Chile
-   - Cameroon
+   - Camerún
    - China
    - Colombia
    - Costa Rica
    - Cuba
-   - Cape Verde
+   - Cabo Verde
    - Curaçao
-   - Christmas Island
-   - Cyprus
-   - Czech Republic
-   - Germany
-   - Djibouti
-   - Denmark
+   - Islas Christmas
+   - Chipre
+   - República Checa
+   - Alemania
+   - Yibuti
+   - Dinamarca
    - Dominica
-   - Dominican Republic
-   - Algeria
+   - República Dominicana
+   - Argelia
    - Ecuador
    - Estonia
-   - Egypt
-   - Western Sahara
+   - Egipto
+   - Sahara Oriental
    - Eritrea
-   - Spain
-   - Ethiopia
-   - Finland
+   - España
+   - Etiopía
+   - Finlandia
    - Fiji
-   - Falkland Islands (Malvinas)
-   - Micronesia, Federated States of
-   - Faroe Islands
-   - France
+   - Islas Falkland (Malvinas)
+   - Micronesia
+   - Islas Faroe
+   - Francia
    - Gabon
-   - United Kingdom
-   - Grenada
+   - Reino Unido
+   - Granada
    - Georgia
    - French Guiana
    - Guernsey
    - Ghana
    - Gibraltar
-   - Greenland
+   - Groenlandia
    - Gambia
    - Guinea
-   - Guadeloupe
-   - Equatorial Guinea
-   - Greece
-   - South Georgia and the South Sandwich Islands
+   - Guadalupe
+   - Guinea Ecuatorial
+   - Grecia
+   - Islas Georgia y Sandwich del Sur
    - Guatemala
    - Guam
-   - Guinea-Bissau
+   - Guinea-Bisáu
    - Guyana
    - Hong Kong
-   - Heard Island and Mcdonald Islands
+   - Isla Heard e Islas Mcdonald
    - Honduras
-   - Croatia
-   - Haiti
-   - Hungary
+   - Croacia
+   - Haití
+   - Hungría
    - Indonesia
-   - Ireland
+   - Irlanda
    - Israel
-   - Isle of Man
+   - Isla de Man
    - India
-   - British Indian Ocean Territory
-   - Iraq
-   - Iran, Islamic Republic Of
-   - Iceland
-   - Italy
+   - Territorio Británico del Océano Índico
+   - Irak
+   - Irán
+   - Islandia
+   - Italia
    - Jersey
    - Jamaica
-   - Jordan
-   - Japan
-   - Kenya
-   - Kyrgyzstan
-   - Cambodia
+   - Jordania
+   - Japón
+   - Kenia
+   - Kirguistán
+   - Camboya
    - Kiribati
    - Comoros
-   - Saint Kitts and Nevis
-   - Democratic People's Republic of Korea
-   - Korea, Republic of
+   - San Kitts y Nevis
+   - Corea del Norte
+   - Corea del Sur
    - Kuwait
-   - Cayman Islands
-   - Kazakhstan
-   - Lao People's Democratic Republic
-   - Lebanon
-   - Saint Lucia
+   - Islas Caimán
+   - Kazajistán
+   - Laos
+   - Líbano
+   - Santa Lucía
    - Liechtenstein
    - Sri Lanka
    - Liberia
-   - Lesotho
-   - Lithuania
-   - Luxembourg
-   - Latvia
-   - Libyan Arab Jamahiriya
-   - Morocco
-   - Monaco
-   - Moldova, Republic of
+   - Lesoto
+   - Lituania
+   - Luxemburgo
+   - Letonia
+   - Libia
+   - Marruecos
+   - Mónaco
+   - Moldavia
    - Montenegro
-   - Sint Maarten
+   - San Martin
    - Madagascar
-   - Marshall Islands
-   - Macedonia, The Former Yugoslav Republic of
-   - Mali
-   - Myanmar
+   - Islas Marshall
+   - República de Macedonia
+   - Malí
+   - Birmania
    - Mongolia
    - Macao
-   - Northern Mariana Islands
-   - Martinique
+   - Islas Mariana del Norte
+   - Martinica
    - Mauritania
    - Montserrat
    - Malta
-   - Mauritius
-   - Maldives
-   - Malawi
-   - Mexico
-   - Malaysia
+   - Mauricio
+   - Maldivas
+   - Malaui
+   - México
+   - Malasia
    - Mozambique
    - Namibia
-   - New Caledonia
-   - Niger
-   - Norfolk Island
+   - Nueva Caledonia
+   - Níger
+   - Isla Norfolk
    - Nigeria
    - Nicaragua
-   - Netherlands
-   - Norway
+   - Países Bajos
+   - Noruega
    - Nepal
    - Nauru
    - Niue
-   - New Zealand
-   - Oman
-   - Panama
-   - Peru
-   - French Polynesia
-   - Papua New Guinea
-   - Philippines
-   - Pakistan
-   - Poland
-   - Saint Pierre and Miquelon
+   - Nueva Zelanda
+   - Omán
+   - Panamá
+   - Perú
+   - Polinesia Francesa
+   - Papúa Nueva Guinea
+   - Filipinas
+   - Pakistán
+   - Polonia
+   - San Pierre y Miquelon
    - Pitcairn
    - Puerto Rico
-   - Palestinian Territory, Occupied
+   - Palestina
    - Portugal
    - Palau
    - Paraguay
-   - Qatar
-   - Reunion
-   - Romania
+   - Catar
+   - Reunión
+   - Rumania
    - Serbia
-   - Russian Federation
-   - Rwanda
-   - Saudi Arabia
-   - Solomon Islands
+   - Rusia
+   - Ruanda
+   - Arabia Saudita
+   - Islas Salomón
    - Seychelles
-   - Sudan
-   - Sweden
-   - Singapore
-   - Saint Helena
-   - Slovenia
-   - Svalbard and Jan Mayen
-   - Slovakia
-   - Sierra Leone
+   - Sudán
+   - Suecia
+   - Singapur
+   - Santa Helena
+   - Eslovenia
+   - Svalbard y Jan Mayen
+   - Eslovaquia
+   - Sierra Leona
    - San Marino
    - Senegal
    - Somalia
-   - Suriname
-   - South Sudan
-   - Sao Tome and Principe
+   - Surinam
+   - Sudán del Sur
+   - Santo Tomé y Príncipe
    - El Salvador
    - Sint Maarten
-   - Syrian Arab Republic
-   - Swaziland
-   - Turks and Caicos Islands
+   - Siria
+   - Suazilandia
+   - Islas Turks y Caicos
    - Chad
-   - French Southern Territories
+   - Territorios Franceses del Sur
    - Togo
-   - Thailand
-   - Tajikistan
+   - Tailandia
+   - Tayikistán
    - Tokelau
    - Timor-Leste
-   - Turkmenistan
-   - Tunisia
+   - Turkmenistán
+   - Túnez
    - Tonga
-   - Turkey
-   - Trinidad and Tobago
+   - Turquía
+   - Trinidad y Tobago
    - Tuvalu
-   - Taiwan
-   - Tanzania, United Republic of
-   - Ukraine
+   - Taiwán
+   - Tanzania
+   - Ucrania
    - Uganda
-   - United States Minor Outlying Islands
-   - United States
+   - Islas menores exteriores de los Estados Unidos
+   - Estados Unidos
    - Uruguay
-   - Uzbekistan
-   - Holy See (Vatican City State)
-   - Saint Vincent and the Grenadines
+   - Uzbekistán
+   - Vaticano
+   - San Vicente y las Granadinas
    - Venezuela
-   - Virgin Islands, British
-   - Virgin Islands, U.S.
-   - VietNam
+   - Islas Vírgenes Británicas
+   - Islas Vírgenes de los Estados Unidos
+   - Vietnam
    - Vanuatu
-   - Wallis and Futuna
+   - Wallis y Futuna
    - Samoa
    - Yemen
    - Mayotte
-   - South Africa
+   - Sudáfrica
    - Zambia
-   - Zimbabwe
+   - Zimbabue
    pt_BR:
    - Andorra
    - United Arab Emirates
