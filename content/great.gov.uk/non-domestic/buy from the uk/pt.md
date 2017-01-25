@@ -1,5 +1,4 @@
 ---
-published: false
-title: "Buy from the UK"
+title: "Comprar no Reino Unido"
 ---
- Get exclusive early access to profiles of high quality UK businesses ready to fulfill your demand.
+Registe-se para obter acesso antecipado e exclusivo a perfis de empresas de alta qualidade do Reino Unido, prontas para corresponder à sua procura.

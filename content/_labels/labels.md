@@ -2771,8 +2771,8 @@ feedback_feedback:
  en_US: Feedback
  zh_CN: 电子邮件
  ja_JP: ''
- es_ES: ''
- pt_BR: ''
+ es_ES: Comentarios
+ pt_BR: Comentários
 report_problem:
  de_DE: Report an issue with this page
  en_US: Report an issue with this page

@@ -1,5 +1,4 @@
 ---
-published: false
-title: "Study in the UK"
+title: "Estude no Reino Unido"
 ---
-Get a headstart from an exceptional British education that will inspire you to achieve.
+Obtenha a vantagem de uma excecional educação britânica que o/a irá inspirar a atingir os seus objetivos.
