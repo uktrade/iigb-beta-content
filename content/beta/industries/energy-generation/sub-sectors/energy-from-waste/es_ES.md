@@ -1,4 +1,4 @@
 ---
-title: "Energy from waste"
+title: Producción de energía a partir de residuos en el Reino Unido
 ---
-With 27 million tonnes of municipal solid waste and 47 million tonnes of waste from businesses produced every year, there potential for growth and further investment. 
+Con 27 millones de toneladas de residuos sólidos urbanos y 47 millones de toneladas de residuos sólidos industriales al año, existe un gran potencial de crecimiento e inversión.
