@@ -1,7 +1,6 @@
 ---
 title: "British buying habits"
 ---
-The UK freefrom market is worth around 455 million GBP, up 27% compared to 2015.
 
 Around one-third of British consumers are buying and eating freefrom food. This breaks down as:
 - 22% buying gluten-free
