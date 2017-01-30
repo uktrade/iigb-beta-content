@@ -2,7 +2,7 @@
 title: "The global home of motorsport"
 ---
 
-UK-based businesses act as major suppliers to teams competing in everything from NASCAR to Formula E to the China Touring Car Championship. Famously, 7 out of 11 Formula One racing teams have their headquarters in the UK.
+UK-based businesses act as major suppliers to teams competing in everything from NASCAR to Formula E to the China Touring Car Championship. Famously, 6 out of 10 Formula One racing teams have their headquarters in the UK.
 
 Firms that supply motorsports operate throughout the UK. The largest concentration of motorsport firms are located in 'Motorsport Valley®', a world-renowned business cluster in the south east of England with Oxford at its centre. Michael Porter, a Harvard Business School professor and founder of Monitor Deloitte, has described it as, “A mature economic business cluster, which is number one in the world…the jewel in the crown of British engineering.” 
 In the 50 years since the modern Formula One era began in 1967, only 2 teams have won the Constructors Championship with a car designed outside the UK and one of those used a British engine. 
@@ -15,7 +15,6 @@ The Formula One teams with headquarters here are:
 - Renault Sport in Enstone, Oxfordshire
 - Williams Martini Racing in Grove, Oxfordshire
 - Force India in Silverstone, Northamptonshire
-- Manor Racing in Banbury, Oxfordshire
 
 Formula One research and development centres here are:
 
