@@ -14,7 +14,7 @@ The local content of UK-made cars rose from 36% in 2011 to 41% in 2015, and is c
 | Trim | 255 | Brakes | 80 |
 | Engine forgings | 255 | Drive shafts | 80 |
 | Pressing and hot stampings | 240 | Fuel tanks | 75 |
-| Seat components | 225 | Engine accesories | 75 |
+| Seat components | 225 | Engine accessories | 75 |
 | Alloy wheels | 210 | HVAC assembles | 75 |
 | Lighting | 210 | Misc. (mirrors, pedals, etc.) | 60 |
 | Electronics | 170 | Shock absorbers | 60 |
