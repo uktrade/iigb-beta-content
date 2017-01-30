@@ -2,7 +2,7 @@
 title: "Unsere Talente und Fähigkeiten"
 ---
 
-Großbritannien ist die Heimat von 7 der 11 Formel Eins Teams. McLaren, Williams und Mercedes Benz haben alle ihren Hauptsitz bei uns.
+Großbritannien ist die Heimat von 6 der 10 Formel Eins Teams. McLaren, Williams und Mercedes Benz haben alle ihren Hauptsitz bei uns.
 
 Wir haben Weltklasse-Universitäten: Laut QS-Ranking gehören 4 davon zu den Top 10 der Welt, und 9 der Top 10 Universitäten in der EU befinden sich ebenso in Großbritannien.
 

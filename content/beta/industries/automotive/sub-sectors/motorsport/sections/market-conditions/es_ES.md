@@ -14,7 +14,6 @@ Los equipos de Fórmula Uno con sede en nuestro país son:
 - Renault Sport en Enstone, Oxfordshire.
 - Williams Martini Racing en Grove, Oxfordshire.
 - Force India en Silverstone, Northamptonshire.
-- Manor Racing en Banbury, Oxfordshire.
 
 Centros de investigación y desarrollo de Fórmula Uno:
 
