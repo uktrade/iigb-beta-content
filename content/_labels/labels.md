@@ -2770,16 +2770,17 @@ feedback_feedback:
  de_DE: Feedback
  en_US: Feedback
  zh_CN: 电子邮件
- ja_JP: ''
+ ja_JP: フィードバック
  es_ES: Comentarios
  pt_BR: Comentários
 report_problem:
- de_DE: Report an issue with this page
- en_US: Report an issue with this page
- zh_CN: Report an issue with this page
- ja_JP: ''
- es_ES: ''
- pt_BR: ''
+ de_DE: Ein Problem melden
+ en_US: Report an issue
+ zh_CN: 报告问题
+ ja_JP: 問題を報告します
+ es_ES: Reportar un problema
+ pt_BR: Relatar um problema
+
 report_problem_placeholder:
  de_DE: Please include the name of the page with the issue, and as much detail as
    possible.
