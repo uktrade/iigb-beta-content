@@ -2,10 +2,10 @@
 title: "The global home of motorsport"
 ---
 
-UK-based businesses act as major suppliers to teams competing in everything from NASCAR to Formula E to the China Touring Car Championship. Famously, 7 out of 11 Formula 1 racing teams have their headquarters in the UK.
+UK-based businesses act as major suppliers to teams competing in everything from NASCAR to Formula E to the China Touring Car Championship. Famously, 7 out of 11 Formula One racing teams have their headquarters in the UK.
 
 Firms that supply motorsports operate throughout the UK. The largest concentration of motorsport firms are located in 'Motorsport Valley®', a world-renowned business cluster in the south east of England with Oxford at its centre. Michael Porter, a Harvard Business School professor and founder of Monitor Deloitte, has described it as, “A mature economic business cluster, which is number one in the world…the jewel in the crown of British engineering.” 
-In the 50 years since the modern Formula 1 era began in 1967, only 2 teams have won the Constructors Championship with a car designed outside the UK and one of those used a British engine. 
+In the 50 years since the modern Formula One era began in 1967, only 2 teams have won the Constructors Championship with a car designed outside the UK and one of those used a British engine. 
 
 The Formula One teams with headquarters here are: 
 
@@ -17,7 +17,7 @@ The Formula One teams with headquarters here are:
 - Force India in Silverstone, Northamptonshire
 - Manor Racing in Banbury, Oxfordshire
 
-Formula 1 research and development centres here are:
+Formula One research and development centres here are:
 
 - Haas in Banbury, Oxfordshire
 - Toro Rosso in Milton Keynes, Buckinghamshire
@@ -33,7 +33,7 @@ The UK has made more motorsport innovations in the last 60 years than any other 
 - 1990s, active chassis with traction control and driver aids produced by Williams
 - 2000s, Kinetic Energy Recovery Systems produced by Williams
 
-### Pioneering technology beyond Formula 1
+### Pioneering technology beyond Formula One
 
 The UK provides a base for the new global electric racing series Formula E. It is a major supplier to IndyCar and NASCAR in the USA, the China Touring Car Championship and the 24 Hours of Le Mans series. 
 
