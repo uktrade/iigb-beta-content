@@ -249,6 +249,13 @@ form_enter_valid_email:
  ja_JP: 例えばname@domain.comなど、正しい形式でメールアドレスを入力してください。
  es_ES: Introduzca su dirección de correo electrónico con un formato correcto, por ejemplo, nombre@dominio.com
  pt_BR: Introduza o seu e-mail no formato correto, por exemplo nome@domínio.com
+form_enter_valid_phone:
+ de_DE: Bitte geben Sie eine gültige Telefonnummer ein
+ en_US: Please enter a valid telephone number
+ zh_CN: 请输入有效的电话号码
+ ja_JP: 有効な電話番号を入力してください
+ es_ES: Por favor introduce un número de teléfono válido
+ pt_BR: Por favor, coloque um numero de telefone válido
 form_phone:
  de_DE: Arbeits-Telefon (optional)
  en_US: Work phone (optional)
