@@ -13,7 +13,6 @@ There are different types of visa for individuals and business depending on your
 
 [Learn more about Tier 1 Entrepreneur visas.](https://www.gov.uk/tier-1-entrepreneur/overview)
 
-
 #### A Tier 1 (Exceptional Talent) visa may be suitable for you if you’re:
 
  - a recognised leader (exceptional talent)
@@ -26,7 +25,6 @@ There are different types of visa for individuals and business depending on your
  - you’ve been offered a skilled job in the UK
 
 [Learn more about Tier 2 (General) visas.](https://www.gov.uk/tier-2-general/overview)
-
 
 #### A Tier 2 (Intra-company transfer) visa may be suitable for you if:
 
