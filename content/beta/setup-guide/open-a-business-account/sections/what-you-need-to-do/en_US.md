@@ -2,6 +2,7 @@
 title: "What you need to do"
 ---
 Each bank has a slightly different process for opening a business account. In most cases you will need to have:
+
 - a UK place of business address 
 - a company representative residing in the UK (usually a director or an employee)
  
@@ -9,10 +10,6 @@ No matter where you intend to locate your business, you should contact the centr
  
 After you have done this, you can do most of the application process online and over the phone. You’ll need to provide photographic identification and proof of address for all directors and any substantial shareholders.
 
-
 The bank will also need to meet at least one representative of your company face-to-face in the UK to sign a bank mandate to open the business bank account. 
 
-
 Once your bank account is open, you will be able to use your local bank branch for your day-to-day banking needs.
-
-
