@@ -7,7 +7,7 @@ learn_more: "Saber más"
 plan_your_trip: "Planifique su viaje"
 experience_the_uk: "Experience the UK"
 help_to_export: "Obtener ayuda para exportar"
-I_am_based_in: "Mi sede se encuentra en"
+choose_language: "Seleccione su idioma"
 change_country: "Cambiar país"
 buy_from_uk: "Find a Supplier"
 ---

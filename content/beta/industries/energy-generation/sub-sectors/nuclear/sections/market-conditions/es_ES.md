@@ -1,5 +1,5 @@
 ---
-title: ## Oportunidades en la cadena de suministro de energía nuclear
+title: "Oportunidades en la cadena de suministro de energía nuclear"
 published: true
 ---
 Con la transformación positiva que se está desarrollando en nuestro sector nuclear, las perspectivas para las empresas que quieran acceder a la cadena de suministro británica son inmensas. 

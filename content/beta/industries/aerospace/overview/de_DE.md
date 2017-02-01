@@ -2,17 +2,17 @@
 title: "Übersicht über die Luftfahrtindustrie"
 ---
 
-Großbritannien ist Europas führendes Produktionsland im Bereich der Luftfahrt und steht weltweit nur hinter den Vereinigten Staaten. Dieser Sektor liefert hochwertige Hightech-Komponenten für fast alle großen Flugzeugtypen.
+Großbritannien ist Europas führendes Produktionsland im Bereich der Luftfahrt und steht weltweit nur hinter den Vereinigten Staaten. Der Sektor liefert hochwertige Hightech-Komponenten für fast alle großen Flugzeugtypen.
 
 Mit knapp 3.000 Unternehmen im gesamten Land leistet der Luftfahrtsektor einen bedeutenden Beitrag zur britischen Wirtschaft. Im Einzelnen:    
 
 - generiert er einen Umsatz von 31 Milliarden GBP,
 - exportiert er über 90 % seiner Produktion, 
-- beschäftigt direkt über 128.000 Arbeitskräfte, von denen 26.000 in der Forschung, Konstruktion und technischen Entwicklung arbeiten.
+- beschäftigt er direkt über 128.000 Arbeitskräfte, von denen 26.000 in der Forschung, Konstruktion und technischen Entwicklung arbeiten.
 
 2010 gründete die britische Regierung in Zusammenarbeit mit der Luftfahrtindustrie die [Aerospace Growth Partnership](http://www.theagp.aero/). Diese Partnerschaft soll:
 
-- sicherstellen, dass das Großbritannien der Flugzeugbauer Nr.1 in Europa bleibt,
+- sicherstellen, dass Großbritannien Flugzeugbauer Nr.1 in Europa bleibt,
 - britische Unternehmen bei der Erweiterung und Diversifizierung ihres Kundenstamms unterstützen,
 - langfristige Sicherheit und Stabilität bieten, um die Industrie zur Entwicklung von Technologien für die nächsten Flugzeuggenerationen zu ermutigen.
 

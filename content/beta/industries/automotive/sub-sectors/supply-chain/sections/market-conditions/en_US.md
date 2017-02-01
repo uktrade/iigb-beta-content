@@ -14,7 +14,7 @@ The local content of UK-made cars rose from 36% in 2011 to 41% in 2015, and is c
 | Trim | 255 | Brakes | 80 |
 | Engine forgings | 255 | Drive shafts | 80 |
 | Pressing and hot stampings | 240 | Fuel tanks | 75 |
-| Seat components | 225 | Engine accesories | 75 |
+| Seat components | 225 | Engine accessories | 75 |
 | Alloy wheels | 210 | HVAC assembles | 75 |
 | Lighting | 210 | Misc. (mirrors, pedals, etc.) | 60 |
 | Electronics | 170 | Shock absorbers | 60 |
@@ -33,4 +33,4 @@ The heart of the UK automotive industry is located in the Midlands with Birmingh
 
 There are also major automotive clusters in the North East, including the Nissan factory in Sunderland (the largest single car factory in the UK making 500,000 cars a year) and the North West, home to factories of General Motors (Vauxhall), Jaguar Land Rover and Bentley. 
 
-There’s also ‘Motorsport Valley&#174;', a globally renowned cluster of automotive expertise. Located in the English Midlands and Oxfordshire, it’s the home of global motorsport. With 4,500 motorsport companies, many of which now supply global car manufacturers and component suppliers with advanced engineering solutions, Motorsport Valley® has a unique ability to help any automotive company gain a competitive edge. 
+There’s also ‘Motorsport Valley&reg;', a globally renowned cluster of automotive expertise. Located in the English Midlands and Oxfordshire, it’s the home of global motorsport. With 4,500 motorsport companies, many of which now supply global car manufacturers and component suppliers with advanced engineering solutions, Motorsport Valley&reg; has a unique ability to help any automotive company gain a competitive edge. 

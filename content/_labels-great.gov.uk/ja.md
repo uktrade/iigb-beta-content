@@ -7,7 +7,7 @@ learn_more: "詳細情報"
 plan_your_trip: "訪英のご計画"
 experience_the_uk: "Experience the UK"
 help_to_export: "輸出のための支援を受ける"
-I_am_based_in: "拠点国"
+choose_language: "言語を選択"
 change_country: "国を変更"
 buy_from_uk: "Find a Supplier"
 ---

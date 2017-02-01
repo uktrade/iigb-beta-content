@@ -1,6 +1,5 @@
 ---
 title: "Marktbedingungen"
-published: true
 ---
 
 Zulieferer-Unternehmen für den Motorsport sind überall in Großbritannien im Geschäft. Die größte Ansammlung von Motorsportfirmen ist im 'Motorsport Valley®' angesiedelt, einem weltberühmten Unternehmenscluster im Südosten von England mit Oxford im Zentrum. Michael Porter, ein Harvard Business School Professor und Gründer von Monitor Deloitte, beschreibt es als 'ausgereiftes Cluster von Wirtschaftsunternehmen, das die Nummer Eins der Welt darstellt… das Juwel in der Krone des britischen Ingenieurswesens'.
@@ -20,8 +19,6 @@ Diese Formel Eins Teams haben Ihren Hauptsitz hier:
 - Williams Martini Racing in Grove, Oxfordshire
 
 - Force India in Silverstone, Northamptonshire
-
-- Manor Racing in Banbury, Oxfordshire
 
 Diese Formel Eins Teams haben hier Forschungs- und Entwicklungszentren:
 

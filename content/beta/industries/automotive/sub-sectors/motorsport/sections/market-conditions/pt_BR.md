@@ -15,7 +15,6 @@ As equipas de Fórmula Um com sede no Reino Unido são:
 - Renault Sport em Enstone, Oxfordshire
 - Williams Martini Racing em Grove, Oxfordshire
 - Force India em Silverstone, Northamptonshire
-- Manor Racing em Banbury, Oxfordshire
 
 Centros de investigação e desenvolvimento de Fórmula Um:
 

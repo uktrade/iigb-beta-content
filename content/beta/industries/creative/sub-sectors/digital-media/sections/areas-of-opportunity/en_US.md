@@ -1,5 +1,5 @@
 ---
-title: "Strong areas of opportunity"
+title: "Current digital media opportunities in the UK"
 published: true
 --- 
 ### Creative disruption is driving digital advertising
@@ -17,6 +17,7 @@ Mobile in the UK has been boosted by our strong leadership in personalisation of
 More mobile advertising networks are setting up in the UK, providing greater options to generate revenue from content.
 
 Other growth opportunities include: 
+
 - social media - Britons are amongst the biggest users of social networks in Europe
 - digital radio and TV – the UK has one of the world’s largest digital radio networks, and 97% of UK homes have digital TV
 - innovative tech in production and art – for example sensors and motion capture in film

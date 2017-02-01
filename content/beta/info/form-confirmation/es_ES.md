@@ -1,3 +1,3 @@
 ---
-title: "Gracias por registrar su interés en invertir en el Reino Unido. . 
+title: "Gracias por registrar su interés en invertir en el Reino Unido." 
 ---
