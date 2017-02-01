@@ -10,4 +10,3 @@ You have automatic protection for:
 - design right (shapes and objects)
 
 [Find out more about intellectual property protection.](https://www.gov.uk/intellectual-property-an-overview/what-ip-is)
-
