@@ -2799,12 +2799,12 @@ language:
   es_ES: Idioma
   pt_BR: Lingua
 choose_language:
-  de_DE: Wählen Sie Ihre Sprache.
+  de_DE: Wählen Sie Ihre Sprache
   en_US: Choose your language
   zh_CN: 选择语言
   ja_JP: 言語を選択
   es_ES: Seleccione su idioma
-  pt_BR: Escolha a sua língua.
+  pt_BR: Escolha a sua língua
 close:
   de_DE: Schließen
   en_US: Close
