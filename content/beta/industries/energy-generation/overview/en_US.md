@@ -1,5 +1,5 @@
 ---
-title: "Energy generation overview"
+title: "An overview of energy generation in the UK"
 published: true
 ---
 The UK is improving energy efficiency, expanding renewable and low carbon energy and maximising production of oil and gas. 
