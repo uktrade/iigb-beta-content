@@ -233,7 +233,7 @@ form_email:
  en_US: Work email
  zh_CN: 工作电子邮件
  ja_JP: 勤務先の電子メール
- es_ES: Dirección de correo electrónico empresarial
+ es_ES: Dirección de correo electrónico de la empresa
  pt_BR: E-mail - Trabalho
 form_enter_email:
  de_DE: Geben Sie Ihre Emailadresse ein
@@ -261,7 +261,7 @@ form_phone:
  en_US: Work phone (optional)
  zh_CN: 工作联系电话(可选填)
  ja_JP: 勤務先の電話番号 (任意)
- es_ES: Número de teléfono empresarial (opcional)
+ es_ES: Número de teléfono de la empresa (opcional)
  pt_BR: Telefone - Trabalho (opcional)
 form_enter_phone:
  de_DE: Enter your telephone number:DE

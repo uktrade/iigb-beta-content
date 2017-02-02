@@ -13,4 +13,4 @@ El sector de los servicios financieros en el Reino Unido recibe el apoyo de nues
 - La desgravación para emprendedores. 
 - Créditos fiscales a la innovación y el desarrollo.
 
-La Caja de patentes, que permite a las empresas aplicarse una tasa menor del impuesto de sociedades sobre los beneficios procedentes de sus inventos patentados.
+El Patent Box, que permite a las empresas aplicarse una tasa menor del impuesto de sociedades sobre los beneficios procedentes de sus inventos patentados.

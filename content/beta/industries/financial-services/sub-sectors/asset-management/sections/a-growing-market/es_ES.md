@@ -11,7 +11,7 @@ El Reino Unido es una ubicación importante para domiciliar fondos; en torno a u
 - Luxemburgo (27 %).
 - Irlanda (15 %).
 - Francia (14 %).
-A- lemania (14 %).
+- Alemania (14 %).
  
 Las empresas basadas en el Reino Unido están bien posicionadas para capturar una proporción cada vez más grande de los negocios procedentes de las economías en desarrollo, con un alto potencial de crecimiento.
 
