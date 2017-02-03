@@ -32,9 +32,3 @@ The government have backed plans to develop the next generation of [Small Modula
 Government have made a further commitment to invest at least £250 million in nuclear research and development. This includes a [competition to find the best value SMR designs.](https://www.gov.uk/government/publications/small-modular-reactors-competition-phase-one)
 
 According to the National Nuclear Laboratory, the global SMR market iit's estimated that the global SMR market will be approximately 65-85GW by 2035 and valued at 250 to 400 billion GBP. If the economics of this approach prove competitive, there could be significant advantages for businesses involved in the UK’s development programme.
-
-### A world class regulatory system
-
-At the heart of our nuclear programme is a world-class independent regulatory system. The[ Office for Nuclear Regulation](http://www.onr.org.uk/) and the [Environment Agency ](https://www.gov.uk/government/organisations/environment-agency)work together to make sure that any new nuclear power stations built here meet high standards of safety, security, environmental protection and waste management. This process is called the [Generic Design Assessment](http://www.onr.org.uk/new-reactors/) (GDA).
-
-Businesses that achieve GDA approval in the UK are recognised as meeting the most rigorous standards in the nuclear industry, providing them with a stepping-stone for further international growth.
