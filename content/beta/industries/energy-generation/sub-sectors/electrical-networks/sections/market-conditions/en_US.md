@@ -1,5 +1,5 @@
 ---
-title: "Investment opportunities that promote change"
+title: "Investment opportunities in electrical networks that promote change"
 ---
 You’ll find the UK market an exciting and challenging one, with plenty of opportunities for dynamic, innovative companies.
 
@@ -11,4 +11,4 @@ The electricity network is evolving to accommodate new types and location of ele
  
 The distribution network is most likely to undergo the biggest change in the coming years and the DNOs are seeking new suppliers to increase customer-focused performance benefits. Rising interest in community energy schemes is also creating a new movement in the market for network products and services.
  
-There’s also an increasing requirement for smart technologies. UK customers are early adopters of smart tech-focused energy solutions.
+There’s also an increasing requirement for smart technologies. UK customers are early adopters of smart tech-focused energy solutions
