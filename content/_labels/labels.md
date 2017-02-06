@@ -6,6 +6,7 @@ watch_video:
  ja_JP: ビデオを再生
  es_ES: Ver el vídeo
  pt_BR: Ver vídeo
+ ar_SA: 
 search:
  de_DE: Suche
  en_US: Search
@@ -13,6 +14,7 @@ search:
  ja_JP: 検索
  es_ES: Buscar
  pt_BR: Pesquisa
+ ar_SA: 
 search_close:
  de_DE: Suche Schließen
  en_US: Close search
@@ -20,6 +22,7 @@ search_close:
  ja_JP: 閉じる
  es_ES: Cerrar
  pt_BR: Fechar
+ ar_SA: 
 no_results:
  de_DE: Keine Ergebnisse für
  en_US: No results found for
@@ -27,6 +30,7 @@ no_results:
  ja_JP: ''
  es_ES: ''
  pt_BR: ''
+ ar_SA: 
 search_error:
  de_DE: Ein Fehler ist aufgetreten. Bitte melden sie ihn.
  en_US: An error has occurred. Please contact your administrator
@@ -34,6 +38,7 @@ search_error:
  ja_JP: An error has occurred. Please contact your administrator
  es_ES: An error has occurred. Please contact your administrator
  pt_BR: An error has occurred. Please contact your administrator
+ ar_SA: 
 on_this_page:
  de_DE: Auf dieser Seite
  en_US: On this page
@@ -41,6 +46,7 @@ on_this_page:
  ja_JP: このページ
  es_ES: En esta página
  pt_BR: Nesta página
+ ar_SA: 
 pre_word:
  de_DE: Subsektoren
  en_US: ''
@@ -48,6 +54,7 @@ pre_word:
  ja_JP: ''
  es_ES: ''
  pt_BR: ''
+ ar_SA: 
 post_word:
  de_DE: branche
  en_US: sub sectors
@@ -55,6 +62,7 @@ post_word:
  ja_JP: ''
  es_ES: ''
  pt_BR: ''
+ ar_SA: 
 setup_guide:
  de_DE: Leitfaden Unternehmensgründung
  en_US: UK setup guide
@@ -62,6 +70,7 @@ setup_guide:
  ja_JP: 英国での事業設立
  es_ES: Guía para establecerse en el Reino Unido 
  pt_BR: Guia para estabelecer no Reino Unido
+ ar_SA: 
 home:
  de_DE: Startseite
  en_US: Home
@@ -69,6 +78,7 @@ home:
  ja_JP: トップページ
  es_ES: Inicio
  pt_BR: Início
+ ar_SA: 
 privacy:
  de_DE: Datenschutz und Cookies
  en_US: Privacy and cookies
@@ -76,6 +86,7 @@ privacy:
  ja_JP: プライバシー
  es_ES: Privacidad y cookies
  pt_BR: Privacidade e cookies
+ ar_SA: 
 terms:
  de_DE: AGB
  en_US: Terms and conditions
@@ -83,6 +94,7 @@ terms:
  ja_JP: 規約
  es_ES: Términos y condiciones
  pt_BR: Termos e condições
+ ar_SA: 
 contact:
  de_DE: Kontakt
  en_US: Get in touch
@@ -90,6 +102,7 @@ contact:
  ja_JP: お問い合わせ
  es_ES: Contacto
  pt_BR: Entrar em contacto
+ ar_SA: 
 industries:
  de_DE: Branchen
  en_US: Industries
@@ -97,6 +110,7 @@ industries:
  ja_JP: 産業
  es_ES: Sectores
  pt_BR: Indústrias
+ ar_SA: 
 industry_overviews:
  de_DE: Industry overviews:DE
  en_US: Industry overviews
@@ -104,6 +118,7 @@ industry_overviews:
  ja_JP: Industry overviews:JP
  es_ES: Industry overviews:ES
  pt_BR: Industry overviews:BR
+ ar_SA: 
 industry_overviews_intro:
  de_DE: Find high level information about your industry sector including success
    stories from other companies we have worked with:DE
@@ -115,6 +130,7 @@ industry_overviews_intro:
  es_ES: Find high level information about your industry sector including success
    stories from other companies we have worked with:ES
  pt_BR: Find high level information about your industry sector including success
+ ar_SA: 
    stories from other companies we have worked with:BR
 industries_intro:
  de_DE: Find specific information about the industry your company operates in, including
@@ -128,6 +144,7 @@ industries_intro:
  es_ES: Find specific information about the industry your company operates in, including
    market conditions and incentives:ES
  pt_BR: Find specific information about the industry your company operates in, including
+ ar_SA: 
    market conditions and incentives:BR
 great_british_industries:
  de_DE: Bedeutende britische Industriezweige
@@ -136,6 +153,7 @@ great_british_industries:
  ja_JP: 英国の主要産業
  es_ES: Grandes sectores en Gran Bretaña
  pt_BR: Indústrias da Grã-Bretanha
+ ar_SA: 
 post_strengths:
  de_DE: Branchen
  en_US: industries
@@ -143,6 +161,7 @@ post_strengths:
  ja_JP: 産業
  es_ES: Sectores
  pt_BR: Indústrias
+ ar_SA: 
 related_industries:
  de_DE: Relevante Branchen
  en_US: Related industries
@@ -150,6 +169,7 @@ related_industries:
  ja_JP: 関連産業
  es_ES: Sectores relacionados
  pt_BR: Indústrias relacionadas
+ ar_SA: 
 discover:
  de_DE: Entdecken Sie mehr
  en_US: Discover more
@@ -157,6 +177,7 @@ discover:
  ja_JP: 詳細を見る
  es_ES: Descubra más
  pt_BR: Saiba mais
+ ar_SA: 
 please_select:
  de_DE: Bitte auswählen
  en_US: Select
@@ -164,6 +185,7 @@ please_select:
  ja_JP: 選択する
  es_ES: Seleccionar
  pt_BR: Selecionar
+ ar_SA: 
 'yes':
  de_DE: Ja
  en_US: 'Yes'
@@ -171,6 +193,7 @@ please_select:
  ja_JP: はい
  es_ES: Si
  pt_BR: Sim
+ ar_SA: 
 'no':
  de_DE: Nein
  en_US: 'No'
@@ -178,6 +201,7 @@ please_select:
  ja_JP: いいえ
  es_ES: No
  pt_BR: Não
+ ar_SA: 
 form_next:
  de_DE: Weiter
  en_US: Next
@@ -185,6 +209,7 @@ form_next:
  ja_JP: 次
  es_ES: Siguiente
  pt_BR: Próximo
+ ar_SA: 
 form_previous:
  de_DE: Zurück
  en_US: Previous
@@ -192,6 +217,7 @@ form_previous:
  ja_JP: 前
  es_ES: Anterior
  pt_BR: Anterior
+ ar_SA: 
 form_submit:
  de_DE: Absenden
  en_US: Send
@@ -199,6 +225,7 @@ form_submit:
  ja_JP: 送信
  es_ES: Enviar
  pt_BR: Enviar
+ ar_SA: 
 form_contact_details:
  de_DE: Ihre Kontaktdaten
  en_US: Your contact details
@@ -206,6 +233,7 @@ form_contact_details:
  ja_JP: ご連絡先
  es_ES: Sus datos de contacto
  pt_BR: Os seus dados de contacto
+ ar_SA: 
 form_contact_details_reason:
  de_DE: Wir benötigen diese um Sie mit Ihrem Ansprechpartner vor Ort in Verbindung
    zu setzen
@@ -214,6 +242,7 @@ form_contact_details_reason:
  ja_JP: これらの情報をもとに、貴社の最寄りの事務所をご紹介します
  es_ES: Los utilizaremos para ponerle en contacto con su oficina local
  pt_BR: Iremos utilizá-los para o/a colocar em contacto com o escritório local
+ ar_SA: 
 form_full_name:
  de_DE: Vollständiger Name
  en_US: Full name
@@ -221,6 +250,7 @@ form_full_name:
  ja_JP: ご氏名
  es_ES: Nombre completo
  pt_BR: Nome completo
+ ar_SA: 
 form_enter_full_name:
  de_DE: Geben Sie Ihren vollständigen Namen ein
  en_US: Enter your full name
@@ -228,6 +258,7 @@ form_enter_full_name:
  ja_JP: ご氏名を入力してください
  es_ES: Introduzca su nombre completo
  pt_BR: Introduza o seu nome completo
+ ar_SA: 
 form_email:
  de_DE: Arbeits-E-Mail
  en_US: Work email
@@ -235,6 +266,7 @@ form_email:
  ja_JP: 勤務先の電子メール
  es_ES: Dirección de correo electrónico de la empresa
  pt_BR: E-mail - Trabalho
+ ar_SA: 
 form_enter_email:
  de_DE: Geben Sie Ihre Emailadresse ein
  en_US: Enter your email address
@@ -242,6 +274,7 @@ form_enter_email:
  ja_JP: 電子メールアドレスを入力してください
  es_ES: Introduzca su dirección de correo electrónico
  pt_BR: Introduza o seu endereço de e-mail
+ ar_SA: 
 form_enter_valid_email:
  de_DE: Geben Sie Ihre Email im richtigen Format ein, z.B. name@domain.de
  en_US: Enter your email in the correct format, for example name@domain.com
@@ -249,6 +282,7 @@ form_enter_valid_email:
  ja_JP: 例えばname@domain.comなど、正しい形式でメールアドレスを入力してください。
  es_ES: Introduzca su dirección de correo electrónico con un formato correcto, por ejemplo, nombre@dominio.com
  pt_BR: Introduza o seu e-mail no formato correto, por exemplo nome@domínio.com
+ ar_SA: 
 form_enter_valid_phone:
  de_DE: Bitte geben Sie eine gültige Telefonnummer ein
  en_US: Please enter a valid telephone number
@@ -256,6 +290,7 @@ form_enter_valid_phone:
  ja_JP: 有効な電話番号を入力してください
  es_ES: Por favor introduce un número de teléfono válido
  pt_BR: Por favor, coloque um numero de telefone válido
+ ar_SA: 
 form_phone:
  de_DE: Arbeits-Telefon (optional)
  en_US: Work phone (optional)
@@ -263,6 +298,7 @@ form_phone:
  ja_JP: 勤務先の電話番号 (任意)
  es_ES: Número de teléfono de la empresa (opcional)
  pt_BR: Telefone - Trabalho (opcional)
+ ar_SA: 
 form_enter_phone:
  de_DE: Enter your telephone number:DE
  en_US: Enter your telephone number
@@ -270,6 +306,7 @@ form_enter_phone:
  ja_JP: Enter your telephone number:JP
  es_ES: Enter your telephone number:ES
  pt_BR: Enter your telephone number:BR
+ ar_SA: 
 form_city:
  de_DE: Stadt, in der Sie derzeit wohnen
  en_US: Closest city to your current business location
@@ -277,6 +314,7 @@ form_city:
  ja_JP: 現在の事業所の最寄りの都市
  es_ES: Ciudad más cercana a la ubicación actual de su negocio
  pt_BR: Cidade mais próxima da localização atual da sua empresa
+ ar_SA: 
 form_enter_city:
  de_DE: Geben Sie die Stadt, in der Sie derzeit wohnen, ein (optional)
  en_US: Enter the closest city to your current business location (optional)
@@ -284,6 +322,7 @@ form_enter_city:
  ja_JP: 現在の事業所の最寄りの都市を入力してください (任意)
  es_ES: Introduza a cidade mais próxima da localização atual da sua empresa (opcional)
  pt_BR: Introduzca la ciudad más cercana a la ubicación actual de su negocio (opcional)
+ ar_SA: 
 form_investment:
  de_DE: Ihre Investition
  en_US: Your investment
@@ -291,6 +330,7 @@ form_investment:
  ja_JP: 貴社の投資について
  es_ES: Su inversión
  pt_BR: O seu investimento
+ ar_SA: 
 form_enter_annual_turnover:
  de_DE: Wählen Sie die Option, die Ihrem Jahresumzsatz am besten entspricht
  en_US: Select the range that reflects your annual turnover
@@ -298,6 +338,7 @@ form_enter_annual_turnover:
  ja_JP: 貴社の年間総売上高に相当する範囲を選択してください
  es_ES: Seleccione el intervalo que refleje su volumen de negocio anual
  pt_BR: Selecione a opção mais próxima da sua receita anual
+ ar_SA: 
 form_annual_turnover:
  label:
    de_DE: Geschätzter derzeitiger Jahresumsatz
@@ -306,6 +347,7 @@ form_annual_turnover:
    ja_JP: 現在の年間売上高 (推定でも構いません)
    es_ES: Ingresos anuales actuales aproximados
    pt_BR: Estimativa da atual receita anual
+   ar_SA: 
  options:
    '0': Under £100,000
    '1': Between £100,000 and £1 million
@@ -349,6 +391,7 @@ form_annual_turnover:
    - Entre 50 y 100 millones de libras
    - Más de 100 millones de libras
    pt_BR:
+   ar_SA: 
    - Inferior a 100 000 £
    - Entre 100 000 £ e 1 milhão de £
    - Entre 1 milhão de £ e 10 milhões de £
@@ -362,6 +405,7 @@ form_enter_staff_number:
  ja_JP: 貴社の従業員数に最も近い範囲を選択してください
  es_ES: Seleccione el intervalo que más se aproxime a su número de empleados
  pt_BR: Selecione a opção mais próxima do seu número de pessoal
+ ar_SA: 
 form_staff_number:
  label:
    de_DE: Geschätzte derzeitige Mitarbeiteranzahl
@@ -370,6 +414,7 @@ form_staff_number:
    ja_JP: 現在の従業員数 (推定でも構いません)
    es_ES: Número aproximado de personal en la actualidad
    pt_BR: Estimativa do número de pessoal atual
+   ar_SA: 
  options:
    '0': Less than 10
    '1': Between 10 and 50
@@ -401,6 +446,7 @@ form_staff_number:
    - Entre 50 y 250
    - Más de 250
    pt_BR:
+   ar_SA: 
    - Menos de 10
    - Entre 10 e 50
    - Entre 50 e 250
@@ -412,6 +458,7 @@ form_location:
  ja_JP: 英国の特定の場所をご検討中ですか。
  es_ES: ¿Está pensando en una ubicación concreta en el Reino Unido?
  pt_BR: Está a considerar um local específico no Reino Unido?
+ ar_SA: 
 form_enter_which_part:
  de_DE: Bitte wählen Sie einen Standort aus
  en_US: Select a location
@@ -419,6 +466,7 @@ form_enter_which_part:
  ja_JP: 場所を選択してください
  es_ES: Seleccione una ubicación
  pt_BR: Selecione uma localização
+ ar_SA: 
 form_which_part:
  label:
    de_DE: Wo ist ihr Hauptstandort?
@@ -427,6 +475,7 @@ form_which_part:
    ja_JP: 本社はどちらですか。
    es_ES: ¿Dónde se encuentra su sede principal?
    pt_BR: Qual é a sua localização principal?
+   ar_SA: 
  options:
    '0': London and the South East
    '1': Bristol and the South West
@@ -494,6 +543,7 @@ form_which_part:
    - Belfast e Irlanda del Norte
    - Nottingham y las Midlands del Este
    pt_BR:
+   ar_SA: 
    - Londres e região sudeste
    - Bristol e região sudoeste
    - Birmingham e Midlands ocidentais
@@ -512,6 +562,7 @@ form_enter_when:
  ja_JP: 英国における営業開始をご希望の日付を大まかにご記入ください
  es_ES: Introduzca la fecha aproximada en la que desea estar operando en el Reino Unido
  pt_BR: Introduza a data aproximada em que pretende estar a operar no Reino Unido
+ ar_SA: 
 form_when:
  de_DE: Geben Sie ein ungefähres Startdatum für die Aufnahme Ihrer Geschäfte im Vereinigten Königreich ein?
  en_US: When do you hope to have your business running in the UK (month/year)
@@ -519,6 +570,7 @@ form_when:
  ja_JP: 英国における事業開始をご希望の時期をご記入ください (月／年)
  es_ES: ¿Cuándo espera tener su negocio operativo en el Reino Unido (mes/año)?
  pt_BR: Quando espera ter a sua empresa a funcionar no Reino Unido (mês/ano)
+ ar_SA: 
 form_when_month:
  label:
    de_DE: Monat
@@ -527,6 +579,7 @@ form_when_month:
    ja_JP: 月
    es_ES: mes
    pt_BR: mês
+   ar_SA: 
  options:
    '0': January
    '1': February
@@ -606,6 +659,7 @@ form_when_month:
    - Noviembre
    - Diciembre
    pt_BR:
+   ar_SA: 
    - Janeiro
    - Fevereiro
    - Março
@@ -626,6 +680,7 @@ form_when_year:
    ja_JP: 年
    es_ES: año
    pt_BR: ano
+   ar_SA: 
  options:
    '0': '2017'
    '1': '2018'
@@ -693,6 +748,7 @@ form_when_year:
    - '2025'
    - '2026'
    pt_BR:
+   ar_SA: 
    - '2017'
    - '2018'
    - '2019'
@@ -710,6 +766,7 @@ form_company:
  ja_JP: 貴社について
  es_ES: Su empresa
  pt_BR: A sua empresa
+ ar_SA: 
 form_company_reason:
  de_DE: Helfen Sie uns, Ihren aktuellen Betrieb zu verstehen
  en_US: Help us understand your current operations
@@ -717,6 +774,7 @@ form_company_reason:
  ja_JP: 貴社の現在の運営について当省が理解するために、ご協力ください
  es_ES: Ayúdenos a conocer sus operaciones actuales
  pt_BR: Ajude-nos a compreender as suas operações atuais
+ ar_SA: 
 form_registered_company:
  de_DE: Eingetragener Firmenname
  en_US: Registered company name
@@ -724,6 +782,7 @@ form_registered_company:
  ja_JP: 正式登録の社名
  es_ES: Nombre registrado de la empresa
  pt_BR: Nome da empresa registado
+ ar_SA: 
 form_enter_registered_company:
  de_DE: Geben Sie Ihren eingetragenen Unternehmensnamen ein
  en_US: Enter your registered company name
@@ -731,6 +790,7 @@ form_enter_registered_company:
  ja_JP: 正式登録された会社名を入力してください
  es_ES: Introduzca el nombre registrado de su empresa
  pt_BR: Introduza o nome registado da sua empresa
+ ar_SA: 
 form_website:
  de_DE: Internetadresse Ihres Unternehmens
  en_US: Company website address (optional)
@@ -738,6 +798,7 @@ form_website:
  ja_JP: 貴社のウェブサイト アドレス (任意)
  es_ES: Dirección del sitio web de la empresa (opcional)
  pt_BR: Endereço do website da empresa (opcional)
+ ar_SA: 
 form_enter_website:
  de_DE: Geben Sie die Internetadresse Ihres Unternehmens ein
  en_US: Enter your company website address
@@ -745,6 +806,7 @@ form_enter_website:
  ja_JP: 貴社のウェブサイトのアドレスを入力してください
  es_ES: Introduzca la dirección del sitio web de su empresa
  pt_BR: Introduza o endereço do website da sua empresa
+ ar_SA: 
 form_enter_primary_industry:
  de_DE: Wählen Sie die Branche aus, in der Sie hauptsächlich tätig sind, aus oder wählen Sie "Sonstiges"
  en_US: Select the industry you mainly operate in or select Other
@@ -752,6 +814,7 @@ form_enter_primary_industry:
  ja_JP: 主要業種をご選択いただくか、または「その他」を選択してください
  es_ES: Seleccione el sector en el que opera principalmente o seleccione Otros
  pt_BR: Selecione a indústria em que opera maioritariamente ou selecione Outra
+ ar_SA: 
 form_primary_industry:
  label:
    de_DE: Hauptbranche
@@ -760,6 +823,7 @@ form_primary_industry:
    ja_JP: 主要業種
    es_ES: Sector principal de operación
    pt_BR: Indústria principal
+   ar_SA: 
  options:
    '0' : Advanced manufacturing
    '1' : Aerospace
@@ -911,6 +975,7 @@ form_primary_industry:
    - Tecnología
    - Otros
    pt_BR:
+   ar_SA: 
    - Fabrico avançado
    - Aeroespacial
    - Gestão de ativos
@@ -942,6 +1007,7 @@ form_other:
  ja_JP: その他
  es_ES: Otros
  pt_BR: Outra
+ ar_SA: 
 form_enter_other:
  de_DE: Geben Sie Ihre Branche ein
  en_US: Enter your industry
@@ -949,6 +1015,7 @@ form_enter_other:
  ja_JP: 業種を入力してください
  es_ES: Introduzca su sector
  pt_BR: Introduza a sua indústria
+ ar_SA: 
 form_mailing_list:
  de_DE: Das Department for International Trade und Ihre Partner könnten Ihre Daten
    verwenden um Ihnen relevante Neuigkeiten und Informationen zuzusenden.
@@ -958,6 +1025,7 @@ form_mailing_list:
  ja_JP: 英国国際貿易省 (Department for International Trade) およびそのパートナーでは、関連ニュースや情報を送信するために情報を使用させていただく場合があります。
  es_ES: El Departamento de Comercio Internacional y sus socios pueden emplear sus datos para enviarle información y noticias relevantes
  pt_BR: O Departamento do Comércio Internacional (Department for International Trade) e os respetivos parceiros poderão utilizar os seus detalhes para lhe enviar notícias e informações relevantes
+ ar_SA: 
 form_enter_mailing_list:
  de_DE: Bitte geben Sie an, ob Sie relevante Neuigkeiten und Informationen erhlten
    wollen.
@@ -966,6 +1034,7 @@ form_enter_mailing_list:
  ja_JP: Select whether you'd like to receive relevant news and information:JP
  es_ES: Select whether you'd like to receive relevant news and information:ES
  pt_BR: Select whether you'd like to receive relevant news and information:BR
+ ar_SA: 
 form_mailing_list_confirmation:
  de_DE: Ja, Ich möchte solche Informationen bekommen.
  en_US: Yes, I would like to get this information.
@@ -973,6 +1042,7 @@ form_mailing_list_confirmation:
  ja_JP: この情報の受信を希望
  es_ES: Sí, me gustaría recibir esta información
  pt_BR: Sim, gostaria de receber essas informações
+ ar_SA: 
 form_enter_headquarters:
  de_DE: Geben Sie das Land Ihres Unternehmenshauptsitzes ein
  en_US: Enter the country where your company has its headquarters
@@ -980,6 +1050,7 @@ form_enter_headquarters:
  ja_JP: 貴社の本社のある国名を入力してください
  es_ES: Introduzca el país en el que se encuentre la sede central de su empresa
  pt_BR: Introduza o país onde a sua empresa está sediada
+ ar_SA: 
 form_enter_headquarters_help:
  de_DE: Bitte geben Sie hier Text ein damit Sie eine Auswahl machen können
  en_US: Start typing to select an option
@@ -987,6 +1058,7 @@ form_enter_headquarters_help:
  ja_JP: 入力を開始すると、オプションを選択できます
  es_ES: Empiece a escribir para seleccionar una opción
  pt_BR: Comece a digitar para selecionar uma opção
+ ar_SA: 
 form_headquarters:
  label:
    de_DE: Hauptsitz ihres Unternehmens
@@ -995,6 +1067,7 @@ form_headquarters:
    ja_JP: 国名
    es_ES: País
    pt_BR: País
+   ar_SA: 
  options:
    '0': Andorra
    '1': United Arab Emirates
@@ -2496,6 +2569,7 @@ form_headquarters:
    - Zambia
    - Zimbabue
    pt_BR:
+   ar_SA: 
    - Andorra
    - United Arab Emirates
    - Afghanistan
@@ -2752,6 +2826,7 @@ form_disclaimer:
  ja_JP: 情報をご送付いただくことで、当省にご提出いただいた情報が真実であり、当省の利用規約に同意していただいたことをご確認いただくことになりますのでご了解ください。
  es_ES: Al enviarnos sus datos, usted confirma que la información que nos proporciona es verídica y acepta nuestros 
  pt_BR: Ao enviar-nos os seus detalhes confirma que as informações que partilhou conosco são verdadeiras e que aceita os nossos
+ ar_SA: 
 form_disclaimer_tc:
  de_DE: Nutzungsbedingungen zu.
  en_US: terms and conditions.
@@ -2759,6 +2834,7 @@ form_disclaimer_tc:
  ja_JP: 当省の利用規約
  es_ES: términos y condiciones.
  pt_BR: termos e condições.
+ ar_SA: 
 feedback_name:
  de_DE: Vollständiger Name
  en_US: Name
@@ -2766,6 +2842,7 @@ feedback_name:
  ja_JP: ご氏名
  es_ES: Nombre
  pt_BR: Nome
+ ar_SA: 
 feedback_email:
  de_DE: E-Mail
  en_US: Email
@@ -2773,6 +2850,7 @@ feedback_email:
  ja_JP: メール
  es_ES: Correo electrónico
  pt_BR: E-mail
+ ar_SA: 
 feedback_feedback:
  de_DE: Feedback
  en_US: Feedback
@@ -2780,6 +2858,7 @@ feedback_feedback:
  ja_JP: フィードバック
  es_ES: Comentarios
  pt_BR: Comentários
+ ar_SA: 
 report_problem:
  de_DE: Ein Problem melden
  en_US: Report an issue
@@ -2787,6 +2866,7 @@ report_problem:
  ja_JP: 問題を報告します
  es_ES: Reportar un problema
  pt_BR: Relatar um problema
+ ar_SA: 
 
 report_problem_placeholder:
  de_DE: Please include the name of the page with the issue, and as much detail as
@@ -2798,6 +2878,7 @@ report_problem_placeholder:
  ja_JP: ''
  es_ES: ''
  pt_BR: ''
+ ar_SA: 
 language:
   de_DE: Sprache
   en_US: Language
@@ -2805,6 +2886,7 @@ language:
   ja_JP: 言語
   es_ES: Idioma
   pt_BR: Lingua
+  ar_SA: 
 choose_language:
   de_DE: Wählen Sie Ihre Sprache
   en_US: Choose your language
@@ -2812,6 +2894,7 @@ choose_language:
   ja_JP: 言語を選択
   es_ES: Seleccione su idioma
   pt_BR: Escolha a sua língua
+  ar_SA: 
 close:
   de_DE: Schließen
   en_US: Close
@@ -2819,6 +2902,7 @@ close:
   ja_JP: 閉じる
   es_ES: Cerrar
   pt_BR: Fechar
+  ar_SA: 
 country_region:
   de_DE: Land/Region
   en_US: Country/region
@@ -2826,6 +2910,7 @@ country_region:
   ja_JP: 国／地域
   es_ES: País/región
   pt_BR: País/região
+  ar_SA: 
 country_text:
   de_DE: Wir bieten auch regionsspezifische Investitionsinformationen an.
   en_US: We also provide region specific investment information.
@@ -2833,6 +2918,7 @@ country_text:
   ja_JP: 地域別の投資情報も提供しています
   es_ES: También proporcionamos información sobre inversiones específica para cada región.
   pt_BR: Também fornecemos informações de investimento específicas para cada região.
+  ar_SA: 
 location_guide:
   de_DE: Standortführer
   en_US: Location guide
@@ -2840,6 +2926,7 @@ location_guide:
   ja_JP: 地域ガイド
   es_ES: Guía de ubicaciones
   pt_BR: Guia de localização
+  ar_SA: 
 investment_opts_involved_in_research:
   de_DE: An Studien teilnehmen und bei der Gestaltung des Services mitwirken
   en_US: Take part in research to help shape the service
@@ -2847,6 +2934,7 @@ investment_opts_involved_in_research:
   ja_JP: サービス展開のための調査にご協力ください
   es_ES: Participar en la investigación para el desarrollo del servicio
   pt_BR: Participe na pesquisa para desenvolver o serviço
+  ar_SA: 
 investment_opts_get_updates:
   de_DE: Neuigkeiten erhalten
   en_US: Get updates
@@ -2854,4 +2942,5 @@ investment_opts_get_updates:
   ja_JP: アップデート情報を受信
   es_ES: Recibir actualizaciones
   pt_BR: Receba atualizações
+  ar_SA: 
 ---
