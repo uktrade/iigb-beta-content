@@ -320,8 +320,8 @@ form_enter_city:
  en_US: Enter the closest city to your current business location
  zh_CN: 请输入您目前居住城市
  ja_JP: 現在の事業所の最寄りの都市を入力してください
- es_ES: Introduza a cidade mais próxima da localização atual da sua empresa
- pt_BR: Introduzca la ciudad más cercana a la ubicación actual de su negocio
+ es_ES: Introduzca la ciudad más cercana a la ubicación actual de su negocio
+ pt_BR: Introduza a cidade mais próxima da localização atual da sua empresa
  ar_SA: 
 form_investment:
  de_DE: Ihre Investition
