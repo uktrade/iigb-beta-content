@@ -316,12 +316,12 @@ form_city:
  pt_BR: Cidade mais próxima da localização atual da sua empresa
  ar_SA: 
 form_enter_city:
- de_DE: Geben Sie die Stadt, in der Sie derzeit wohnen, ein (optional)
- en_US: Enter the closest city to your current business location (optional)
- zh_CN: 请输入您目前居住城市(可选填)
- ja_JP: 現在の事業所の最寄りの都市を入力してください (任意)
- es_ES: Introduza a cidade mais próxima da localização atual da sua empresa (opcional)
- pt_BR: Introduzca la ciudad más cercana a la ubicación actual de su negocio (opcional)
+ de_DE: Geben Sie die Stadt, in der Sie derzeit wohnen, ein
+ en_US: Enter the closest city to your current business location
+ zh_CN: 请输入您目前居住城市
+ ja_JP: 現在の事業所の最寄りの都市を入力してください
+ es_ES: Introduza a cidade mais próxima da localização atual da sua empresa
+ pt_BR: Introduzca la ciudad más cercana a la ubicación actual de su negocio
  ar_SA: 
 form_investment:
  de_DE: Ihre Investition
