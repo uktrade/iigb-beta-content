@@ -2885,171 +2885,171 @@ form_headquarters:
    - Zambia
    - Zimbabwe
    ar_SA: 
-   - Andorra
-   - United Arab Emirates
-   - Afghanistan
-   - Antigua and Barbuda
-   - Anguilla
-   - Albania
-   - Armenia
-   - Angola
-   - Antarctica
-   - Argentina
-   - American Samoa
-   - Austria
-   - Australia
-   - Aruba
+   - أندورا
+   - الإمارات العربية المتحدة
+   - أفغانستان
+   - أنتيغوا وبربودا
+   - أنغويلا
+   - ألبانيا
+   - أرمينيا
+   - أنغولا
+   - أنتاركتيكا
+   - الأرجنتين
+   - ساموا-الأمريكي
+   - النمسا
+   - أستراليا
+   - أروبا
    - Åland Islands
-   - Azerbaijan
-   - Bosnia and Herzegovina
-   - Barbados
-   - Bangladesh
-   - Belgium
-   - Burkina Faso
-   - Bulgaria
-   - Bahrain
-   - Burundi
-   - Benin
+   - أذربيجان
+   - البوسنة و الهرسك
+   - بربادوس
+   - بنغلاديش
+   - بلجيكا
+   - بوركينا فاسو
+   - بلغاريا
+   - البحرين
+   - بوروندي
+   - بنين
    - Saint-Barthélemy
-   - Bermuda
-   - Brunei Darussalam
-   - Bolivia
+   - جزر برمود
+   - بروناي
+   - بوليفيا
    - Bonaire
-   - Brazil
-   - Bahamas
-   - Bhutan
+   - البرازيل
+   - الباهاماس
+   - بوتان
    - Bouvet Island
-   - Botswana
-   - Belarus
-   - Belize
-   - Canada
+   - بوتسوانا
+   - روسيا البيضاء
+   - بيليز
+   - كندا
    - Cocos (Keeling) Islands
-   - Congo, The Democratic Republic of the
-   - Central African Republic
-   - Congo
-   - Switzerland
-   - Cote D'Ivoire
-   - Cook Islands
-   - Chile
-   - Cameroon
-   - China
-   - Colombia
-   - Costa Rica
-   - Cuba
-   - Cape Verde
+   - جمهورية الكونغو الديمقراطية
+   - جمهورية أفريقيا الوسطى
+   - جمهورية الكونغو
+   - سويسرا
+   - ساحل العاج
+   - جزر كوك
+   - تشيلي
+   - كاميرون
+   - جمهورية الصين الشعبية
+   - كولومبيا
+   - كوستاريكا
+   - كوبا
+   - الرأس الأخضر
    - Curaçao
    - Christmas Island
-   - Cyprus
-   - Czech Republic
-   - Germany
-   - Djibouti
-   - Denmark
-   - Dominica
-   - Dominican Republic
-   - Algeria
-   - Ecuador
-   - Estonia
-   - Egypt
-   - Western Sahara
-   - Eritrea
-   - Spain
-   - Ethiopia
-   - Finland
-   - Fiji
-   - Falkland Islands (Malvinas)
-   - Micronesia, Federated States of
-   - Faroe Islands
-   - France
-   - Gabon
-   - United Kingdom
-   - Grenada
-   - Georgia
-   - French Guiana
+   - قبرص
+   - الجمهورية التشيكية
+   - ألمانيا
+   - جيبوتي
+   - الدانمارك
+   - دومينيكا
+   - الجمهورية الدومينيكية
+   - الجزائر
+   - إكوادور
+   - استونيا
+   - مصر
+   - الصحراء الغربية
+   - إريتريا
+   - إسبانيا
+   - أثيوبيا
+   - فنلندا
+   - فيجي
+   - جزر فوكلاند
+   - ولايات ميكرونيسيا المتحدة
+   - جزر فارو
+   - فرنسا
+   - الغابون
+   - المملكة المتحدة
+   - غرينادا
+   - جيورجيا
+   - غويانا الفرنسية
    - Guernsey
-   - Ghana
+   - غانا
    - Gibraltar
-   - Greenland
-   - Gambia
-   - Guinea
-   - Guadeloupe
-   - Equatorial Guinea
-   - Greece
+   - جرينلاند
+   - غامبيا
+   - غينيا
+   - جزر جوادلوب
+   - غينيا الاستوائي
+   - اليونان
    - South Georgia and the South Sandwich Islands
-   - Guatemala
-   - Guam
-   - Guinea-Bissau
-   - Guyana
-   - Hong Kong
+   - غواتيمال
+   - جوام
+   - غينيا-بيساو
+   - غيانا
+   - كونغ هونغ
    - Heard Island and Mcdonald Islands
-   - Honduras
-   - Croatia
-   - Haiti
-   - Hungary
-   - Indonesia
-   - Ireland
-   - Israel
+   - هندوراس
+   - كرواتيا
+   - هايتي
+   - المجر
+   - أندونيسيا
+   - جمهوريةأيرلندا
+   - إسرائيل
    - Isle of Man
-   - India
+   - الهند
    - British Indian Ocean Territory
-   - Iraq
-   - Iran, Islamic Republic Of
-   - Iceland
-   - Italy
+   - العراق
+   - إيران
+   - آيسلندا
+   - إيطاليا
    - Jersey
-   - Jamaica
-   - Jordan
-   - Japan
-   - Kenya
-   - Kyrgyzstan
-   - Cambodia
-   - Kiribati
-   - Comoros
-   - Saint Kitts and Nevis
-   - Democratic People's Republic of Korea
-   - Korea, Republic of
-   - Kuwait
+   - جمايكا
+   - الأردن
+   - اليابان
+   - كينيا
+   - قيرغيزستان
+   - كمبوديا
+   - كيريباتي
+   - جزرالقمر
+   - ونيفس كيتس سانت
+   - كورياالشمالية
+   - كورياالجنوبية 
+   - الكويت
    - Cayman Islands
-   - Kazakhstan
-   - Lao People's Democratic Republic
-   - Lebanon
-   - Saint Lucia
-   - Liechtenstein
-   - Sri Lanka
-   - Liberia
-   - Lesotho
-   - Lithuania
-   - Luxembourg
-   - Latvia
-   - Libyan Arab Jamahiriya
-   - Morocco
-   - Monaco
-   - Moldova, Republic of
-   - Montenegro
+   - كازاخستان
+   - لاوس
+   - لبنان
+   - لوسيا سانت
+   - ليختنشتين
+   - سريلانكا
+   - ليبيريا
+   - ليسوتو
+   - لتوانيا
+   - لوكسمبورغ
+   - لاتفيا
+   - ليبيا
+   - المغرب
+   - موناكو
+   - مولدافيا
+   - الأسو الجبل
    - Sint Maarten
-   - Madagascar
-   - Marshall Islands
-   - Macedonia, The Former Yugoslav Republic of
-   - Mali
-   - Myanmar
-   - Mongolia
-   - Macao
+   - مدغشقر
+   - مارشال جزر
+   - مقدونيا جمهورية
+   - مالي
+   - ميانمار
+   - منغوليا
+   - ماكاو
    - Northern Mariana Islands
-   - Martinique
-   - Mauritania
-   - Montserrat
-   - Malta
-   - Mauritius
-   - Maldives
-   - Malawi
-   - Mexico
-   - Malaysia
-   - Mozambique
-   - Namibia
-   - New Caledonia
-   - Niger
+   - مارتينيك
+   - موريتانيا
+   - مونتسيرات
+   - مالطا
+   - موريشيوس
+   - المالديف
+   - مالاوي
+   - المكسيك
+   - ماليزيا
+   - موزمبيق
+   - ناميبيا
+   - الجديدة كاليدونيا
+   - النيجر
    - Norfolk Island
-   - Nigeria
-   - Nicaragua
+   - نيجيريا
+   - نيكاراجوا
    - Netherlands
    - Norway
    - Nepal
@@ -3120,7 +3120,7 @@ form_headquarters:
    - United States
    - Uruguay
    - Uzbekistan
-   - Holy See (Vatican City State)
+   - الرسولي الكرسي
    - Saint Vincent and the Grenadines
    - Venezuela
    - Virgin Islands, British
