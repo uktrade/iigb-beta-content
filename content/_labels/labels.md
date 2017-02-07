@@ -3050,90 +3050,90 @@ form_headquarters:
    - Norfolk Island
    - نيجيريا
    - نيكاراجوا
-   - Netherlands
-   - Norway
-   - Nepal
-   - Nauru
-   - Niue
-   - New Zealand
-   - Oman
-   - Panama
-   - Peru
-   - French Polynesia
-   - Papua New Guinea
-   - Philippines
-   - Pakistan
-   - Poland
+   - الهولندي الأنتيل جزر
+   - النرويج
+   - نيبال
+   - ناورو
+   - نييوي
+   - نيوزيلندا
+   - عُمان
+   - بنما
+   - بيرو
+   - الفرنسية بولينيزيا
+   - الجديدة غينيا بابوا
+   - الفليبين
+   - باكستان
+   - بولندا
    - Saint Pierre and Miquelon
    - Pitcairn
-   - Puerto Rico
-   - Palestinian Territory, Occupied
-   - Portugal
-   - Palau
-   - Paraguay
-   - Qatar
-   - Reunion
-   - Romania
-   - Serbia
-   - Russian Federation
-   - Rwanda
-   - Saudi Arabia
-   - Solomon Islands
-   - Seychelles
-   - Sudan
-   - Sweden
-   - Singapore
+   - بورتوريكو
+   - الفلسطينية الأراضي
+   - البرتغال
+   - بالاو
+   - باراغواي
+   - قطر
+   - ريونيون
+   - رومانيا
+   - صربيا جمهورية
+   - روسيا
+   - رواندا
+   - السعودية العربية المملكة
+   - سليمان جزر
+   - سيشيل
+   - السودان
+   - السويد
+   - سنغافورة
    - Saint Helena
-   - Slovenia
+   - سلوفينيا
    - Svalbard and Jan Mayen
-   - Slovakia
-   - Sierra Leone
-   - San Marino
-   - Senegal
-   - Somalia
-   - Suriname
-   - South Sudan
-   - Sao Tome and Principe
-   - El Salvador
+   - سلوفاكيا
+   - سيراليون
+   - مارينو سان
+   - السنغال
+   - الصومال
+   - سورينام
+   - السودان جنوب
+   - وبرينسيبي تومي ساو
+   - إلسلفادور
    - Sint Maarten
-   - Syrian Arab Republic
-   - Swaziland
+   - سوريا
+   - سوازيلند
    - Turks and Caicos Islands
-   - Chad
+   - تشاد
    - French Southern Territories
-   - Togo
-   - Thailand
-   - Tajikistan
+   - توغو
+   - تايلندا
+   - طاجيكستان
    - Tokelau
-   - Timor-Leste
-   - Turkmenistan
-   - Tunisia
-   - Tonga
-   - Turkey
-   - Trinidad and Tobago
-   - Tuvalu
-   - Taiwan
-   - Tanzania, United Republic of
-   - Ukraine
-   - Uganda
+   - الشرقية تيمور
+   - تركمانستان
+   - تونس
+   - تونغا
+   - تركيا
+   - وتوباغو ترينيداد
+   - توفالو
+   - تايوان
+   - تنزانيا
+   - أوكرانيا
+   - أوغندا
    - United States Minor Outlying Islands
-   - United States
-   - Uruguay
-   - Uzbekistan
+   - المتحدة الولايات
+   - أورغواي
+   - أورغواي
    - الرسولي الكرسي
-   - Saint Vincent and the Grenadines
-   - Venezuela
-   - Virgin Islands, British
-   - Virgin Islands, U.S.
-   - VietNam
-   - Vanuatu
-   - Wallis and Futuna
-   - Samoa
-   - Yemen
+   - وجزر  فنسنت سانت غرينادين
+   - فنزويلا
+   - البريطانية العذراء الجزر
+   - الأمريكي العذراء, الجزر
+   - فيتنام
+   - فانواتو
+   - وفوتونا والس
+   - ساموا
+   - اليمن
    - Mayotte
-   - South Africa
-   - Zambia
-   - Zimbabwe
+   - أفريقيا جنوب
+   - زامبيا
+   - زمبابوي
 form_disclaimer:
  de_DE: Mit Absenden Ihrer Daten bestätigen Sie, dass die von Ihnen eingegebenen Daten korrekt sind und stimmen unseren
  en_US: By sending us your details you confirm that the information you've shared with us is true and you accept our
