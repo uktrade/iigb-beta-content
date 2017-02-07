@@ -391,13 +391,19 @@ form_annual_turnover:
    - Entre 50 y 100 millones de libras
    - Más de 100 millones de libras
    pt_BR:
-   ar_SA: 
    - Inferior a 100 000 £
    - Entre 100 000 £ e 1 milhão de £
    - Entre 1 milhão de £ e 10 milhões de £
    - Entre 10 milhões de £ e 50 milhões de £
    - Entre 50 milhões de £ e 100 milhões de £
    - Superior a 100 milhões de £
+   ar_SA: 
+   - Under £100,000
+   - Between £100,000 and £1 million
+   - Between £1 million and £10 million
+   - Between £10 million and £50 million
+   - Between £50 million and £100 million
+   - More than £100 million
 form_enter_staff_number:
  de_DE: Wählen Sie die Option, die Ihrer Mitarbeiteranzehl am besten entspricht
  en_US: Select the range that is closest to your number of staff
@@ -446,11 +452,15 @@ form_staff_number:
    - Entre 50 y 250
    - Más de 250
    pt_BR:
-   ar_SA: 
    - Menos de 10
    - Entre 10 e 50
    - Entre 50 e 250
    - Mais de 250
+   ar_SA: 
+   - Less than 10
+   - Between 10 and 50
+   - Between 50 and 250
+   - More than 250
 form_location:
  de_DE: Interessieren Sie sich für einen bestimmten Standort in Großbritannien?
  en_US: Are you considering a specific location in the UK?
@@ -543,7 +553,6 @@ form_which_part:
    - Belfast e Irlanda del Norte
    - Nottingham y las Midlands del Este
    pt_BR:
-   ar_SA: 
    - Londres e região sudeste
    - Bristol e região sudoeste
    - Birmingham e Midlands ocidentais
@@ -554,6 +563,17 @@ form_which_part:
    - Aberdeen e nordeste da Escócia
    - Belfast e Irlanda do Norte
    - Nottingham e Midlands orientais
+   ar_SA: 
+   - London and the South East
+   - Bristol and the South West
+   - Birmingham and the West Midlands
+   - Manchester and the North West
+   - Newcastle and the North East
+   - Cardiff and Wales
+   - Edinburgh and Southern Scotland
+   - Aberdeen and North Eastern Scotland
+   - Belfast and Northern Ireland
+   - Nottingham and East Midlands
 form_enter_when:
  de_DE: Geben Sie ein ungefähres Startdatum für die Aufnahme Ihrer Geschäfte in Großbritannien
    ein
@@ -659,7 +679,6 @@ form_when_month:
    - Noviembre
    - Diciembre
    pt_BR:
-   ar_SA: 
    - Janeiro
    - Fevereiro
    - Março
@@ -672,6 +691,19 @@ form_when_month:
    - Outubro
    - Novembro
    - Dezembro
+   ar_SA: 
+   - January
+   - February
+   - March
+   - April
+   - May
+   - June
+   - July
+   - August
+   - September
+   - October
+   - November
+   - December
 form_when_year:
  label:
    de_DE: Jahr
@@ -748,6 +780,16 @@ form_when_year:
    - '2025'
    - '2026'
    pt_BR:
+   - '2017'
+   - '2018'
+   - '2019'
+   - '2020'
+   - '2021'
+   - '2022'
+   - '2023'
+   - '2024'
+   - '2025'
+   - '2026'
    ar_SA: 
    - '2017'
    - '2018'
@@ -975,7 +1017,6 @@ form_primary_industry:
    - Tecnología
    - Otros
    pt_BR:
-   ar_SA: 
    - Fabrico avançado
    - Aeroespacial
    - Gestão de ativos
@@ -1000,6 +1041,31 @@ form_primary_industry:
    - Retalho
    - Tecnologia
    - Outra
+   ar_SA: 
+   - Advanced manufacturing
+   - Aerospace
+   - Asset management
+   - Automotive research and development
+   - Automotive supply chain
+   - Big data and analytics
+   - Creative content and production
+   - Digital media
+   - Electrical networks
+   - Energy from waste
+   - Financial services
+   - FinTech
+   - Food and drink manufacturing
+   - Free from
+   - Healthcare
+   - Medical technology
+   - Motorsport
+   - Nuclear
+   - Offshore wind
+   - Oil and gas
+   - Pharmaceutical manufacturing
+   - Retail
+   - Technology
+   - Other
 form_other:
  de_DE: Sonstiges
  en_US: Other
@@ -2569,6 +2635,255 @@ form_headquarters:
    - Zambia
    - Zimbabue
    pt_BR:
+   - Andorra
+   - United Arab Emirates
+   - Afghanistan
+   - Antigua and Barbuda
+   - Anguilla
+   - Albania
+   - Armenia
+   - Angola
+   - Antarctica
+   - Argentina
+   - American Samoa
+   - Austria
+   - Australia
+   - Aruba
+   - Åland Islands
+   - Azerbaijan
+   - Bosnia and Herzegovina
+   - Barbados
+   - Bangladesh
+   - Belgium
+   - Burkina Faso
+   - Bulgaria
+   - Bahrain
+   - Burundi
+   - Benin
+   - Saint-Barthélemy
+   - Bermuda
+   - Brunei Darussalam
+   - Bolivia
+   - Bonaire
+   - Brazil
+   - Bahamas
+   - Bhutan
+   - Bouvet Island
+   - Botswana
+   - Belarus
+   - Belize
+   - Canada
+   - Cocos (Keeling) Islands
+   - Congo, The Democratic Republic of the
+   - Central African Republic
+   - Congo
+   - Switzerland
+   - Cote D'Ivoire
+   - Cook Islands
+   - Chile
+   - Cameroon
+   - China
+   - Colombia
+   - Costa Rica
+   - Cuba
+   - Cape Verde
+   - Curaçao
+   - Christmas Island
+   - Cyprus
+   - Czech Republic
+   - Germany
+   - Djibouti
+   - Denmark
+   - Dominica
+   - Dominican Republic
+   - Algeria
+   - Ecuador
+   - Estonia
+   - Egypt
+   - Western Sahara
+   - Eritrea
+   - Spain
+   - Ethiopia
+   - Finland
+   - Fiji
+   - Falkland Islands (Malvinas)
+   - Micronesia, Federated States of
+   - Faroe Islands
+   - France
+   - Gabon
+   - United Kingdom
+   - Grenada
+   - Georgia
+   - French Guiana
+   - Guernsey
+   - Ghana
+   - Gibraltar
+   - Greenland
+   - Gambia
+   - Guinea
+   - Guadeloupe
+   - Equatorial Guinea
+   - Greece
+   - South Georgia and the South Sandwich Islands
+   - Guatemala
+   - Guam
+   - Guinea-Bissau
+   - Guyana
+   - Hong Kong
+   - Heard Island and Mcdonald Islands
+   - Honduras
+   - Croatia
+   - Haiti
+   - Hungary
+   - Indonesia
+   - Ireland
+   - Israel
+   - Isle of Man
+   - India
+   - British Indian Ocean Territory
+   - Iraq
+   - Iran, Islamic Republic Of
+   - Iceland
+   - Italy
+   - Jersey
+   - Jamaica
+   - Jordan
+   - Japan
+   - Kenya
+   - Kyrgyzstan
+   - Cambodia
+   - Kiribati
+   - Comoros
+   - Saint Kitts and Nevis
+   - Democratic People's Republic of Korea
+   - Korea, Republic of
+   - Kuwait
+   - Cayman Islands
+   - Kazakhstan
+   - Lao People's Democratic Republic
+   - Lebanon
+   - Saint Lucia
+   - Liechtenstein
+   - Sri Lanka
+   - Liberia
+   - Lesotho
+   - Lithuania
+   - Luxembourg
+   - Latvia
+   - Libyan Arab Jamahiriya
+   - Morocco
+   - Monaco
+   - Moldova, Republic of
+   - Montenegro
+   - Sint Maarten
+   - Madagascar
+   - Marshall Islands
+   - Macedonia, The Former Yugoslav Republic of
+   - Mali
+   - Myanmar
+   - Mongolia
+   - Macao
+   - Northern Mariana Islands
+   - Martinique
+   - Mauritania
+   - Montserrat
+   - Malta
+   - Mauritius
+   - Maldives
+   - Malawi
+   - Mexico
+   - Malaysia
+   - Mozambique
+   - Namibia
+   - New Caledonia
+   - Niger
+   - Norfolk Island
+   - Nigeria
+   - Nicaragua
+   - Netherlands
+   - Norway
+   - Nepal
+   - Nauru
+   - Niue
+   - New Zealand
+   - Oman
+   - Panama
+   - Peru
+   - French Polynesia
+   - Papua New Guinea
+   - Philippines
+   - Pakistan
+   - Poland
+   - Saint Pierre and Miquelon
+   - Pitcairn
+   - Puerto Rico
+   - Palestinian Territory, Occupied
+   - Portugal
+   - Palau
+   - Paraguay
+   - Qatar
+   - Reunion
+   - Romania
+   - Serbia
+   - Russian Federation
+   - Rwanda
+   - Saudi Arabia
+   - Solomon Islands
+   - Seychelles
+   - Sudan
+   - Sweden
+   - Singapore
+   - Saint Helena
+   - Slovenia
+   - Svalbard and Jan Mayen
+   - Slovakia
+   - Sierra Leone
+   - San Marino
+   - Senegal
+   - Somalia
+   - Suriname
+   - South Sudan
+   - Sao Tome and Principe
+   - El Salvador
+   - Sint Maarten
+   - Syrian Arab Republic
+   - Swaziland
+   - Turks and Caicos Islands
+   - Chad
+   - French Southern Territories
+   - Togo
+   - Thailand
+   - Tajikistan
+   - Tokelau
+   - Timor-Leste
+   - Turkmenistan
+   - Tunisia
+   - Tonga
+   - Turkey
+   - Trinidad and Tobago
+   - Tuvalu
+   - Taiwan
+   - Tanzania, United Republic of
+   - Ukraine
+   - Uganda
+   - United States Minor Outlying Islands
+   - United States
+   - Uruguay
+   - Uzbekistan
+   - Holy See (Vatican City State)
+   - Saint Vincent and the Grenadines
+   - Venezuela
+   - Virgin Islands, British
+   - Virgin Islands, U.S.
+   - VietNam
+   - Vanuatu
+   - Wallis and Futuna
+   - Samoa
+   - Yemen
+   - Mayotte
+   - South Africa
+   - Zambia
+   - Zimbabwe
    ar_SA: 
    - Andorra
    - United Arab Emirates
