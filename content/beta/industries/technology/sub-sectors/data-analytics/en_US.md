@@ -1,5 +1,4 @@
 ---
-title: "Data analytics"
+title: "Data analytics in the UK"
 ---
-
-With robust open data sets, technology funding opportunities and solid infrastructure, the UK is well placed to thrive in the continuing data revolution.
+With a highly skilled workforce, technology funding opportunities and solid infrastucture, the UK is well placed to thrive in the continuing data revolution.
