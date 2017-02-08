@@ -1124,7 +1124,7 @@ form_enter_headquarters_help:
  ja_JP: 入力を開始すると、オプションを選択できます
  es_ES: Empiece a escribir para seleccionar una opción
  pt_BR: Comece a digitar para selecionar uma opção
- ar_SA: 
+ ar_SA: ابدأ الكتابة لتحديد أحد الخيارات
 form_headquarters:
  label:
    de_DE: Hauptsitz ihres Unternehmens
