@@ -1,12 +1,12 @@
 ---
-title: "Support and incentives"
+title: "Support for medical technology businesses in the UK"
 published: true
 ---
-The UK also offers access to innovative researchers in engineering, physical, social, medical, and digital sciences. 
+The UK offers access to innovative researchers in engineering, physical, social, medical, and digital sciences. 
+
+If you’re investing in or setting up in the UK, you can benefit from supportive medical technology partners at every step of your journey from design to development to delivery.
 
 ### Organisations that provide support
-
-If you’re investing in or setting up in the UK, you can benefit from supportive medical technology partners at every step of your journey - from design to development to delivery.
 
 The [EPSRC Centre for innovative manufacturing in medical devices](https://www.epsrc.ac.uk/research/centres/innovativemanufacturing/imrcmedicaldevices) is developing advanced methods for functionally stratified design and near-patient manufacturing. This enables cost effective matching of device function to the patient needs and surgical environment.
 
