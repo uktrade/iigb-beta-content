@@ -476,7 +476,7 @@ form_enter_which_part:
  ja_JP: 場所を選択してください
  es_ES: Seleccione una ubicación
  pt_BR: Selecione uma localização
- ar_SA:  - أين يوجد موقعك الرئيسي?
+ ar_SA: أين يوجد موقعك الرئيسي?
 form_which_part:
  label:
    de_DE: Wo ist ihr Hauptstandort?
@@ -1081,7 +1081,7 @@ form_enter_other:
  ja_JP: 業種を入力してください
  es_ES: Introduzca su sector
  pt_BR: Introduza a sua indústria
- ar_SA:  - غير ذلك
+ ar_SA: غير ذلك
 form_mailing_list:
  de_DE: Das Department for International Trade und Ihre Partner könnten Ihre Daten
    verwenden um Ihnen relevante Neuigkeiten und Informationen zuzusenden.
