@@ -70,7 +70,7 @@ setup_guide:
  ja_JP: 英国での事業設立
  es_ES: Guía para establecerse en el Reino Unido 
  pt_BR: Guia para estabelecer no Reino Unido
- ar_SA: 
+ ar_SA: دليل تأسيس الشركات في المملكة المتحدة
 home:
  de_DE: Startseite
  en_US: Home
@@ -78,7 +78,7 @@ home:
  ja_JP: トップページ
  es_ES: Inicio
  pt_BR: Início
- ar_SA: 
+ ar_SA: الرئيسية
 privacy:
  de_DE: Datenschutz und Cookies
  en_US: Privacy and cookies
@@ -86,7 +86,7 @@ privacy:
  ja_JP: プライバシー
  es_ES: Privacidad y cookies
  pt_BR: Privacidade e cookies
- ar_SA: 
+ ar_SA: الخصوصية وملفات تعريف الارتبا
 terms:
  de_DE: AGB
  en_US: Terms and conditions
@@ -94,7 +94,7 @@ terms:
  ja_JP: 規約
  es_ES: Términos y condiciones
  pt_BR: Termos e condições
- ar_SA: 
+ ar_SA: الشروط والأحكام
 contact:
  de_DE: Kontakt
  en_US: Get in touch
@@ -102,7 +102,7 @@ contact:
  ja_JP: お問い合わせ
  es_ES: Contacto
  pt_BR: Entrar em contacto
- ar_SA: 
+ ar_SA: الاتصال بنا
 industries:
  de_DE: Branchen
  en_US: Industries
@@ -110,7 +110,7 @@ industries:
  ja_JP: 産業
  es_ES: Sectores
  pt_BR: Indústrias
- ar_SA: 
+ ar_SA: الصناعات
 industry_overviews:
  de_DE: Industry overviews:DE
  en_US: Industry overviews
@@ -193,7 +193,7 @@ please_select:
  ja_JP: はい
  es_ES: Si
  pt_BR: Sim
- ar_SA: 
+ ar_SA: نعم
 'no':
  de_DE: Nein
  en_US: 'No'
@@ -201,7 +201,7 @@ please_select:
  ja_JP: いいえ
  es_ES: No
  pt_BR: Não
- ar_SA: 
+ ar_SA: لا
 form_next:
  de_DE: Weiter
  en_US: Next
@@ -233,7 +233,7 @@ form_contact_details:
  ja_JP: ご連絡先
  es_ES: Sus datos de contacto
  pt_BR: Os seus dados de contacto
- ar_SA: 
+ ar_SA: بيانات الاتصال
 form_contact_details_reason:
  de_DE: Wir benötigen diese um Sie mit Ihrem Ansprechpartner vor Ort in Verbindung
    zu setzen
@@ -242,7 +242,7 @@ form_contact_details_reason:
  ja_JP: これらの情報をもとに、貴社の最寄りの事務所をご紹介します
  es_ES: Los utilizaremos para ponerle en contacto con su oficina local
  pt_BR: Iremos utilizá-los para o/a colocar em contacto com o escritório local
- ar_SA: 
+ ar_SA: سوف نستخدم هذه البيانات لإبقائكم على اتصال مع مكتبكم المحلي
 form_full_name:
  de_DE: Vollständiger Name
  en_US: Full name
@@ -250,7 +250,7 @@ form_full_name:
  ja_JP: ご氏名
  es_ES: Nombre completo
  pt_BR: Nome completo
- ar_SA: 
+ ar_SA: الاسم بالكامل
 form_enter_full_name:
  de_DE: Geben Sie Ihren vollständigen Namen ein
  en_US: Enter your full name
@@ -266,7 +266,7 @@ form_email:
  ja_JP: 勤務先の電子メール
  es_ES: Dirección de correo electrónico de la empresa
  pt_BR: E-mail - Trabalho
- ar_SA: 
+ ar_SA: البريد الإلكتروني للعمل
 form_enter_email:
  de_DE: Geben Sie Ihre Emailadresse ein
  en_US: Enter your email address
@@ -298,7 +298,7 @@ form_phone:
  ja_JP: 勤務先の電話番号 (任意)
  es_ES: Número de teléfono de la empresa (opcional)
  pt_BR: Telefone - Trabalho (opcional)
- ar_SA: 
+ ar_SA: هاتف العمل (اختياري)
 form_enter_phone:
  de_DE: Enter your telephone number:DE
  en_US: Enter your telephone number
@@ -322,7 +322,7 @@ form_enter_city:
  ja_JP: 現在の事業所の最寄りの都市を入力してください
  es_ES: Introduzca la ciudad más cercana a la ubicación actual de su negocio
  pt_BR: Introduza a cidade mais próxima da localização atual da sua empresa
- ar_SA: 
+ ar_SA: أقرب مدينة لمكان عملك الحالي
 form_investment:
  de_DE: Ihre Investition
  en_US: Your investment
@@ -330,7 +330,7 @@ form_investment:
  ja_JP: 貴社の投資について
  es_ES: Su inversión
  pt_BR: O seu investimento
- ar_SA: 
+ ar_SA: الاستثمار
 form_enter_annual_turnover:
  de_DE: Wählen Sie die Option, die Ihrem Jahresumzsatz am besten entspricht
  en_US: Select the range that reflects your annual turnover
@@ -347,7 +347,7 @@ form_annual_turnover:
    ja_JP: 現在の年間売上高 (推定でも構いません)
    es_ES: Ingresos anuales actuales aproximados
    pt_BR: Estimativa da atual receita anual
-   ar_SA: 
+   ar_SA: الإيرادات السنوية التقديرية الحالية
  options:
    '0': Under £100,000
    '1': Between £100,000 and £1 million
@@ -420,7 +420,7 @@ form_staff_number:
    ja_JP: 現在の従業員数 (推定でも構いません)
    es_ES: Número aproximado de personal en la actualidad
    pt_BR: Estimativa do número de pessoal atual
-   ar_SA: 
+   ar_SA: العدد التقديري الحالي للموظفين
  options:
    '0': Less than 10
    '1': Between 10 and 50
@@ -468,7 +468,7 @@ form_location:
  ja_JP: 英国の特定の場所をご検討中ですか。
  es_ES: ¿Está pensando en una ubicación concreta en el Reino Unido?
  pt_BR: Está a considerar um local específico no Reino Unido?
- ar_SA: 
+ ar_SA: هل تفكر في موقع محدد في المملكة المتحدة؟
 form_enter_which_part:
  de_DE: Bitte wählen Sie einen Standort aus
  en_US: Select a location
@@ -476,7 +476,7 @@ form_enter_which_part:
  ja_JP: 場所を選択してください
  es_ES: Seleccione una ubicación
  pt_BR: Selecione uma localização
- ar_SA: 
+ ar_SA:  - أين يوجد موقعك الرئيسي?
 form_which_part:
  label:
    de_DE: Wo ist ihr Hauptstandort?
@@ -590,7 +590,7 @@ form_when:
  ja_JP: 英国における事業開始をご希望の時期をご記入ください (月／年)
  es_ES: ¿Cuándo espera tener su negocio operativo en el Reino Unido (mes/año)?
  pt_BR: Quando espera ter a sua empresa a funcionar no Reino Unido (mês/ano)
- ar_SA: 
+ ar_SA: متى تأمل أن تدير عملك في المملكة المتحدة (الشهر/العام)؟
 form_when_month:
  label:
    de_DE: Monat
@@ -808,7 +808,7 @@ form_company:
  ja_JP: 貴社について
  es_ES: Su empresa
  pt_BR: A sua empresa
- ar_SA: 
+ ar_SA: الشركة
 form_company_reason:
  de_DE: Helfen Sie uns, Ihren aktuellen Betrieb zu verstehen
  en_US: Help us understand your current operations
@@ -824,7 +824,7 @@ form_registered_company:
  ja_JP: 正式登録の社名
  es_ES: Nombre registrado de la empresa
  pt_BR: Nome da empresa registado
- ar_SA: 
+ ar_SA: الاسم المُسجَّل للشركة
 form_enter_registered_company:
  de_DE: Geben Sie Ihren eingetragenen Unternehmensnamen ein
  en_US: Enter your registered company name
@@ -840,7 +840,7 @@ form_website:
  ja_JP: 貴社のウェブサイト アドレス (任意)
  es_ES: Dirección del sitio web de la empresa (opcional)
  pt_BR: Endereço do website da empresa (opcional)
- ar_SA: 
+ ar_SA: الموقع الإلكتروني للشركة (اختياري)
 form_enter_website:
  de_DE: Geben Sie die Internetadresse Ihres Unternehmens ein
  en_US: Enter your company website address
@@ -856,7 +856,7 @@ form_enter_primary_industry:
  ja_JP: 主要業種をご選択いただくか、または「その他」を選択してください
  es_ES: Seleccione el sector en el que opera principalmente o seleccione Otros
  pt_BR: Selecione a indústria em que opera maioritariamente ou selecione Outra
- ar_SA: 
+ ar_SA: قطاع العمل الأساسي
 form_primary_industry:
  label:
    de_DE: Hauptbranche
@@ -1081,7 +1081,7 @@ form_enter_other:
  ja_JP: 業種を入力してください
  es_ES: Introduzca su sector
  pt_BR: Introduza a sua indústria
- ar_SA: 
+ ar_SA:  - غير ذلك
 form_mailing_list:
  de_DE: Das Department for International Trade und Ihre Partner könnten Ihre Daten
    verwenden um Ihnen relevante Neuigkeiten und Informationen zuzusenden.
