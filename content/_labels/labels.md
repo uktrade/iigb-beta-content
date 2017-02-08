@@ -6,7 +6,7 @@ watch_video:
  ja_JP: ビデオを再生
  es_ES: Ver el vídeo
  pt_BR: Ver vídeo
- ar_SA: 
+ ar_SA: مشاهدة الفيديو
 search:
  de_DE: Suche
  en_US: Search
@@ -14,7 +14,7 @@ search:
  ja_JP: 検索
  es_ES: Buscar
  pt_BR: Pesquisa
- ar_SA: 
+ ar_SA: الأبحاث
 search_close:
  de_DE: Suche Schließen
  en_US: Close search
@@ -130,8 +130,8 @@ industry_overviews_intro:
  es_ES: Find high level information about your industry sector including success
    stories from other companies we have worked with:ES
  pt_BR: Find high level information about your industry sector including success
- ar_SA: 
    stories from other companies we have worked with:BR
+ ar_SA: 
 industries_intro:
  de_DE: Find specific information about the industry your company operates in, including
    market conditions and incentives:DE
@@ -153,7 +153,7 @@ great_british_industries:
  ja_JP: 英国の主要産業
  es_ES: Grandes sectores en Gran Bretaña
  pt_BR: Indústrias da Grã-Bretanha
- ar_SA: 
+ ar_SA: الصناعات في بريطانيا العظمى
 post_strengths:
  de_DE: Branchen
  en_US: industries
@@ -3241,7 +3241,7 @@ location_guide:
   ja_JP: 地域ガイド
   es_ES: Guía de ubicaciones
   pt_BR: Guia de localização
-  ar_SA: 
+  ar_SA: دليل الأماكن
 investment_opts_involved_in_research:
   de_DE: An Studien teilnehmen und bei der Gestaltung des Services mitwirken
   en_US: Take part in research to help shape the service
