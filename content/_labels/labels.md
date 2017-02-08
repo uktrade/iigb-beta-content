@@ -2389,7 +2389,7 @@ form_headquarters:
    - Emiratos Árabes Unidos
    - Afganistán
    - Antigua y Barbuda
-   - Anguila
+   - Anguilla
    - Albania
    - Armenia
    - Angola
@@ -2403,11 +2403,11 @@ form_headquarters:
    - Azerbaiyán
    - Bosnia-Herzegovina
    - Barbados
-   - Bangladés
+   - Bangladesh
    - Bélgica
    - Burkina Faso
    - Bulgaria
-   - Baréin
+   - Bahrein
    - Burundi
    - Benín
    - San Bartolomé
@@ -2419,11 +2419,11 @@ form_headquarters:
    - Bahamas
    - Bután
    - Isla Bouvet
-   - Botsuana
+   - Botswana
    - Bielorrusia
-   - Bélice
+   - Belice
    - Canadá
-   - Islas Cocos (Keeling)
+   - Islas Cocos
    - República Democrática del Congo
    - República Centroafricana
    - República del Congo
@@ -2456,15 +2456,15 @@ form_headquarters:
    - Etiopía
    - Finlandia
    - Fiji
-   - Islas Falkland (Malvinas)
+   - Islas Malvinas (Falkland)
    - Micronesia
    - Islas Faroe
    - Francia
-   - Gabon
+   - Gabón
    - Reino Unido
    - Granada
    - Georgia
-   - French Guiana
+   - Guayana Francesa
    - Guernsey
    - Ghana
    - Gibraltar
@@ -2510,13 +2510,13 @@ form_headquarters:
    - Kuwait
    - Islas Caimán
    - Kazajistán
-   - Laos
+   - República Democrática Popular Lao
    - Líbano
    - Santa Lucía
    - Liechtenstein
    - Sri Lanka
    - Liberia
-   - Lesoto
+   - Lesotho
    - Lituania
    - Luxemburgo
    - Letonia
@@ -2528,7 +2528,7 @@ form_headquarters:
    - San Martin
    - Madagascar
    - Islas Marshall
-   - República de Macedonia
+   - Macedonia
    - Malí
    - Birmania
    - Mongolia
@@ -2571,7 +2571,7 @@ form_headquarters:
    - Portugal
    - Palau
    - Paraguay
-   - Catar
+   - Qatar
    - Reunión
    - Rumania
    - Serbia
@@ -2597,15 +2597,15 @@ form_headquarters:
    - El Salvador
    - Sint Maarten
    - Siria
-   - Suazilandia
-   - Islas Turks y Caicos
+   - Swazilandia
+   - Islas Turcas y Caicos
    - Chad
    - Territorios Franceses del Sur
    - Togo
    - Tailandia
    - Tayikistán
    - Tokelau
-   - Timor-Leste
+   - Timor Oriental
    - Turkmenistán
    - Túnez
    - Tonga
@@ -2621,7 +2621,7 @@ form_headquarters:
    - Uruguay
    - Uzbekistán
    - Vaticano
-   - San Vicente y las Granadinas
+   - San Vicente y Granadinas
    - Venezuela
    - Islas Vírgenes Británicas
    - Islas Vírgenes de los Estados Unidos
@@ -2633,7 +2633,7 @@ form_headquarters:
    - Mayotte
    - Sudáfrica
    - Zambia
-   - Zimbabue
+   - Zimbabwe
    pt_BR:
    - Andorra
    - United Arab Emirates
@@ -3050,7 +3050,7 @@ form_headquarters:
    - Norfolk Island
    - نيجيريا
    - نيكاراجوا
-   - الهولندي الأنتيل جزر
+   - هولندا
    - النرويج
    - نيبال
    - ناورو
