@@ -144,8 +144,8 @@ industries_intro:
  es_ES: Find specific information about the industry your company operates in, including
    market conditions and incentives:ES
  pt_BR: Find specific information about the industry your company operates in, including
- ar_SA: 
    market conditions and incentives:BR
+ ar_SA: 
 great_british_industries:
  de_DE: Bedeutende britische Industriezweige
  en_US: UK industries
@@ -282,7 +282,7 @@ form_enter_valid_email:
  ja_JP: 例えばname@domain.comなど、正しい形式でメールアドレスを入力してください。
  es_ES: Introduzca su dirección de correo electrónico con un formato correcto, por ejemplo, nombre@dominio.com
  pt_BR: Introduza o seu e-mail no formato correto, por exemplo nome@domínio.com
- ar_SA: أدخل بريدك الإلكتروني بالتنسيق الصحيح، على سبيل المثال: name@domain.com
+ ar_SA: "أدخل بريدك الإلكتروني بالتنسيق الصحيح، على سبيل المثال: name@domain.com"
 form_enter_valid_phone:
  de_DE: Bitte geben Sie eine gültige Telefonnummer ein
  en_US: Please enter a valid telephone number
@@ -323,7 +323,7 @@ form_enter_city:
  es_ES: Introduzca la ciudad más cercana a la ubicación actual de su negocio
  pt_BR: Introduza a cidade mais próxima da localização atual da sua empresa
  ar_SA: أدخل أقرب مدينة لمكان عملك الحالي
- form_investment:
+form_investment:
  de_DE: Ihre Investition
  en_US: Your investment
  zh_CN: 您的投资
