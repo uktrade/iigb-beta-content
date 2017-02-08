@@ -5,7 +5,7 @@ published: true
 
 The UK medical technology sector is a thriving ecosystem of researchers, scientists, engineers, designers and NHS clinicians working in an established industrial base. Together they drive the path of a novel technology from innovation, through the process of design and manufacture, and ultimately to the patient.
 
-There are nearly 3,700 companies in the UK’s medical technology sector, generating a turnover of 21 billion GBP. 98% are small to medium-sized enterprises. They produce a vast range of medical devices and diagnostic technologies.
+There are nearly 3,700 companies in the UK’s medical technology sector, 98% of them are small to medium-sized enterprises. The sector generates a turnover of 21 billion GBP. They produce a vast range of medical devices and diagnostic technologies.
 
 There is a significant focus on single use technology, orthopaedic devices and in vitro diagnostics. The service and supply chain for medical technologies provides essential support including design, manufacturing and regulatory expertise.
 
