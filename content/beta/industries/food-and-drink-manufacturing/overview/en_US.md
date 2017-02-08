@@ -1,5 +1,5 @@
 ---
-title: "Food and Drink Manufacturing overview"
+title: "An overview of food and drink manufacturing in the UK"
 ---
 
 The industry employs over 400,000 people which will need to increase by 170,000 by 2020 to meet demand. 
