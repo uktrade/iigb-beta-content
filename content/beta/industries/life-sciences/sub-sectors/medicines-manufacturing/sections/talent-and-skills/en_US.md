@@ -1,5 +1,5 @@
 ---
-title: "Our talent and skills"
+title: "Health and life sciences talent and expertise in the UK"
 ---
 ### Pharmaceutical expertise 
 
@@ -14,8 +14,3 @@ The UK is renowned for its knowledge and resources for ataxia telangiectasia mut
 To help your business grow, we support innovative manufacturing processes and technologies, giving you the significant skills base to deliver in this very knowledge-intensive area.
 
 Small molecules still dominate the world’s medicines market. For new chemical entities, the UK is very competitive in ‘novel drug delivery mechanisms’, ‘tricky formulation’ and ‘continuous manufacturing’. 
-
-### Global pipeline opportunities
-
-The global pipeline of biological therapies is rapidly increasing, and there is a growing market for biosimilars and biobetters (variants of a biologic molecule) with some leading biological drugs coming off patent. The majority of the top 15 pharmaceutical companies are expected to grow their biologics portfolios, while injectable dose formulations are likely to spur Contract Manufacturing Organisation growth. The UK has strengths in both areas.
-
