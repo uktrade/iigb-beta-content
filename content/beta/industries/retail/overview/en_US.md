@@ -12,7 +12,7 @@ London is at the heart of the retail and fashion community with the iconic Oxfor
 
 London, Birmingham, Glasgow and Manchester feature in the top 20 for retail spend across Europe with Leeds, Liverpool, Edinburgh, Nottingham, Cardiff and Newcastle in the top 50. Each city has its own ecosystem and sub-sector strengths echoing the clusters in London.
 
-Just 45 minutes outside of London is Bicester Village, which is the UK’s most upmarket retail outlet village. According to Bicester’s owners, retailers there have logged sales of 2,708 GBP per square foot in 2015, with a predicted rise to almost 3,000 GBP by 2016.
+Just 45 minutes outside of London is [Bicester Village](https://www.bicestervillage.com/en/home/), which is the UK’s most upmarket retail outlet village. According to Bicester’s owners, retailers there have logged sales of 2,708 GBP per square foot in 2015, with a predicted rise to almost 3,000 GBP by 2016.
  
 The UK enjoys a world-class reputation for its quality and innovation-driven retail industry.  It is an early adopter of new technology and is a leading nation for using data applications like [Metail](http://www.metail.com/) which supply a virtual 3D fitting room for it’s customers.
  
