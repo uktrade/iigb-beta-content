@@ -1,5 +1,5 @@
 ---
-title: "Retail overview"
+title: "An overview of the UK's Retail sector"
 ---
 
 This is according to forecasts from retail research agency Conlumino which predicts that the value of the European luxury goods market will reach 96 billion GBP by 2018.  
@@ -14,8 +14,8 @@ London, Birmingham, Glasgow and Manchester feature in the top 20 for retail spen
 
 Just 45 minutes outside of London is Bicester Village, which is the UK’s most upmarket retail outlet village. According to Bicester’s owners, retailers there have logged sales of 2,708 GBP per square foot in 2015, with a predicted rise to almost 3,000 GBP by 2016.
  
-The UK enjoys a world-class reputation for its quality and innovation-driven retail industry.  It is an early adopter of new technology and is a leading nation for using data applications like [metail](http://www.metail.com/) which supply a virtual 3D fitting room for it’s customers.
+The UK enjoys a world-class reputation for its quality and innovation-driven retail industry.  It is an early adopter of new technology and is a leading nation for using data applications like [Metail](http://www.metail.com/) which supply a virtual 3D fitting room for it’s customers.
  
-Retailers based here have access to a rich heritage of traditional handmade brands like Trickers Shoemakers and the renowned bespoke tailors of Savile Row.  High-fashion brands like Paul Smith and Burberry and E-commerce companies like Yoox, Net-A-Porter, Alibaba and Etsy are also here.
+Retailers based here have access to a rich heritage of traditional handmade brands like Trickers Shoemakers and the renowned bespoke tailors of Savile Row.  High-fashion brands like Paul Smith and Burberry and E-commerce companies like Yoox Net-A-Porter, Alibaba and Etsy are also here.
 
-The UK has a well educated and cosmopolitan workforce providing a high level of service. 
+The UK has a well educated and cosmopolitan workforce providing a high level of service with experienced managers who undersyand the retail landscape. 

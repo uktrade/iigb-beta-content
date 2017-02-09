@@ -6,7 +6,7 @@ watch_video:
  ja_JP: ビデオを再生
  es_ES: Ver el vídeo
  pt_BR: Ver vídeo
- ar_SA: 
+ ar_SA: مشاهدة الفيديو
 search:
  de_DE: Suche
  en_US: Search
@@ -14,7 +14,7 @@ search:
  ja_JP: 検索
  es_ES: Buscar
  pt_BR: Pesquisa
- ar_SA: 
+ ar_SA: الأبحاث
 search_close:
  de_DE: Suche Schließen
  en_US: Close search
@@ -130,8 +130,8 @@ industry_overviews_intro:
  es_ES: Find high level information about your industry sector including success
    stories from other companies we have worked with:ES
  pt_BR: Find high level information about your industry sector including success
- ar_SA: 
    stories from other companies we have worked with:BR
+ ar_SA: 
 industries_intro:
  de_DE: Find specific information about the industry your company operates in, including
    market conditions and incentives:DE
@@ -144,8 +144,8 @@ industries_intro:
  es_ES: Find specific information about the industry your company operates in, including
    market conditions and incentives:ES
  pt_BR: Find specific information about the industry your company operates in, including
- ar_SA: 
    market conditions and incentives:BR
+ ar_SA: 
 great_british_industries:
  de_DE: Bedeutende britische Industriezweige
  en_US: UK industries
@@ -153,7 +153,7 @@ great_british_industries:
  ja_JP: 英国の主要産業
  es_ES: Grandes sectores en Gran Bretaña
  pt_BR: Indústrias da Grã-Bretanha
- ar_SA: 
+ ar_SA: الصناعات في بريطانيا العظمى
 post_strengths:
  de_DE: Branchen
  en_US: industries
@@ -258,7 +258,7 @@ form_enter_full_name:
  ja_JP: ご氏名を入力してください
  es_ES: Introduzca su nombre completo
  pt_BR: Introduza o seu nome completo
- ar_SA: 
+ ar_SA: أدخل الاسم بالكامل
 form_email:
  de_DE: Arbeits-E-Mail
  en_US: Work email
@@ -274,7 +274,7 @@ form_enter_email:
  ja_JP: 電子メールアドレスを入力してください
  es_ES: Introduzca su dirección de correo electrónico
  pt_BR: Introduza o seu endereço de e-mail
- ar_SA: 
+ ar_SA: أدخل بريدك الإلكتروني
 form_enter_valid_email:
  de_DE: Geben Sie Ihre Email im richtigen Format ein, z.B. name@domain.de
  en_US: Enter your email in the correct format, for example name@domain.com
@@ -282,7 +282,7 @@ form_enter_valid_email:
  ja_JP: 例えばname@domain.comなど、正しい形式でメールアドレスを入力してください。
  es_ES: Introduzca su dirección de correo electrónico con un formato correcto, por ejemplo, nombre@dominio.com
  pt_BR: Introduza o seu e-mail no formato correto, por exemplo nome@domínio.com
- ar_SA: 
+ ar_SA: "أدخل بريدك الإلكتروني بالتنسيق الصحيح، على سبيل المثال: name@domain.com"
 form_enter_valid_phone:
  de_DE: Bitte geben Sie eine gültige Telefonnummer ein
  en_US: Please enter a valid telephone number
@@ -314,7 +314,7 @@ form_city:
  ja_JP: 現在の事業所の最寄りの都市
  es_ES: Ciudad más cercana a la ubicación actual de su negocio
  pt_BR: Cidade mais próxima da localização atual da sua empresa
- ar_SA: 
+ ar_SA: أقرب مدينة لمكان عملك الحالي
 form_enter_city:
  de_DE: Geben Sie die Stadt, in der Sie derzeit wohnen, ein
  en_US: Enter the closest city to your current business location
@@ -322,7 +322,7 @@ form_enter_city:
  ja_JP: 現在の事業所の最寄りの都市を入力してください
  es_ES: Introduzca la ciudad más cercana a la ubicación actual de su negocio
  pt_BR: Introduza a cidade mais próxima da localização atual da sua empresa
- ar_SA: أقرب مدينة لمكان عملك الحالي
+ ar_SA: أدخل أقرب مدينة لمكان عملك الحالي
 form_investment:
  de_DE: Ihre Investition
  en_US: Your investment
@@ -338,7 +338,7 @@ form_enter_annual_turnover:
  ja_JP: 貴社の年間総売上高に相当する範囲を選択してください
  es_ES: Seleccione el intervalo que refleje su volumen de negocio anual
  pt_BR: Selecione a opção mais próxima da sua receita anual
- ar_SA: 
+ ar_SA: حدد النطاق الذي يعكس حجم مبيعاتك السنوية
 form_annual_turnover:
  label:
    de_DE: Geschätzter derzeitiger Jahresumsatz
@@ -411,7 +411,7 @@ form_enter_staff_number:
  ja_JP: 貴社の従業員数に最も近い範囲を選択してください
  es_ES: Seleccione el intervalo que más se aproxime a su número de empleados
  pt_BR: Selecione a opção mais próxima do seu número de pessoal
- ar_SA: 
+ ar_SA: حدد النطاق الأقرب إلى عدد موظفيك
 form_staff_number:
  label:
    de_DE: Geschätzte derzeitige Mitarbeiteranzahl
@@ -485,7 +485,7 @@ form_which_part:
    ja_JP: 本社はどちらですか。
    es_ES: ¿Dónde se encuentra su sede principal?
    pt_BR: Qual é a sua localização principal?
-   ar_SA: 
+   ar_SA: أين يوجد موقعك الرئيسي?
  options:
    '0': London and the South East
    '1': Bristol and the South West
@@ -582,7 +582,7 @@ form_enter_when:
  ja_JP: 英国における営業開始をご希望の日付を大まかにご記入ください
  es_ES: Introduzca la fecha aproximada en la que desea estar operando en el Reino Unido
  pt_BR: Introduza a data aproximada em que pretende estar a operar no Reino Unido
- ar_SA: 
+ ar_SA: أدخل التاريخ التقريبي الذي ترغب أن تبدأ عملك فيه في المملكة المتحدة
 form_when:
  de_DE: Geben Sie ein ungefähres Startdatum für die Aufnahme Ihrer Geschäfte im Vereinigten Königreich ein?
  en_US: When do you hope to have your business running in the UK (month/year)
@@ -816,7 +816,7 @@ form_company_reason:
  ja_JP: 貴社の現在の運営について当省が理解するために、ご協力ください
  es_ES: Ayúdenos a conocer sus operaciones actuales
  pt_BR: Ajude-nos a compreender as suas operações atuais
- ar_SA: 
+ ar_SA: ساعدنا على فهم عملياتك الحالية
 form_registered_company:
  de_DE: Eingetragener Firmenname
  en_US: Registered company name
@@ -832,7 +832,7 @@ form_enter_registered_company:
  ja_JP: 正式登録された会社名を入力してください
  es_ES: Introduzca el nombre registrado de su empresa
  pt_BR: Introduza o nome registado da sua empresa
- ar_SA: 
+ ar_SA: أدخل اسم شركتك المُسجَّل
 form_website:
  de_DE: Internetadresse Ihres Unternehmens
  en_US: Company website address (optional)
@@ -856,7 +856,7 @@ form_enter_primary_industry:
  ja_JP: 主要業種をご選択いただくか、または「その他」を選択してください
  es_ES: Seleccione el sector en el que opera principalmente o seleccione Otros
  pt_BR: Selecione a indústria em que opera maioritariamente ou selecione Outra
- ar_SA: قطاع العمل الأساسي
+ ar_SA: حدد القطاع الذي تعمل فيه بشكل أساسي أو اختر "غير ذلك"
 form_primary_industry:
  label:
    de_DE: Hauptbranche
@@ -865,7 +865,7 @@ form_primary_industry:
    ja_JP: 主要業種
    es_ES: Sector principal de operación
    pt_BR: Indústria principal
-   ar_SA: 
+   ar_SA: قطاع العمل الأساسي
  options:
    '0' : Advanced manufacturing
    '1' : Aerospace
@@ -1091,7 +1091,7 @@ form_mailing_list:
  ja_JP: 英国国際貿易省 (Department for International Trade) およびそのパートナーでは、関連ニュースや情報を送信するために情報を使用させていただく場合があります。
  es_ES: El Departamento de Comercio Internacional y sus socios pueden emplear sus datos para enviarle información y noticias relevantes
  pt_BR: O Departamento do Comércio Internacional (Department for International Trade) e os respetivos parceiros poderão utilizar os seus detalhes para lhe enviar notícias e informações relevantes
- ar_SA: 
+ ar_SA: قد تستخدم وزارة التجارة الدولية وشركاؤها بياناتكم لترسل لكم الأخبار والمعلومات ذات الصلة
 form_enter_mailing_list:
  de_DE: Bitte geben Sie an, ob Sie relevante Neuigkeiten und Informationen erhlten
    wollen.
@@ -1108,7 +1108,7 @@ form_mailing_list_confirmation:
  ja_JP: この情報の受信を希望
  es_ES: Sí, me gustaría recibir esta información
  pt_BR: Sim, gostaria de receber essas informações
- ar_SA: 
+ ar_SA: نعم، أود الحصول على هذه المعلومات
 form_enter_headquarters:
  de_DE: Geben Sie das Land Ihres Unternehmenshauptsitzes ein
  en_US: Enter the country where your company has its headquarters
@@ -1116,7 +1116,7 @@ form_enter_headquarters:
  ja_JP: 貴社の本社のある国名を入力してください
  es_ES: Introduzca el país en el que se encuentre la sede central de su empresa
  pt_BR: Introduza o país onde a sua empresa está sediada
- ar_SA: 
+ ar_SA: أدخل الدولة التي يقع بها المقر الرئيسي لشركتك
 form_enter_headquarters_help:
  de_DE: Bitte geben Sie hier Text ein damit Sie eine Auswahl machen können
  en_US: Start typing to select an option
@@ -1124,7 +1124,7 @@ form_enter_headquarters_help:
  ja_JP: 入力を開始すると、オプションを選択できます
  es_ES: Empiece a escribir para seleccionar una opción
  pt_BR: Comece a digitar para selecionar uma opção
- ar_SA: 
+ ar_SA: ابدأ الكتابة لتحديد أحد الخيارات
 form_headquarters:
  label:
    de_DE: Hauptsitz ihres Unternehmens
@@ -1133,7 +1133,7 @@ form_headquarters:
    ja_JP: 国名
    es_ES: País
    pt_BR: País
-   ar_SA: 
+   ar_SA: الدولة
  options:
    '0': Andorra
    '1': United Arab Emirates
@@ -3141,7 +3141,7 @@ form_disclaimer:
  ja_JP: 情報をご送付いただくことで、当省にご提出いただいた情報が真実であり、当省の利用規約に同意していただいたことをご確認いただくことになりますのでご了解ください。
  es_ES: Al enviarnos sus datos, usted confirma que la información que nos proporciona es verídica y acepta nuestros 
  pt_BR: Ao enviar-nos os seus detalhes confirma que as informações que partilhou conosco são verdadeiras e que aceita os nossos
- ar_SA: 
+ ar_SA: أنتم تؤكدون بموجب إرسالكم للبيانات ذات الصلة بكم أن المعلومات المرسلة هي معلومات صحيحة وأنكم توافقون على
 form_disclaimer_tc:
  de_DE: Nutzungsbedingungen zu.
  en_US: terms and conditions.
@@ -3149,7 +3149,7 @@ form_disclaimer_tc:
  ja_JP: 当省の利用規約
  es_ES: términos y condiciones.
  pt_BR: termos e condições.
- ar_SA: 
+ ar_SA: الشروط والأحكام
 feedback_name:
  de_DE: Vollständiger Name
  en_US: Name
@@ -3241,7 +3241,7 @@ location_guide:
   ja_JP: 地域ガイド
   es_ES: Guía de ubicaciones
   pt_BR: Guia de localização
-  ar_SA: 
+  ar_SA: دليل الأماكن
 investment_opts_involved_in_research:
   de_DE: An Studien teilnehmen und bei der Gestaltung des Services mitwirken
   en_US: Take part in research to help shape the service
