@@ -2,7 +2,7 @@
 privacy_policy:
 terms_and_conditions:
 find_a_supplier:
-see_the_potential:
+see_the_potential: معرفة الإمكانيات
 learn_more:
 plan_your_trip:
 experience_the_uk:
