@@ -1,5 +1,5 @@
 ---
-privacy_policy:
+privacy_policy: سياسة الخصوصية
 terms_and_conditions:
 find_a_supplier:
 see_the_potential: معرفة الإمكانيات
