@@ -14,5 +14,5 @@ get_trade_index_profile:
 see_sector_showcase:
 choose_language:
 change_country:
-buy_from_uk:
+buy_from_uk: التسجيل
 ---
