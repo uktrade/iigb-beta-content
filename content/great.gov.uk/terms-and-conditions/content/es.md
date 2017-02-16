@@ -150,7 +150,6 @@ Cualquier conflicto que surja de estos términos debe estar sujeto a la jurisdic
 
 14.1 Para enviar una consulta, use el [formulario de contacto](https://www.contactus.trade.gov.uk/enquiry/topic) o envíe un correo electrónico a [exportingisgreat@trade.gsi.gov.uk](mailto:exportingisgreat@trade.gsi.gov.uk). También puede llamar por teléfono al 020 7215 5000, de lunes a viernes de 9:00 a 17:00).
  
-=====
 
 
 
