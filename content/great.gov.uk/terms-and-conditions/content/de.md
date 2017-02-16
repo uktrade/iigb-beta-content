@@ -150,4 +150,4 @@ Alle Streitigkeiten, die sich aus diesen Nutzungsbedingungen ergeben könnten, u
 ## 14. Kontaktaufnahme mit dem Department for International Trade
 
 14.1 Wenn Sie eine Anfrage stellen möchten, nutzen Sie bitte das Kontaktformular [LINK]
-oder senden Sie eine E-Mail an exportingisgreat@ukti.gsi.gov.uk  oder rufen Sie uns an unter Tel. (+44) 020 7215 5000 (Montag bis Freitag, 9.00 bis 17.00 Uhr).
+oder senden Sie eine E-Mail an [exportingisgreat@trade.gsi.gov.uk](mailto:exportingisgreat@trade.gsi.gov.uk)  oder rufen Sie uns an unter Tel. (+44) 020 7215 5000 (Montag bis Freitag, 9.00 bis 17.00 Uhr).
