@@ -4,7 +4,7 @@ terms_and_conditions:
 find_a_supplier:
 see_the_potential: معرفة الإمكانيات
 learn_more: معرفة المزيد
-plan_your_trip:
+plan_your_trip:  التخطيط للرحلة
 experience_the_uk:
 help_to_export:
 new_to_exporting:
