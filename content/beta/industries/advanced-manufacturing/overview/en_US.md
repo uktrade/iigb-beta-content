@@ -1,5 +1,5 @@
 ---
-title: "Advanced Manufacturing Overview"
+title: "An overview of advanced manufacturing in the UK"
 ---
 
 Between 2005 and 2015, manufacturing productivity grew 3 times faster than the rest of the UK’s economy as a whole.

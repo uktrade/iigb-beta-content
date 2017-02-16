@@ -1,5 +1,5 @@
 ---
-title: "Technology overview"
+title: "An overview of the Technology sector in the UK"
 ---
 
 Our technology sector is larger than the rest of Europe combined; it has been one of the fastest growing sectors in the UK over the last decade.  The technology we produce underpins all sectors from Financial Services and High-Value Manufacturing to Retail and Agriculture. 

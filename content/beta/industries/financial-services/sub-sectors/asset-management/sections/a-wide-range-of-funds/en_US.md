@@ -10,4 +10,3 @@ Client types include:
 - private clients with 705 billion GBP managed the end of 2014
 
 London is a global centre for private equity and property funds and has an 18% share of the hedge fund market. Since 2005, we have also attracted 16% of global Sovereign Wealth Funds.
-

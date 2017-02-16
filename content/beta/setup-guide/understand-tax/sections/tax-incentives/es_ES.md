@@ -15,4 +15,4 @@ El [Programa de Inversión Empresarial](https://www.gov.uk/government/publicatio
 
 Existen generosos incentivos fiscales para las empresas que inviertan en investigación y desarrollo en el Reino Unido para promover productos y servicios innovadores y que crezcan con rapidez. 
 
-[La Caja de patentes](https://www.gov.uk/guidance/corporation-tax-the-patent-box) ofrece un impuesto de sociedades de solo el 10 % sobre los beneficios de inventos patentados en el Reino Unido (en comparación con la tasa habitual del 20 %).
+[El Patent Box](https://www.gov.uk/guidance/corporation-tax-the-patent-box) ofrece un impuesto de sociedades de solo el 10 % sobre los beneficios de inventos patentados en el Reino Unido (en comparación con la tasa habitual del 20 %).

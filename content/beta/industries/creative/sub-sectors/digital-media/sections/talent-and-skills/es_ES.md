@@ -15,7 +15,7 @@ Londres encabeza la clasificación de preparación tecnológica en un estudio de
 
 La Tech City, en el East End de Londres, se ha convertido en un centro global de creatividad para las empresas creativas. Algunas empresas emergentes, como los pioneros en tecnología publicitaria Unruly, han crecido desde la capital para alcanzar una dimensión global.
 
-El norte de Inglaterra también cuenta con varios centros de excelencia en medios digitales. Hay centros en Manchester, Sheffield, Rotherham, Leeds, Hull, Sunderland y las zonas de Newcastle y Durham. En conjunto, generaron 9900 millones de libras en VAB para la economía del Reino Unido en 2014. El potencial de crecimiento es inmenso y para 2020 se calcula en 6000 millones.
+El norte de Inglaterra también cuenta con varios centros de excelencia en medios digitales. Hay centros en Manchester, Sheffield, Rotherham, Leeds, Hull, Sunderland y las zonas de Newcastle y Durham. En conjunto, generaron 9 900 millones de libras en VAB para la economía del Reino Unido en 2014. El potencial de crecimiento es inmenso y para 2020 se calcula en 6 000 millones.
 
 Hay otros focos de talento digital en el Reino Unido, principalmente en Brighton, Reading y Cambridge. 
 

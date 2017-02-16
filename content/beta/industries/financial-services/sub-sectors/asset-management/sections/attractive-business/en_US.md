@@ -5,5 +5,4 @@ London is central to the UK’s strong international position. Respondents to Th
  
 Edinburgh, Manchester, Cardiff and Birmingham are also well known as bases for companies with expertise in fund management.
 
-
-Currently, the asset management sector in the UK employs over 90,000 people nationwide.
+Currently, the asset management sector in the UK employs over 90,000.

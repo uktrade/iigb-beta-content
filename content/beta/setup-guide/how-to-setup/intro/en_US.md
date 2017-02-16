@@ -1,4 +1,4 @@
 ---
 title: "Set up a company in the UK"
 ---
-The most common option for foreign investors is to register a UK company or subsidiary. Alternatively, you could register a UK branch of a foreign company.
+You can set up a private limited UK company online in just 24 hours, or register a branch of your existing company in up to 4 weeks.

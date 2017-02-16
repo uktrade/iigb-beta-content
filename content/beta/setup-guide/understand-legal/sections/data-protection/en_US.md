@@ -6,4 +6,3 @@ The UK’s privacy and data protection laws ensure that customer data is process
 Stronger legal protections are in place for sensitive information such as ethnic background, political or religious belief, health records and criminal records.
 
 [Read the Data Protection Act](http://www.legislation.gov.uk/ukpga/1998/29/contents) for details on how this may be relevant for your business.
-

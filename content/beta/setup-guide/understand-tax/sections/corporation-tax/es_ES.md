@@ -5,7 +5,7 @@ published: true
 
 ### Impuesto sobre beneficios
 
-Cualquier empresa extranjera que tenga una división o una oficina en el Reino Unido debe pagar el impuesto de sociedades. El [impuesto de sociedades actual está en el 20 %](https://www.gov.uk/corporation-tax-rates/rates) y se reducirá al 17 % en 2020. Con la tasa actual del 20 %, el Reino Unido disfruta del impuesto de sociedades general más bajo del G7, y junto con otros países, también del G20. 
+Cualquier empresa extranjera que tenga una división o una oficina en el Reino Unido debe pagar el impuesto de sociedades. El [impuesto de sociedades actual es del 20 %](https://www.gov.uk/corporation-tax-rates/rates) y se reducirá al 17 % en 2020. Con la tasa actual del 20 %, el Reino Unido disfruta del impuesto de sociedades general más bajo del G7, y junto con otros países, también del G20. 
 
 ### Impuesto sobre las ventas
 

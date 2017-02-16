@@ -5,10 +5,10 @@ title: Apoyo gubernamental para las ciencias biológicas y de la salud
 El Reino Unido ofrece un régimen fiscal muy atractivo para la fabricación regional o internacional. Los incentivos fiscales facilitan la reinversión en investigación y desarrollo para la próxima generación. Ofrecemos:
 
 - Bajas tasas impositivas. El tipo general del impuesto de sociedades bajará al 17 % en 2020.
-- Incentivos a la innovación (desgravaciones fiscales sobre la I+D y la Caja de patentes) que pueden utilizar los desarrolladores de productos y sus socios de I+D, clínicos o de fabricación.
+- Incentivos a la innovación (desgravaciones fiscales sobre la I+D y la Patent Box) que pueden utilizar los desarrolladores de productos y sus socios de I+D, clínicos o de fabricación.
 - Una de las redes de acuerdos más completas del mundo.
 
-La combinación de tasas impositivas bajas y la Caja de Patentes puede generar un tipo impositivo efectivo (ETR) de entre el 11 % y el 13 %. 
+La combinación de tasas impositivas bajas y la Patent Box puede generar un tipo impositivo efectivo (ETR) de entre el 11 % y el 13 %. 
 ### A la cabeza de la innovación
 
 Ofrecemos apoyo directo a las empresas de fabricación innovadoras. Su empresa podrá acceder a la infraestructura de innovación nacional, con tres elementos principales.

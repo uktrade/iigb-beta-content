@@ -1,5 +1,5 @@
 ---
-title: "A growing market"
+title: "The UK's growing freefrom market"
 ---
 Freefrom products have one or more ingredients such as gluten and dairy removed as a growing number of consumers are either allergic, intolerant or believe them to be a healthier choice.
 
