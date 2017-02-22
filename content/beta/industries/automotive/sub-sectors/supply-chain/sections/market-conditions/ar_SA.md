@@ -1,11 +1,9 @@
 ---
-title: "The demand for UK components"
+title: "الطلب على المكونات"
 ---
-The UK’s automotive supply chain is currently enjoying a period of unprecedented growth. In 2015, our automotive manufacturers spent 31 billion GBP on components and that sum is growing by 3 billion GBP per year.
+قفز المحتوى المحلي في السيارات بريطانية الصنع من 36% في عام 2011 إلى 41% في عام 2015 ولا يزال مستمرًا في الزيادة. وقد رصدت الشركات المُصنِّعة للسيارات في المملكة المتحدة مبلغ 4 مليار جنية إسترليني لشراء المكونات السنوية التي يرغبون في شرائها من مورِّدين من المملكة المتحدة، ولكنهم غير قادرين على تحقيق ذلك على الدوام بالرغم من عمل مصانع المكونات بالمملكة المتحدة بكامل طاقتها أو نحو ذلك؛ غير أن هذا يوفر فرصًا ضخمة للمستثمرين الأجانب للاستثمار في المملكة المتحدة. ويوضِّح الجدول التالي الفرص الرئيسية:
 
-The local content of UK-made cars rose from 36% in 2011 to 41% in 2015, and is continuing to increase. UK car manufacturers have identified an additional 4 billion GBP of annual component purchasing they would like to buy from UK suppliers, but are not always able to do so as UK component plants are already running close to or at full capacity. This provides a huge opportunity for overseas investors setting up in the UK.
-
-#### Major supply chain opportunities
+#### الفرص الرئيسية في سلسلة التوريد
 
 | القيمة (بالمليون جنيه إسترليني) | المكونات | القيمة (بالمليون جنيه إسترليني)  | المكونات |
 |---|---:|---|---:|
@@ -25,12 +23,12 @@ The local content of UK-made cars rose from 36% in 2011 to 41% in 2015, and is c
 | 520 | غير ذلك | 110 | الزجاج |
 | 105 | المفصلات |
 
-### A committed community and a connected network
+### مجتمع ملتزم وشبكة مترابط
 
-Car manufacturers are looking to streamline their supply chain by reducing transportation and logistics costs. Choosing local suppliers reduces costs and creates major supply chain opportunities in the UK’s already established regional hubs.
+تسعى شركات تصنيع السيارات إلى ترشيد سلسلة التوريد عن طريق خفض تكاليف النقل والخدمات اللوجستية؛ حيث يقلل اختيار مورِّدين محليين من التكاليف ويخلق فرصًا رئيسية لسلسلة التوريد في المحاور الإقليمية المُنشأة بالفعل في المملكة المتحدة.
 
-The heart of the UK automotive industry is located in the Midlands with Birmingham at its centre. It’s the home of Jaguar Land Rover and has the largest concentration of automotive component suppliers in the UK. 
+ويقع محور صناعة السيارات في المملكة المتحدة في مقاطعة ميدلاندز حيث تقع مدينة برمنجهام في قلب المقاطعة، وهي موطن لشركة جاجوار لاند روفر وتضم أكبر حشدٍ من مورِّدي مكونات السيارات في المملكة المتحدة.
 
-There are also major automotive clusters in the North East, including the Nissan factory in Sunderland (the largest single car factory in the UK making 500,000 cars a year) and the North West, home to factories of General Motors (Vauxhall), Jaguar Land Rover and Bentley. 
+كما تضم أكبر تجمعات لصناعة السيارات في الشمال الشرقي، يشمل ذلك مصنع نيسان في سندرلاند (أحد أكبر مصانع السيارات في المملكة المتحدة بطاقة تصنيع قدرها 500,000 سيارة سنويًا) والشمال الغربي، وموطنًا لمصانع شركة جنرال موتورز (فوكسهول)، وشركة جاجوار لاند روفر وشركة بنتلي.
 
-There’s also ‘Motorsport Valley&reg;', a globally renowned cluster of automotive expertise. Located in the English Midlands and Oxfordshire, it’s the home of global motorsport. With 4,500 motorsport companies, many of which now supply global car manufacturers and component suppliers with advanced engineering solutions, Motorsport Valley&reg; has a unique ability to help any automotive company gain a competitive edge. 
+وهناك أيضًا مجموعة موتورسبورت فالي®، إحدى المجموعات العالمية الرائدة في مجال صناعة السيارات، وهي تقع في ميدلاندز الإنجليزية وأكسفوردشاير وتعتبر موطنًا لسباقات المحركات الآلية العالمية. وفي ظل وجود 4,500 شركة من شركات سباقات المحركات الآلية، والتي يدعم العديد منها حاليًا شركات تصنيع السيارات ومورِّدي المكونات بالحلول الهندسية المتقدمة، تمتلك شركة موتورسبورت فالي® قدرة استثنائية على مساعدة أي شركة عاملة في صناعة السيارات في اكتساب ميزة تنافسية.
