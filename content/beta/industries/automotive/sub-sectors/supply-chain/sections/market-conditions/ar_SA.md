@@ -15,15 +15,15 @@ The local content of UK-made cars rose from 36% in 2011 to 41% in 2015, and is c
 | 80 | أعمدة نقل الحركة | 255 | مطروقات المحركات |
 | 75 | خزانات الوقود | 240 | الأختام المُشكلة بالكبس والتسخين |
 | 75 | ملحقات المحركات | 225 | مكونات المقاعد |
-| Alloy wheels | 210 | HVAC assembles | 75 |
-| Lighting | 210 | Misc. (mirrors, pedals, etc.) | 60 |
-| Electronics | 170 | Shock absorbers | 60 |
-| Plastic mouldings | 150 | Oil pans | 30 |
-| Entertainment & navigation | 135 | Premium finish | 50 |
-| Bearings | 120 | Weather strips | 50 |
-| Instrument Clusters | 120 | Switchgear | 30 |
-| Glass | 110 | Other | 520 |
-| Hinges | 105 |
+| 75 | أنظمة التدفئة والتهوية والتكييف | 210 | العجلات المصنوعة من السبائك المعدنية |
+| 60 | متنوعات (المرايا والدواسات وغيرها | 210 | الإضاءة |
+| 60 | ممتصات الصدمات | 170 | الإلكترونيات |
+| 30 | أحواض الزيت | 150 | المصبوبات البلاستيكية |
+| 50 | منتجات الدهان الخارجي | 135 | أنظمة الترفيه والملاحة |
+| 50 | السدادات المطاطية المانعة للماء | 120 | المحامل |
+| 30 | المفاتيح الكهربائية | 120 | مجموعة أجهزة القياس |
+| 520 | غير ذلك | 110 | الزجاج |
+| 105 | المفصلات |
 
 ### A committed community and a connected network
 
