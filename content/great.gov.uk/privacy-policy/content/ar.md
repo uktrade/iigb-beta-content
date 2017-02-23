@@ -1,5 +1,6 @@
 ---
-title:
+title: 
+published: false
 ---
 
 ## المعلومات الشخصية 
