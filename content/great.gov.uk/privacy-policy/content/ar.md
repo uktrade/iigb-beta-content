@@ -1,7 +1,3 @@
----
-title: 
-published: false
----
 
 ## المعلومات الشخصية 
 
