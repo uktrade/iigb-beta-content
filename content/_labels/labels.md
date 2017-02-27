@@ -3283,7 +3283,7 @@ language:
   es_ES: Idioma
   pt_BR: Lingua
   pt_INT: Lingua
-  ar_SA: 
+  ar_SA: اللغة
 choose_language:
   de_DE: Wählen Sie Ihre Sprache
   en_US: Choose your language
@@ -3292,7 +3292,7 @@ choose_language:
   es_ES: Seleccione su idioma
   pt_BR: Escolha a sua língua
   pt_INT: Escolha a sua língua
-  ar_SA: 
+  ar_SA: اختيار اللغة
 close:
   de_DE: Schließen
   en_US: Close
@@ -3301,7 +3301,7 @@ close:
   es_ES: Cerrar
   pt_BR: Fechar
   pt_INT: Fechar
-  ar_SA: 
+  ar_SA: إغلاق
 country_region:
   de_DE: Land/Region
   en_US: Country/region
@@ -3310,7 +3310,7 @@ country_region:
   es_ES: País/región
   pt_BR: País/região
   pt_INT: País/região
-  ar_SA: 
+  ar_SA: الدولة/المنطقة
 country_text:
   de_DE: Wir bieten auch regionsspezifische Investitionsinformationen an.
   en_US: We also provide region specific investment information.
@@ -3319,7 +3319,7 @@ country_text:
   es_ES: También proporcionamos información sobre inversiones específica para cada región.
   pt_BR: Também fornecemos informações de investimento específicas para cada região.
   pt_INT: Também fornecemos informações de investimento específicas para cada região.
-  ar_SA: 
+  ar_SA: نقدم أيضًا معلومات عن الاستثمار حسب المنطقة
 location_guide:
   de_DE: Standortführer
   en_US: Location guide
@@ -3337,7 +3337,7 @@ investment_opts_involved_in_research:
   es_ES: Participar en la investigación para el desarrollo del servicio
   pt_BR: Participe na pesquisa para desenvolver o serviço
   pt_INT: Participe na pesquisa para desenvolver o serviço
-  ar_SA: 
+  ar_SA: شاركوا في الأبحاث لتطوير الخدمة
 investment_opts_get_updates:
   de_DE: Neuigkeiten erhalten
   en_US: Get updates
@@ -3346,5 +3346,5 @@ investment_opts_get_updates:
   es_ES: Recibir actualizaciones
   pt_BR: Receba atualizações
   pt_INT: Receba atualizações
-  ar_SA: 
+  ar_SA: الحصول على التحديثات
 ---
