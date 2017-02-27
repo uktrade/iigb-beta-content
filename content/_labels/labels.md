@@ -198,7 +198,7 @@ discover:
  es_ES: Descubra más
  pt_BR: Saiba mais
  pt_INT: Saiba mais
- ar_SA: 
+ ar_SA: معرفة المزيد
 please_select:
  de_DE: Bitte auswählen
  en_US: Select
@@ -3234,7 +3234,7 @@ feedback_name:
  es_ES: Nombre
  pt_BR: Nome
  pt_INT: Nome
- ar_SA: 
+ ar_SA: الاسم 
 feedback_email:
  de_DE: E-Mail
  en_US: Email
@@ -3243,7 +3243,7 @@ feedback_email:
  es_ES: Correo electrónico
  pt_BR: E-mail
  pt_INT: E-mail
- ar_SA: 
+ ar_SA: ﺎﻠﺑﺮﻳﺩ ﺍﻺﻠﻜﺗﺭﻮﻨﻳ ﻞﻠﻌﻤﻟ
 feedback_feedback:
  de_DE: Feedback
  en_US: Feedback
