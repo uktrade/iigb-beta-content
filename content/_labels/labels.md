@@ -234,7 +234,7 @@ form_next:
  es_ES: Siguiente
  pt_BR: Próximo
  pt_INT: Próximo
- ar_SA: 
+ ar_SA: التالي
 form_previous:
  de_DE: Zurück
  en_US: Previous
@@ -243,7 +243,7 @@ form_previous:
  es_ES: Anterior
  pt_BR: Anterior
  pt_INT: Anterior
- ar_SA: 
+ ar_SA: السابق
 form_submit:
  de_DE: Absenden
  en_US: Send
@@ -252,7 +252,7 @@ form_submit:
  es_ES: Enviar
  pt_BR: Enviar
  pt_INT: Enviar
- ar_SA: 
+ ar_SA: إرسال
 form_contact_details:
  de_DE: Ihre Kontaktdaten
  en_US: Your contact details
@@ -325,7 +325,7 @@ form_enter_valid_phone:
  es_ES: Por favor introduce un número de teléfono válido
  pt_BR: Por favor, coloque um numero de telefone válido
  pt_INT: Por favor, coloque um numero de telefone válido
- ar_SA: 
+ ar_SA: يُرجى إدخال رقم هاتف صحيح
 form_phone:
  de_DE: Arbeits-Telefon (optional)
  en_US: Work phone (optional)
