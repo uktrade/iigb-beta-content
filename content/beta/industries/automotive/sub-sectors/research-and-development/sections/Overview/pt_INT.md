@@ -6,7 +6,7 @@ Em 2009, o governo do Reino Unido e a indústria automóvel do Reino Unido criar
 
 ### Facilitar a inovação
 
-A capacidade da I&D automóvel do Reino Unido é demonstrada pelo facto de 7 das 11 equipas de Fórmula Um estarem sediadas no Reino Unido. A Fórmula Um depende da capacidade de as equipas britânicas e dos respetivos 4500 fornecedores de desporto automóvel no Reino Unido desenvolverem soluções imbatíveis.
+A capacidade da I&D automóvel do Reino Unido é demonstrada pelo facto de 6 das 10 equipas de Fórmula Um estarem sediadas no Reino Unido. A Fórmula Um depende da capacidade de as equipas britânicas e dos respetivos 4500 fornecedores de desporto automóvel no Reino Unido desenvolverem soluções imbatíveis.
 
 Enquanto a capacidade dos nossos engenheiros para desenvolver soluções revolucionárias nunca tenha sido questionada, a principal mudança nos últimos anos foi o estabelecimento de uma infraestrutura completa para levar os conceitos do laboratório para produção.
 
