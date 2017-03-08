@@ -265,7 +265,7 @@ form_contact_details:
 form_contact_details_reason:
  de_DE: Wir benötigen diese um Sie mit Ihrem Ansprechpartner vor Ort in Verbindung
    zu setzen
- en_US: We’ll use this information to match you to a member of our investment team
+ en_US: We’ll use this information to match you to a member of our investment team.
  zh_CN: 我们将会把您的联系方式交给当地的地办事处。
  ja_JP: これらの情報をもとに、貴社の最寄りの事務所をご紹介します
  es_ES: Los utilizaremos para ponerle en contacto con su oficina local
