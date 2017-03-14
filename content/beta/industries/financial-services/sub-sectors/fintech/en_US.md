@@ -1,6 +1,4 @@
 ---
-title: "Financial technology"
-published: true
+title:  "Financial technology in the UK"
 ---
-
-The UK is the world’s fastest growing region for financial technology (FinTech) inward investment. Many of the biggest players in FinTech have chosen to set up or expand their global operations in the UK.
+The UK is the world’s fastest growing region for financial technology (fintech) inward investment. Many of the biggest players in FinTech have chosen to set up or expand their global operations in the UK.

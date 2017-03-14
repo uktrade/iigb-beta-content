@@ -16,5 +16,3 @@ The UK plans to create [3 million apprenticeships by 2020,](https://www.gov.uk/g
 ### Overseas talent
 
 The [UK’s flexible visa system](/us/setup-guide/apply-for-visa/) welcomes new businesses, investors, entrepreneurs, skilled workers and academics. This enables you to bring in world-class expertise to your UK business operations.
-
-

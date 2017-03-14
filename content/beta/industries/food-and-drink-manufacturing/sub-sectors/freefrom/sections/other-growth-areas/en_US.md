@@ -1,8 +1,8 @@
 ---
-title: "Other growth areas"
+title: "Specific growth areas"
 ---
 
-Consumer trends in freefrom foods reflect trends in general grocery. Freefrom shoppers are demanding more: 
+Consumer trends in freefrom foods reflect trends in general grocery. Freefrom shoppers demand more: 
 
 - on-the-go snacks
 - indulgent treats

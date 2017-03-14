@@ -1,5 +1,5 @@
 ---
-title: "A deep pool of creative talent "
+title: "The UK has a deep pool of creative talent "
 ---
 With digital education now heavily emphasised from junior schools to postgraduate level, we have the people you need to ensure your company’s long term growth.
 
@@ -18,4 +18,3 @@ Tech City in London’s East End has grown to become a global centre for creativ
 The North of England also has several centres of digital media excellence. There are centres in Liverpool, Manchester, Sheffield, Rotherham, Leeds, Hull, Sunderland and the Newcastle and Durham areas. Together they generated 9.9 billion GBP GVA to the UK economy in 2014. The potential for growth is great, with a further 6 billion GBP estimated by 2020.    
 
 There are other clusters of digital talent across the UK, most notably in Brighton, Reading and Cambridge. 
-

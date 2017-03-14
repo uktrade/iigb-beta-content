@@ -8,7 +8,7 @@ Existe un amplio abanico de empresas de contratación que pueden buscar y selecc
 
 #### Talento recién salido de la universidad
 
-El Reino Unido alberga cuatro de las mejores diez universidades del mundo y tiene el mayor número de instituciones líderes en MBA de Europa. Por este motivo, el país cuenta con acceso a un gran grupo de personas recién salidas de la universidad y listas para trabajar. 
+El Reino Unido alberga cuatro de las diez mejores universidades del mundo y tiene el mayor número de instituciones líderes en MBA de Europa. Por este motivo, el país cuenta con acceso a un gran grupo de personas recién salidas de la universidad y listas para trabajar. 
 
 #### Programas de prácticas
 

@@ -11,7 +11,7 @@ El Reino Unido es uno de los mejores lugares del mundo para invertir en energía
 
 El sector ha presentado propuestas de desarrollo para alcanzar una capacidad de generación nuclear de 18 gigavatios (GW) en seis ubicaciones. Dado que la energía nuclear cubre el 20 % de la demanda energética del Reino Unido, pueden esperarse retornos sobre la inversión altos en todos los pasos de la cadena de suministro. Además, estamos comprometidos con la inversión de al menos 250 millones de libras en investigación y desarrollo nucleares.
 
-La plataforma continental británica sigue siendo un territorio que ofrece muchas posibilidades para el mundo del petróleo y el gas, con reservas significativas y descubrimientos potenciales. La tecnología desempeñará un papel notable en el futuro: el Reino Unido da la bienvenida a empresas que tengan experiencia en el desmantelamiento y el desarrollo seguro de instalaciones de gas de esquisto tierra adentro.
+La plataforma continental británica sigue siendo un territorio que ofrece muchas posibilidades para el mundo del petróleo y el gas, con reservas significativas y descubrimientos potenciales. La tecnología desempeñará un papel notable en el futuro: el Reino Unido da la bienvenida a empresas que tengan experiencia en el desmantelamiento y el desarrollo seguro de instalaciones de gas de esquisto (en el interior).
 
 Nuestra fuerza laboral, experimentada y capacitada, compuesta por más de 600 000 personas, ha crecido a lo largo de los años para dar apoyo al sector, con concentraciones por todo el Reino Unido. 
 

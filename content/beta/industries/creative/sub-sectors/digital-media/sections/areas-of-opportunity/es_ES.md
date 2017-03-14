@@ -3,11 +3,11 @@ title: Ámbitos de oportunidad
 published: true
 --- 
 
-### Las perturbaciones creativas están impulsando la publicidad digital
+### Las disrupciones creativas están impulsando la publicidad digital
 
 El valor del mercado de la publicidad digital en el Reino Unido alcanzó los 7200 millones de libras en 2014. El de la publicidad móvil aumentó hasta los 1600 millones, lo que supone un aumento del 63 % con respecto al año anterior.
 
-La provisión de publicidad eficaz y correctamente segmentada ha generado también nuevas áreas de negocio que también están prosperando. Esto presenta muchas nuevas oportunidades de acceso al mercado en ámbitos como las compras programáticas, la publicidad nativa o la analítica.
+La provisión de publicidad eficaz y correctamente segmentada ha generado nuevas áreas de negocio que también están prosperando. Esto presenta muchas nuevas oportunidades de acceso al mercado en ámbitos como las compras programáticas, la publicidad nativa o la analítica.
 
 ### La personalización está impulsando el sector móvil
 

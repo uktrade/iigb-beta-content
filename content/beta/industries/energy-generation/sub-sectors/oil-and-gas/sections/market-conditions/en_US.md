@@ -10,7 +10,6 @@ We are well placed to investigate new technologies and innovations. The UK is no
 - enhanced oil recovery
 - special materials for sealing systems
 
-
 ### Safe development of shale gas
 
 Onshore, the UK government is backing the safe development of shale gas because it’s good for jobs, energy security and the UK’s plans to decarbonise the economy. 
@@ -20,5 +19,3 @@ According to a report published by Ernst & Young in 2014, investment in shale co
 The British Geological Survey has  identified areas with potentially large reserves of shale gas and oil. UK geology is promising, but we make no assumptions about production levels. We need exploration to determine the potential.
  
 Our current priority is investment in new gas plants with new build, storage and distribution opportunities. Our switch from coal to gas will require storage and distribution network upgrades.
- 
-

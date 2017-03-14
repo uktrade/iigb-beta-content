@@ -1,5 +1,5 @@
 ---
-title: "Energy from waste growth opportunities"
+title: "Energy from waste growth opportunities in the UK"
 ---
 There are opportunities available to grow your business given the size of the energy from waste market. From our use of conventional incineration to advanced technologies, you can expand into new markets covering the broad range of waste treatment options available here. 
 
@@ -15,6 +15,3 @@ The next generation of energy from waste plants will be powered by experimental 
 Businesses based in the UK are developing these innovative new sources for biofuels, helping to cement our place as a fantastic base for international operations. 
 
 There’s also an estimated 1 billion GBP pipeline of opportunities for community heating projects in the UK, which could be fulfilled by waste to energy and biomass projects.
-
-
-

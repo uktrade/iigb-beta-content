@@ -12,7 +12,7 @@ export_more: "I want to export more"
 find_new_opportunities: "Find new opportunities"
 get_trade_index_profile: "Find a buyer"
 see_sector_showcase: "See our sector showcase"
-I_am_based_in: "I am based in"
+choose_language: "Choose your language"
 change_country: "Change country"
 buy_from_uk: "Find a Supplier"
 ---

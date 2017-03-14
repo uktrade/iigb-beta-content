@@ -1,5 +1,5 @@
 ---
-title: "An expert workforce dedicated to industry growth"
+title: "A workforce of experts dedicated to growing the industry"
 ---
 In the UK, your company will benefit from a highly skilled workforce with extensive research and development experience, focused on benefitting the customer.
  

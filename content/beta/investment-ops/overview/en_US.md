@@ -14,4 +14,3 @@ As an international investor, the service will help you to choose the best locat
 - the level of access to a skilled workforce in an area
 - opportunities to access centres for research and development
 - transport links, to help your business successfully grow
-

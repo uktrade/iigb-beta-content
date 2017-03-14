@@ -7,7 +7,7 @@ learn_more: "了解更多"
 plan_your_trip: " 计划您的旅行"
 experience_the_uk: "欢迎来到英国"
 help_to_export: "获得帮助，顺利出口"
-I_am_based_in: "我在"
+choose_language: "选择语言"
 change_country: "更改国家"
 buy_from_uk: "寻找供应商"
 ---

@@ -40,7 +40,7 @@ Hay distintos tipos de visados para particulares y empresas, dependiendo de su s
 
 #### Puede optar a un visado para representantes de empresas extranjeras si:
 
-- Es el único representante de una empresa extranjera con intención de constituir una división o una filial en propiedad absoluta en Reino Unido de una empresa matriz extranjera
+- Es el único representante de una empresa matriz extranjera con intención de constituir una división o una filial de propiedad única en Reino Unido
 - Es un empleado de un periódico, agencia de noticias o emisora extranjera ubicado a largo plazo en el Reino Unido
 
 [Más información sobre el visado para representantes de empresas extranjeras.](https://www.gov.uk/representative-overseas-business/overview)

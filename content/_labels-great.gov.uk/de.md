@@ -7,7 +7,7 @@ learn_more: "Erfahren Sie mehr"
 plan_your_trip: "Planen Sie Ihre Reise"
 experience_the_uk: "Besuchen Sie Großbritannien"
 help_to_export: "Holen Sie sich Exporthilfe"
-I_am_based_in: "Ich wohne in:"
+choose_language: "Wählen Sie Ihre Sprache"
 change_country: "Land ändern"
 buy_from_uk: "Finden sie einen Zulieferer"
 ---
