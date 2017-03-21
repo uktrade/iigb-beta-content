@@ -1,5 +1,7 @@
 ---
-title: "Tax"
+title: "Understand business taxes"
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur congue sem vitae facilisis tincidunt. Etiam vel ante tincidunt, consequat mi sed, commodo justo. Aliquam maximus justo nec justo finibus laoreet. Praesent vel eros nec felis elementum accumsan. Donec maximus lorem quis mauris tincidunt gravida
+
+The UK has one of the most competitive tax systems in the world and the corporate tax rules are simple and clear.
+
