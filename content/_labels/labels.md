@@ -265,7 +265,7 @@ form_contact_details:
 form_contact_details_reason:
  de_DE: Wir benötigen diese um Sie mit Ihrem Ansprechpartner vor Ort in Verbindung
    zu setzen
- en_US: We will use these to put you in touch with your local office
+ en_US: We’ll use this information to match you to a member of our investment team.
  zh_CN: 我们将会把您的联系方式交给当地的地办事处。
  ja_JP: これらの情報をもとに、貴社の最寄りの事務所をご紹介します
  es_ES: Los utilizaremos para ponerle en contacto con su oficina local
@@ -433,6 +433,12 @@ form_annual_turnover:
    - Entre 50 y 100 millones de libras
    - Más de 100 millones de libras
    pt_BR:
+   - Inferior a 100 000 £
+   - Entre 100 000 £ e 1 milhão de £
+   - Entre 1 milhão de £ e 10 milhões de £
+   - Entre 10 milhões de £ e 50 milhões de £
+   - Entre 50 milhões de £ e 100 milhões de £
+   - Superior a 100 milhões de £
    pt_INT:
    - Inferior a 100 000 £
    - Entre 100 000 £ e 1 milhão de £
@@ -497,6 +503,10 @@ form_staff_number:
    - Entre 50 y 250
    - Más de 250
    pt_BR:
+   - Menos de 10
+   - Entre 10 e 50
+   - Entre 50 e 250
+   - Mais de 250
    pt_INT:
    - Menos de 10
    - Entre 10 e 50
@@ -602,6 +612,16 @@ form_which_part:
    - Belfast e Irlanda del Norte
    - Nottingham y las Midlands del Este
    pt_BR:
+   - Londres e região sudeste
+   - Bristol e região sudoeste
+   - Birmingham e Midlands ocidentais
+   - Manchester e região noroeste
+   - Newcastle e região nordeste
+   - Cardiff e Gales
+   - Edimburgo e sul da Escócia
+   - Aberdeen e nordeste da Escócia
+   - Belfast e Irlanda do Norte
+   - Nottingham e Midlands orientais
    pt_INT:
    - Londres e região sudeste
    - Bristol e região sudoeste
@@ -732,6 +752,18 @@ form_when_month:
    - Noviembre
    - Diciembre
    pt_BR:
+   - Janeiro
+   - Fevereiro
+   - Março
+   - Abril
+   - Maio
+   - Junho
+   - Julho
+   - Agosto
+   - Setembro
+   - Outubro
+   - Novembro
+   - Dezembro
    pt_INT:
    - Janeiro
    - Fevereiro
@@ -835,6 +867,16 @@ form_when_year:
    - '2025'
    - '2026'
    pt_BR:
+   - '2017'
+   - '2018'
+   - '2019'
+   - '2020'
+   - '2021'
+   - '2022'
+   - '2023'
+   - '2024'
+   - '2025'
+   - '2026'
    pt_INT:
    - '2017'
    - '2018'
@@ -1081,6 +1123,30 @@ form_primary_industry:
    - Tecnología
    - Otros
    pt_BR:
+   - Fabrico avançado
+   - Aeroespacial
+   - Gestão de ativos
+   - Investigação e desenvolvimento automóvel
+   - Cadeia de fornecimento automóvel
+   - Big Data e análise
+   - Produção e conteúdos criativos
+   - Meios digitais
+   - Redes elétricas
+   - Energia de resíduos
+   - Serviços financeiros
+   - FinTech
+   - Indústria alimentar e de bebidas
+   - Isento de
+   - Cuidados de saúde
+   - Tecnologia médica
+   - Desportos motorizados
+   - Nuclear
+   - Energia eólica offshore
+   - Petróleo e gás
+   - Fabrico de produtos farmacêuticos
+   - Retalho
+   - Tecnologia
+   - Outra
    pt_INT:
    - Fabrico avançado
    - Aeroespacial
@@ -2708,6 +2774,255 @@ form_headquarters:
    - Zambia
    - Zimbabwe
    pt_BR:
+   - Andorra
+   - United Arab Emirates
+   - Afghanistan
+   - Antigua and Barbuda
+   - Anguilla
+   - Albania
+   - Armenia
+   - Angola
+   - Antarctica
+   - Argentina
+   - American Samoa
+   - Austria
+   - Australia
+   - Aruba
+   - Åland Islands
+   - Azerbaijan
+   - Bosnia and Herzegovina
+   - Barbados
+   - Bangladesh
+   - Belgium
+   - Burkina Faso
+   - Bulgaria
+   - Bahrain
+   - Burundi
+   - Benin
+   - Saint-Barthélemy
+   - Bermuda
+   - Brunei Darussalam
+   - Bolivia
+   - Bonaire
+   - Brazil
+   - Bahamas
+   - Bhutan
+   - Bouvet Island
+   - Botswana
+   - Belarus
+   - Belize
+   - Canada
+   - Cocos (Keeling) Islands
+   - Congo, The Democratic Republic of the
+   - Central African Republic
+   - Congo
+   - Switzerland
+   - Cote D'Ivoire
+   - Cook Islands
+   - Chile
+   - Cameroon
+   - China
+   - Colombia
+   - Costa Rica
+   - Cuba
+   - Cape Verde
+   - Curaçao
+   - Christmas Island
+   - Cyprus
+   - Czech Republic
+   - Germany
+   - Djibouti
+   - Denmark
+   - Dominica
+   - Dominican Republic
+   - Algeria
+   - Ecuador
+   - Estonia
+   - Egypt
+   - Western Sahara
+   - Eritrea
+   - Spain
+   - Ethiopia
+   - Finland
+   - Fiji
+   - Falkland Islands (Malvinas)
+   - Micronesia, Federated States of
+   - Faroe Islands
+   - France
+   - Gabon
+   - United Kingdom
+   - Grenada
+   - Georgia
+   - French Guiana
+   - Guernsey
+   - Ghana
+   - Gibraltar
+   - Greenland
+   - Gambia
+   - Guinea
+   - Guadeloupe
+   - Equatorial Guinea
+   - Greece
+   - South Georgia and the South Sandwich Islands
+   - Guatemala
+   - Guam
+   - Guinea-Bissau
+   - Guyana
+   - Hong Kong
+   - Heard Island and Mcdonald Islands
+   - Honduras
+   - Croatia
+   - Haiti
+   - Hungary
+   - Indonesia
+   - Ireland
+   - Israel
+   - Isle of Man
+   - India
+   - British Indian Ocean Territory
+   - Iraq
+   - Iran, Islamic Republic Of
+   - Iceland
+   - Italy
+   - Jersey
+   - Jamaica
+   - Jordan
+   - Japan
+   - Kenya
+   - Kyrgyzstan
+   - Cambodia
+   - Kiribati
+   - Comoros
+   - Saint Kitts and Nevis
+   - Democratic People's Republic of Korea
+   - Korea, Republic of
+   - Kuwait
+   - Cayman Islands
+   - Kazakhstan
+   - Lao People's Democratic Republic
+   - Lebanon
+   - Saint Lucia
+   - Liechtenstein
+   - Sri Lanka
+   - Liberia
+   - Lesotho
+   - Lithuania
+   - Luxembourg
+   - Latvia
+   - Libyan Arab Jamahiriya
+   - Morocco
+   - Monaco
+   - Moldova, Republic of
+   - Montenegro
+   - Sint Maarten
+   - Madagascar
+   - Marshall Islands
+   - Macedonia, The Former Yugoslav Republic of
+   - Mali
+   - Myanmar
+   - Mongolia
+   - Macao
+   - Northern Mariana Islands
+   - Martinique
+   - Mauritania
+   - Montserrat
+   - Malta
+   - Mauritius
+   - Maldives
+   - Malawi
+   - Mexico
+   - Malaysia
+   - Mozambique
+   - Namibia
+   - New Caledonia
+   - Niger
+   - Norfolk Island
+   - Nigeria
+   - Nicaragua
+   - Netherlands
+   - Norway
+   - Nepal
+   - Nauru
+   - Niue
+   - New Zealand
+   - Oman
+   - Panama
+   - Peru
+   - French Polynesia
+   - Papua New Guinea
+   - Philippines
+   - Pakistan
+   - Poland
+   - Saint Pierre and Miquelon
+   - Pitcairn
+   - Puerto Rico
+   - Palestinian Territory, Occupied
+   - Portugal
+   - Palau
+   - Paraguay
+   - Qatar
+   - Reunion
+   - Romania
+   - Serbia
+   - Russian Federation
+   - Rwanda
+   - Saudi Arabia
+   - Solomon Islands
+   - Seychelles
+   - Sudan
+   - Sweden
+   - Singapore
+   - Saint Helena
+   - Slovenia
+   - Svalbard and Jan Mayen
+   - Slovakia
+   - Sierra Leone
+   - San Marino
+   - Senegal
+   - Somalia
+   - Suriname
+   - South Sudan
+   - Sao Tome and Principe
+   - El Salvador
+   - Sint Maarten
+   - Syrian Arab Republic
+   - Swaziland
+   - Turks and Caicos Islands
+   - Chad
+   - French Southern Territories
+   - Togo
+   - Thailand
+   - Tajikistan
+   - Tokelau
+   - Timor-Leste
+   - Turkmenistan
+   - Tunisia
+   - Tonga
+   - Turkey
+   - Trinidad and Tobago
+   - Tuvalu
+   - Taiwan
+   - Tanzania, United Republic of
+   - Ukraine
+   - Uganda
+   - United States Minor Outlying Islands
+   - United States
+   - Uruguay
+   - Uzbekistan
+   - Holy See (Vatican City State)
+   - Saint Vincent and the Grenadines
+   - Venezuela
+   - Virgin Islands, British
+   - Virgin Islands, U.S.
+   - VietNam
+   - Vanuatu
+   - Wallis and Futuna
+   - Samoa
+   - Yemen
+   - Mayotte
+   - South Africa
+   - Zambia
+   - Zimbabwe
    pt_INT:
    - Andorra
    - United Arab Emirates
@@ -3329,6 +3644,8 @@ location_guide:
   pt_BR: Guia de localização
   pt_INT: Guia de localização
   ar_SA: دليل الأماكن
+investment_opportunities:
+  en_US: Investment Opportunities
 investment_opts_involved_in_research:
   de_DE: An Studien teilnehmen und bei der Gestaltung des Services mitwirken
   en_US: Take part in research to help shape the service
@@ -3347,4 +3664,131 @@ investment_opts_get_updates:
   pt_BR: Receba atualizações
   pt_INT: Receba atualizações
   ar_SA: الحصول على التحديثات
+investment_opts_map:
+  de_DE: Karte
+  en_US: Map
+  zh_CN: 地图
+  ja_JP: 
+  es_ES: 
+  pt_BR: 
+  pt_INT: 
+  ar_SA: 
+investment_opts_detail:
+  de_DE: Ausführliche Ansicht
+  en_US: Detail
+  zh_CN: 详细信息
+  ja_JP: 
+  es_ES: 
+  pt_BR: 
+  pt_INT: 
+  ar_SA: 
+investment_opts_region:
+  de_DE: 
+  en_US: Region:
+  zh_CN: 区域：
+  ja_JP: 
+  es_ES: 
+  pt_BR: 
+  pt_INT: 
+  ar_SA: 
+investment_opts_select_industry:
+  de_DE: Wählen Sie eine Branche
+  en_US: Choose an industry
+  zh_CN: 选择行业
+  ja_JP: 
+  es_ES: 
+  pt_BR: 
+  pt_INT: 
+  ar_SA: 
+sectors:
+  aerospace:
+    de_DE: 'Luftfahrtindustrie'
+    en_US: 'Aerospace'
+    zh_CN: ''
+    ja_JP: ''
+    es_ES: ''
+    pt_BR: ''
+    pt_INT: ''
+    ar_SA: ''
+  advanced_manufacturing:
+    de_DE: 'Fortgeschrittene Fertigungstechnologien'
+    en_US: 'Advanced Manufacturing'
+    zh_CN: ''
+    ja_JP: ''
+    es_ES: ''
+    pt_BR: ''
+    pt_INT: ''
+    ar_SA: ''
+  automotive:
+    de_DE: 'Automobilindustrie'
+    en_US: 'Automotive'
+    zh_CN: ''
+    ja_JP: ''
+    es_ES: ''
+    pt_BR: ''
+    pt_INT: ''
+    ar_SA: ''
+  creative:
+    de_DE: 'Medien und Kultur'
+    en_US: 'Creative'
+    zh_CN: ''
+    ja_JP: ''
+    es_ES: ''
+    pt_BR: ''
+    pt_INT: ''
+    ar_SA: ''
+  energy:
+    de_DE: 'Energie'
+    en_US: 'Energy generation'
+    zh_CN: ''
+    ja_JP: ''
+    es_ES: ''
+    pt_BR: ''
+    pt_INT: ''
+    ar_SA: ''
+  financial_services:
+    de_DE: 'Finanzen'
+    en_US: 'Financial services'
+    zh_CN: ''
+    ja_JP: ''
+    es_ES: ''
+    pt_BR: ''
+    pt_INT: ''
+    ar_SA: ''
+  food_and_drink_manufacturing:
+    de_DE: 'Lebensmittel- und Getränkeherstellung'
+    en_US: 'Food and drink manufacturing'
+    zh_CN: ''
+    ja_JP: ''
+    es_ES: ''
+    pt_BR: ''
+    pt_INT: ''
+    ar_SA: ''
+  health_and_life_sciences:
+    de_DE: 'Biowissenschaften (Life Sciences)'
+    en_US: 'Health and life sciences'
+    zh_CN: ''
+    ja_JP: ''
+    es_ES: ''
+    pt_BR: ''
+    pt_INT: ''
+    ar_SA: ''
+  retail:
+    de_DE: 'Einzelhandel'
+    en_US: 'Retail'
+    zh_CN: ''
+    ja_JP: ''
+    es_ES: ''
+    pt_BR: ''
+    pt_INT: ''
+    ar_SA: ''
+  technology:
+    de_DE: 'Technologie'
+    en_US: 'Technology'
+    zh_CN: ''
+    ja_JP: ''
+    es_ES: ''
+    pt_BR: ''
+    pt_INT: ''
+    ar_SA: ''
 ---
