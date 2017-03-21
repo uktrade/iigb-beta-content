@@ -3664,6 +3664,42 @@ investment_opts_get_updates:
   pt_BR: Receba atualizações
   pt_INT: Receba atualizações
   ar_SA: الحصول على التحديثات
+investment_opts_map:
+  de_DE: Karte
+  en_US: Map
+  zh_CN: 地图
+  ja_JP: 
+  es_ES: 
+  pt_BR: 
+  pt_INT: 
+  ar_SA: 
+investment_opts_detail:
+  de_DE: Ausführliche Ansicht
+  en_US: Detail
+  zh_CN: 详细信息
+  ja_JP: 
+  es_ES: 
+  pt_BR: 
+  pt_INT: 
+  ar_SA: 
+investment_opts_region:
+  de_DE: 
+  en_US: Region:
+  zh_CN: 区域：
+  ja_JP: 
+  es_ES: 
+  pt_BR: 
+  pt_INT: 
+  ar_SA: 
+investment_opts_select_industry:
+  de_DE: Wählen Sie eine Branche
+  en_US: Choose an industry
+  zh_CN: 选择行业
+  ja_JP: 
+  es_ES: 
+  pt_BR: 
+  pt_INT: 
+  ar_SA: 
 sectors:
   aerospace:
     de_DE: 'Luftfahrtindustrie'
