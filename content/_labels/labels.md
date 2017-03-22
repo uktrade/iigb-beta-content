@@ -3682,7 +3682,7 @@ investment_opts_detail:
   pt_INT: ''
   ar_SA: ''
 investment_opts_region:
-  de_DE: ''
+  de_DE: 'Region:'
   en_US: 'Region:'
   zh_CN: '区域：'
   ja_JP: ''
