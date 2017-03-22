@@ -3682,7 +3682,7 @@ investment_opts_detail:
   pt_INT: ''
   ar_SA: ''
 investment_opts_region:
-  de_DE: 'Region:'
+  de_DE: 'Region: DE'
   en_US: 'Region:'
   zh_CN: '区域：'
   ja_JP: ''
@@ -3754,7 +3754,7 @@ investment_opts_centres_of_excellence_detail:
   pt_INT: ''
   ar_SA: ''
 investment_opts_enterprise_zones:
-  de_DE: Enterprise Zones
+  de_DE: Enterprise Zones DE
   en_US: Enterprise Zones
   zh_CN: 企业区
   ja_JP: ''
