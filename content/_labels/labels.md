@@ -3684,8 +3684,8 @@ investment_opts_detail:
   ar_SA: ''
 investment_opts_region:
   de_DE: ''
-  en_US: Region:
-  zh_CN: 区域：
+  en_US: 'Region:'
+  zh_CN: '区域：'
   ja_JP: ''
   es_ES: ''
   pt_BR: ''
