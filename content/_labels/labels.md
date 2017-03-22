@@ -3668,38 +3668,47 @@ investment_opts_map:
   de_DE: Karte
   en_US: Map
   zh_CN: 地图
-  ja_JP: 
-  es_ES: 
-  pt_BR: 
-  pt_INT: 
-  ar_SA: 
+  ja_JP: ''
+  es_ES: ''
+  pt_BR: ''
+  pt_INT: ''
+  ar_SA: ''
 investment_opts_detail:
   de_DE: Ausführliche Ansicht
   en_US: Detail
   zh_CN: 详细信息
-  ja_JP: 
-  es_ES: 
-  pt_BR: 
-  pt_INT: 
-  ar_SA: 
+  ja_JP: ''
+  es_ES: ''
+  pt_BR: ''
+  pt_INT: ''
+  ar_SA: ''
 investment_opts_region:
-  de_DE: 
+  de_DE: ''
   en_US: Region:
   zh_CN: 区域：
-  ja_JP: 
-  es_ES: 
-  pt_BR: 
-  pt_INT: 
-  ar_SA: 
+  ja_JP: ''
+  es_ES: ''
+  pt_BR: ''
+  pt_INT: ''
+  ar_SA: ''
 investment_opts_select_industry:
   de_DE: Wählen Sie eine Branche
   en_US: Choose an industry
   zh_CN: 选择行业
-  ja_JP: 
-  es_ES: 
-  pt_BR: 
-  pt_INT: 
-  ar_SA: 
+  ja_JP: ''
+  es_ES: ''
+  pt_BR: ''
+  pt_INT: ''
+  ar_SA: ''
+investment_opts_using_the_service:
+  de_DE: Nutzung dieses Dienstes
+  en_US: To use this service
+  zh_CN: 服务使用指南
+  ja_JP: ''
+  es_ES: ''
+  pt_BR: ''
+  pt_INT: ''
+  ar_SA: ''
 sectors:
   aerospace:
     de_DE: 'Luftfahrtindustrie'
@@ -3765,9 +3774,9 @@ sectors:
     pt_INT: ''
     ar_SA: ''
   health_and_life_sciences:
-    de_DE: 'Biowissenschaften (Life Sciences)'
+    de_DE: 'Gesundheits- und Biowissenschaften'
     en_US: 'Health and life sciences'
-    zh_CN: ''
+    zh_CN: '健康与生命科学'
     ja_JP: ''
     es_ES: ''
     pt_BR: ''
