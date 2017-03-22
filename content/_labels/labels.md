@@ -3577,7 +3577,6 @@ report_problem:
  pt_BR: Relatar um problema
  pt_INT: Relatar um problema
  ar_SA: 
-
 report_problem_placeholder:
  de_DE: Please include the name of the page with the issue, and as much detail as
    possible.
@@ -3704,6 +3703,87 @@ investment_opts_using_the_service:
   de_DE: Nutzung dieses Dienstes
   en_US: To use this service
   zh_CN: 服务使用指南
+  ja_JP: ''
+  es_ES: ''
+  pt_BR: ''
+  pt_INT: ''
+  ar_SA: ''
+investment_opts_businesses:
+  de_DE: Unternehmen
+  en_US: Businesses
+  zh_CN: 企业
+  ja_JP: ''
+  es_ES: ''
+  pt_BR: ''
+  pt_INT: ''
+  ar_SA: ''
+investment_opts_businesses_detail:
+  de_DE: Unternehmen mit bedeutendem Einfluss in der ausgewählten Branche
+  en_US: Businesses that have significant influence in the selected industry
+  zh_CN: 在所选行业有重大影响力的企业
+  ja_JP: ''
+  es_ES: ''
+  pt_BR: ''
+  pt_INT: ''
+  ar_SA: ''
+investment_opts_finance_and_incentives:
+  de_DE: Finanzierung und Anreize
+  en_US: Finance and incentives
+  zh_CN: 财政与奖励
+  ja_JP: ''
+  es_ES: ''
+  pt_BR: ''
+  pt_INT: ''
+  ar_SA: ''
+investment_opts_centres_of_excellence:
+  de_DE: Kompetenzzentren
+  en_US: Centres of excellence
+  zh_CN: 卓越中心
+  ja_JP: ''
+  es_ES: ''
+  pt_BR: ''
+  pt_INT: ''
+  ar_SA: ''
+investment_opts_centres_of_excellence_detail:
+  de_DE: Branchenspezifische Forschungs- und Entwicklungszentren
+  en_US: Sector specific research and development centres
+  zh_CN: 行业特定的研究和开发中心
+  ja_JP: ''
+  es_ES: ''
+  pt_BR: ''
+  pt_INT: ''
+  ar_SA: ''
+investment_opts_enterprise_zones:
+  de_DE: Enterprise Zones
+  en_US: Enterprise Zones
+  zh_CN: 企业区
+  ja_JP: ''
+  es_ES: ''
+  pt_BR: ''
+  pt_INT: ''
+  ar_SA: ''
+investment_opts_enterprise_zones_detail:
+  de_DE: Geförderte Regionen mit reduzierten Gewerbesteuern, niedrigeren Mieten und kompletten Entwicklungspaketen
+  en_US: Assisted areas with reduced business rates, reduced rent, turnkey development packages
+  zh_CN: 提供优惠的营业税和房租以及交钥匙发展项目组合的扶持区域
+  ja_JP: ''
+  es_ES: ''
+  pt_BR: ''
+  pt_INT: ''
+  ar_SA: ''
+investment_opts_location_guide:
+  de_DE: Standortführer
+  en_US: Location guide
+  zh_CN: 选址指南
+  ja_JP: ''
+  es_ES: ''
+  pt_BR: ''
+  pt_INT: ''
+  ar_SA: ''
+investment_opts_location_guide_detail:
+  de_DE: Der beste Ort für Informationen über Ihre Branche, die Ihnen bei der Wahl der geeignetsten Standorte für Ihr Unternehmen in Großbritannien helfen.
+  en_US: The best place to find the information you need on your industry to help you decide the most suitable locations to consider in the UK.
+  zh_CN: 这是一个查找行业相关信息的最佳网站，可帮助您找到在英国开展业务的最合适地点。
   ja_JP: ''
   es_ES: ''
   pt_BR: ''
