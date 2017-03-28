@@ -3643,6 +3643,33 @@ location_guide:
   pt_BR: Guia de localização
   pt_INT: Guia de localização
   ar_SA: دليل الأماكن
+concentration_high:
+  de_DE: 
+  en_US: High
+  zh_CN: 
+  ja_JP: 
+  es_ES: 
+  pt_BR: 
+  pt_INT:
+  ar_SA: 
+concentration_medium:
+  de_DE: 
+  en_US: Medium
+  zh_CN: 
+  ja_JP: 
+  es_ES: 
+  pt_BR: 
+  pt_INT:
+  ar_SA: 
+concentration_low:
+  de_DE: 
+  en_US: Low
+  zh_CN: 
+  ja_JP: 
+  es_ES: 
+  pt_BR: 
+  pt_INT:
+  ar_SA: 
 investment_opportunities:
   en_US: Investment Opportunities
 investment_opts_involved_in_research:
