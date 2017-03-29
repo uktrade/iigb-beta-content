@@ -3672,7 +3672,7 @@ concentration_low:
   ar_SA: 
 investment_opportunities:
   de_DE: 
-  en_US: Investment Opportunities
+  en_US: Investment opportunities
   zh_CN: 
   ja_JP: 
   es_ES: 
@@ -3716,9 +3716,9 @@ investment_opts_detail:
   pt_INT: ''
   ar_SA: ''
 investment_opts_region:
-  de_DE: 'Region: DE'
-  en_US: 'Region:'
-  zh_CN: '区域：'
+  de_DE: 'Region'
+  en_US: 'Region'
+  zh_CN: '区域'
   ja_JP: ''
   es_ES: ''
   pt_BR: ''
@@ -3744,7 +3744,7 @@ investment_opts_using_the_service:
   ar_SA: ''
 investment_opts_businesses:
   de_DE: Unternehmen
-  en_US: Businesses
+  en_US: Popular area
   zh_CN: 企业
   ja_JP: ''
   es_ES: ''
@@ -3771,7 +3771,7 @@ investment_opts_finance_and_incentives:
   ar_SA: ''
 investment_opts_centres_of_excellence:
   de_DE: Kompetenzzentren
-  en_US: Centres of excellence
+  en_US: Research and development
   zh_CN: 卓越中心
   ja_JP: ''
   es_ES: ''
@@ -3789,7 +3789,7 @@ investment_opts_centres_of_excellence_detail:
   ar_SA: ''
 investment_opts_enterprise_zones:
   de_DE: Enterprise Zones DE
-  en_US: Enterprise Zones
+  en_US: Local incentives
   zh_CN: 企业区
   ja_JP: ''
   es_ES: ''
