@@ -1,5 +1,5 @@
 ---
-title: "Finance and incentives to support UK investments"
+title: ""
 ---
 The UK has well established financial systems and a range of options available to help businesses of all types and sizes to raise finance. The UK also has the most competitive tax regime in the G20 group of countries.
 
