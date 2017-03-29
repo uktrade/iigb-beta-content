@@ -3700,6 +3700,33 @@ investment_opts_select_industry:
   pt_BR: 
   pt_INT: 
   ar_SA: 
+investment_opts_alpha_before:
+  de_DE: Dies ist ein neuer Service. Ihr
+  en_US: This is a new service. Your
+  zh_CN: 
+  ja_JP: 
+  es_ES: 
+  pt_BR: 
+  pt_INT: 
+  ar_SA: 
+investment_opts_alpha_feedback:
+  de_DE: Feedback
+  en_US: feedback
+  zh_CN: 
+  ja_JP: 
+  es_ES: comentarios
+  pt_BR: comentários
+  pt_INT: 
+  ar_SA: 
+investment_opts_alpha_after:
+  de_DE: wird uns helfen, ihn zu verbessern
+  en_US: will help us to improve it
+  zh_CN: 
+  ja_JP: 
+  es_ES: 
+  pt_BR: 
+  pt_INT: 
+  ar_SA: 
 sectors:
   aerospace:
     de_DE: 'Luftfahrtindustrie'
