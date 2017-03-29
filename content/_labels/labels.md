@@ -3671,7 +3671,14 @@ concentration_low:
   pt_INT:
   ar_SA: 
 investment_opportunities:
+  de_DE: 
   en_US: Investment Opportunities
+  zh_CN: 
+  ja_JP: 
+  es_ES: 
+  pt_BR: 
+  pt_INT: 
+  ar_SA: 
 investment_opts_involved_in_research:
   de_DE: An Studien teilnehmen und bei der Gestaltung des Services mitwirken
   en_US: Take part in research to help shape the service
@@ -3798,19 +3805,19 @@ investment_opts_enterprise_zones_detail:
   pt_BR: ''
   pt_INT: ''
   ar_SA: ''
-investment_opts_location_guide:
-  de_DE: Standortführer
-  en_US: Location guide
-  zh_CN: 选址指南
+investment_setup_guide_for_investors:
+  de_DE: 
+  en_US: UK set-up guide for investors
+  zh_CN: 
   ja_JP: ''
   es_ES: ''
   pt_BR: ''
   pt_INT: ''
   ar_SA: ''
-investment_opts_location_guide_detail:
-  de_DE: Der beste Ort für Informationen über Ihre Branche, die Ihnen bei der Wahl der geeignetsten Standorte für Ihr Unternehmen in Großbritannien helfen.
-  en_US: The best place to find the information you need on your industry to help you decide the most suitable locations to consider in the UK.
-  zh_CN: 这是一个查找行业相关信息的最佳网站，可帮助您找到在英国开展业务的最合适地点。
+investment_incentives_and_finance:
+  de_DE: 
+  en_US: Incentives and finance for investments in the UK
+  zh_CN: 
   ja_JP: ''
   es_ES: ''
   pt_BR: ''
