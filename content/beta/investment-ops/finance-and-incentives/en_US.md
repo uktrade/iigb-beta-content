@@ -1,5 +1,5 @@
 ---
-title: "Access finance and incentives"
+title: "UK investment incentives and finance"
 ---
 
-Understand the different types of finance and government incentives available for overseas investors in the UK.
+Discover UK government incentives and finance packages for overseas investors in the UK.
