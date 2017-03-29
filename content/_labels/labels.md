@@ -3823,6 +3823,60 @@ investment_incentives_and_finance:
   pt_BR: ''
   pt_INT: ''
   ar_SA: ''
+investment_opts_notable_clusters:
+  de_DE: 
+  en_US: Notable clusters
+  zh_CN: 
+  ja_JP: ''
+  es_ES: ''
+  pt_BR: ''
+  pt_INT: ''
+  ar_SA: ''
+investment_opts_regeneration_opportunities:
+  de_DE: 
+  en_US: Regeneration opportunities
+  zh_CN: 
+  ja_JP: ''
+  es_ES: ''
+  pt_BR: ''
+  pt_INT: ''
+  ar_SA: ''
+investment_opts_investment_advice:
+  de_DE: 
+  en_US: UK investment advice
+  zh_CN: 
+  ja_JP: ''
+  es_ES: ''
+  pt_BR: ''
+  pt_INT: ''
+  ar_SA: ''
+investment_opts_ready_to_invest:
+  de_DE: 
+  en_US: 'Ready to invest?'
+  zh_CN: 
+  ja_JP: ''
+  es_ES: ''
+  pt_BR: ''
+  pt_INT: ''
+  ar_SA: ''
+investment_opts_thinking:
+  de_DE: 
+  en_US: 'If you are thinking about investing in the UK, get in touch with the UK''s investment                                  services team for access to insights, connections and incentives.'
+  zh_CN: 
+  ja_JP: ''
+  es_ES: ''
+  pt_BR: ''
+  pt_INT: ''
+  ar_SA: ''
+investment_opts_invest_in:
+  de_DE: 
+  en_US: 'Investing in'
+  zh_CN: 
+  ja_JP: ''
+  es_ES: ''
+  pt_BR: ''
+  pt_INT: ''
+  ar_SA: ''
 sectors:
   aerospace:
     de_DE: 'Luftfahrtindustrie'
