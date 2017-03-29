@@ -1,6 +1,6 @@
 ---
-title: "Location guide"
+title: "Where to invest in the UK"
 display: "js"
 ---
 
-The best place to find the information you need on your industry to help you decide the most suitable locations to consider in the UK.
+Find the most suitable places in the UK for investment in your industry.
