@@ -2,4 +2,4 @@
 title: "Access finance and incentives"
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur congue sem vitae facilisis tincidunt. Etiam vel ante tincidunt, consequat mi sed, commodo justo. Aliquam maximus justo nec justo finibus laoreet. Praesent vel eros nec felis elementum accumsan. Donec maximus lorem quis mauris tincidunt gravida
+Understand the different types of finance and government incentives available for overseas investors in the UK.

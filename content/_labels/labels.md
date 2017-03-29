@@ -3577,7 +3577,6 @@ report_problem:
  pt_BR: Relatar um problema
  pt_INT: Relatar um problema
  ar_SA: 
-
 report_problem_placeholder:
  de_DE: Please include the name of the page with the issue, and as much detail as
    possible.
@@ -3637,15 +3636,49 @@ country_text:
   ar_SA: نقدم أيضًا معلومات عن الاستثمار حسب المنطقة
 location_guide:
   de_DE: Standortführer
-  en_US: Location guide
+  en_US: Where to invest in the UK
   zh_CN: 定位指南
   ja_JP: 地域ガイド
   es_ES: Guía de ubicaciones
   pt_BR: Guia de localização
   pt_INT: Guia de localização
   ar_SA: دليل الأماكن
+concentration_high:
+  de_DE: 
+  en_US: High
+  zh_CN: 
+  ja_JP: 
+  es_ES: 
+  pt_BR: 
+  pt_INT:
+  ar_SA: 
+concentration_medium:
+  de_DE: 
+  en_US: Medium
+  zh_CN: 
+  ja_JP: 
+  es_ES: 
+  pt_BR: 
+  pt_INT:
+  ar_SA: 
+concentration_low:
+  de_DE: 
+  en_US: Low
+  zh_CN: 
+  ja_JP: 
+  es_ES: 
+  pt_BR: 
+  pt_INT:
+  ar_SA: 
 investment_opportunities:
-  en_US: Investment Opportunities
+  de_DE: 
+  en_US: Investment opportunities
+  zh_CN: 
+  ja_JP: 
+  es_ES: 
+  pt_BR: 
+  pt_INT: 
+  ar_SA: 
 investment_opts_involved_in_research:
   de_DE: An Studien teilnehmen und bei der Gestaltung des Services mitwirken
   en_US: Take part in research to help shape the service
@@ -3668,33 +3701,182 @@ investment_opts_map:
   de_DE: Karte
   en_US: Map
   zh_CN: 地图
-  ja_JP: 
-  es_ES: 
-  pt_BR: 
-  pt_INT: 
-  ar_SA: 
+  ja_JP: ''
+  es_ES: ''
+  pt_BR: ''
+  pt_INT: ''
+  ar_SA: ''
 investment_opts_detail:
   de_DE: Ausführliche Ansicht
   en_US: Detail
   zh_CN: 详细信息
-  ja_JP: 
-  es_ES: 
-  pt_BR: 
-  pt_INT: 
-  ar_SA: 
+  ja_JP: ''
+  es_ES: ''
+  pt_BR: ''
+  pt_INT: ''
+  ar_SA: ''
 investment_opts_region:
-  de_DE: 
-  en_US: Region:
-  zh_CN: 区域：
-  ja_JP: 
-  es_ES: 
-  pt_BR: 
-  pt_INT: 
-  ar_SA: 
+  de_DE: 'Region'
+  en_US: 'Region'
+  zh_CN: '区域'
+  ja_JP: ''
+  es_ES: ''
+  pt_BR: ''
+  pt_INT: ''
+  ar_SA: ''
 investment_opts_select_industry:
   de_DE: Wählen Sie eine Branche
   en_US: Choose an industry
   zh_CN: 选择行业
+  ja_JP: ''
+  es_ES: ''
+  pt_BR: ''
+  pt_INT: ''
+  ar_SA: ''
+investment_opts_using_the_service:
+  de_DE: Nutzung dieses Dienstes
+  en_US: To use this service
+  zh_CN: 服务使用指南
+  ja_JP: ''
+  es_ES: ''
+  pt_BR: ''
+  pt_INT: ''
+  ar_SA: ''
+investment_opts_businesses:
+  de_DE: Unternehmen
+  en_US: Popular area
+  zh_CN: 企业
+  ja_JP: ''
+  es_ES: ''
+  pt_BR: ''
+  pt_INT: ''
+  ar_SA: ''
+investment_opts_businesses_detail:
+  de_DE: Unternehmen mit bedeutendem Einfluss in der ausgewählten Branche
+  en_US: Businesses that have significant influence in the selected industry
+  zh_CN: 在所选行业有重大影响力的企业
+  ja_JP: ''
+  es_ES: ''
+  pt_BR: ''
+  pt_INT: ''
+  ar_SA: ''
+investment_opts_finance_and_incentives:
+  de_DE: Finanzierung und Anreize
+  en_US: Finance and incentives
+  zh_CN: 财政与奖励
+  ja_JP: ''
+  es_ES: ''
+  pt_BR: ''
+  pt_INT: ''
+  ar_SA: ''
+investment_opts_centres_of_excellence:
+  de_DE: Kompetenzzentren
+  en_US: Research and development
+  zh_CN: 卓越中心
+  ja_JP: ''
+  es_ES: ''
+  pt_BR: ''
+  pt_INT: ''
+  ar_SA: ''
+investment_opts_centres_of_excellence_detail:
+  de_DE: Branchenspezifische Forschungs- und Entwicklungszentren
+  en_US: Sector specific research and development centres
+  zh_CN: 行业特定的研究和开发中心
+  ja_JP: ''
+  es_ES: ''
+  pt_BR: ''
+  pt_INT: ''
+  ar_SA: ''
+investment_opts_enterprise_zones:
+  de_DE: Enterprise Zones DE
+  en_US: Local incentives
+  zh_CN: 企业区
+  ja_JP: ''
+  es_ES: ''
+  pt_BR: ''
+  pt_INT: ''
+  ar_SA: ''
+investment_opts_enterprise_zones_detail:
+  de_DE: Geförderte Regionen mit reduzierten Gewerbesteuern, niedrigeren Mieten und kompletten Entwicklungspaketen
+  en_US: Assisted areas with reduced business rates, reduced rent, turnkey development packages
+  zh_CN: 提供优惠的营业税和房租以及交钥匙发展项目组合的扶持区域
+  ja_JP: ''
+  es_ES: ''
+  pt_BR: ''
+  pt_INT: ''
+  ar_SA: ''
+investment_setup_guide_for_investors:
+  de_DE: 
+  en_US: UK set-up guide for investors
+  zh_CN: 
+  ja_JP: ''
+  es_ES: ''
+  pt_BR: ''
+  pt_INT: ''
+  ar_SA: ''
+investment_incentives_and_finance:
+  de_DE: 
+  en_US: Incentives and finance for investments in the UK
+  zh_CN: 
+  ja_JP: ''
+  es_ES: ''
+  pt_BR: ''
+  pt_INT: ''
+  ar_SA: ''
+investment_opts_notable_clusters:
+  de_DE: 
+  en_US: 'Popular area'
+  zh_CN: 
+  ja_JP: ''
+  es_ES: ''
+  pt_BR: ''
+  pt_INT: ''
+  ar_SA: ''
+investment_opts_regeneration_opportunities:
+  de_DE: 
+  en_US: 'Incentives'
+  zh_CN: 
+  ja_JP: ''
+  es_ES: ''
+  pt_BR: ''
+  pt_INT: ''
+  ar_SA: ''
+investment_opts_investment_advice:
+  de_DE: 
+  en_US: 'UK investment advice'
+  zh_CN: 
+  ja_JP: ''
+  es_ES: ''
+  pt_BR: ''
+  pt_INT: ''
+  ar_SA: ''
+investment_opts_ready_to_invest:
+  de_DE: 
+  en_US: 'Ready to invest?'
+  zh_CN: 
+  ja_JP: ''
+  es_ES: ''
+  pt_BR: ''
+  pt_INT: ''
+  ar_SA: ''
+investment_opts_thinking:
+  de_DE: 
+  en_US: 'If you are thinking about investing in the UK, speak to our investment services team about insights, connections and incentives.'
+  zh_CN: 
+  ja_JP: ''
+  es_ES: ''
+  pt_BR: ''
+  pt_INT: ''
+  ar_SA: ''
+investment_opts_invest_in:
+  de_DE: 
+  en_US: 'Investing in UK'
+  zh_CN: 
+  ja_JP: ''
+  es_ES: ''
+  pt_BR: ''
+  pt_INT: ''
+  ar_SA: ''
   ja_JP: 
   es_ES: 
   pt_BR: 
@@ -3792,9 +3974,9 @@ sectors:
     pt_INT: ''
     ar_SA: ''
   health_and_life_sciences:
-    de_DE: 'Biowissenschaften (Life Sciences)'
+    de_DE: 'Gesundheits- und Biowissenschaften'
     en_US: 'Health and life sciences'
-    zh_CN: ''
+    zh_CN: '健康与生命科学'
     ja_JP: ''
     es_ES: ''
     pt_BR: ''
