@@ -1,6 +1,6 @@
 ---
-title: "Investors guide to the UK"
+title: "Investor's guide to the UK"
 ---
 
-Information on finance, tax, incentives and locations suitable for your investment in the UK.
+Finance, tax, incentives and locations  for your investment in the UK.
 
