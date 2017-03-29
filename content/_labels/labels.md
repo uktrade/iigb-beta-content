@@ -3636,7 +3636,7 @@ country_text:
   ar_SA: نقدم أيضًا معلومات عن الاستثمار حسب المنطقة
 location_guide:
   de_DE: Standortführer
-  en_US: Location guide
+  en_US: Where to invest in the UK
   zh_CN: 定位指南
   ja_JP: 地域ガイド
   es_ES: Guía de ubicaciones
@@ -3825,7 +3825,7 @@ investment_incentives_and_finance:
   ar_SA: ''
 investment_opts_notable_clusters:
   de_DE: 
-  en_US: Notable clusters
+  en_US: 'Popular area'
   zh_CN: 
   ja_JP: ''
   es_ES: ''
@@ -3834,7 +3834,7 @@ investment_opts_notable_clusters:
   ar_SA: ''
 investment_opts_regeneration_opportunities:
   de_DE: 
-  en_US: Regeneration opportunities
+  en_US: 'Incentives'
   zh_CN: 
   ja_JP: ''
   es_ES: ''
@@ -3843,7 +3843,7 @@ investment_opts_regeneration_opportunities:
   ar_SA: ''
 investment_opts_investment_advice:
   de_DE: 
-  en_US: UK investment advice
+  en_US: 'UK investment advice'
   zh_CN: 
   ja_JP: ''
   es_ES: ''
@@ -3861,7 +3861,7 @@ investment_opts_ready_to_invest:
   ar_SA: ''
 investment_opts_thinking:
   de_DE: 
-  en_US: 'If you are thinking about investing in the UK, get in touch with the UK''s investment                                  services team for access to insights, connections and incentives.'
+  en_US: 'If you are thinking about investing in the UK, speak to our investment services team about insights, connections and incentives.'
   zh_CN: 
   ja_JP: ''
   es_ES: ''
@@ -3870,7 +3870,7 @@ investment_opts_thinking:
   ar_SA: ''
 investment_opts_invest_in:
   de_DE: 
-  en_US: 'Investing in'
+  en_US: 'Investing in UK'
   zh_CN: 
   ja_JP: ''
   es_ES: ''
