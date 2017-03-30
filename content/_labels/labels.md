@@ -3761,7 +3761,7 @@ investment_opts_centres_of_excellence:
   ar_SA: ''
 investment_opts_centres_of_excellence_detail:
   de_DE: 'Branchenspezifische Forschungs- und Entwicklungszentren'
-  en_US: 'Sector specific research and development centres'
+  en_US: 'Industry-specific research and development centres'
   zh_CN: '行业特定的研究和开发中心'
   ja_JP: ''
   es_ES: ''
