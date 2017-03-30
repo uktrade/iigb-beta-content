@@ -3898,7 +3898,7 @@ sectors:
   aerospace:
     de_DE: 'Luftfahrtindustrie'
     en_US: 'Aerospace'
-    zh_CN: ''
+    zh_CN: '航空航天'
     ja_JP: ''
     es_ES: ''
     pt_BR: ''
@@ -3907,7 +3907,7 @@ sectors:
   advanced_manufacturing:
     de_DE: 'Fortgeschrittene Fertigungstechnologien'
     en_US: 'Advanced Manufacturing'
-    zh_CN: ''
+    zh_CN: '先进制造'
     ja_JP: ''
     es_ES: ''
     pt_BR: ''
@@ -3916,7 +3916,7 @@ sectors:
   automotive:
     de_DE: 'Automobilindustrie'
     en_US: 'Automotive'
-    zh_CN: ''
+    zh_CN: '汽车产业'
     ja_JP: ''
     es_ES: ''
     pt_BR: ''
@@ -3925,7 +3925,7 @@ sectors:
   creative:
     de_DE: 'Medien und Kultur'
     en_US: 'Creative'
-    zh_CN: ''
+    zh_CN: '创意的'
     ja_JP: ''
     es_ES: ''
     pt_BR: ''
@@ -3943,7 +3943,7 @@ sectors:
   financial_services:
     de_DE: 'Finanzen'
     en_US: 'Financial services'
-    zh_CN: ''
+    zh_CN: '金融服务'
     ja_JP: ''
     es_ES: ''
     pt_BR: ''
@@ -3952,7 +3952,7 @@ sectors:
   food_and_drink_manufacturing:
     de_DE: 'Lebensmittel- und Getränkeherstellung'
     en_US: 'Food and drink manufacturing'
-    zh_CN: ''
+    zh_CN: '食品和饮料制造'
     ja_JP: ''
     es_ES: ''
     pt_BR: ''
@@ -3970,7 +3970,7 @@ sectors:
   retail:
     de_DE: 'Einzelhandel'
     en_US: 'Retail'
-    zh_CN: ''
+    zh_CN: '零售'
     ja_JP: ''
     es_ES: ''
     pt_BR: ''
@@ -3979,7 +3979,7 @@ sectors:
   technology:
     de_DE: 'Technologie'
     en_US: 'Technology'
-    zh_CN: ''
+    zh_CN: '技术'
     ja_JP: ''
     es_ES: ''
     pt_BR: ''
