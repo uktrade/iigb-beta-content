@@ -4,5 +4,5 @@ display: "nonjs"
 
 ---
 
-Assisted areas with reduced business rates, reduced rent, turnkey development packages.
+Areas that incentivise investment through reduced business rates, reduced rent or special development packages.
 
