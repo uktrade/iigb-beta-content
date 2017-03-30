@@ -3885,6 +3885,15 @@ investment_opts_alpha_after:
   pt_BR: 
   pt_INT: 
   ar_SA: 
+investment_opts_priorities:
+  de_DE: 
+  en_US: What are your priorities for your investment?
+  zh_CN: 您投资时优先考虑哪些事项？
+  ja_JP: ''
+  es_ES: ''
+  pt_BR: ''
+  pt_INT: ''
+  ar_SA: ''
 sectors:
   aerospace:
     de_DE: 'Luftfahrtindustrie'
