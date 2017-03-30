@@ -3850,7 +3850,7 @@ investment_opts_thinking:
   pt_INT: ''
   ar_SA: ''
 investment_opts_invest_in:
-  de_DE: 'In Großbritannien investieren'
+  de_DE: 'Mehr über diese Branche erfahren'
   en_US: 'Investing in UK'
   zh_CN: '在英国投资'
   ja_JP: ''
