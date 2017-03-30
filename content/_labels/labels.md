@@ -3651,7 +3651,7 @@ concentration_low:
   pt_BR: 
   pt_INT:
   ar_SA: 
-investment_:
+investment_opportunities:
   de_DE: 
   en_US: Investment opportunities
   zh_CN: 来英投资者指南
