@@ -3651,10 +3651,10 @@ concentration_low:
   pt_BR: 
   pt_INT:
   ar_SA: 
-investment_opportunities:
+investment_:
   de_DE: 
   en_US: Investment opportunities
-  zh_CN: 
+  zh_CN: 来英投资者指南
   ja_JP: 
   es_ES: 
   pt_BR: 
@@ -3726,7 +3726,7 @@ investment_opts_using_the_service:
 investment_opts_businesses:
   de_DE: 'Beliebte Region'
   en_US: 'Popular area'
-  zh_CN: '企业'
+  zh_CN: '热门地区'
   ja_JP: ''
   es_ES: ''
   pt_BR: ''
@@ -3744,7 +3744,7 @@ investment_opts_businesses_detail:
 investment_opts_finance_and_incentives:
   de_DE: 'Finanzierung und Anreize'
   en_US: 'Finance and incentives'
-  zh_CN: '财政与奖励'
+  zh_CN: '当地激励措施'
   ja_JP: ''
   es_ES: ''
   pt_BR: ''
@@ -3753,7 +3753,7 @@ investment_opts_finance_and_incentives:
 investment_opts_centres_of_excellence:
   de_DE: 'Forschung und Entwicklung'
   en_US: 'Research and development'
-  zh_CN: '卓越中心'
+  zh_CN: '研究与开发'
   ja_JP: ''
   es_ES: ''
   pt_BR: ''
@@ -3769,9 +3769,9 @@ investment_opts_centres_of_excellence_detail:
   pt_INT: ''
   ar_SA: ''
 investment_opts_enterprise_zones:
-  de_DE: 'Enterprise Zonen'
-  en_US: 'Local incentives'
-  zh_CN: '企业区'
+  de_DE: 'Lokale Investitionsanreize'
+  en_US: 'Local financial incentives'
+  zh_CN: '当地激励措施'
   ja_JP: ''
   es_ES: ''
   pt_BR: ''
@@ -3789,7 +3789,7 @@ investment_opts_enterprise_zones_detail:
 investment_setup_guide_for_investors:
   de_DE: 'Leitfaden für ausländische Investoren in Großbritannien'
   en_US: 'UK set-up guide for investors'
-  zh_CN: 
+  zh_CN: '投资者的英国市场启动指南'
   ja_JP: ''
   es_ES: ''
   pt_BR: ''
@@ -3798,7 +3798,7 @@ investment_setup_guide_for_investors:
 investment_incentives_and_finance:
   de_DE: 'Investitionsanreize und Finanzmittel'
   en_US: 'Incentives and finance for investments in the UK'
-  zh_CN: 
+  zh_CN: '英国的投资激励措施和资金'
   ja_JP: ''
   es_ES: ''
   pt_BR: ''
@@ -3807,7 +3807,7 @@ investment_incentives_and_finance:
 investment_opts_notable_clusters:
   de_DE: 'Beliebte Region' 
   en_US: 'Popular area'
-  zh_CN: ''  
+  zh_CN: '热门地区'  
   ja_JP: ''
   es_ES: ''
   pt_BR: ''
@@ -3816,7 +3816,7 @@ investment_opts_notable_clusters:
 investment_opts_regeneration_opportunities:
   de_DE: 'Anreize'
   en_US: 'Incentives'
-  zh_CN: ''
+  zh_CN: '激励措施'
   ja_JP: ''
   es_ES: ''
   pt_BR: ''
@@ -3825,7 +3825,7 @@ investment_opts_regeneration_opportunities:
 investment_opts_investment_advice:
   de_DE: 'Britische Investitionshilfe'
   en_US: 'UK investment advice'
-  zh_CN: ''
+  zh_CN: '来英投资建议'
   ja_JP: ''
   es_ES: ''
   pt_BR: ''
@@ -3834,7 +3834,7 @@ investment_opts_investment_advice:
 investment_opts_ready_to_invest:
   de_DE: 'Startbereit für Ihre Investition?'
   en_US: 'Ready to invest?'
-  zh_CN: ''
+  zh_CN: '准备好投资了吗？'
   ja_JP: ''
   es_ES: ''
   pt_BR: ''
@@ -3843,7 +3843,7 @@ investment_opts_ready_to_invest:
 investment_opts_thinking:
   de_DE: 'Wenn Sie darüber nachdenken, in Großbritannien zu investieren, empfehlen wir Ihnen Kontakt mit unserem Investment Services Team aufzunehmen, das Ihnen mit Informationen, Verbindungen und Anreizen weiterhelfen kann.'
   en_US: 'If you are thinking about investing in the UK, speak to our investment services team about insights, connections and incentives.'
-  zh_CN: ''
+  zh_CN: '如果您考虑在英国投资，请与我们的投资服务团队交谈，了解真知灼见、人脉和激励措施。'
   ja_JP: ''
   es_ES: ''
   pt_BR: ''
@@ -3852,7 +3852,7 @@ investment_opts_thinking:
 investment_opts_invest_in:
   de_DE: 'In Großbritannien investieren'
   en_US: 'Investing in UK'
-  zh_CN: ''
+  zh_CN: '在英国投资'
   ja_JP: ''
   es_ES: ''
   pt_BR: ''
@@ -3861,7 +3861,7 @@ investment_opts_invest_in:
 investment_opts_alpha_before:
   de_DE: 'Dies ist ein neuer Service. Ihr'
   en_US: 'This is a new service. Your'
-  zh_CN: 
+  zh_CN: 这是一项新增服务 — 您的
   ja_JP: 
   es_ES: 
   pt_BR: 
@@ -3870,7 +3870,7 @@ investment_opts_alpha_before:
 investment_opts_alpha_feedback:
   de_DE: Feedback
   en_US: feedback
-  zh_CN: 
+  zh_CN: 反馈
   ja_JP: 
   es_ES: comentarios
   pt_BR: comentários
@@ -3879,7 +3879,7 @@ investment_opts_alpha_feedback:
 investment_opts_alpha_after:
   de_DE: wird uns helfen, ihn zu verbessern
   en_US: will help us to improve it
-  zh_CN: 
+  zh_CN: 将有助于我们提升我们的服务 
   ja_JP: 
   es_ES: 
   pt_BR: 
@@ -3898,7 +3898,7 @@ sectors:
   aerospace:
     de_DE: 'Luftfahrtindustrie'
     en_US: 'Aerospace'
-    zh_CN: ''
+    zh_CN: '航空航天'
     ja_JP: ''
     es_ES: ''
     pt_BR: ''
@@ -3907,7 +3907,7 @@ sectors:
   advanced_manufacturing:
     de_DE: 'Fortgeschrittene Fertigungstechnologien'
     en_US: 'Advanced Manufacturing'
-    zh_CN: ''
+    zh_CN: '先进制造'
     ja_JP: ''
     es_ES: ''
     pt_BR: ''
@@ -3916,7 +3916,7 @@ sectors:
   automotive:
     de_DE: 'Automobilindustrie'
     en_US: 'Automotive'
-    zh_CN: ''
+    zh_CN: '汽车产业'
     ja_JP: ''
     es_ES: ''
     pt_BR: ''
@@ -3925,7 +3925,7 @@ sectors:
   creative:
     de_DE: 'Medien und Kultur'
     en_US: 'Creative'
-    zh_CN: ''
+    zh_CN: '创意的'
     ja_JP: ''
     es_ES: ''
     pt_BR: ''
@@ -3934,7 +3934,7 @@ sectors:
   energy:
     de_DE: 'Energie'
     en_US: 'Energy generation'
-    zh_CN: ''
+    zh_CN: '能源发电'
     ja_JP: ''
     es_ES: ''
     pt_BR: ''
@@ -3943,7 +3943,7 @@ sectors:
   financial_services:
     de_DE: 'Finanzen'
     en_US: 'Financial services'
-    zh_CN: ''
+    zh_CN: '金融服务'
     ja_JP: ''
     es_ES: ''
     pt_BR: ''
@@ -3952,7 +3952,7 @@ sectors:
   food_and_drink_manufacturing:
     de_DE: 'Lebensmittel- und Getränkeherstellung'
     en_US: 'Food and drink manufacturing'
-    zh_CN: ''
+    zh_CN: '食品和饮料制造'
     ja_JP: ''
     es_ES: ''
     pt_BR: ''
@@ -3970,7 +3970,7 @@ sectors:
   retail:
     de_DE: 'Einzelhandel'
     en_US: 'Retail'
-    zh_CN: ''
+    zh_CN: '零售'
     ja_JP: ''
     es_ES: ''
     pt_BR: ''
@@ -3979,7 +3979,7 @@ sectors:
   technology:
     de_DE: 'Technologie'
     en_US: 'Technology'
-    zh_CN: ''
+    zh_CN: '技术'
     ja_JP: ''
     es_ES: ''
     pt_BR: ''
