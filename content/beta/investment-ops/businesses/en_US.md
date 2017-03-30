@@ -4,5 +4,5 @@ display: "nonjs"
 
 ---
 
-Locations with businesses that have significant impact in your selected industry.
+See the concentration of businesses that have significant impact in each industry in each area of the UK.
 
