@@ -3725,7 +3725,7 @@ investment_opts_using_the_service:
   ar_SA: ''
 investment_opts_businesses:
   de_DE: 'Beliebte Regionen'
-  en_US: 'Popular areas'
+  en_US: 'Location of significant businesses in the industry'
   zh_CN: '热门地区'
   ja_JP: ''
   es_ES: ''
@@ -3734,7 +3734,7 @@ investment_opts_businesses:
   ar_SA: ''
 investment_opts_businesses_detail:
   de_DE: 'Unternehmen mit bedeutendem Einfluss in der ausgewählten Branche'
-  en_US: 'Businesses that have significant influence in the selected industry'
+  en_US: ''
   zh_CN: '在所选行业有重大影响力的企业'
   ja_JP: ''
   es_ES: ''
@@ -3752,7 +3752,7 @@ investment_opts_finance_and_incentives:
   ar_SA: ''
 investment_opts_centres_of_excellence:
   de_DE: 'Forschung und Entwicklung'
-  en_US: 'Research and development'
+  en_US: 'Location of research and development hubs'
   zh_CN: '研究与开发'
   ja_JP: ''
   es_ES: ''
@@ -3761,7 +3761,7 @@ investment_opts_centres_of_excellence:
   ar_SA: ''
 investment_opts_centres_of_excellence_detail:
   de_DE: 'Branchenspezifische Forschungs- und Entwicklungszentren'
-  en_US: 'Industry-specific research and development centres'
+  en_US: ''
   zh_CN: '行业特定的研究和开发中心'
   ja_JP: ''
   es_ES: ''
@@ -3770,7 +3770,7 @@ investment_opts_centres_of_excellence_detail:
   ar_SA: ''
 investment_opts_enterprise_zones:
   de_DE: 'Lokale Investitionsanreize'
-  en_US: 'Local financial incentives'
+  en_US: 'Locations where investment is financially incentivised'
   zh_CN: '当地激励措施'
   ja_JP: ''
   es_ES: ''
@@ -3779,7 +3779,7 @@ investment_opts_enterprise_zones:
   ar_SA: ''
 investment_opts_enterprise_zones_detail:
   de_DE: 'Geförderte Regionen mit reduzierten Gewerbesteuern, niedrigeren Mieten und kompletten Entwicklungspaketen'
-  en_US: 'Assisted areas with reduced business rates, reduced rent and special development packages'
+  en_US: 'Find out about [incentives for investment](/investment-opportunities/finance-and-incentives/)'
   zh_CN: '提供优惠的营业税和房租以及交钥匙发展项目组合的扶持区域'
   ja_JP: ''
   es_ES: ''
@@ -3887,7 +3887,7 @@ investment_opts_alpha_after:
   ar_SA: 
 investment_opts_priorities:
   de_DE: Was sind Ihre Investitionsprioritäten?
-  en_US: What are your priorities for your investment?
+  en_US: What is important for your investment?
   zh_CN: 您投资时优先考虑哪些事项？
   ja_JP: ''
   es_ES: ''
