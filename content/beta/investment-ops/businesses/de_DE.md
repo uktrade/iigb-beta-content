@@ -3,4 +3,4 @@ title: "Beliebte Region"
 display: "nonjs"
 ---
 
-Unternehmen mit bedeutendem Einfluss in der ausgewählten Branche.
+Sehen sie die regionale Dichte von Unternehmen mit bedeutendem Einfluss in der ausgewählten Branche.

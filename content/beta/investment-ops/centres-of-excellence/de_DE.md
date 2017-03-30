@@ -3,5 +3,5 @@ title: "Forschung und Entwicklung"
 display: "nonjs"
 ---
 
-Branchenspezifische Forschungs- und Entwicklungszentren.
+Sehen sie die regionale Dichte von Branchenspezifischen Forschungs- und Entwicklungszentren.
 
