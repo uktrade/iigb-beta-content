@@ -3,5 +3,5 @@ title: "Research and development hubs"
 display: "nonjs"
 ---
 
-Research and development centres that are relevant to your chosen industry.
+See the concentration of research and development centres in each industry in each area of the UK.
 
