@@ -3789,7 +3789,7 @@ investment_opts_enterprise_zones_detail:
 investment_setup_guide_for_investors:
   de_DE: 
   en_US: 'UK set-up guide for investors'
-  zh_CN: 
+  zh_CN: '投资者的英国市场启动指南'
   ja_JP: ''
   es_ES: ''
   pt_BR: ''
@@ -3798,7 +3798,7 @@ investment_setup_guide_for_investors:
 investment_incentives_and_finance:
   de_DE: 
   en_US: 'Incentives and finance for investments in the UK'
-  zh_CN: 
+  zh_CN: '英国的投资激励措施和资金'
   ja_JP: ''
   es_ES: ''
   pt_BR: ''
@@ -3816,7 +3816,7 @@ investment_opts_notable_clusters:
 investment_opts_regeneration_opportunities:
   de_DE: ''
   en_US: 'Incentives'
-  zh_CN: ''
+  zh_CN: '激励措施'
   ja_JP: ''
   es_ES: ''
   pt_BR: ''
@@ -3825,7 +3825,7 @@ investment_opts_regeneration_opportunities:
 investment_opts_investment_advice:
   de_DE: ''
   en_US: 'UK investment advice'
-  zh_CN: ''
+  zh_CN: '来英投资建议'
   ja_JP: ''
   es_ES: ''
   pt_BR: ''
@@ -3934,7 +3934,7 @@ sectors:
   energy:
     de_DE: 'Energie'
     en_US: 'Energy generation'
-    zh_CN: ''
+    zh_CN: '能源发电'
     ja_JP: ''
     es_ES: ''
     pt_BR: ''
