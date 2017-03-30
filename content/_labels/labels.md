@@ -3651,10 +3651,10 @@ concentration_low:
   pt_BR: 
   pt_INT:
   ar_SA: 
-investment_opportunities:
+investment_:
   de_DE: 
   en_US: Investment opportunities
-  zh_CN: 
+  zh_CN: 来英投资者指南
   ja_JP: 
   es_ES: 
   pt_BR: 
@@ -3726,7 +3726,7 @@ investment_opts_using_the_service:
 investment_opts_businesses:
   de_DE: 'Unternehmen'
   en_US: 'Popular area'
-  zh_CN: '企业'
+  zh_CN: '热门地区'
   ja_JP: ''
   es_ES: ''
   pt_BR: ''
@@ -3744,7 +3744,7 @@ investment_opts_businesses_detail:
 investment_opts_finance_and_incentives:
   de_DE: 'Finanzierung und Anreize'
   en_US: 'Finance and incentives'
-  zh_CN: '财政与奖励'
+  zh_CN: '当地激励措施'
   ja_JP: ''
   es_ES: ''
   pt_BR: ''
@@ -3753,7 +3753,7 @@ investment_opts_finance_and_incentives:
 investment_opts_centres_of_excellence:
   de_DE: 'Kompetenzzentren'
   en_US: 'Research and development'
-  zh_CN: '卓越中心'
+  zh_CN: '研究与开发'
   ja_JP: ''
   es_ES: ''
   pt_BR: ''
@@ -3770,8 +3770,8 @@ investment_opts_centres_of_excellence_detail:
   ar_SA: ''
 investment_opts_enterprise_zones:
   de_DE: 'Enterprise Zones DE'
-  en_US: 'Local incentives'
-  zh_CN: '企业区'
+  en_US: 'Local financial incentives'
+  zh_CN: '当地激励措施'
   ja_JP: ''
   es_ES: ''
   pt_BR: ''
@@ -3807,7 +3807,7 @@ investment_incentives_and_finance:
 investment_opts_notable_clusters:
   de_DE: '' 
   en_US: 'Popular area'
-  zh_CN: ''  
+  zh_CN: '热门地区'  
   ja_JP: ''
   es_ES: ''
   pt_BR: ''
@@ -3834,7 +3834,7 @@ investment_opts_investment_advice:
 investment_opts_ready_to_invest:
   de_DE: ''
   en_US: 'Ready to invest?'
-  zh_CN: ''
+  zh_CN: '准备好投资了吗？'
   ja_JP: ''
   es_ES: ''
   pt_BR: ''
@@ -3843,7 +3843,7 @@ investment_opts_ready_to_invest:
 investment_opts_thinking:
   de_DE: ''
   en_US: 'If you are thinking about investing in the UK, speak to our investment services team about insights, connections and incentives.'
-  zh_CN: ''
+  zh_CN: '如果您考虑在英国投资，请与我们的投资服务团队交谈，了解真知灼见、人脉和激励措施。'
   ja_JP: ''
   es_ES: ''
   pt_BR: ''
@@ -3852,7 +3852,7 @@ investment_opts_thinking:
 investment_opts_invest_in:
   de_DE: ''
   en_US: 'Investing in UK'
-  zh_CN: ''
+  zh_CN: '在英国投资'
   ja_JP: ''
   es_ES: ''
   pt_BR: ''
@@ -3861,7 +3861,7 @@ investment_opts_invest_in:
 investment_opts_alpha_before:
   de_DE: 'Dies ist ein neuer Service. Ihr'
   en_US: 'This is a new service. Your'
-  zh_CN: 
+  zh_CN: 这是一项新增服务 — 
   ja_JP: 
   es_ES: 
   pt_BR: 
@@ -3870,7 +3870,7 @@ investment_opts_alpha_before:
 investment_opts_alpha_feedback:
   de_DE: Feedback
   en_US: feedback
-  zh_CN: 
+  zh_CN: 您的反馈将有助于我们提升
   ja_JP: 
   es_ES: comentarios
   pt_BR: comentários
@@ -3879,7 +3879,7 @@ investment_opts_alpha_feedback:
 investment_opts_alpha_after:
   de_DE: wird uns helfen, ihn zu verbessern
   en_US: will help us to improve it
-  zh_CN: 
+  zh_CN: 我们的服务
   ja_JP: 
   es_ES: 
   pt_BR: 
