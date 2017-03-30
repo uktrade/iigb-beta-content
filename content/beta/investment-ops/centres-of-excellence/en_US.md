@@ -1,7 +1,7 @@
 ---
-title: "Centres of excellence"
+title: "Research and development hubs"
 display: "nonjs"
 ---
 
-Sector specific research and development centres.
+Research and development centres that are relevant to your chosen industry.
 
