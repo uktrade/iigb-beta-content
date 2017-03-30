@@ -3627,7 +3627,7 @@ location_guide:
 concentration_high:
   de_DE: 
   en_US: High
-  zh_CN: 
+  zh_CN: 高
   ja_JP: 
   es_ES: 
   pt_BR: 
@@ -3636,7 +3636,7 @@ concentration_high:
 concentration_medium:
   de_DE: 
   en_US: Medium
-  zh_CN: 
+  zh_CN: 中
   ja_JP: 
   es_ES: 
   pt_BR: 
@@ -3645,7 +3645,7 @@ concentration_medium:
 concentration_low:
   de_DE: 
   en_US: Low
-  zh_CN: 
+  zh_CN: 低
   ja_JP: 
   es_ES: 
   pt_BR: 
