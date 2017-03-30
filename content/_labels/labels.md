@@ -3724,8 +3724,8 @@ investment_opts_using_the_service:
   pt_INT: ''
   ar_SA: ''
 investment_opts_businesses:
-  de_DE: 'Beliebte Region'
-  en_US: 'Popular area'
+  de_DE: 'Beliebte Regionen'
+  en_US: 'Popular areas'
   zh_CN: '热门地区'
   ja_JP: ''
   es_ES: ''
@@ -3805,8 +3805,8 @@ investment_incentives_and_finance:
   pt_INT: ''
   ar_SA: ''
 investment_opts_notable_clusters:
-  de_DE: 'Beliebte Region' 
-  en_US: 'Popular area'
+  de_DE: 'Beliebte Regionen' 
+  en_US: 'Popular areas'
   zh_CN: '热门地区'  
   ja_JP: ''
   es_ES: ''

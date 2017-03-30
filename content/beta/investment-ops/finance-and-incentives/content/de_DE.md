@@ -27,4 +27,4 @@ Für Unternehmen, die sich in einer Enterprise Zone ansiedeln, kommen zum Beispi
 
 Fördermittel und Investitionsanreize unterliegen häufigen Änderungen. Sie sollten sich daher genau über aktuelle Regelungen informieren, bevor Sie Ihre Investitionsentscheidung treffen.
 
-[Unser Investment Services Team](https://invest.great.gov.uk/int/de/contact) steht Ihnen gerne zur Verfügung, um geeignete Finanzierungsmöglichkeiten für Ihre Investitionen in Großbritannien zu besprechen.
+[Unsere Serviceteams für Investoren](https://invest.great.gov.uk/int/de/contact) stehen Ihnen gerne zur Verfügung, um geeignete Finanzierungsmöglichkeiten für Ihre Investitionen in Großbritannien zu besprechen.
