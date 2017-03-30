@@ -1,6 +1,5 @@
 ---
-title: "Standortführer für Investoren in Großbritannien"
+title: "Leitfaden für ausländische Investoren in Großbritannien"
 ---
 
-Informationen zu Finanzierung, Steuern, Anreizen und geeigneten Standorten für Ihre Investition in Großbritannien
-
+Finanzmittel, Steuern, Anreize und Standorte für Ihre Investition in Großbritannien

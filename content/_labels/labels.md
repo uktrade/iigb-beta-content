@@ -3625,7 +3625,7 @@ location_guide:
   pt_INT: Guia de localização
   ar_SA: دليل الأماكن
 concentration_high:
-  de_DE: 
+  de_DE: Hoch
   en_US: High
   zh_CN: 
   ja_JP: 
@@ -3634,7 +3634,7 @@ concentration_high:
   pt_INT:
   ar_SA: 
 concentration_medium:
-  de_DE: 
+  de_DE: Mittel
   en_US: Medium
   zh_CN: 
   ja_JP: 
@@ -3643,7 +3643,7 @@ concentration_medium:
   pt_INT:
   ar_SA: 
 concentration_low:
-  de_DE: 
+  de_DE: Gering
   en_US: Low
   zh_CN: 
   ja_JP: 
@@ -3724,7 +3724,7 @@ investment_opts_using_the_service:
   pt_INT: ''
   ar_SA: ''
 investment_opts_businesses:
-  de_DE: 'Unternehmen'
+  de_DE: 'Beliebte Region'
   en_US: 'Popular area'
   zh_CN: '企业'
   ja_JP: ''
@@ -3751,7 +3751,7 @@ investment_opts_finance_and_incentives:
   pt_INT: ''
   ar_SA: ''
 investment_opts_centres_of_excellence:
-  de_DE: 'Kompetenzzentren'
+  de_DE: 'Forschung und Entwicklung'
   en_US: 'Research and development'
   zh_CN: '卓越中心'
   ja_JP: ''
@@ -3769,7 +3769,7 @@ investment_opts_centres_of_excellence_detail:
   pt_INT: ''
   ar_SA: ''
 investment_opts_enterprise_zones:
-  de_DE: 'Enterprise Zones DE'
+  de_DE: 'Enterprise Zonen'
   en_US: 'Local incentives'
   zh_CN: '企业区'
   ja_JP: ''
@@ -3787,7 +3787,7 @@ investment_opts_enterprise_zones_detail:
   pt_INT: ''
   ar_SA: ''
 investment_setup_guide_for_investors:
-  de_DE: 
+  de_DE: 'Leitfaden für ausländische Investoren in Großbritannien'
   en_US: 'UK set-up guide for investors'
   zh_CN: 
   ja_JP: ''
@@ -3796,7 +3796,7 @@ investment_setup_guide_for_investors:
   pt_INT: ''
   ar_SA: ''
 investment_incentives_and_finance:
-  de_DE: 
+  de_DE: 'Investitionsanreize und Finanzmittel'
   en_US: 'Incentives and finance for investments in the UK'
   zh_CN: 
   ja_JP: ''
@@ -3805,7 +3805,7 @@ investment_incentives_and_finance:
   pt_INT: ''
   ar_SA: ''
 investment_opts_notable_clusters:
-  de_DE: '' 
+  de_DE: 'Beliebte Region' 
   en_US: 'Popular area'
   zh_CN: ''  
   ja_JP: ''
@@ -3814,7 +3814,7 @@ investment_opts_notable_clusters:
   pt_INT: ''
   ar_SA: ''
 investment_opts_regeneration_opportunities:
-  de_DE: ''
+  de_DE: 'Anreize'
   en_US: 'Incentives'
   zh_CN: ''
   ja_JP: ''
@@ -3823,7 +3823,7 @@ investment_opts_regeneration_opportunities:
   pt_INT: ''
   ar_SA: ''
 investment_opts_investment_advice:
-  de_DE: ''
+  de_DE: 'Britische Investitionshilfe'
   en_US: 'UK investment advice'
   zh_CN: ''
   ja_JP: ''
@@ -3832,7 +3832,7 @@ investment_opts_investment_advice:
   pt_INT: ''
   ar_SA: ''
 investment_opts_ready_to_invest:
-  de_DE: ''
+  de_DE: 'Startbereit für Ihre Investition?'
   en_US: 'Ready to invest?'
   zh_CN: ''
   ja_JP: ''
@@ -3841,7 +3841,7 @@ investment_opts_ready_to_invest:
   pt_INT: ''
   ar_SA: ''
 investment_opts_thinking:
-  de_DE: ''
+  de_DE: 'Wenn Sie darüber nachdenken, in Großbritannien zu investieren, empfehlen wir Ihnen Kontakt mit unserem Investment Services Team aufzunehmen, das Ihnen mit Informationen, Verbindungen und Anreizen weiterhelfen kann.'
   en_US: 'If you are thinking about investing in the UK, speak to our investment services team about insights, connections and incentives.'
   zh_CN: ''
   ja_JP: ''
@@ -3850,7 +3850,7 @@ investment_opts_thinking:
   pt_INT: ''
   ar_SA: ''
 investment_opts_invest_in:
-  de_DE: ''
+  de_DE: 'In Großbritannien investieren'
   en_US: 'Investing in UK'
   zh_CN: ''
   ja_JP: ''
@@ -3886,7 +3886,7 @@ investment_opts_alpha_after:
   pt_INT: 
   ar_SA: 
 investment_opts_priorities:
-  de_DE: 
+  de_DE: Was sind Ihre Investitionsprioritäten?
   en_US: What are your priorities for your investment?
   zh_CN: 您投资时优先考虑哪些事项？
   ja_JP: ''

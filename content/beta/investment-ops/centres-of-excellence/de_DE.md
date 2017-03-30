@@ -1,5 +1,5 @@
 ---
-title: "Kompetenzzentren"
+title: "Forschung und Entwicklung"
 display: "nonjs"
 ---
 
