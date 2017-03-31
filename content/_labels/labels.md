@@ -3851,7 +3851,7 @@ investment_opts_thinking:
   ar_SA: ''
 investment_opts_invest_in:
   de_DE: 'Mehr über diese Branche erfahren'
-  en_US: 'Investing in UK'
+  en_US: 'Find out more about this industry'
   zh_CN: '在英国投资'
   ja_JP: ''
   es_ES: ''
