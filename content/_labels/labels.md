@@ -3779,7 +3779,7 @@ investment_opts_enterprise_zones:
   ar_SA: ''
 investment_opts_enterprise_zones_detail:
   de_DE: 'Geförderte Regionen mit reduzierten Gewerbesteuern, niedrigeren Mieten und kompletten Entwicklungspaketen'
-  en_US: Find out about [incentives for investment](/investment-opportunities/finance-and-incentives/)
+  en_US: Find out about incentives for investment
   zh_CN: '提供优惠的营业税和房租以及交钥匙发展项目组合的扶持区域'
   ja_JP: ''
   es_ES: ''
