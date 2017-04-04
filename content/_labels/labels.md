@@ -3552,7 +3552,7 @@ feedback_feedback:
  pt_BR: Comentários
  pt_INT: Comentários
  ar_SA: 
- feedback_page_title:
+feedback_page_title:
  de_DE: Seitentitel
  en_US: Page title
  zh_CN: 页面标题
