@@ -3552,6 +3552,15 @@ feedback_feedback:
  pt_BR: Comentários
  pt_INT: Comentários
  ar_SA: 
+ feedback_page_title:
+ de_DE: Seitentitel
+ en_US: Page title
+ zh_CN: 页面标题
+ ja_JP: ページタイトル
+ es_ES: Título de la página
+ pt_BR: Título da página
+ pt_INT: Título da página
+ ar_SA:
 report_problem:
  de_DE: Ein Problem melden
  en_US: Report an issue
