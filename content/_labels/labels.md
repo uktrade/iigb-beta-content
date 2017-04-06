@@ -3833,7 +3833,7 @@ investment_opts_notable_clusters:
   ar_SA: ''
 investment_opts_regeneration_opportunities:
   de_DE: 'Anreize'
-  en_US: 'Local funding and incentives'
+  en_US: 'Regeneration opportunities'
   zh_CN: '激励措施'
   ja_JP: ''
   es_ES: ''
