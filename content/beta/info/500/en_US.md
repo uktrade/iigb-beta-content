@@ -5,4 +5,4 @@ linkLabel: Go to the Invest in Great Britain home page
 
 Sorry, there has been a technical problem.
 
-Please try again in a few moments.
+Please try to reload this page in a few seconds.
