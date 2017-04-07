@@ -1,8 +1,8 @@
 ---
-title: "There's been a technical problems"
+title: "There's been a technical problem"
 linkLabel: Go to the Invest in Great Britain home page
 ---
 
-Sorry, we are experiencing technical problems.
+Sorry, there has been a technical problem.
 
 Please try again in a few moments.
