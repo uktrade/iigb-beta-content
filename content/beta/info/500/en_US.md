@@ -1,6 +1,6 @@
 ---
-title: "Internal server error"
-linkLabel: Please click here to go to the home page
+title: "There's been a technical problems"
+linkLabel: Go to the Invest in Great Britain home page
 ---
 
 Sorry, we are experiencing technical problems.
