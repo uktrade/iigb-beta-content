@@ -1,5 +1,5 @@
 ---
-title: "There's been a technical problem"
+title: "Server error"
 linkLabel: Go to the Invest in Great Britain home page
 ---
 
