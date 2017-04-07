@@ -1,5 +1,5 @@
 ---
-title: "Server error"
+title: ""
 linkLabel: Go to the Invest in Great Britain home page
 ---
 
