@@ -218,7 +218,7 @@ please_select:
 form_jumbo_title:
  label:
    de_DE: 
-   en_US: To find out mor about taking your investment forward, contact our Investment Services team for:
+   en_US: To find out more about taking your investment forward, contact our Investment Services team for:
    zh_CN: 
    ja_JP: 
    es_ES: 
@@ -226,6 +226,9 @@ form_jumbo_title:
    pt_INT: 
    ar_SA:
  options:
+   '0': Insights into the UK market
+   '1': Help building connections
+   '2': Information about specific investment opportunities and practical support
    de_DE:
    - Insights into the UK market
    - Help building connections
