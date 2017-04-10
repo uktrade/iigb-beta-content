@@ -217,47 +217,47 @@ please_select:
  ar_SA: لا
 form_jumbo_title:
  label:
-   de_DE: 
-   en_US: To find out more about taking your investment forward, contact our Investment Services team for:
-   zh_CN: 
-   ja_JP: 
-   es_ES: 
-   pt_BR: 
-   pt_INT: 
-   ar_SA:
+  de_DE: 
+  en_US: 'To find out more about taking your investment forward, contact our Investment Services team for:'
+  zh_CN: 
+  ja_JP: 
+  es_ES: 
+  pt_BR: 
+  pt_INT: 
+  ar_SA:
  options:
-   '0': Insights into the UK market
-   '1': Help building connections
-   '2': Information about specific investment opportunities and practical support
-   de_DE:
-   - Insights into the UK market
-   - Help building connections
-   - Information about specific investment opportunities and practical support
-   en_US:
-   - Insights into the UK market
-   - Help building connections
-   - Information about specific investment opportunities and practical support
-   zh_CN:
-   - Insights into the UK market
-   - Help building connections
-   - Information about specific investment opportunities and practical support
-   ja_JP:
-   - Insights into the UK market
-   - Help building connections
-   - Information about specific investment opportunities and practical support
-   es_ES:
-   - Insights into the UK market
-   - Help building connections
-   - Information about specific investment opportunities and practical support
-   pt_BR:
-   pt_INT:
-   - Insights into the UK market
-   - Help building connections
-   - Information about specific investment opportunities and practical support
-   ar_SA: 
-   - Insights into the UK market
-   - Help building connections
-   - Information about specific investment opportunities and practical support
+  '0': Insights into the UK market
+  '1': Help building connections
+  '2': Information about specific investment opportunities and practical support
+  de_DE:
+  - Insights into the UK market
+  - Help building connections
+  - Information about specific investment opportunities and practical support
+  en_US:
+  - Insights into the UK market
+  - Help building connections
+  - Information about specific investment opportunities and practical support
+  zh_CN:
+  - Insights into the UK market
+  - Help building connections
+  - Information about specific investment opportunities and practical support
+  ja_JP:
+  - Insights into the UK market
+  - Help building connections
+  - Information about specific investment opportunities and practical support
+  es_ES:
+  - Insights into the UK market
+  - Help building connections
+  - Information about specific investment opportunities and practical support
+  pt_BR:
+  pt_INT:
+  - Insights into the UK market
+  - Help building connections
+  - Information about specific investment opportunities and practical support
+  ar_SA: 
+  - Insights into the UK market
+  - Help building connections
+  - Information about specific investment opportunities and practical support
 form_jumbo_content:
  de_DE: 
  en_US: The team may put investors in touch with a UK government office in your region to support you with advice relevant to your country.
