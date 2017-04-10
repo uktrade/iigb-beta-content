@@ -1003,13 +1003,13 @@ form_enter_registered_company:
  ar_SA: أدخل اسم شركتك المُسجَّل
 form_website:
  de_DE: Internetadresse Ihres Unternehmens
- en_US: Company website address (optional)
+ en_US: Company website addres
  zh_CN: 公司网站地址
- ja_JP: 貴社のウェブサイト アドレス (任意)
- es_ES: Dirección del sitio web de la empresa (opcional)
- pt_BR: Endereço do website da empresa (opcional)
- pt_INT: Endereço do website da empresa (opcional)
- ar_SA: الموقع الإلكتروني للشركة (اختياري)
+ ja_JP: 貴社のウェブサイト アドレス
+ es_ES: Dirección del sitio web de la empresa
+ pt_BR: Endereço do website da empresa
+ pt_INT: Endereço do website da empresa
+ ar_SA: الموقع الإلكتروني للشركة
 form_enter_website:
  de_DE: Geben Sie die Internetadresse Ihres Unternehmens ein
  en_US: Enter your company website address
@@ -1020,14 +1020,14 @@ form_enter_website:
  pt_INT: Introduza o endereço do website da sua empresa
  ar_SA: 
 form_enter_primary_industry:
- de_DE: Wählen Sie die Branche aus, in der Sie hauptsächlich tätig sind, aus oder wählen Sie "Sonstiges"
- en_US: Select the industry you mainly operate in or select Other
- zh_CN: 请选择您的主要经营行业
- ja_JP: 主要業種をご選択いただくか、または「その他」を選択してください
- es_ES: Seleccione el sector en el que opera principalmente o seleccione Otros
- pt_BR: Selecione a indústria em que opera maioritariamente ou selecione Outra
- pt_INT: Selecione a indústria em que opera maioritariamente ou selecione Outra
- ar_SA: حدد القطاع الذي تعمل فيه بشكل أساسي أو اختر "غير ذلك"
+ de_DE: 
+ en_US: Provide details about your interest in investing in the UK
+ zh_CN: 
+ ja_JP: 
+ es_ES: 
+ pt_BR: 
+ pt_INT: 
+ ar_SA: 
 form_primary_industry:
  label:
    de_DE: Hauptbranche
@@ -1300,14 +1300,14 @@ form_enter_mailing_list:
  pt_INT: Select whether you'd like to receive relevant news and information:BR
  ar_SA: 
 form_mailing_list_confirmation:
- de_DE: Ja, Ich möchte solche Informationen bekommen.
- en_US: Yes, I would like to get this information.
- zh_CN: 我希望收到相关的新闻和信息
- ja_JP: この情報の受信を希望
- es_ES: Sí, me gustaría recibir esta información
- pt_BR: Sim, gostaria de receber essas informações
- pt_INT: Sim, gostaria de receber essas informações
- ar_SA: نعم، أود الحصول على هذه المعلومات
+ de_DE: 
+ en_US: I do not have a website
+ zh_CN: 
+ ja_JP: 
+ es_ES: 
+ pt_BR: 
+ pt_INT: 
+ ar_SA: 
 form_enter_headquarters:
  de_DE: Geben Sie das Land Ihres Unternehmenshauptsitzes ein
  en_US: Enter the country where your company has its headquarters
