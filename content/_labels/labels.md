@@ -135,33 +135,22 @@ industry_overviews:
  pt_INT: Industry overviews:BR
  ar_SA: 
 industry_overviews_intro:
- de_DE: Find high level information about your industry sector including success
-   stories from other companies we have worked with:DE
+ de_DE: Find high level information about your industry sector including success stories from other companies we have worked with:DE
  en_US: High level information about UK industry sectors and associated specialisms
- zh_CN: Find high level information about your industry sector including success
-   stories from other companies we have worked with:CN
- ja_JP: Find high level information about your industry sector including success
-   stories from other companies we have worked with:JP
- es_ES: Find high level information about your industry sector including success
-   stories from other companies we have worked with:ES
- pt_BR: Find high level information about your industry sector including success
- pt_INT: Find high level information about your industry sector including success
-   stories from other companies we have worked with:BR
+ zh_CN: Find high level information about your industry sector including success stories from other companies we have worked with:CN
+ ja_JP: Find high level information about your industry sector including success stories from other companies we have worked with:JP
+ es_ES: Find high level information about your industry sector including success stories from other companies we have worked with:ES
+ pt_BR: Find high level information about your industry sector including success stories from other companies we have worked with:BR
+ pt_INT: Find high level information about your industry sector including success stories from other companies we have worked with:BR
  ar_SA: 
 industries_intro:
- de_DE: Find specific information about the industry your company operates in, including
-   market conditions and incentives:DE
- en_US: Information about the industry specialism your company operates in, including
-   market conditions and incentives
- zh_CN: Find specific information about the industry your company operates in, including
-   market conditions and incentives:CN
- ja_JP: Find specific information about the industry your company operates in, including
-   market conditions and incentives:JP
- es_ES: Find specific information about the industry your company operates in, including
-   market conditions and incentives:ES
- pt_BR: Find specific information about the industry your company operates in, including
- pt_INT: Find specific information about the industry your company operates in, including
-   market conditions and incentives:BR
+ de_DE: Find specific information about the industry your company operates in, including market conditions and incentives:DE
+ en_US: Information about the industry specialism your company operates in, including market conditions and incentives
+ zh_CN: Find specific information about the industry your company operates in, including market conditions and incentives:CN
+ ja_JP: Find specific information about the industry your company operates in, including market conditions and incentives:JP
+ es_ES: Find specific information about the industry your company operates in, including market conditions and incentives:ES
+ pt_BR: Find specific information about the industry your company operates in, including market conditions and incentives:BR
+ pt_INT: Find specific information about the industry your company operates in, including market conditions and incentives:BR
  ar_SA: 
 great_british_industries:
  de_DE: Bedeutende britische Industriezweige
@@ -226,6 +215,55 @@ please_select:
  pt_BR: Não
  pt_INT: Não
  ar_SA: لا
+form_jumbo_title:
+ label:
+   de_DE: 
+   en_US: To find out mor about taking your investment forward, contact our Investment Services team for:
+   zh_CN: 
+   ja_JP: 
+   es_ES: 
+   pt_BR: 
+   pt_INT: 
+   ar_SA:
+ options:
+   de_DE:
+   - Insights into the UK market
+   - Help building connections
+   - Information about specific investment opportunities and practical support
+   en_US:
+   - Insights into the UK market
+   - Help building connections
+   - Information about specific investment opportunities and practical support
+   zh_CN:
+   - Insights into the UK market
+   - Help building connections
+   - Information about specific investment opportunities and practical support
+   ja_JP:
+   - Insights into the UK market
+   - Help building connections
+   - Information about specific investment opportunities and practical support
+   es_ES:
+   - Insights into the UK market
+   - Help building connections
+   - Information about specific investment opportunities and practical support
+   pt_BR:
+   pt_INT:
+   - Insights into the UK market
+   - Help building connections
+   - Information about specific investment opportunities and practical support
+   ar_SA: 
+   - Insights into the UK market
+   - Help building connections
+   - Information about specific investment opportunities and practical support
+form_jumbo_content:
+ de_DE: 
+ en_US: The team may put investors in touch with a UK government office in your region to support you with advice relevant to your country.
+ zh_CN: 
+ ja_JP: 
+ es_ES: 
+ pt_BR: 
+ pt_INT: 
+ ar_SA:   
 form_next:
  de_DE: Weiter
  en_US: Next
@@ -254,24 +292,23 @@ form_submit:
  pt_INT: Enviar
  ar_SA: إرسال
 form_contact_details:
- de_DE: Ihre Kontaktdaten
- en_US: Your contact details
- zh_CN: 您的联系方式
- ja_JP: ご連絡先
- es_ES: Sus datos de contacto
- pt_BR: Os seus dados de contacto
- pt_INT: Os seus dados de contacto
- ar_SA: بيانات الاتصال
+ de_DE: 
+ en_US: Contact information
+ zh_CN: 
+ ja_JP: 
+ es_ES: 
+ pt_BR: 
+ pt_INT: 
+ ar_SA: 
 form_contact_details_reason:
- de_DE: Wir benötigen diese um Sie mit Ihrem Ansprechpartner vor Ort in Verbindung
-   zu setzen
- en_US: We will use these to put you in touch with your local office
- zh_CN: 我们将会把您的联系方式交给当地的地办事处。
- ja_JP: これらの情報をもとに、貴社の最寄りの事務所をご紹介します
- es_ES: Los utilizaremos para ponerle en contacto con su oficina local
- pt_BR: Iremos utilizá-los para o/a colocar em contacto com o escritório local
- pt_INT: Iremos utilizá-los para o/a colocar em contacto com o escritório local
- ar_SA: سوف نستخدم هذه البيانات لإبقائكم على اتصال مع مكتبكم المحلي
+ de_DE: 
+ en_US: 
+ zh_CN: 
+ ja_JP: 
+ es_ES: 
+ pt_BR: 
+ pt_INT: 
+ ar_SA: 
 form_full_name:
  de_DE: Vollständiger Name
  en_US: Full name
@@ -290,6 +327,24 @@ form_enter_full_name:
  pt_BR: Introduza o seu nome completo
  pt_INT: Introduza o seu nome completo
  ar_SA: أدخل الاسم بالكامل
+form_title:
+ de_DE: 
+ en_US: Job title
+ zh_CN: 
+ ja_JP: 
+ es_ES: Puesto que ocupa
+ pt_BR: 
+ pt_INT: 
+ ar_SA: 
+form_enter_title:
+ de_DE: 
+ en_US: Enter your job title
+ zh_CN: 
+ ja_JP: 
+ es_ES: Introduzca el nombre de su puesto 
+ pt_BR: 
+ pt_INT: 
+ ar_SA: 
 form_email:
  de_DE: Arbeits-E-Mail
  en_US: Work email
@@ -371,6 +426,15 @@ form_investment:
  pt_BR: O seu investimento
  pt_INT: O seu investimento
  ar_SA: الاستثمار
+form_investment_reason:
+ de_DE: 
+ en_US: Tell us about what you want to invest in and how large that investment might be. Please also tell us what help you would like from the UK government
+ zh_CN: 
+ ja_JP: 
+ es_ES: 
+ pt_BR: 
+ pt_INT: 
+ ar_SA:  
 form_enter_annual_turnover:
  de_DE: Wählen Sie die Option, die Ihrem Jahresumzsatz am besten entspricht
  en_US: Select the range that reflects your annual turnover
@@ -625,8 +689,7 @@ form_which_part:
    - Belfast and Northern Ireland
    - Nottingham and East Midlands
 form_enter_when:
- de_DE: Geben Sie ein ungefähres Startdatum für die Aufnahme Ihrer Geschäfte in Großbritannien
-   ein
+ de_DE: Geben Sie ein ungefähres Startdatum für die Aufnahme Ihrer Geschäfte in Großbritannien ein
  en_US: Enter the approximate date you want to be operating in the UK
  zh_CN: 请输入您預期在英国的业务运行的日子
  ja_JP: 英国における営業開始をご希望の日付を大まかにご記入ください
@@ -858,23 +921,23 @@ form_when_year:
    - '2025'
    - '2026'
 form_company:
- de_DE: Ihr Unternehmen
- en_US: Your company
- zh_CN: 您的公司
- ja_JP: 貴社について
- es_ES: Su empresa
- pt_BR: A sua empresa
- pt_INT: A sua empresa
- ar_SA: الشركة
+ de_DE: 
+ en_US: Your business
+ zh_CN: 
+ ja_JP: 
+ es_ES: 
+ pt_BR: 
+ pt_INT: 
+ ar_SA:
 form_company_reason:
- de_DE: Helfen Sie uns, Ihren aktuellen Betrieb zu verstehen
- en_US: Help us understand your current operations
- zh_CN: 帮助我们了解您目前的业务
- ja_JP: 貴社の現在の運営について当省が理解するために、ご協力ください
- es_ES: Ayúdenos a conocer sus operaciones actuales
- pt_BR: Ajude-nos a compreender as suas operações atuais
- pt_INT: Ajude-nos a compreender as suas operações atuais
- ar_SA: ساعدنا على فهم عملياتك الحالية
+ de_DE: 
+ en_US: 
+ zh_CN: 
+ ja_JP: 
+ es_ES: 
+ pt_BR: 
+ pt_INT: 
+ ar_SA:
 form_registered_company:
  de_DE: Eingetragener Firmenname
  en_US: Registered company name
@@ -883,7 +946,7 @@ form_registered_company:
  es_ES: Nombre registrado de la empresa
  pt_BR: Nome da empresa registado
  pt_INT: Nome da empresa registado
- ar_SA: الاسم المُسجَّل للشركة
+ ar_SA: الاسم المُسجَّل للشركة
 form_enter_registered_company:
  de_DE: Geben Sie Ihren eingetragenen Unternehmensnamen ein
  en_US: Enter your registered company name
@@ -892,7 +955,7 @@ form_enter_registered_company:
  es_ES: Introduzca el nombre registrado de su empresa
  pt_BR: Introduza o nome registado da sua empresa
  pt_INT: Introduza o nome registado da sua empresa
- ar_SA: أدخل اسم شركتك المُسجَّل
+ ar_SA: أدخل اسم شركتك المُسجَّل
 form_website:
  de_DE: Internetadresse Ihres Unternehmens
  en_US: Company website address (optional)
@@ -1150,10 +1213,8 @@ form_enter_other:
  pt_INT: Introduza a sua indústria
  ar_SA: غير ذلك
 form_mailing_list:
- de_DE: Das Department for International Trade und Ihre Partner könnten Ihre Daten
-   verwenden um Ihnen relevante Neuigkeiten und Informationen zuzusenden.
- en_US: The Department for International Trade and its partners might use your details
-   to send you relevant news and information.
+ de_DE: Das Department for International Trade und Ihre Partner könnten Ihre Daten verwenden um Ihnen relevante Neuigkeiten und Informationen zuzusenden.
+ en_US: The Department for International Trade and its partners might use your details to send you relevant news and information.
  zh_CN: 国际贸易部及其合作伙伴可能会使用您的联系方式向您发送相关的新闻和信息
  ja_JP: 英国国際貿易省 (Department for International Trade) およびそのパートナーでは、関連ニュースや情報を送信するために情報を使用させていただく場合があります。
  es_ES: El Departamento de Comercio Internacional y sus socios pueden emplear sus datos para enviarle información y noticias relevantes
@@ -1161,8 +1222,7 @@ form_mailing_list:
  pt_INT: O Departamento do Comércio Internacional (Department for International Trade) e os respetivos parceiros poderão utilizar os seus detalhes para lhe enviar notícias e informações relevantes
  ar_SA: قد تستخدم وزارة التجارة الدولية وشركاؤها بياناتكم لترسل لكم الأخبار والمعلومات ذات الصلة
 form_enter_mailing_list:
- de_DE: Bitte geben Sie an, ob Sie relevante Neuigkeiten und Informationen erhlten
-   wollen.
+ de_DE: Bitte geben Sie an, ob Sie relevante Neuigkeiten und Informationen erhlten wollen.
  en_US: Select whether you'd like to receive relevant news and information
  zh_CN: Select whether you'd like to receive relevant news and information:CN
  ja_JP: Select whether you'd like to receive relevant news and information:JP
@@ -3264,12 +3324,9 @@ report_problem:
  ar_SA: 
 
 report_problem_placeholder:
- de_DE: Please include the name of the page with the issue, and as much detail as
-   possible.
- en_US: Please include the name of the page with the issue, and as much detail as
-   possible.
- zh_CN: Please include the name of the page with the issue, and as much detail as
-   possible.
+ de_DE: Please include the name of the page with the issue, and as much detail as possible.
+ en_US: Please include the name of the page with the issue, and as much detail as possible.
+ zh_CN: Please include the name of the page with the issue, and as much detail as possible.
  ja_JP: ''
  es_ES: ''
  pt_BR: ''
