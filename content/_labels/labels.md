@@ -98,7 +98,7 @@ privacy:
  pt_BR: Privacidade e cookies
  pt_INT: Privacidade e cookies
  ar_SA: الخصوصية وملفات تعريف الارتباط
- terms:
+terms:
  de_DE: AGB
  en_US: Terms and conditions
  zh_CN: 条款与条件
