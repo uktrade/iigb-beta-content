@@ -36,7 +36,7 @@ no_results:
  pt_INT: ''
  ar_SA: 
 search_error:
- de_DE: Ein Fehler ist aufgetreten. Bitte melden sie ihn.
+ de_DE: Ein Fehler ist aufgetreten. Bitte melden sie ihn
  en_US: An error has occurred. Please contact your administrator
  zh_CN: An error has occurred. Please contact your administrator:CN
  ja_JP: An error has occurred. Please contact your administrator
@@ -97,7 +97,7 @@ privacy:
  es_ES: Privacidad y cookies
  pt_BR: Privacidade e cookies
  pt_INT: Privacidade e cookies
- ar_SA: الخصوصية وملفات تعريف الارتبا
+ ar_SA: الخصوصية وملفات تعريف الارتباط
 terms:
  de_DE: AGB
  en_US: Terms and conditions
@@ -497,6 +497,12 @@ form_annual_turnover:
    - Entre 50 y 100 millones de libras
    - Más de 100 millones de libras
    pt_BR:
+   - Inferior a 100 000 £
+   - Entre 100 000 £ e 1 milhão de £
+   - Entre 1 milhão de £ e 10 milhões de £
+   - Entre 10 milhões de £ e 50 milhões de £
+   - Entre 50 milhões de £ e 100 milhões de £
+   - Superior a 100 milhões de £
    pt_INT:
    - Inferior a 100 000 £
    - Entre 100 000 £ e 1 milhão de £
@@ -561,6 +567,10 @@ form_staff_number:
    - Entre 50 y 250
    - Más de 250
    pt_BR:
+   - Menos de 10
+   - Entre 10 e 50
+   - Entre 50 e 250
+   - Mais de 250
    pt_INT:
    - Menos de 10
    - Entre 10 e 50
@@ -666,6 +676,16 @@ form_which_part:
    - Belfast e Irlanda del Norte
    - Nottingham y las Midlands del Este
    pt_BR:
+   - Londres e região sudeste
+   - Bristol e região sudoeste
+   - Birmingham e Midlands ocidentais
+   - Manchester e região noroeste
+   - Newcastle e região nordeste
+   - Cardiff e Gales
+   - Edimburgo e sul da Escócia
+   - Aberdeen e nordeste da Escócia
+   - Belfast e Irlanda do Norte
+   - Nottingham e Midlands orientais
    pt_INT:
    - Londres e região sudeste
    - Bristol e região sudoeste
@@ -795,6 +815,18 @@ form_when_month:
    - Noviembre
    - Diciembre
    pt_BR:
+   - Janeiro
+   - Fevereiro
+   - Março
+   - Abril
+   - Maio
+   - Junho
+   - Julho
+   - Agosto
+   - Setembro
+   - Outubro
+   - Novembro
+   - Dezembro
    pt_INT:
    - Janeiro
    - Fevereiro
@@ -898,6 +930,16 @@ form_when_year:
    - '2025'
    - '2026'
    pt_BR:
+   - '2017'
+   - '2018'
+   - '2019'
+   - '2020'
+   - '2021'
+   - '2022'
+   - '2023'
+   - '2024'
+   - '2025'
+   - '2026'
    pt_INT:
    - '2017'
    - '2018'
@@ -1144,6 +1186,30 @@ form_primary_industry:
    - Tecnología
    - Otros
    pt_BR:
+   - Fabrico avançado
+   - Aeroespacial
+   - Gestão de ativos
+   - Investigação e desenvolvimento automóvel
+   - Cadeia de fornecimento automóvel
+   - Big Data e análise
+   - Produção e conteúdos criativos
+   - Meios digitais
+   - Redes elétricas
+   - Energia de resíduos
+   - Serviços financeiros
+   - FinTech
+   - Indústria alimentar e de bebidas
+   - Isento de
+   - Cuidados de saúde
+   - Tecnologia médica
+   - Desportos motorizados
+   - Nuclear
+   - Energia eólica offshore
+   - Petróleo e gás
+   - Fabrico de produtos farmacêuticos
+   - Retalho
+   - Tecnologia
+   - Outra
    pt_INT:
    - Fabrico avançado
    - Aeroespacial
@@ -2768,6 +2834,255 @@ form_headquarters:
    - Zambia
    - Zimbabwe
    pt_BR:
+   - Andorra
+   - United Arab Emirates
+   - Afghanistan
+   - Antigua and Barbuda
+   - Anguilla
+   - Albania
+   - Armenia
+   - Angola
+   - Antarctica
+   - Argentina
+   - American Samoa
+   - Austria
+   - Australia
+   - Aruba
+   - Åland Islands
+   - Azerbaijan
+   - Bosnia and Herzegovina
+   - Barbados
+   - Bangladesh
+   - Belgium
+   - Burkina Faso
+   - Bulgaria
+   - Bahrain
+   - Burundi
+   - Benin
+   - Saint-Barthélemy
+   - Bermuda
+   - Brunei Darussalam
+   - Bolivia
+   - Bonaire
+   - Brazil
+   - Bahamas
+   - Bhutan
+   - Bouvet Island
+   - Botswana
+   - Belarus
+   - Belize
+   - Canada
+   - Cocos (Keeling) Islands
+   - Congo, The Democratic Republic of the
+   - Central African Republic
+   - Congo
+   - Switzerland
+   - Cote D'Ivoire
+   - Cook Islands
+   - Chile
+   - Cameroon
+   - China
+   - Colombia
+   - Costa Rica
+   - Cuba
+   - Cape Verde
+   - Curaçao
+   - Christmas Island
+   - Cyprus
+   - Czech Republic
+   - Germany
+   - Djibouti
+   - Denmark
+   - Dominica
+   - Dominican Republic
+   - Algeria
+   - Ecuador
+   - Estonia
+   - Egypt
+   - Western Sahara
+   - Eritrea
+   - Spain
+   - Ethiopia
+   - Finland
+   - Fiji
+   - Falkland Islands (Malvinas)
+   - Micronesia, Federated States of
+   - Faroe Islands
+   - France
+   - Gabon
+   - United Kingdom
+   - Grenada
+   - Georgia
+   - French Guiana
+   - Guernsey
+   - Ghana
+   - Gibraltar
+   - Greenland
+   - Gambia
+   - Guinea
+   - Guadeloupe
+   - Equatorial Guinea
+   - Greece
+   - South Georgia and the South Sandwich Islands
+   - Guatemala
+   - Guam
+   - Guinea-Bissau
+   - Guyana
+   - Hong Kong
+   - Heard Island and Mcdonald Islands
+   - Honduras
+   - Croatia
+   - Haiti
+   - Hungary
+   - Indonesia
+   - Ireland
+   - Israel
+   - Isle of Man
+   - India
+   - British Indian Ocean Territory
+   - Iraq
+   - Iran, Islamic Republic Of
+   - Iceland
+   - Italy
+   - Jersey
+   - Jamaica
+   - Jordan
+   - Japan
+   - Kenya
+   - Kyrgyzstan
+   - Cambodia
+   - Kiribati
+   - Comoros
+   - Saint Kitts and Nevis
+   - Democratic People's Republic of Korea
+   - Korea, Republic of
+   - Kuwait
+   - Cayman Islands
+   - Kazakhstan
+   - Lao People's Democratic Republic
+   - Lebanon
+   - Saint Lucia
+   - Liechtenstein
+   - Sri Lanka
+   - Liberia
+   - Lesotho
+   - Lithuania
+   - Luxembourg
+   - Latvia
+   - Libyan Arab Jamahiriya
+   - Morocco
+   - Monaco
+   - Moldova, Republic of
+   - Montenegro
+   - Sint Maarten
+   - Madagascar
+   - Marshall Islands
+   - Macedonia, The Former Yugoslav Republic of
+   - Mali
+   - Myanmar
+   - Mongolia
+   - Macao
+   - Northern Mariana Islands
+   - Martinique
+   - Mauritania
+   - Montserrat
+   - Malta
+   - Mauritius
+   - Maldives
+   - Malawi
+   - Mexico
+   - Malaysia
+   - Mozambique
+   - Namibia
+   - New Caledonia
+   - Niger
+   - Norfolk Island
+   - Nigeria
+   - Nicaragua
+   - Netherlands
+   - Norway
+   - Nepal
+   - Nauru
+   - Niue
+   - New Zealand
+   - Oman
+   - Panama
+   - Peru
+   - French Polynesia
+   - Papua New Guinea
+   - Philippines
+   - Pakistan
+   - Poland
+   - Saint Pierre and Miquelon
+   - Pitcairn
+   - Puerto Rico
+   - Palestinian Territory, Occupied
+   - Portugal
+   - Palau
+   - Paraguay
+   - Qatar
+   - Reunion
+   - Romania
+   - Serbia
+   - Russian Federation
+   - Rwanda
+   - Saudi Arabia
+   - Solomon Islands
+   - Seychelles
+   - Sudan
+   - Sweden
+   - Singapore
+   - Saint Helena
+   - Slovenia
+   - Svalbard and Jan Mayen
+   - Slovakia
+   - Sierra Leone
+   - San Marino
+   - Senegal
+   - Somalia
+   - Suriname
+   - South Sudan
+   - Sao Tome and Principe
+   - El Salvador
+   - Sint Maarten
+   - Syrian Arab Republic
+   - Swaziland
+   - Turks and Caicos Islands
+   - Chad
+   - French Southern Territories
+   - Togo
+   - Thailand
+   - Tajikistan
+   - Tokelau
+   - Timor-Leste
+   - Turkmenistan
+   - Tunisia
+   - Tonga
+   - Turkey
+   - Trinidad and Tobago
+   - Tuvalu
+   - Taiwan
+   - Tanzania, United Republic of
+   - Ukraine
+   - Uganda
+   - United States Minor Outlying Islands
+   - United States
+   - Uruguay
+   - Uzbekistan
+   - Holy See (Vatican City State)
+   - Saint Vincent and the Grenadines
+   - Venezuela
+   - Virgin Islands, British
+   - Virgin Islands, U.S.
+   - VietNam
+   - Vanuatu
+   - Wallis and Futuna
+   - Samoa
+   - Yemen
+   - Mayotte
+   - South Africa
+   - Zambia
+   - Zimbabwe
    pt_INT:
    - Andorra
    - United Arab Emirates
@@ -3286,6 +3601,15 @@ form_disclaimer_tc:
  pt_BR: termos e condições.
  pt_INT: termos e condições.
  ar_SA: الشروط والأحكام
+form_enter_page_title:
+ de_DE: 
+ en_US: Please enter the name of the page where you experienced an issue
+ zh_CN: 
+ ja_JP: 
+ es_ES: 
+ pt_BR: 
+ pt_INT: 
+ ar_SA:  
 feedback_name:
  de_DE: Vollständiger Name
  en_US: Name
@@ -3313,6 +3637,15 @@ feedback_feedback:
  pt_BR: Comentários
  pt_INT: Comentários
  ar_SA: 
+feedback_page_title:
+ de_DE: Seitentitel
+ en_US: Page title
+ zh_CN: 页面标题
+ ja_JP: ページタイトル
+ es_ES: Título de la página
+ pt_BR: Título da página
+ pt_INT: Título da página
+ ar_SA:
 report_problem:
  de_DE: Ein Problem melden
  en_US: Report an issue
@@ -3322,7 +3655,6 @@ report_problem:
  pt_BR: Relatar um problema
  pt_INT: Relatar um problema
  ar_SA: 
-
 report_problem_placeholder:
  de_DE: Please include the name of the page with the issue, and as much detail as possible.
  en_US: Please include the name of the page with the issue, and as much detail as possible.
@@ -3379,13 +3711,49 @@ country_text:
   ar_SA: نقدم أيضًا معلومات عن الاستثمار حسب المنطقة
 location_guide:
   de_DE: Standortführer
-  en_US: Location guide
+  en_US: Where to invest in the UK
   zh_CN: 定位指南
   ja_JP: 地域ガイド
   es_ES: Guía de ubicaciones
   pt_BR: Guia de localização
   pt_INT: Guia de localização
   ar_SA: دليل الأماكن
+concentration_high:
+  de_DE: Hoch
+  en_US: High
+  zh_CN: 高
+  ja_JP: 
+  es_ES: 
+  pt_BR: 
+  pt_INT:
+  ar_SA: 
+concentration_medium:
+  de_DE: Mittel
+  en_US: Medium
+  zh_CN: 中
+  ja_JP: 
+  es_ES: 
+  pt_BR: 
+  pt_INT:
+  ar_SA: 
+concentration_low:
+  de_DE: Gering
+  en_US: Low
+  zh_CN: 低
+  ja_JP: 
+  es_ES: 
+  pt_BR: 
+  pt_INT:
+  ar_SA: 
+investment_opportunities:
+  de_DE: Investitionschanchen
+  en_US: Investment opportunities
+  zh_CN: 来英投资者指南
+  ja_JP: 
+  es_ES: 
+  pt_BR: 
+  pt_INT: 
+  ar_SA: 
 investment_opts_involved_in_research:
   de_DE: An Studien teilnehmen und bei der Gestaltung des Services mitwirken
   en_US: Take part in research to help shape the service
@@ -3404,4 +3772,311 @@ investment_opts_get_updates:
   pt_BR: Receba atualizações
   pt_INT: Receba atualizações
   ar_SA: الحصول على التحديثات
+investment_opts_map:
+  de_DE: Karte
+  en_US: Map
+  zh_CN: 地图
+  ja_JP: ''
+  es_ES: ''
+  pt_BR: ''
+  pt_INT: ''
+  ar_SA: ''
+investment_opts_detail:
+  de_DE: Ausführliche Ansicht
+  en_US: Detail
+  zh_CN: 详细信息
+  ja_JP: ''
+  es_ES: ''
+  pt_BR: ''
+  pt_INT: ''
+  ar_SA: ''
+investment_opts_region:
+  de_DE: 'Region'
+  en_US: 'Region'
+  zh_CN: '区域'
+  ja_JP: ''
+  es_ES: ''
+  pt_BR: ''
+  pt_INT: ''
+  ar_SA: ''
+investment_opts_select_industry:
+  de_DE: Wählen Sie eine Branche
+  en_US: Choose an industry
+  zh_CN: 选择行业
+  ja_JP: ''
+  es_ES: ''
+  pt_BR: ''
+  pt_INT: ''
+  ar_SA: ''
+investment_opts_using_the_service:
+  de_DE: 'Nutzung dieses Dienstes'
+  en_US: 'To use this service'
+  zh_CN: 服务使用指南
+  ja_JP: ''
+  es_ES: ''
+  pt_BR: ''
+  pt_INT: ''
+  ar_SA: ''
+investment_opts_businesses:
+  de_DE: 'Beliebte Regionen'
+  en_US: 'Location of significant businesses in the industry'
+  zh_CN: '热门地区'
+  ja_JP: ''
+  es_ES: ''
+  pt_BR: ''
+  pt_INT: ''
+  ar_SA: ''
+investment_opts_businesses_detail:
+  de_DE: 'Unternehmen mit bedeutendem Einfluss in der ausgewählten Branche'
+  en_US: ''
+  zh_CN: '在所选行业有重大影响力的企业'
+  ja_JP: ''
+  es_ES: ''
+  pt_BR: ''
+  pt_INT: ''
+  ar_SA: ''
+investment_opts_finance_and_incentives:
+  de_DE: 'Finanzierung und Anreize'
+  en_US: 'Finance and incentives'
+  zh_CN: '当地激励措施'
+  ja_JP: ''
+  es_ES: ''
+  pt_BR: ''
+  pt_INT: ''
+  ar_SA: ''
+investment_opts_centres_of_excellence:
+  de_DE: 'Forschung und Entwicklung'
+  en_US: 'Location of research and development hubs'
+  zh_CN: '研究与开发'
+  ja_JP: ''
+  es_ES: ''
+  pt_BR: ''
+  pt_INT: ''
+  ar_SA: ''
+investment_opts_centres_of_excellence_detail:
+  de_DE: 'Branchenspezifische Forschungs- und Entwicklungszentren'
+  en_US: ''
+  zh_CN: '行业特定的研究和开发中心'
+  ja_JP: ''
+  es_ES: ''
+  pt_BR: ''
+  pt_INT: ''
+  ar_SA: ''
+investment_opts_enterprise_zones:
+  de_DE: 'Lokale Investitionsanreize'
+  en_US: 'Locations where investment is financially incentivised'
+  zh_CN: '当地激励措施'
+  ja_JP: ''
+  es_ES: ''
+  pt_BR: ''
+  pt_INT: ''
+  ar_SA: ''
+investment_opts_enterprise_zones_detail:
+  de_DE: 'Geförderte Regionen mit reduzierten Gewerbesteuern, niedrigeren Mieten und kompletten Entwicklungspaketen'
+  en_US: Find out about incentives for investment
+  zh_CN: '提供优惠的营业税和房租以及交钥匙发展项目组合的扶持区域'
+  ja_JP: ''
+  es_ES: ''
+  pt_BR: ''
+  pt_INT: ''
+  ar_SA: ''
+investment_setup_guide_for_investors:
+  de_DE: 'Leitfaden für ausländische Investoren in Großbritannien'
+  en_US: 'UK set-up guide for investors'
+  zh_CN: '投资者的英国市场启动指南'
+  ja_JP: ''
+  es_ES: ''
+  pt_BR: ''
+  pt_INT: ''
+  ar_SA: ''
+investment_incentives_and_finance:
+  de_DE: 'Investitionsanreize und Finanzmittel'
+  en_US: 'Incentives and finance for investments in the UK'
+  zh_CN: '英国的投资激励措施和资金'
+  ja_JP: ''
+  es_ES: ''
+  pt_BR: ''
+  pt_INT: ''
+  ar_SA: ''
+investment_opts_notable_clusters:
+  de_DE: 'Beliebte Regionen' 
+  en_US: 'Popular areas'
+  zh_CN: '热门地区'  
+  ja_JP: ''
+  es_ES: ''
+  pt_BR: ''
+  pt_INT: ''
+  ar_SA: ''
+investment_opts_regeneration_opportunities:
+  de_DE: 'Anreize'
+  en_US: 'Regeneration opportunities'
+  zh_CN: '激励措施'
+  ja_JP: ''
+  es_ES: ''
+  pt_BR: ''
+  pt_INT: ''
+  ar_SA: ''
+investment_opts_investment_advice:
+  de_DE: 'Britische Investitionshilfe'
+  en_US: 'UK investment advice'
+  zh_CN: '来英投资建议'
+  ja_JP: ''
+  es_ES: ''
+  pt_BR: ''
+  pt_INT: ''
+  ar_SA: ''
+investment_opts_ready_to_invest:
+  de_DE: 'Startbereit für Ihre Investition?'
+  en_US: 'Ready to invest?'
+  zh_CN: '准备好投资了吗？'
+  ja_JP: ''
+  es_ES: ''
+  pt_BR: ''
+  pt_INT: ''
+  ar_SA: ''
+investment_opts_thinking:
+  de_DE: 'Wenn Sie darüber nachdenken, in Großbritannien zu investieren, empfehlen wir Ihnen Kontakt mit unserem Investment Services Team aufzunehmen, das Ihnen mit Informationen, Verbindungen und Anreizen weiterhelfen kann.'
+  en_US: 'If you are thinking about investing in the UK, speak to our investment services team about insights, connections and incentives.'
+  zh_CN: '如果您考虑在英国投资，请与我们的投资服务团队交谈，了解真知灼见、人脉和激励措施。'
+  ja_JP: ''
+  es_ES: ''
+  pt_BR: ''
+  pt_INT: ''
+  ar_SA: ''
+investment_opts_invest_in:
+  de_DE: 'Mehr über diese Branche erfahren'
+  en_US: 'Find out more about this industry'
+  zh_CN: '在英国投资'
+  ja_JP: ''
+  es_ES: ''
+  pt_BR: ''
+  pt_INT: ''
+  ar_SA: ''
+investment_opts_alpha_before:
+  de_DE: 'Dies ist ein neuer Service. Ihr'
+  en_US: 'This is a new service. Your'
+  zh_CN: 这是一项新增服务 — 您的
+  ja_JP: 
+  es_ES: 
+  pt_BR: 
+  pt_INT: 
+  ar_SA: 
+investment_opts_alpha_feedback:
+  de_DE: Feedback
+  en_US: feedback
+  zh_CN: 反馈
+  ja_JP: 
+  es_ES: comentarios
+  pt_BR: comentários
+  pt_INT: 
+  ar_SA: 
+investment_opts_alpha_after:
+  de_DE: wird uns helfen, ihn zu verbessern
+  en_US: will help us to improve it
+  zh_CN: 将有助于我们提升我们的服务 
+  ja_JP: 
+  es_ES: 
+  pt_BR: 
+  pt_INT: 
+  ar_SA: 
+investment_opts_priorities:
+  de_DE: Was sind Ihre Investitionsprioritäten?
+  en_US: What is important for your investment?
+  zh_CN: 您投资时优先考虑哪些事项？
+  ja_JP: ''
+  es_ES: ''
+  pt_BR: ''
+  pt_INT: ''
+  ar_SA: ''
+sectors:
+  aerospace:
+    de_DE: 'Luftfahrtindustrie'
+    en_US: 'Aerospace'
+    zh_CN: '航空航天'
+    ja_JP: ''
+    es_ES: ''
+    pt_BR: ''
+    pt_INT: ''
+    ar_SA: ''
+  advanced_manufacturing:
+    de_DE: 'Fortgeschrittene Fertigungstechnologien'
+    en_US: 'Advanced Manufacturing'
+    zh_CN: '先进制造'
+    ja_JP: ''
+    es_ES: ''
+    pt_BR: ''
+    pt_INT: ''
+    ar_SA: ''
+  automotive:
+    de_DE: 'Automobilindustrie'
+    en_US: 'Automotive'
+    zh_CN: '汽车产业'
+    ja_JP: ''
+    es_ES: ''
+    pt_BR: ''
+    pt_INT: ''
+    ar_SA: ''
+  creative:
+    de_DE: 'Medien und Kultur'
+    en_US: 'Creative'
+    zh_CN: '创意的'
+    ja_JP: ''
+    es_ES: ''
+    pt_BR: ''
+    pt_INT: ''
+    ar_SA: ''
+  energy:
+    de_DE: 'Energie'
+    en_US: 'Energy generation'
+    zh_CN: '能源发电'
+    ja_JP: ''
+    es_ES: ''
+    pt_BR: ''
+    pt_INT: ''
+    ar_SA: ''
+  financial_services:
+    de_DE: 'Finanzen'
+    en_US: 'Financial services'
+    zh_CN: '金融服务'
+    ja_JP: ''
+    es_ES: ''
+    pt_BR: ''
+    pt_INT: ''
+    ar_SA: ''
+  food_and_drink_manufacturing:
+    de_DE: 'Lebensmittel- und Getränkeherstellung'
+    en_US: 'Food and drink manufacturing'
+    zh_CN: '食品和饮料制造'
+    ja_JP: ''
+    es_ES: ''
+    pt_BR: ''
+    pt_INT: ''
+    ar_SA: ''
+  health_and_life_sciences:
+    de_DE: 'Gesundheits- und Biowissenschaften'
+    en_US: 'Health and life sciences'
+    zh_CN: '健康与生命科学'
+    ja_JP: ''
+    es_ES: ''
+    pt_BR: ''
+    pt_INT: ''
+    ar_SA: ''
+  retail:
+    de_DE: 'Einzelhandel'
+    en_US: 'Retail'
+    zh_CN: '零售'
+    ja_JP: ''
+    es_ES: ''
+    pt_BR: ''
+    pt_INT: ''
+    ar_SA: ''
+  technology:
+    de_DE: 'Technologie'
+    en_US: 'Technology'
+    zh_CN: '技术'
+    ja_JP: ''
+    es_ES: ''
+    pt_BR: ''
+    pt_INT: ''
+    ar_SA: ''
 ---

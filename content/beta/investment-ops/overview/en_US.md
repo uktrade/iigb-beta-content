@@ -8,9 +8,6 @@ This service will give you access to a range of investment opportunities from ar
 
 As an international investor, the service will help you to choose the best location in the UK for your chosen business. The service will provide information about:
 
-
 - opportunities for businesses in your sector or industry in the different regions of the UK
 - business clusters, where similar business, suppliers and supporting organisations share a geographical location
-- the level of access to a skilled workforce in an area
 - opportunities to access centres for research and development
-- transport links, to help your business successfully grow

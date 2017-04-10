@@ -1,8 +1,8 @@
 ---
-title: "Internal server error"
-linkLabel: Please click here to go to the home page
+title: ""
+linkLabel: Go to the Invest in Great Britain home page
 ---
 
-Sorry, we are experiencing technical problems.
+Sorry, there has been a technical problem.
 
-Please try again in a few moments.
+Please try to reload this page in a few seconds.
