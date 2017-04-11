@@ -1029,14 +1029,14 @@ form_website:
  pt_INT: Endereço do website da empresa
  ar_SA: الموقع الإلكتروني للشركة
 form_enter_website:
- de_DE: Geben Sie die Internetadresse Ihres Unternehmens ein
- en_US: Enter your company website address
- zh_CN: 请输入您的公司网站地址
- ja_JP: 貴社のウェブサイトのアドレスを入力してください
- es_ES: Introduzca la dirección del sitio web de su empresa
- pt_BR: Introduza o endereço do website da sua empresa
- pt_INT: Introduza o endereço do website da sua empresa
- ar_SA: 
+ de_DE: Enter your website address or check the box below
+ en_US: Enter your website address or check the box below
+ zh_CN: Enter your website address or check the box below
+ ja_JP: Enter your website address or check the box below
+ es_ES: Enter your website address or check the box below
+ pt_BR: Enter your website address or check the box below
+ pt_INT: Enter your website address or check the box below
+ ar_SA: Enter your website address or check the box below
 form_enter_primary_industry:
  de_DE: Wählen Sie die Branche aus, in der Sie hauptsächlich tätig sind, aus oder wählen Sie "Sonstiges"
  en_US: Select the industry you mainly operate in or select Other
@@ -1318,14 +1318,14 @@ form_enter_mailing_list:
  pt_INT: Select whether you'd like to receive relevant news and information:BR
  ar_SA: 
 form_mailing_list_confirmation:
- de_DE: 
+ de_DE: I do not have a website 
  en_US: I do not have a website
- zh_CN: 
- ja_JP: 
- es_ES: 
- pt_BR: 
- pt_INT: 
- ar_SA: 
+ zh_CN: I do not have a website
+ ja_JP: I do not have a website
+ es_ES: I do not have a website
+ pt_BR: I do not have a website
+ pt_INT: I do not have a website
+ ar_SA: I do not have a website
 form_enter_headquarters:
  de_DE: Geben Sie das Land Ihres Unternehmenshauptsitzes ein
  en_US: Enter the country where your company has its headquarters
