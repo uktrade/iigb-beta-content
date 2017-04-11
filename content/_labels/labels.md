@@ -429,15 +429,15 @@ form_investment:
  pt_BR: O seu investimento
  pt_INT: O seu investimento
  ar_SA: الاستثمار
-form_investment_reason:
- de_DE: 
- en_US: 
- zh_CN: 
- ja_JP: 
- es_ES: 
- pt_BR: 
- pt_INT: 
- ar_SA:  
+form_investment_project:
+ de_DE: Tell us about your project
+ en_US: Tell us about your project
+ zh_CN: Tell us about your project
+ ja_JP: Tell us about your project
+ es_ES: Tell us about your project
+ pt_BR: Tell us about your project
+ pt_INT: Tell us about your project
+ ar_SA: Tell us about your project
 form_enter_investment_details:
  de_DE: Provide details about your interest in investing in the UK
  en_US: Provide details about your interest in investing in the UK
