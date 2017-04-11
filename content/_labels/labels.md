@@ -38,7 +38,7 @@ no_results:
 search_error:
  de_DE: Ein Fehler ist aufgetreten. Bitte melden sie ihn
  en_US: An error has occurred. Please contact your administrator
- zh_CN: An error has occurred. Please contact your administrator:CN
+ zh_CN: An error has occurred. Please contact your administrator
  ja_JP: An error has occurred. Please contact your administrator
  es_ES: An error has occurred. Please contact your administrator
  pt_BR: An error has occurred. Please contact your administrator
@@ -217,14 +217,14 @@ please_select:
  ar_SA: لا
 form_jumbo_title:
  label:
-  de_DE: 
+  de_DE: 'To find out more about taking your investment forward, contact our Investment Services team for:'
   en_US: 'To find out more about taking your investment forward, contact our Investment Services team for:'
-  zh_CN: 
-  ja_JP: 
-  es_ES: 
-  pt_BR: 
-  pt_INT: 
-  ar_SA:
+  zh_CN: 'To find out more about taking your investment forward, contact our Investment Services team for:'
+  ja_JP: 'To find out more about taking your investment forward, contact our Investment Services team for:'
+  es_ES: 'To find out more about taking your investment forward, contact our Investment Services team for:'
+  pt_BR: 'To find out more about taking your investment forward, contact our Investment Services team for:'
+  pt_INT: 'To find out more about taking your investment forward, contact our Investment Services team for:'
+  ar_SA: 'To find out more about taking your investment forward, contact our Investment Services team for:'
  options:
   '0': Insights into the UK market
   '1': Help building connections
@@ -259,14 +259,14 @@ form_jumbo_title:
   - Help building connections
   - Information about specific investment opportunities and practical support
 form_jumbo_content:
- de_DE: 
+ de_DE: The team may put investors in touch with a UK government office in your region to support you with advice relevant to your country. 
  en_US: The team may put investors in touch with a UK government office in your region to support you with advice relevant to your country.
- zh_CN: 
- ja_JP: 
- es_ES: 
- pt_BR: 
- pt_INT: 
- ar_SA:   
+ zh_CN: The team may put investors in touch with a UK government office in your region to support you with advice relevant to your country.
+ ja_JP: The team may put investors in touch with a UK government office in your region to support you with advice relevant to your country.
+ es_ES: The team may put investors in touch with a UK government office in your region to support you with advice relevant to your country.
+ pt_BR: The team may put investors in touch with a UK government office in your region to support you with advice relevant to your country.
+ pt_INT: The team may put investors in touch with a UK government office in your region to support you with advice relevant to your country. 
+ ar_SA: The team may put investors in touch with a UK government office in your region to support you with advice relevant to your country. 
 form_next:
  de_DE: Weiter
  en_US: Next
@@ -295,23 +295,23 @@ form_submit:
  pt_INT: Enviar
  ar_SA: إرسال
 form_contact_details:
- de_DE: 
+ de_DE: Contact information
  en_US: Contact information
- zh_CN: 
- ja_JP: 
- es_ES: 
- pt_BR: 
- pt_INT: 
- ar_SA: 
+ zh_CN: Contact information
+ ja_JP: Contact information
+ es_ES: Contact information
+ pt_BR: Contact information
+ pt_INT: Contact information
+ ar_SA: Contact information
 form_contact_details_reason:
- de_DE: 
- en_US: 
- zh_CN: 
- ja_JP: 
- es_ES: 
- pt_BR: 
- pt_INT: 
- ar_SA: 
+ de_DE: Wir benötigen diese um Sie mit Ihrem Ansprechpartner vor Ort in Verbindung zu setzen
+ en_US: We will use these to put you in touch with your local office
+ zh_CN: 我们将会把您的联系方式交给当地的地办事处。
+ ja_JP: これらの情報をもとに、貴社の最寄りの事務所をご紹介します
+ es_ES: Los utilizaremos para ponerle en contacto con su oficina local
+ pt_BR: Iremos utilizá-los para o/a colocar em contacto com o escritório local
+ pt_INT: Iremos utilizá-los para o/a colocar em contacto com o escritório local
+ ar_SA: سوف نستخدم هذه البيانات لإبقائكم على اتصال مع مكتبكم المحلي
 form_full_name:
  de_DE: Vollständiger Name
  en_US: Full name
@@ -331,23 +331,23 @@ form_enter_full_name:
  pt_INT: Introduza o seu nome completo
  ar_SA: أدخل الاسم بالكامل
 form_title:
- de_DE: 
+ de_DE: Job title
  en_US: Job title
- zh_CN: 
- ja_JP: 
+ zh_CN: Job title
+ ja_JP: Job title
  es_ES: Puesto que ocupa
- pt_BR: 
- pt_INT: 
- ar_SA: 
+ pt_BR: Job title
+ pt_INT: Job title
+ ar_SA: Job title
 form_enter_title:
- de_DE: 
+ de_DE: Enter your job title
  en_US: Enter your job title
- zh_CN: 
- ja_JP: 
+ zh_CN: Enter your job title
+ ja_JP: Enter your job title
  es_ES: Introduzca el nombre de su puesto 
- pt_BR: 
- pt_INT: 
- ar_SA: 
+ pt_BR: Enter your job title
+ pt_INT: Enter your job title
+ ar_SA: Enter your job title
 form_email:
  de_DE: Arbeits-E-Mail
  en_US: Work email
@@ -394,14 +394,14 @@ form_phone:
  pt_INT: Telefone - Trabalho (opcional)
  ar_SA: هاتف العمل (اختياري)
 form_enter_phone:
- de_DE: Enter your telephone number:DE
+ de_DE: Enter your telephone number
  en_US: Enter your telephone number
- zh_CN: Enter your telephone number:CN
- ja_JP: Enter your telephone number:JP
- es_ES: Enter your telephone number:ES
- pt_BR: Enter your telephone number:BR
- pt_INT: Enter your telephone number:BR
- ar_SA: 
+ zh_CN: Enter your telephone numbe
+ ja_JP: Enter your telephone number
+ es_ES: Enter your telephone number
+ pt_BR: Enter your telephone number
+ pt_INT: Enter your telephone number
+ ar_SA: Enter your telephone number
 form_city:
  de_DE: Stadt, in der Sie derzeit wohnen
  en_US: Closest city to your current business location
@@ -431,13 +431,31 @@ form_investment:
  ar_SA: الاستثمار
 form_investment_reason:
  de_DE: 
- en_US: Tell us about what you want to invest in and how large that investment might be. Please also tell us what help you would like from the UK government
+ en_US: 
  zh_CN: 
  ja_JP: 
  es_ES: 
  pt_BR: 
  pt_INT: 
  ar_SA:  
+form_enter_investment_details:
+ de_DE: Provide details about your interest in investing in the UK
+ en_US: Provide details about your interest in investing in the UK
+ zh_CN: Provide details about your interest in investing in the UK
+ ja_JP: Provide details about your interest in investing in the UK
+ es_ES: Provide details about your interest in investing in the UK
+ pt_BR: Provide details about your interest in investing in the UK
+ pt_INT: Provide details about your interest in investing in the UK
+ ar_SA: Provide details about your interest in investing in the UK
+form_investment_details: 
+ de_DE: Tell us about what you want to invest in and how large that investment might be. Please also tell us what help you would like from the UK government
+ en_US: Tell us about what you want to invest in and how large that investment might be. Please also tell us what help you would like from the UK government
+ zh_CN: Tell us about what you want to invest in and how large that investment might be. Please also tell us what help you would like from the UK government
+ ja_JP: Tell us about what you want to invest in and how large that investment might be. Please also tell us what help you would like from the UK government
+ es_ES: Tell us about what you want to invest in and how large that investment might be. Please also tell us what help you would like from the UK government
+ pt_BR: Tell us about what you want to invest in and how large that investment might be. Please also tell us what help you would like from the UK government
+ pt_INT: Tell us about what you want to invest in and how large that investment might be. Please also tell us what help you would like from the UK government
+ ar_SA: Tell us about what you want to invest in and how large that investment might be. Please also tell us what help you would like from the UK government
 form_enter_annual_turnover:
  de_DE: Wählen Sie die Option, die Ihrem Jahresumzsatz am besten entspricht
  en_US: Select the range that reflects your annual turnover
@@ -966,23 +984,23 @@ form_when_year:
    - '2025'
    - '2026'
 form_company:
- de_DE: 
+ de_DE: Ihr Unternehmen
  en_US: Your business
- zh_CN: 
- ja_JP: 
- es_ES: 
- pt_BR: 
- pt_INT: 
- ar_SA:
+ zh_CN: 您的公司
+ ja_JP: 貴社について
+ es_ES: Su empresa
+ pt_BR: A sua empresa
+ pt_INT: A sua empresa
+ ar_SA: الشركة
 form_company_reason:
- de_DE: 
- en_US: 
- zh_CN: 
- ja_JP: 
- es_ES: 
- pt_BR: 
- pt_INT: 
- ar_SA:
+ de_DE: Helfen Sie uns, Ihren aktuellen Betrieb zu verstehen
+ en_US: Help us understand your current operations
+ zh_CN: 帮助我们了解您目前的业务
+ ja_JP: 貴社の現在の運営について当省が理解するために、ご協力ください
+ es_ES: Ayúdenos a conocer sus operaciones actuales
+ pt_BR: Ajude-nos a compreender as suas operações atuais
+ pt_INT: Ajude-nos a compreender as suas operações atuais
+ ar_SA: ساعدنا على فهم عملياتك الحالية
 form_registered_company:
  de_DE: Eingetragener Firmenname
  en_US: Registered company name
@@ -1020,14 +1038,14 @@ form_enter_website:
  pt_INT: Introduza o endereço do website da sua empresa
  ar_SA: 
 form_enter_primary_industry:
- de_DE: 
- en_US: Provide details about your interest in investing in the UK
- zh_CN: 
- ja_JP: 
- es_ES: 
- pt_BR: 
- pt_INT: 
- ar_SA: 
+ de_DE: Wählen Sie die Branche aus, in der Sie hauptsächlich tätig sind, aus oder wählen Sie "Sonstiges"
+ en_US: Select the industry you mainly operate in or select Other
+ zh_CN: 请选择您的主要经营行业
+ ja_JP: 主要業種をご選択いただくか、または「その他」を選択してください
+ es_ES: Seleccione el sector en el que opera principalmente o seleccione Otros
+ pt_BR: Selecione a indústria em que opera maioritariamente ou selecione Outra
+ pt_INT: Selecione a indústria em que opera maioritariamente ou selecione Outra
+ ar_SA: حدد القطاع الذي تعمل فيه بشكل أساسي أو اختر "غير ذلك"
 form_primary_industry:
  label:
    de_DE: Hauptbranche
