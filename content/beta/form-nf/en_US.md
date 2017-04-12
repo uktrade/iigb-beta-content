@@ -1,5 +1,5 @@
 ---
-title: "Contact our Investment Services team for:"
+title: "Contact our investment services team for:"
 list: 
  - more information about taking your investment forward
  - insights into the UK market
