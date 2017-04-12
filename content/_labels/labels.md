@@ -215,70 +215,6 @@ please_select:
  pt_BR: Não
  pt_INT: Não
  ar_SA: لا
-form_jumbo_title:
- label:
-  de_DE: 'Contact our Investment Services team for:'
-  en_US: 'Contact our Investment Services team for:'
-  zh_CN: 'Contact our Investment Services team for:'
-  ja_JP: 'Contact our Investment Services team for:'
-  es_ES: 'Contact our Investment Services team for:'
-  pt_BR: 'Contact our Investment Services team for:'
-  pt_INT: 'Contact our Investment Services team for:'
-  ar_SA: 'Contact our Investment Services team for:'
- options:
-  '0': more information about taking your investment forward
-  '1': insights into the UK market
-  '2': help building connections
-  '3': information about specific investment opportunities and practical support
-  de_DE:
-  - more information about taking your investment forward
-  - insights into the UK market
-  - help building connections
-  - information about specific investment opportunities and practical support
-  en_US:
-  - more information about taking your investment forward
-  - insights into the UK market
-  - help building connections
-  - information about specific investment opportunities and practical support
-  zh_CN:
-  - more information about taking your investment forward
-  - insights into the UK market
-  - help building connections
-  - information about specific investment opportunities and practical support
-  ja_JP:
-  - more information about taking your investment forward
-  - insights into the UK market
-  - help building connections
-  - information about specific investment opportunities and practical support
-  es_ES:
-  - more information about taking your investment forward
-  - insights into the UK market
-  - help building connections
-  - information about specific investment opportunities and practical support
-  pt_BR:
-  - more information about taking your investment forward
-  - insights into the UK market
-  - help building connections
-  - information about specific investment opportunities and practical support  
-  pt_INT:
-  - more information about taking your investment forward
-  - insights into the UK market
-  - help building connections
-  - information about specific investment opportunities and practical support
-  ar_SA: 
-  - more information about taking your investment forward
-  - insights into the UK market
-  - help building connections
-  - information about specific investment opportunities and practical support
-form_jumbo_content:
- de_DE: The team may put you in touch with a UK government office in your region to support you with advice relevant to your country.
- en_US: The team may put you in touch with a UK government office in your region to support you with advice relevant to your country.
- zh_CN: The team may put you in touch with a UK government office in your region to support you with advice relevant to your country.
- ja_JP: The team may put you in touch with a UK government office in your region to support you with advice relevant to your country.
- es_ES: The team may put you in touch with a UK government office in your region to support you with advice relevant to your country.
- pt_BR: The team may put you in touch with a UK government office in your region to support you with advice relevant to your country.
- pt_INT: The team may put you in touch with a UK government office in your region to support you with advice relevant to your country.
- ar_SA: The team may put you in touch with a UK government office in your region to support you with advice relevant to your country.
 form_next:
  de_DE: Weiter
  en_US: Next
@@ -307,14 +243,16 @@ form_submit:
  pt_INT: Enviar
  ar_SA: إرسال
 form_contact_details:
- de_DE: Contact information
- en_US: Contact information
- zh_CN: Contact information
- ja_JP: Contact information
- es_ES: Contact information
- pt_BR: Contact information
- pt_INT: Contact information
- ar_SA: Contact information
+ de_DE: Ihre Kontaktdaten
+ en_US: Your contact details
+ zh_CN: 您的联系方式
+ ja_JP: ご連絡先
+ es_ES: Sus datos de contacto
+ pt_BR: Os seus dados de contacto
+ pt_INT: Os seus dados de contacto
+ ar_SA: بيانات الاتصال
+form_contact_details_nf:
+ en_US: Contact information 
 form_contact_details_reason:
  de_DE: Wir benötigen diese um Sie mit Ihrem Ansprechpartner vor Ort in Verbindung zu setzen
  en_US: We will use these to put you in touch with your local office
@@ -997,13 +935,15 @@ form_when_year:
    - '2026'
 form_company:
  de_DE: Ihr Unternehmen
- en_US: Your business
+ en_US: Your company
  zh_CN: 您的公司
  ja_JP: 貴社について
  es_ES: Su empresa
  pt_BR: A sua empresa
  pt_INT: A sua empresa
  ar_SA: الشركة
+form_company_nf:
+ en_US: Your business 
 form_company_reason:
  de_DE: Helfen Sie uns, Ihren aktuellen Betrieb zu verstehen
  en_US: Help us understand your current operations
@@ -1033,22 +973,28 @@ form_enter_registered_company:
  ar_SA: أدخل اسم شركتك المُسجَّل
 form_website:
  de_DE: Internetadresse Ihres Unternehmens
- en_US: Company website addres
+ en_US: Company website address (optional)
  zh_CN: 公司网站地址
- ja_JP: 貴社のウェブサイト アドレス
- es_ES: Dirección del sitio web de la empresa
- pt_BR: Endereço do website da empresa
- pt_INT: Endereço do website da empresa
- ar_SA: الموقع الإلكتروني للشركة
+ ja_JP: 貴社のウェブサイト アドレス (任意)
+ es_ES: Dirección del sitio web de la empresa (opcional)
+ pt_BR: Endereço do website da empresa (opcional)
+ pt_INT: Endereço do website da empresa (opcional)
+ ar_SA: الموقع الإلكتروني للشركة (اختياري)
+form_website_nf:
+ en_US: Company website
 form_enter_website:
- de_DE: Enter your website address or check the box below
+ de_DE: Geben Sie die Internetadresse Ihres Unternehmens ein
+ en_US: Enter your company website address
+ zh_CN: 请输入您的公司网站地址
+ ja_JP: 貴社のウェブサイトのアドレスを入力してください
+ es_ES: Introduzca la dirección del sitio web de su empresa
+ pt_BR: Introduza o endereço do website da sua empresa
+ pt_INT: Introduza o endereço do website da sua empresa
+ ar_SA: 
+form_enter_website_nf:
  en_US: Enter your website address or check the box below
- zh_CN: Enter your website address or check the box below
- ja_JP: Enter your website address or check the box below
- es_ES: Enter your website address or check the box below
- pt_BR: Enter your website address or check the box below
- pt_INT: Enter your website address or check the box below
- ar_SA: Enter your website address or check the box below
+form_do_not_have_website:
+ en_US: I do not have a website 
 form_enter_primary_industry:
  de_DE: Wählen Sie die Branche aus, in der Sie hauptsächlich tätig sind, aus oder wählen Sie "Sonstiges"
  en_US: Select the industry you mainly operate in or select Other
@@ -1330,23 +1276,25 @@ form_enter_mailing_list:
  pt_INT: Select whether you'd like to receive relevant news and information:BR
  ar_SA: 
 form_mailing_list_confirmation:
- de_DE: I do not have a website 
- en_US: I do not have a website
- zh_CN: I do not have a website
- ja_JP: I do not have a website
- es_ES: I do not have a website
- pt_BR: I do not have a website
- pt_INT: I do not have a website
- ar_SA: I do not have a website
+ de_DE: Ja, Ich möchte solche Informationen bekommen.
+ en_US: Yes, I would like to get this information.
+ zh_CN: 我希望收到相关的新闻和信息
+ ja_JP: この情報の受信を希望
+ es_ES: Sí, me gustaría recibir esta información
+ pt_BR: Sim, gostaria de receber essas informações
+ pt_INT: Sim, gostaria de receber essas informações
+ ar_SA: نعم، أود الحصول على هذه المعلومات
 form_enter_headquarters:
- de_DE: Enter your country
+ de_DE: Geben Sie das Land Ihres Unternehmenshauptsitzes ein
+ en_US: Enter the country where your company has its headquarters
+ zh_CN: 请输入您的公司总部所在国家
+ ja_JP: 貴社の本社のある国名を入力してください
+ es_ES: Introduzca el país en el que se encuentre la sede central de su empresa
+ pt_BR: Introduza o país onde a sua empresa está sediada
+ pt_INT: Introduza o país onde a sua empresa está sediada
+ ar_SA: أدخل الدولة التي يقع بها المقر الرئيسي لشركتك
+form_enter_headquarters_nf:
  en_US: Enter your country
- zh_CN: Enter your country
- ja_JP: Enter your country
- es_ES: Introduzca su país
- pt_BR: Enter your country
- pt_INT: Enter your country
- ar_SA: Enter your country
 form_enter_headquarters_help:
  de_DE: Bitte geben Sie hier Text ein damit Sie eine Auswahl machen können
  en_US: Start typing to select an option
@@ -3753,7 +3701,7 @@ country_text:
   ar_SA: نقدم أيضًا معلومات عن الاستثمار حسب المنطقة
 location_guide:
   de_DE: Standortführer
-  en_US: Where to invest in the UK
+  en_US: Location guide
   zh_CN: 定位指南
   ja_JP: 地域ガイド
   es_ES: Guía de ubicaciones
