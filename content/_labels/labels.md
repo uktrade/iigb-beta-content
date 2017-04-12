@@ -109,7 +109,7 @@ terms:
  ar_SA: الشروط والأحكام
 contact:
  de_DE: Kontakt
- en_US: Get in touch
+ en_US: Contact us
  zh_CN: 取得联系
  ja_JP: お問い合わせ
  es_ES: Contacto
@@ -3591,15 +3591,6 @@ form_enter_page_title:
  pt_BR: 
  pt_INT: 
  ar_SA:  
-form_contact_us:
- de_DE: Contact us
- en_US: Contact us
- zh_CN: Contact us
- ja_JP: Contact us
- es_ES: Contact us
- pt_BR: Contact us
- pt_INT: Contact us
- ar_SA: Contact us
 feedback_name:
  de_DE: Vollständiger Name
  en_US: Name
