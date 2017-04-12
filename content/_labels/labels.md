@@ -217,56 +217,68 @@ please_select:
  ar_SA: لا
 form_jumbo_title:
  label:
-  de_DE: 'To find out more about taking your investment forward, contact our Investment Services team for:'
-  en_US: 'To find out more about taking your investment forward, contact our Investment Services team for:'
-  zh_CN: 'To find out more about taking your investment forward, contact our Investment Services team for:'
-  ja_JP: 'To find out more about taking your investment forward, contact our Investment Services team for:'
-  es_ES: 'To find out more about taking your investment forward, contact our Investment Services team for:'
-  pt_BR: 'To find out more about taking your investment forward, contact our Investment Services team for:'
-  pt_INT: 'To find out more about taking your investment forward, contact our Investment Services team for:'
-  ar_SA: 'To find out more about taking your investment forward, contact our Investment Services team for:'
+  de_DE: 'Contact our Investment Services team for:'
+  en_US: 'Contact our Investment Services team for:'
+  zh_CN: 'Contact our Investment Services team for:'
+  ja_JP: 'Contact our Investment Services team for:'
+  es_ES: 'Contact our Investment Services team for:'
+  pt_BR: 'Contact our Investment Services team for:'
+  pt_INT: 'Contact our Investment Services team for:'
+  ar_SA: 'Contact our Investment Services team for:'
  options:
-  '0': Insights into the UK market
-  '1': Help building connections
-  '2': Information about specific investment opportunities and practical support
+  '0': more information about taking your investment forward
+  '1': insights into the UK market
+  '2': help building connections
+  '3': information about specific investment opportunities and practical support
   de_DE:
-  - Insights into the UK market
-  - Help building connections
-  - Information about specific investment opportunities and practical support
+  - more information about taking your investment forward
+  - insights into the UK market
+  - help building connections
+  - information about specific investment opportunities and practical support
   en_US:
-  - Insights into the UK market
-  - Help building connections
-  - Information about specific investment opportunities and practical support
+  - more information about taking your investment forward
+  - insights into the UK market
+  - help building connections
+  - information about specific investment opportunities and practical support
   zh_CN:
-  - Insights into the UK market
-  - Help building connections
-  - Information about specific investment opportunities and practical support
+  - more information about taking your investment forward
+  - insights into the UK market
+  - help building connections
+  - information about specific investment opportunities and practical support
   ja_JP:
-  - Insights into the UK market
-  - Help building connections
-  - Information about specific investment opportunities and practical support
+  - more information about taking your investment forward
+  - insights into the UK market
+  - help building connections
+  - information about specific investment opportunities and practical support
   es_ES:
-  - Insights into the UK market
-  - Help building connections
-  - Information about specific investment opportunities and practical support
+  - more information about taking your investment forward
+  - insights into the UK market
+  - help building connections
+  - information about specific investment opportunities and practical support
   pt_BR:
+  - more information about taking your investment forward
+  - insights into the UK market
+  - help building connections
+  - information about specific investment opportunities and practical support  
   pt_INT:
-  - Insights into the UK market
-  - Help building connections
-  - Information about specific investment opportunities and practical support
+  - more information about taking your investment forward
+  - insights into the UK market
+  - help building connections
+  - information about specific investment opportunities and practical support
   ar_SA: 
-  - Insights into the UK market
-  - Help building connections
-  - Information about specific investment opportunities and practical support
+  - more information about taking your investment forward
+  - insights into the UK market
+  - help building connections
+  - information about specific investment opportunities and practical support
 form_jumbo_content:
- de_DE: The team may put investors in touch with a UK government office in your region to support you with advice relevant to your country. 
- en_US: The team may put investors in touch with a UK government office in your region to support you with advice relevant to your country.
- zh_CN: The team may put investors in touch with a UK government office in your region to support you with advice relevant to your country.
- ja_JP: The team may put investors in touch with a UK government office in your region to support you with advice relevant to your country.
- es_ES: The team may put investors in touch with a UK government office in your region to support you with advice relevant to your country.
- pt_BR: The team may put investors in touch with a UK government office in your region to support you with advice relevant to your country.
- pt_INT: The team may put investors in touch with a UK government office in your region to support you with advice relevant to your country. 
- ar_SA: The team may put investors in touch with a UK government office in your region to support you with advice relevant to your country. 
+ de_DE: The team may put you in touch with a UK government office in your region to support you with advice relevant to your country.
+ en_US: The team may put you in touch with a UK government office in your region to support you with advice relevant to your country.
+ zh_CN: The team may put you in touch with a UK government office in your region to support you with advice relevant to your country.
+ ja_JP: The team may put you in touch with a UK government office in your region to support you with advice relevant to your country.
+ es_ES: The team may put you in touch with a UK government office in your region to support you with advice relevant to your country.
+ pt_BR: The team may put you in touch with a UK government office in your region to support you with advice relevant to your country.
+ pt_INT: The team may put you in touch with a UK government office in your region to support you with advice relevant to your country.
+ ar_SA: The team may put you in touch with a UK government office in your region to support you with advice relevant to your country.
 form_next:
  de_DE: Weiter
  en_US: Next
@@ -439,14 +451,14 @@ form_investment_project:
  pt_INT: Tell us about your project
  ar_SA: Tell us about your project
 form_enter_investment_details:
- de_DE: Provide details about your interest in investing in the UK
- en_US: Provide details about your interest in investing in the UK
- zh_CN: Provide details about your interest in investing in the UK
- ja_JP: Provide details about your interest in investing in the UK
- es_ES: Provide details about your interest in investing in the UK
- pt_BR: Provide details about your interest in investing in the UK
- pt_INT: Provide details about your interest in investing in the UK
- ar_SA: Provide details about your interest in investing in the UK
+ de_DE: Provide details about your plans to invest in the UK
+ en_US: Provide details about your plans to invest in the UK
+ zh_CN: Provide details about your plans to invest in the UK
+ ja_JP: Provide details about your plans to invest in the UK
+ es_ES: Provide details about your plans to invest in the UK
+ pt_BR: Provide details about your plans to invest in the UK
+ pt_INT: Provide details about your plans to invest in the UK
+ ar_SA: Provide details about your plans to invest in the UK
 form_investment_details: 
  de_DE: Tell us about what you want to invest in and how large that investment might be. Please also tell us what help you would like from the UK government
  en_US: Tell us about what you want to invest in and how large that investment might be. Please also tell us what help you would like from the UK government
@@ -1327,14 +1339,14 @@ form_mailing_list_confirmation:
  pt_INT: I do not have a website
  ar_SA: I do not have a website
 form_enter_headquarters:
- de_DE: Geben Sie das Land Ihres Unternehmenshauptsitzes ein
- en_US: Enter the country where your company has its headquarters
- zh_CN: 请输入您的公司总部所在国家
- ja_JP: 貴社の本社のある国名を入力してください
- es_ES: Introduzca el país en el que se encuentre la sede central de su empresa
- pt_BR: Introduza o país onde a sua empresa está sediada
- pt_INT: Introduza o país onde a sua empresa está sediada
- ar_SA: أدخل الدولة التي يقع بها المقر الرئيسي لشركتك
+ de_DE: Enter your country
+ en_US: Enter your country
+ zh_CN: Enter your country
+ ja_JP: Enter your country
+ es_ES: Introduzca su país
+ pt_BR: Enter your country
+ pt_INT: Enter your country
+ ar_SA: Enter your country
 form_enter_headquarters_help:
  de_DE: Bitte geben Sie hier Text ein damit Sie eine Auswahl machen können
  en_US: Start typing to select an option
@@ -3631,6 +3643,15 @@ form_enter_page_title:
  pt_BR: 
  pt_INT: 
  ar_SA:  
+form_contact_us:
+ de_DE: Contact us
+ en_US: Contact us
+ zh_CN: Contact us
+ ja_JP: Contact us
+ es_ES: Contact us
+ pt_BR: Contact us
+ pt_INT: Contact us
+ ar_SA: Contact us
 feedback_name:
  de_DE: Vollständiger Name
  en_US: Name
