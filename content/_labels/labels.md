@@ -427,10 +427,10 @@ form_annual_turnover:
    ar_SA: الإيرادات السنوية التقديرية الحالية
  options:
    '0': Under £100,000
-   '1': Between £100,000 and £1 million
-   '2': Between £1 million and £10 million
-   '3': Between £10 million and £50 million
-   '4': Between £50 million and £100 million
+   '1': £100,000 to £1 million
+   '2': £1 million to £10 million
+   '3': £10 million to £50 million
+   '4': £50 million to £100 million
    '5': More than £100 million
    de_DE:
    - Unter 100.000 £
@@ -509,8 +509,8 @@ form_staff_number:
    ar_SA: العدد التقديري الحالي للموظفين
  options:
    '0': Less than 10
-   '1': Between 10 and 50
-   '2': Between 50 and 250
+   '1': 10 to 50
+   '2': 51 to 250
    '3': More than 250
    de_DE:
    - Weniger als 10
@@ -519,8 +519,8 @@ form_staff_number:
    - Mehr als 250
    en_US:
    - Less than 10
-   - Between 10 and 50
-   - Between 50 and 250
+   - 10 to 50
+   - 50 to 250
    - More than 250
    zh_CN:
    - 少于 10 人
@@ -549,8 +549,8 @@ form_staff_number:
    - Mais de 250
    ar_SA: 
    - Less than 10
-   - Between 10 and 50
-   - Between 50 and 250
+   - 10 to 50
+   - 51 to 250
    - More than 250
 form_location:
  de_DE: Interessieren Sie sich für einen bestimmten Standort in Großbritannien?
