@@ -327,7 +327,7 @@ form_enter_valid_email:
  ar_SA: "أدخل بريدك الإلكتروني بالتنسيق الصحيح، على سبيل المثال: name@domain.com"
 form_enter_valid_phone:
  de_DE: Bitte geben Sie eine gültige Telefonnummer ein
- en_US: Please enter a valid telephone number
+ en_US: Please include your international dialling code
  zh_CN: 请输入有效的电话号码
  ja_JP: 有効な電話番号を入力してください
  es_ES: Por favor introduce un número de teléfono válido
