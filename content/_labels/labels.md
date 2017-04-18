@@ -955,7 +955,7 @@ form_company_reason:
  ar_SA: ساعدنا على فهم عملياتك الحالية
 form_registered_company:
  de_DE: Eingetragener Firmenname
- en_US: Registered company name
+ en_US: Company name
  zh_CN: 公司注册名称
  ja_JP: 正式登録の社名
  es_ES: Nombre registrado de la empresa
@@ -964,7 +964,7 @@ form_registered_company:
  ar_SA: الاسم المُسجَّل للشركة
 form_enter_registered_company:
  de_DE: Geben Sie Ihren eingetragenen Unternehmensnamen ein
- en_US: Enter your registered company name
+ en_US: Enter your company name
  zh_CN: 请输入您的公司注册名称
  ja_JP: 正式登録された会社名を入力してください
  es_ES: Introduzca el nombre registrado de su empresa
