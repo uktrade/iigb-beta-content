@@ -1284,6 +1284,8 @@ form_mailing_list_confirmation:
  pt_BR: Sim, gostaria de receber essas informações
  pt_INT: Sim, gostaria de receber essas informações
  ar_SA: نعم، أود الحصول على هذه المعلومات
+form_use_of_info: 
+  en_US: We will use this information to put you in touch with your closest British Embassy or High Commission.
 form_enter_headquarters:
  de_DE: Geben Sie das Land Ihres Unternehmenshauptsitzes ein
  en_US: Enter the country where your company has its headquarters
