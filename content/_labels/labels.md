@@ -508,10 +508,10 @@ form_staff_number:
    pt_INT: Estimativa do número de pessoal atual
    ar_SA: العدد التقديري الحالي للموظفين
  options:
-   '0': Less_than_10
-   '1': 10_to_50
-   '2': 51_to_250
-   '3': More_than_250
+   '0': Less than 10
+   '1': 10 to 50
+   '2': 51 to 250
+   '3': More than 250
    de_DE:
    - Weniger als 10
    - Zwischen 10 und 50
