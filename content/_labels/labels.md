@@ -490,7 +490,7 @@ form_annual_turnover:
    - More than £100 million
 form_enter_staff_number:
  de_DE: Wählen Sie die Option, die Ihrer Mitarbeiteranzehl am besten entspricht
- en_US: Select the range that is closest to your number of staff
+ en_US: Select your total number of staff
  zh_CN: 请选择目前工作人员的大概人数
  ja_JP: 貴社の従業員数に最も近い範囲を選択してください
  es_ES: Seleccione el intervalo que más se aproxime a su número de empleados
