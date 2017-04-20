@@ -943,7 +943,7 @@ form_company:
  pt_INT: A sua empresa
  ar_SA: الشركة
 form_company_nf:
- en_US: Your business 
+ en_US: Your company 
 form_company_reason:
  de_DE: Helfen Sie uns, Ihren aktuellen Betrieb zu verstehen
  en_US: Help us understand your current operations
