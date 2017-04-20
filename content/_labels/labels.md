@@ -500,7 +500,7 @@ form_enter_staff_number:
 form_staff_number:
  label:
    de_DE: Geschätzte derzeitige Mitarbeiteranzahl
-   en_US: Estimated current number of staff
+   en_US: Total current number of staff
    zh_CN: 目前工作人员估计人数
    ja_JP: 現在の従業員数 (推定でも構いません)
    es_ES: Número aproximado de personal en la actualidad
