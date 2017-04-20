@@ -1299,7 +1299,7 @@ form_enter_headquarters_nf:
  en_US: Enter your country
 form_enter_headquarters_help:
  de_DE: Bitte geben Sie hier Text ein damit Sie eine Auswahl machen können.
- en_US: Start typing to select an option.
+ en_US: Start typing to select a country.
  zh_CN: 开始输入并选择一个选项
  ja_JP: 入力を開始すると、オプションを選択できます
  es_ES: Empiece a escribir para seleccionar una opción.
@@ -1309,7 +1309,7 @@ form_enter_headquarters_help:
 form_headquarters:
  label:
    de_DE: Hauptsitz ihres Unternehmens
-   en_US: Country
+   en_US: Which country are you based in?
    zh_CN: 公司总部所在国家
    ja_JP: 国名
    es_ES: País
