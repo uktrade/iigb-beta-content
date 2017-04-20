@@ -380,14 +380,14 @@ form_investment:
  pt_INT: O seu investimento
  ar_SA: الاستثمار
 form_investment_project:
- de_DE: Tell us about your project
- en_US: Tell us about your project
- zh_CN: Tell us about your project
- ja_JP: Tell us about your project
- es_ES: Tell us about your project
- pt_BR: Tell us about your project
- pt_INT: Tell us about your project
- ar_SA: Tell us about your project
+ de_DE: Tell us about your investment
+ en_US: Tell us about your investment
+ zh_CN: Tell us about your investment
+ ja_JP: Tell us about your investment
+ es_ES: Tell us about your investment
+ pt_BR: Tell us about your investment
+ pt_INT: Tell us about your investment
+ ar_SA: Tell us about your investment
 form_enter_investment_details:
  de_DE: Provide details about your plans to invest in the UK
  en_US: Provide details about your plans to invest in the UK
@@ -398,14 +398,14 @@ form_enter_investment_details:
  pt_INT: Provide details about your plans to invest in the UK
  ar_SA: Provide details about your plans to invest in the UK
 form_investment_details: 
- de_DE: Tell us about what you want to invest in and how large that investment might be. Please also tell us what help you would like from the UK government.
- en_US: Tell us about what you want to invest in and how large that investment might be. Please also tell us what help you would like from the UK government.
- zh_CN: Tell us about what you want to invest in and how large that investment might be. Please also tell us what help you would like from the UK government.
- ja_JP: Tell us about what you want to invest in and how large that investment might be. Please also tell us what help you would like from the UK government.
- es_ES: Tell us about what you want to invest in and how large that investment might be. Please also tell us what help you would like from the UK government.
- pt_BR: Tell us about what you want to invest in and how large that investment might be. Please also tell us what help you would like from the UK government.
- pt_INT: Tell us about what you want to invest in and how large that investment might be. Please also tell us what help you would like from the UK government
- ar_SA: Tell us about what you want to invest in and how large that investment might be. Please also tell us what help you would like from the UK government.
+ de_DE: Tell us what you want to invest in and how large that investment might be. Please also tell us what help you would like from the UK government.
+ en_US: Tell us what you want to invest in and how large that investment might be. Please also tell us what help you would like from the UK government.
+ zh_CN: Tell us what you want to invest in and how large that investment might be. Please also tell us what help you would like from the UK government.
+ ja_JP: Tell us what you want to invest in and how large that investment might be. Please also tell us what help you would like from the UK government.
+ es_ES: Tell us what you want to invest in and how large that investment might be. Please also tell us what help you would like from the UK government.
+ pt_BR: Tell us what you want to invest in and how large that investment might be. Please also tell us what help you would like from the UK government.
+ pt_INT: Tell us what you want to invest in and how large that investment might be. Please also tell us what help you would like from the UK government
+ ar_SA: Tell us what you want to invest in and how large that investment might be. Please also tell us what help you would like from the UK government.
 form_enter_annual_turnover:
  de_DE: Wählen Sie die Option, die Ihrem Jahresumzsatz am besten entspricht
  en_US: Select the range that reflects your annual turnover
