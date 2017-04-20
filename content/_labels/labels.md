@@ -398,14 +398,14 @@ form_enter_investment_details:
  pt_INT: Provide details about your plans to invest in the UK
  ar_SA: Provide details about your plans to invest in the UK
 form_investment_details: 
- de_DE: Tell us about what you want to invest in and how large that investment might be. Please also tell us what help you would like from the UK government
- en_US: Tell us about what you want to invest in and how large that investment might be. Please also tell us what help you would like from the UK government
- zh_CN: Tell us about what you want to invest in and how large that investment might be. Please also tell us what help you would like from the UK government
- ja_JP: Tell us about what you want to invest in and how large that investment might be. Please also tell us what help you would like from the UK government
- es_ES: Tell us about what you want to invest in and how large that investment might be. Please also tell us what help you would like from the UK government
- pt_BR: Tell us about what you want to invest in and how large that investment might be. Please also tell us what help you would like from the UK government
+ de_DE: Tell us about what you want to invest in and how large that investment might be. Please also tell us what help you would like from the UK government.
+ en_US: Tell us about what you want to invest in and how large that investment might be. Please also tell us what help you would like from the UK government.
+ zh_CN: Tell us about what you want to invest in and how large that investment might be. Please also tell us what help you would like from the UK government.
+ ja_JP: Tell us about what you want to invest in and how large that investment might be. Please also tell us what help you would like from the UK government.
+ es_ES: Tell us about what you want to invest in and how large that investment might be. Please also tell us what help you would like from the UK government.
+ pt_BR: Tell us about what you want to invest in and how large that investment might be. Please also tell us what help you would like from the UK government.
  pt_INT: Tell us about what you want to invest in and how large that investment might be. Please also tell us what help you would like from the UK government
- ar_SA: Tell us about what you want to invest in and how large that investment might be. Please also tell us what help you would like from the UK government
+ ar_SA: Tell us about what you want to invest in and how large that investment might be. Please also tell us what help you would like from the UK government.
 form_enter_annual_turnover:
  de_DE: Wählen Sie die Option, die Ihrem Jahresumzsatz am besten entspricht
  en_US: Select the range that reflects your annual turnover
@@ -1285,7 +1285,7 @@ form_mailing_list_confirmation:
  pt_INT: Sim, gostaria de receber essas informações
  ar_SA: نعم، أود الحصول على هذه المعلومات
 form_use_of_info: 
-  en_US: We will use this information to put you in touch with your closest British Embassy or High Commission.
+  en_US: We will use this information to put you in touch with your closest British embassy or high commission.
 form_enter_headquarters:
  de_DE: Geben Sie das Land Ihres Unternehmenshauptsitzes ein
  en_US: Enter the country where your company has its headquarters
@@ -1298,13 +1298,13 @@ form_enter_headquarters:
 form_enter_headquarters_nf:
  en_US: Enter your country
 form_enter_headquarters_help:
- de_DE: Bitte geben Sie hier Text ein damit Sie eine Auswahl machen können
- en_US: Start typing to select an option
+ de_DE: Bitte geben Sie hier Text ein damit Sie eine Auswahl machen können.
+ en_US: Start typing to select an option.
  zh_CN: 开始输入并选择一个选项
  ja_JP: 入力を開始すると、オプションを選択できます
- es_ES: Empiece a escribir para seleccionar una opción
- pt_BR: Comece a digitar para selecionar uma opção
- pt_INT: Comece a digitar para selecionar uma opção
+ es_ES: Empiece a escribir para seleccionar una opción.
+ pt_BR: Comece a digitar para selecionar uma opção.
+ pt_INT: Comece a digitar para selecionar uma opção.
  ar_SA: ابدأ الكتابة لتحديد أحد الخيارات
 form_headquarters:
  label:
