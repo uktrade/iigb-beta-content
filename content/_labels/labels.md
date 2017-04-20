@@ -515,12 +515,12 @@ form_staff_number:
    de_DE:
    - Weniger als 10
    - Zwischen 10 und 50
-   - Zwischen 50 und 250
+   - Zwischen 51 und 250
    - Mehr als 250
    en_US:
    - Less than 10
    - 10 to 50
-   - 50 to 250
+   - 51 to 250
    - More than 250
    zh_CN:
    - 少于 10 人
@@ -530,22 +530,22 @@ form_staff_number:
    ja_JP:
    - 10人未満
    - 10～50人
-   - 50～250人
+   - 51～250人
    - 250人を超える
    es_ES:
    - Menos de 10
    - Entre 10 y 50
-   - Entre 50 y 250
+   - Entre 51 y 250
    - Más de 250
    pt_BR:
    - Menos de 10
    - Entre 10 e 50
-   - Entre 50 e 250
+   - Entre 51 e 250
    - Mais de 250
    pt_INT:
    - Menos de 10
    - Entre 10 e 50
-   - Entre 50 e 250
+   - Entre 51 e 250
    - Mais de 250
    ar_SA: 
    - Less than 10
