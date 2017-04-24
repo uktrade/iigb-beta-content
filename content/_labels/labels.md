@@ -380,14 +380,14 @@ form_investment:
  pt_INT: O seu investimento
  ar_SA: الاستثمار
 form_investment_project:
- de_DE: Tell us about your project
- en_US: Tell us about your project
- zh_CN: Tell us about your project
- ja_JP: Tell us about your project
- es_ES: Tell us about your project
- pt_BR: Tell us about your project
- pt_INT: Tell us about your project
- ar_SA: Tell us about your project
+ de_DE: Tell us about your investment
+ en_US: Tell us about your investment
+ zh_CN: Tell us about your investment
+ ja_JP: Tell us about your investment
+ es_ES: Tell us about your investment
+ pt_BR: Tell us about your investment
+ pt_INT: Tell us about your investment
+ ar_SA: Tell us about your investment
 form_enter_investment_details:
  de_DE: Provide details about your plans to invest in the UK
  en_US: Provide details about your plans to invest in the UK
@@ -398,14 +398,14 @@ form_enter_investment_details:
  pt_INT: Provide details about your plans to invest in the UK
  ar_SA: Provide details about your plans to invest in the UK
 form_investment_details: 
- de_DE: Tell us about what you want to invest in and how large that investment might be. Please also tell us what help you would like from the UK government.
- en_US: Tell us about what you want to invest in and how large that investment might be. Please also tell us what help you would like from the UK government.
- zh_CN: Tell us about what you want to invest in and how large that investment might be. Please also tell us what help you would like from the UK government.
- ja_JP: Tell us about what you want to invest in and how large that investment might be. Please also tell us what help you would like from the UK government.
- es_ES: Tell us about what you want to invest in and how large that investment might be. Please also tell us what help you would like from the UK government.
- pt_BR: Tell us about what you want to invest in and how large that investment might be. Please also tell us what help you would like from the UK government.
- pt_INT: Tell us about what you want to invest in and how large that investment might be. Please also tell us what help you would like from the UK government
- ar_SA: Tell us about what you want to invest in and how large that investment might be. Please also tell us what help you would like from the UK government.
+ de_DE: Tell us about your company and your plans for the UK in terms of the size of investment, operational and recruitment plans. Please also tell us what help you would like from the UK government.
+ en_US: Tell us about your company and your plans for the UK in terms of the size of investment, operational and recruitment plans. Please also tell us what help you would like from the UK government.
+ zh_CN: Tell us about your company and your plans for the UK in terms of the size of investment, operational and recruitment plans. Please also tell us what help you would like from the UK government.
+ ja_JP: Tell us about your company and your plans for the UK in terms of the size of investment, operational and recruitment plans. Please also tell us what help you would like from the UK government.
+ es_ES: Tell us about your company and your plans for the UK in terms of the size of investment, operational and recruitment plans. Please also tell us what help you would like from the UK government.
+ pt_BR: Tell us about your company and your plans for the UK in terms of the size of investment, operational and recruitment plans. Please also tell us what help you would like from the UK government.
+ pt_INT: Tell us about your company and your plans for the UK in terms of the size of investment, operational and recruitment plans. Please also tell us what help you would like from the UK government.
+ ar_SA: Tell us about your company and your plans for the UK in terms of the size of investment, operational and recruitment plans. Please also tell us what help you would like from the UK government.
 form_enter_annual_turnover:
  de_DE: Wählen Sie die Option, die Ihrem Jahresumzsatz am besten entspricht
  en_US: Select the range that reflects your annual turnover
@@ -490,7 +490,7 @@ form_annual_turnover:
    - More than £100 million
 form_enter_staff_number:
  de_DE: Wählen Sie die Option, die Ihrer Mitarbeiteranzehl am besten entspricht
- en_US: Select the range that is closest to your number of staff
+ en_US: Select your total number of staff
  zh_CN: 请选择目前工作人员的大概人数
  ja_JP: 貴社の従業員数に最も近い範囲を選択してください
  es_ES: Seleccione el intervalo que más se aproxime a su número de empleados
@@ -500,7 +500,7 @@ form_enter_staff_number:
 form_staff_number:
  label:
    de_DE: Geschätzte derzeitige Mitarbeiteranzahl
-   en_US: Estimated current number of staff
+   en_US: Total current number of staff
    zh_CN: 目前工作人员估计人数
    ja_JP: 現在の従業員数 (推定でも構いません)
    es_ES: Número aproximado de personal en la actualidad
@@ -515,12 +515,12 @@ form_staff_number:
    de_DE:
    - Weniger als 10
    - Zwischen 10 und 50
-   - Zwischen 50 und 250
+   - Zwischen 51 und 250
    - Mehr als 250
    en_US:
    - Less than 10
    - 10 to 50
-   - 50 to 250
+   - 51 to 250
    - More than 250
    zh_CN:
    - 少于 10 人
@@ -530,22 +530,22 @@ form_staff_number:
    ja_JP:
    - 10人未満
    - 10～50人
-   - 50～250人
+   - 51～250人
    - 250人を超える
    es_ES:
    - Menos de 10
    - Entre 10 y 50
-   - Entre 50 y 250
+   - Entre 51 y 250
    - Más de 250
    pt_BR:
    - Menos de 10
    - Entre 10 e 50
-   - Entre 50 e 250
+   - Entre 51 e 250
    - Mais de 250
    pt_INT:
    - Menos de 10
    - Entre 10 e 50
-   - Entre 50 e 250
+   - Entre 51 e 250
    - Mais de 250
    ar_SA: 
    - Less than 10
@@ -943,7 +943,7 @@ form_company:
  pt_INT: A sua empresa
  ar_SA: الشركة
 form_company_nf:
- en_US: Your business 
+ en_US: Your company 
 form_company_reason:
  de_DE: Helfen Sie uns, Ihren aktuellen Betrieb zu verstehen
  en_US: Help us understand your current operations
@@ -1299,7 +1299,7 @@ form_enter_headquarters_nf:
  en_US: Enter your country
 form_enter_headquarters_help:
  de_DE: Bitte geben Sie hier Text ein damit Sie eine Auswahl machen können.
- en_US: Start typing to select an option.
+ en_US: Start typing to select a country.
  zh_CN: 开始输入并选择一个选项
  ja_JP: 入力を開始すると、オプションを選択できます
  es_ES: Empiece a escribir para seleccionar una opción.
@@ -1309,7 +1309,7 @@ form_enter_headquarters_help:
 form_headquarters:
  label:
    de_DE: Hauptsitz ihres Unternehmens
-   en_US: Country
+   en_US: Which country are you based in?
    zh_CN: 公司总部所在国家
    ja_JP: 国名
    es_ES: País
