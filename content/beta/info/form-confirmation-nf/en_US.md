@@ -1,3 +1,3 @@
 ---
-title: "Enquiry submitted"
+title: Your message has been sent
 ---
