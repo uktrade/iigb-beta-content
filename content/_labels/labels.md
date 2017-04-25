@@ -3981,7 +3981,23 @@ investment_opts_priorities:
   pt_INT: ''
   ar_SA: ''
 screen_reader_compatible:
+  de_DE: ''
   en_US: 'screen reader compatible'
+  zh_CN: ''
+  ja_JP: ''
+  es_ES: ''
+  pt_BR: ''
+  pt_INT: ''
+  ar_SA: ''
+new_window:
+  de_DE: ''
+  en_US: 'link opens in new window'
+  zh_CN: ''
+  ja_JP: ''
+  es_ES: ''
+  pt_BR: ''
+  pt_INT: ''
+  ar_SA: ''
 sectors:
   aerospace:
     de_DE: 'Luftfahrtindustrie'
