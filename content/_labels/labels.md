@@ -8,6 +8,15 @@ watch_video:
  pt_BR: Ver vídeo
  pt_INT: Ver vídeo
  ar_SA: مشاهدة الفيديو
+close_video:
+ de_DE: Drücken Sie Escape, um Video zu schließen
+ en_US: Press Escape to close video
+ zh_CN: 按Escape关闭视频
+ ja_JP: エスケープを押してビデオを閉じる
+ es_ES: Presiona Escape para cerrar el vídeo
+ pt_BR: Pressione Escape para fechar o vídeo
+ pt_INT: Pressione Escape para fechar o vídeo
+ ar_SA: اضغط على إسكيب لإغلاق الفيديو
 search:
  de_DE: Suche
  en_US: Search
