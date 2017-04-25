@@ -3980,8 +3980,8 @@ investment_opts_priorities:
   pt_BR: ''
   pt_INT: ''
   ar_SA: ''
-investment_opts_section_options_screen_readers:
-  en_US: 'Screen reader compatible options'
+screen_reader_compatible:
+  en_US: 'screen reader compatible'
 sectors:
   aerospace:
     de_DE: 'Luftfahrtindustrie'
