@@ -11,5 +11,5 @@ Food and drink businesses looking to set up here will find:
 - a country placed [seventh in the world for ease of doing business](http://www.doingbusiness.org/~/media/WBG/DoingBusiness/Documents/Annual-Reports/English/DB17-Report.pdf), according to the World Bank
 - the most competitive labour costs in Western Europe as rated by the World Economic Forum
 - some of the leading food research facilities in Europe including the Institute of Food Research
-- low taxes; corporation tax is being reduced from 20% in 2016 to 17% by 2020
+- the lowest corporation tax rate in the G20, at 19%, falling to 17% by 2020
 - a growing ‘freefrom’ market that produces products with gluten and dairy removed

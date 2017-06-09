@@ -8,6 +8,15 @@ watch_video:
  pt_BR: Ver vídeo
  pt_INT: Ver vídeo
  ar_SA: مشاهدة الفيديو
+close_video:
+ de_DE: Drücken Sie Escape, um Video zu schließen
+ en_US: Press Escape to close video
+ zh_CN: 按Escape关闭视频
+ ja_JP: エスケープを押してビデオを閉じる
+ es_ES: Presiona Escape para cerrar el vídeo
+ pt_BR: Pressione Escape para fechar o vídeo
+ pt_INT: Pressione Escape para fechar o vídeo
+ ar_SA: اضغط على إسكيب لإغلاق الفيديو
 search:
  de_DE: Suche
  en_US: Search
@@ -36,9 +45,9 @@ no_results:
  pt_INT: ''
  ar_SA: 
 search_error:
- de_DE: Ein Fehler ist aufgetreten. Bitte melden sie ihn.
+ de_DE: Ein Fehler ist aufgetreten. Bitte melden sie ihn
  en_US: An error has occurred. Please contact your administrator
- zh_CN: An error has occurred. Please contact your administrator:CN
+ zh_CN: An error has occurred. Please contact your administrator
  ja_JP: An error has occurred. Please contact your administrator
  es_ES: An error has occurred. Please contact your administrator
  pt_BR: An error has occurred. Please contact your administrator
@@ -97,7 +106,7 @@ privacy:
  es_ES: Privacidad y cookies
  pt_BR: Privacidade e cookies
  pt_INT: Privacidade e cookies
- ar_SA: الخصوصية وملفات تعريف الارتبا
+ ar_SA: الخصوصية وملفات تعريف الارتباط
 terms:
  de_DE: AGB
  en_US: Terms and conditions
@@ -109,7 +118,7 @@ terms:
  ar_SA: الشروط والأحكام
 contact:
  de_DE: Kontakt
- en_US: Get in touch
+ en_US: Contact us
  zh_CN: 取得联系
  ja_JP: お問い合わせ
  es_ES: Contacto
@@ -135,33 +144,22 @@ industry_overviews:
  pt_INT: Industry overviews:BR
  ar_SA: 
 industry_overviews_intro:
- de_DE: Find high level information about your industry sector including success
-   stories from other companies we have worked with:DE
+ de_DE: Find high level information about your industry sector including success stories from other companies we have worked with:DE
  en_US: High level information about UK industry sectors and associated specialisms
- zh_CN: Find high level information about your industry sector including success
-   stories from other companies we have worked with:CN
- ja_JP: Find high level information about your industry sector including success
-   stories from other companies we have worked with:JP
- es_ES: Find high level information about your industry sector including success
-   stories from other companies we have worked with:ES
- pt_BR: Find high level information about your industry sector including success
- pt_INT: Find high level information about your industry sector including success
-   stories from other companies we have worked with:BR
+ zh_CN: Find high level information about your industry sector including success stories from other companies we have worked with:CN
+ ja_JP: Find high level information about your industry sector including success stories from other companies we have worked with:JP
+ es_ES: Find high level information about your industry sector including success stories from other companies we have worked with:ES
+ pt_BR: Find high level information about your industry sector including success stories from other companies we have worked with:BR
+ pt_INT: Find high level information about your industry sector including success stories from other companies we have worked with:BR
  ar_SA: 
 industries_intro:
- de_DE: Find specific information about the industry your company operates in, including
-   market conditions and incentives:DE
- en_US: Information about the industry specialism your company operates in, including
-   market conditions and incentives
- zh_CN: Find specific information about the industry your company operates in, including
-   market conditions and incentives:CN
- ja_JP: Find specific information about the industry your company operates in, including
-   market conditions and incentives:JP
- es_ES: Find specific information about the industry your company operates in, including
-   market conditions and incentives:ES
- pt_BR: Find specific information about the industry your company operates in, including
- pt_INT: Find specific information about the industry your company operates in, including
-   market conditions and incentives:BR
+ de_DE: Find specific information about the industry your company operates in, including market conditions and incentives:DE
+ en_US: Information about the industry specialism your company operates in, including market conditions and incentives
+ zh_CN: Find specific information about the industry your company operates in, including market conditions and incentives:CN
+ ja_JP: Find specific information about the industry your company operates in, including market conditions and incentives:JP
+ es_ES: Find specific information about the industry your company operates in, including market conditions and incentives:ES
+ pt_BR: Find specific information about the industry your company operates in, including market conditions and incentives:BR
+ pt_INT: Find specific information about the industry your company operates in, including market conditions and incentives:BR
  ar_SA: 
 great_british_industries:
  de_DE: Bedeutende britische Industriezweige
@@ -198,7 +196,7 @@ discover:
  es_ES: Descubra más
  pt_BR: Saiba mais
  pt_INT: Saiba mais
- ar_SA: 
+ ar_SA: معرفة المزيد
 please_select:
  de_DE: Bitte auswählen
  en_US: Select
@@ -234,7 +232,7 @@ form_next:
  es_ES: Siguiente
  pt_BR: Próximo
  pt_INT: Próximo
- ar_SA: 
+ ar_SA: التالي
 form_previous:
  de_DE: Zurück
  en_US: Previous
@@ -243,7 +241,7 @@ form_previous:
  es_ES: Anterior
  pt_BR: Anterior
  pt_INT: Anterior
- ar_SA: 
+ ar_SA: السابق
 form_submit:
  de_DE: Absenden
  en_US: Send
@@ -252,7 +250,7 @@ form_submit:
  es_ES: Enviar
  pt_BR: Enviar
  pt_INT: Enviar
- ar_SA: 
+ ar_SA: إرسال
 form_contact_details:
  de_DE: Ihre Kontaktdaten
  en_US: Your contact details
@@ -262,9 +260,10 @@ form_contact_details:
  pt_BR: Os seus dados de contacto
  pt_INT: Os seus dados de contacto
  ar_SA: بيانات الاتصال
+form_contact_details_nf:
+ en_US: Contact information 
 form_contact_details_reason:
- de_DE: Wir benötigen diese um Sie mit Ihrem Ansprechpartner vor Ort in Verbindung
-   zu setzen
+ de_DE: Wir benötigen diese um Sie mit Ihrem Ansprechpartner vor Ort in Verbindung zu setzen
  en_US: We will use these to put you in touch with your local office
  zh_CN: 我们将会把您的联系方式交给当地的地办事处。
  ja_JP: これらの情報をもとに、貴社の最寄りの事務所をご紹介します
@@ -290,6 +289,24 @@ form_enter_full_name:
  pt_BR: Introduza o seu nome completo
  pt_INT: Introduza o seu nome completo
  ar_SA: أدخل الاسم بالكامل
+form_title:
+ de_DE: Job title
+ en_US: Job title
+ zh_CN: Job title
+ ja_JP: Job title
+ es_ES: Puesto que ocupa
+ pt_BR: Job title
+ pt_INT: Job title
+ ar_SA: Job title
+form_enter_title:
+ de_DE: Enter your job title
+ en_US: Enter your job title
+ zh_CN: Enter your job title
+ ja_JP: Enter your job title
+ es_ES: Introduzca el nombre de su puesto 
+ pt_BR: Enter your job title
+ pt_INT: Enter your job title
+ ar_SA: Enter your job title
 form_email:
  de_DE: Arbeits-E-Mail
  en_US: Work email
@@ -319,13 +336,13 @@ form_enter_valid_email:
  ar_SA: "أدخل بريدك الإلكتروني بالتنسيق الصحيح، على سبيل المثال: name@domain.com"
 form_enter_valid_phone:
  de_DE: Bitte geben Sie eine gültige Telefonnummer ein
- en_US: Please enter a valid telephone number
+ en_US: Please include your international dialling code
  zh_CN: 请输入有效的电话号码
  ja_JP: 有効な電話番号を入力してください
  es_ES: Por favor introduce un número de teléfono válido
  pt_BR: Por favor, coloque um numero de telefone válido
  pt_INT: Por favor, coloque um numero de telefone válido
- ar_SA: 
+ ar_SA: يُرجى إدخال رقم هاتف صحيح
 form_phone:
  de_DE: Arbeits-Telefon (optional)
  en_US: Work phone (optional)
@@ -336,14 +353,14 @@ form_phone:
  pt_INT: Telefone - Trabalho (opcional)
  ar_SA: هاتف العمل (اختياري)
 form_enter_phone:
- de_DE: Enter your telephone number:DE
+ de_DE: Enter your telephone number
  en_US: Enter your telephone number
- zh_CN: Enter your telephone number:CN
- ja_JP: Enter your telephone number:JP
- es_ES: Enter your telephone number:ES
- pt_BR: Enter your telephone number:BR
- pt_INT: Enter your telephone number:BR
- ar_SA: 
+ zh_CN: Enter your telephone numbe
+ ja_JP: Enter your telephone number
+ es_ES: Enter your telephone number
+ pt_BR: Enter your telephone number
+ pt_INT: Enter your telephone number
+ ar_SA: Enter your telephone number
 form_city:
  de_DE: Stadt, in der Sie derzeit wohnen
  en_US: Closest city to your current business location
@@ -371,6 +388,33 @@ form_investment:
  pt_BR: O seu investimento
  pt_INT: O seu investimento
  ar_SA: الاستثمار
+form_investment_project:
+ de_DE: Tell us about your investment
+ en_US: Tell us about your investment
+ zh_CN: Tell us about your investment
+ ja_JP: Tell us about your investment
+ es_ES: Tell us about your investment
+ pt_BR: Tell us about your investment
+ pt_INT: Tell us about your investment
+ ar_SA: Tell us about your investment
+form_enter_investment_details:
+ de_DE: Provide details about your plans to invest in the UK
+ en_US: Provide details about your plans to invest in the UK
+ zh_CN: Provide details about your plans to invest in the UK
+ ja_JP: Provide details about your plans to invest in the UK
+ es_ES: Provide details about your plans to invest in the UK
+ pt_BR: Provide details about your plans to invest in the UK
+ pt_INT: Provide details about your plans to invest in the UK
+ ar_SA: Provide details about your plans to invest in the UK
+form_investment_details: 
+ de_DE: Tell us about your company and your plans for the UK in terms of the size of investment, operational and recruitment plans. Please also tell us what help you would like from the UK government.
+ en_US: Tell us about your company and your plans for the UK in terms of the size of investment, operational and recruitment plans. Please also tell us what help you would like from the UK government.
+ zh_CN: Tell us about your company and your plans for the UK in terms of the size of investment, operational and recruitment plans. Please also tell us what help you would like from the UK government.
+ ja_JP: Tell us about your company and your plans for the UK in terms of the size of investment, operational and recruitment plans. Please also tell us what help you would like from the UK government.
+ es_ES: Tell us about your company and your plans for the UK in terms of the size of investment, operational and recruitment plans. Please also tell us what help you would like from the UK government.
+ pt_BR: Tell us about your company and your plans for the UK in terms of the size of investment, operational and recruitment plans. Please also tell us what help you would like from the UK government.
+ pt_INT: Tell us about your company and your plans for the UK in terms of the size of investment, operational and recruitment plans. Please also tell us what help you would like from the UK government.
+ ar_SA: Tell us about your company and your plans for the UK in terms of the size of investment, operational and recruitment plans. Please also tell us what help you would like from the UK government.
 form_enter_annual_turnover:
  de_DE: Wählen Sie die Option, die Ihrem Jahresumzsatz am besten entspricht
  en_US: Select the range that reflects your annual turnover
@@ -392,10 +436,10 @@ form_annual_turnover:
    ar_SA: الإيرادات السنوية التقديرية الحالية
  options:
    '0': Under £100,000
-   '1': Between £100,000 and £1 million
-   '2': Between £1 million and £10 million
-   '3': Between £10 million and £50 million
-   '4': Between £50 million and £100 million
+   '1': £100,000 to £1 million
+   '2': £1 million to £10 million
+   '3': £10 million to £50 million
+   '4': £50 million to £100 million
    '5': More than £100 million
    de_DE:
    - Unter 100.000 £
@@ -433,6 +477,12 @@ form_annual_turnover:
    - Entre 50 y 100 millones de libras
    - Más de 100 millones de libras
    pt_BR:
+   - Inferior a 100 000 £
+   - Entre 100 000 £ e 1 milhão de £
+   - Entre 1 milhão de £ e 10 milhões de £
+   - Entre 10 milhões de £ e 50 milhões de £
+   - Entre 50 milhões de £ e 100 milhões de £
+   - Superior a 100 milhões de £
    pt_INT:
    - Inferior a 100 000 £
    - Entre 100 000 £ e 1 milhão de £
@@ -449,7 +499,7 @@ form_annual_turnover:
    - More than £100 million
 form_enter_staff_number:
  de_DE: Wählen Sie die Option, die Ihrer Mitarbeiteranzehl am besten entspricht
- en_US: Select the range that is closest to your number of staff
+ en_US: Select your total number of staff
  zh_CN: 请选择目前工作人员的大概人数
  ja_JP: 貴社の従業員数に最も近い範囲を選択してください
  es_ES: Seleccione el intervalo que más se aproxime a su número de empleados
@@ -459,7 +509,7 @@ form_enter_staff_number:
 form_staff_number:
  label:
    de_DE: Geschätzte derzeitige Mitarbeiteranzahl
-   en_US: Estimated current number of staff
+   en_US: Total current number of staff
    zh_CN: 目前工作人员估计人数
    ja_JP: 現在の従業員数 (推定でも構いません)
    es_ES: Número aproximado de personal en la actualidad
@@ -468,18 +518,18 @@ form_staff_number:
    ar_SA: العدد التقديري الحالي للموظفين
  options:
    '0': Less than 10
-   '1': Between 10 and 50
-   '2': Between 50 and 250
+   '1': 10 to 50
+   '2': 51 to 250
    '3': More than 250
    de_DE:
    - Weniger als 10
    - Zwischen 10 und 50
-   - Zwischen 50 und 250
+   - Zwischen 51 und 250
    - Mehr als 250
    en_US:
    - Less than 10
-   - Between 10 and 50
-   - Between 50 and 250
+   - 10 to 50
+   - 51 to 250
    - More than 250
    zh_CN:
    - 少于 10 人
@@ -489,23 +539,27 @@ form_staff_number:
    ja_JP:
    - 10人未満
    - 10～50人
-   - 50～250人
+   - 51～250人
    - 250人を超える
    es_ES:
    - Menos de 10
    - Entre 10 y 50
-   - Entre 50 y 250
+   - Entre 51 y 250
    - Más de 250
    pt_BR:
+   - Menos de 10
+   - Entre 10 e 50
+   - Entre 51 e 250
+   - Mais de 250
    pt_INT:
    - Menos de 10
    - Entre 10 e 50
-   - Entre 50 e 250
+   - Entre 51 e 250
    - Mais de 250
    ar_SA: 
    - Less than 10
-   - Between 10 and 50
-   - Between 50 and 250
+   - 10 to 50
+   - 51 to 250
    - More than 250
 form_location:
  de_DE: Interessieren Sie sich für einen bestimmten Standort in Großbritannien?
@@ -602,6 +656,16 @@ form_which_part:
    - Belfast e Irlanda del Norte
    - Nottingham y las Midlands del Este
    pt_BR:
+   - Londres e região sudeste
+   - Bristol e região sudoeste
+   - Birmingham e Midlands ocidentais
+   - Manchester e região noroeste
+   - Newcastle e região nordeste
+   - Cardiff e Gales
+   - Edimburgo e sul da Escócia
+   - Aberdeen e nordeste da Escócia
+   - Belfast e Irlanda do Norte
+   - Nottingham e Midlands orientais
    pt_INT:
    - Londres e região sudeste
    - Bristol e região sudoeste
@@ -625,8 +689,7 @@ form_which_part:
    - Belfast and Northern Ireland
    - Nottingham and East Midlands
 form_enter_when:
- de_DE: Geben Sie ein ungefähres Startdatum für die Aufnahme Ihrer Geschäfte in Großbritannien
-   ein
+ de_DE: Geben Sie ein ungefähres Startdatum für die Aufnahme Ihrer Geschäfte in Großbritannien ein
  en_US: Enter the approximate date you want to be operating in the UK
  zh_CN: 请输入您預期在英国的业务运行的日子
  ja_JP: 英国における営業開始をご希望の日付を大まかにご記入ください
@@ -732,6 +795,18 @@ form_when_month:
    - Noviembre
    - Diciembre
    pt_BR:
+   - Janeiro
+   - Fevereiro
+   - Março
+   - Abril
+   - Maio
+   - Junho
+   - Julho
+   - Agosto
+   - Setembro
+   - Outubro
+   - Novembro
+   - Dezembro
    pt_INT:
    - Janeiro
    - Fevereiro
@@ -835,6 +910,16 @@ form_when_year:
    - '2025'
    - '2026'
    pt_BR:
+   - '2017'
+   - '2018'
+   - '2019'
+   - '2020'
+   - '2021'
+   - '2022'
+   - '2023'
+   - '2024'
+   - '2025'
+   - '2026'
    pt_INT:
    - '2017'
    - '2018'
@@ -866,6 +951,8 @@ form_company:
  pt_BR: A sua empresa
  pt_INT: A sua empresa
  ar_SA: الشركة
+form_company_nf:
+ en_US: Your company 
 form_company_reason:
  de_DE: Helfen Sie uns, Ihren aktuellen Betrieb zu verstehen
  en_US: Help us understand your current operations
@@ -877,22 +964,22 @@ form_company_reason:
  ar_SA: ساعدنا على فهم عملياتك الحالية
 form_registered_company:
  de_DE: Eingetragener Firmenname
- en_US: Registered company name
+ en_US: Company name
  zh_CN: 公司注册名称
  ja_JP: 正式登録の社名
  es_ES: Nombre registrado de la empresa
  pt_BR: Nome da empresa registado
  pt_INT: Nome da empresa registado
- ar_SA: الاسم المُسجَّل للشركة
+ ar_SA: الاسم المُسجَّل للشركة
 form_enter_registered_company:
  de_DE: Geben Sie Ihren eingetragenen Unternehmensnamen ein
- en_US: Enter your registered company name
+ en_US: Enter your company name
  zh_CN: 请输入您的公司注册名称
  ja_JP: 正式登録された会社名を入力してください
  es_ES: Introduzca el nombre registrado de su empresa
  pt_BR: Introduza o nome registado da sua empresa
  pt_INT: Introduza o nome registado da sua empresa
- ar_SA: أدخل اسم شركتك المُسجَّل
+ ar_SA: أدخل اسم شركتك المُسجَّل
 form_website:
  de_DE: Internetadresse Ihres Unternehmens
  en_US: Company website address (optional)
@@ -902,6 +989,8 @@ form_website:
  pt_BR: Endereço do website da empresa (opcional)
  pt_INT: Endereço do website da empresa (opcional)
  ar_SA: الموقع الإلكتروني للشركة (اختياري)
+form_website_nf:
+ en_US: Company website
 form_enter_website:
  de_DE: Geben Sie die Internetadresse Ihres Unternehmens ein
  en_US: Enter your company website address
@@ -911,6 +1000,10 @@ form_enter_website:
  pt_BR: Introduza o endereço do website da sua empresa
  pt_INT: Introduza o endereço do website da sua empresa
  ar_SA: 
+form_enter_website_nf:
+ en_US: Enter your website address or check the box below
+form_do_not_have_website:
+ en_US: I do not have a website 
 form_enter_primary_industry:
  de_DE: Wählen Sie die Branche aus, in der Sie hauptsächlich tätig sind, aus oder wählen Sie "Sonstiges"
  en_US: Select the industry you mainly operate in or select Other
@@ -1081,6 +1174,30 @@ form_primary_industry:
    - Tecnología
    - Otros
    pt_BR:
+   - Fabrico avançado
+   - Aeroespacial
+   - Gestão de ativos
+   - Investigação e desenvolvimento automóvel
+   - Cadeia de fornecimento automóvel
+   - Big Data e análise
+   - Produção e conteúdos criativos
+   - Meios digitais
+   - Redes elétricas
+   - Energia de resíduos
+   - Serviços financeiros
+   - FinTech
+   - Indústria alimentar e de bebidas
+   - Isento de
+   - Cuidados de saúde
+   - Tecnologia médica
+   - Desportos motorizados
+   - Nuclear
+   - Energia eólica offshore
+   - Petróleo e gás
+   - Fabrico de produtos farmacêuticos
+   - Retalho
+   - Tecnologia
+   - Outra
    pt_INT:
    - Fabrico avançado
    - Aeroespacial
@@ -1150,10 +1267,8 @@ form_enter_other:
  pt_INT: Introduza a sua indústria
  ar_SA: غير ذلك
 form_mailing_list:
- de_DE: Das Department for International Trade und Ihre Partner könnten Ihre Daten
-   verwenden um Ihnen relevante Neuigkeiten und Informationen zuzusenden.
- en_US: The Department for International Trade and its partners might use your details
-   to send you relevant news and information.
+ de_DE: Das Department for International Trade und Ihre Partner könnten Ihre Daten verwenden um Ihnen relevante Neuigkeiten und Informationen zuzusenden.
+ en_US: The Department for International Trade and its partners might use your details to send you relevant news and information.
  zh_CN: 国际贸易部及其合作伙伴可能会使用您的联系方式向您发送相关的新闻和信息
  ja_JP: 英国国際貿易省 (Department for International Trade) およびそのパートナーでは、関連ニュースや情報を送信するために情報を使用させていただく場合があります。
  es_ES: El Departamento de Comercio Internacional y sus socios pueden emplear sus datos para enviarle información y noticias relevantes
@@ -1161,8 +1276,7 @@ form_mailing_list:
  pt_INT: O Departamento do Comércio Internacional (Department for International Trade) e os respetivos parceiros poderão utilizar os seus detalhes para lhe enviar notícias e informações relevantes
  ar_SA: قد تستخدم وزارة التجارة الدولية وشركاؤها بياناتكم لترسل لكم الأخبار والمعلومات ذات الصلة
 form_enter_mailing_list:
- de_DE: Bitte geben Sie an, ob Sie relevante Neuigkeiten und Informationen erhlten
-   wollen.
+ de_DE: Bitte geben Sie an, ob Sie relevante Neuigkeiten und Informationen erhlten wollen.
  en_US: Select whether you'd like to receive relevant news and information
  zh_CN: Select whether you'd like to receive relevant news and information:CN
  ja_JP: Select whether you'd like to receive relevant news and information:JP
@@ -1179,6 +1293,8 @@ form_mailing_list_confirmation:
  pt_BR: Sim, gostaria de receber essas informações
  pt_INT: Sim, gostaria de receber essas informações
  ar_SA: نعم، أود الحصول على هذه المعلومات
+form_use_of_info: 
+  en_US: We will use this information to put you in touch with your closest British embassy or high commission.
 form_enter_headquarters:
  de_DE: Geben Sie das Land Ihres Unternehmenshauptsitzes ein
  en_US: Enter the country where your company has its headquarters
@@ -1188,19 +1304,21 @@ form_enter_headquarters:
  pt_BR: Introduza o país onde a sua empresa está sediada
  pt_INT: Introduza o país onde a sua empresa está sediada
  ar_SA: أدخل الدولة التي يقع بها المقر الرئيسي لشركتك
+form_enter_headquarters_nf:
+ en_US: Enter your country
 form_enter_headquarters_help:
- de_DE: Bitte geben Sie hier Text ein damit Sie eine Auswahl machen können
- en_US: Start typing to select an option
+ de_DE: Bitte geben Sie hier Text ein damit Sie eine Auswahl machen können.
+ en_US: Start typing to select a country.
  zh_CN: 开始输入并选择一个选项
  ja_JP: 入力を開始すると、オプションを選択できます
- es_ES: Empiece a escribir para seleccionar una opción
- pt_BR: Comece a digitar para selecionar uma opção
- pt_INT: Comece a digitar para selecionar uma opção
+ es_ES: Empiece a escribir para seleccionar una opción.
+ pt_BR: Comece a digitar para selecionar uma opção.
+ pt_INT: Comece a digitar para selecionar uma opção.
  ar_SA: ابدأ الكتابة لتحديد أحد الخيارات
 form_headquarters:
  label:
    de_DE: Hauptsitz ihres Unternehmens
-   en_US: Country
+   en_US: Which country are you based in?
    zh_CN: 公司总部所在国家
    ja_JP: 国名
    es_ES: País
@@ -2708,6 +2826,255 @@ form_headquarters:
    - Zambia
    - Zimbabwe
    pt_BR:
+   - Andorra
+   - United Arab Emirates
+   - Afghanistan
+   - Antigua and Barbuda
+   - Anguilla
+   - Albania
+   - Armenia
+   - Angola
+   - Antarctica
+   - Argentina
+   - American Samoa
+   - Austria
+   - Australia
+   - Aruba
+   - Åland Islands
+   - Azerbaijan
+   - Bosnia and Herzegovina
+   - Barbados
+   - Bangladesh
+   - Belgium
+   - Burkina Faso
+   - Bulgaria
+   - Bahrain
+   - Burundi
+   - Benin
+   - Saint-Barthélemy
+   - Bermuda
+   - Brunei Darussalam
+   - Bolivia
+   - Bonaire
+   - Brazil
+   - Bahamas
+   - Bhutan
+   - Bouvet Island
+   - Botswana
+   - Belarus
+   - Belize
+   - Canada
+   - Cocos (Keeling) Islands
+   - Congo, The Democratic Republic of the
+   - Central African Republic
+   - Congo
+   - Switzerland
+   - Cote D'Ivoire
+   - Cook Islands
+   - Chile
+   - Cameroon
+   - China
+   - Colombia
+   - Costa Rica
+   - Cuba
+   - Cape Verde
+   - Curaçao
+   - Christmas Island
+   - Cyprus
+   - Czech Republic
+   - Germany
+   - Djibouti
+   - Denmark
+   - Dominica
+   - Dominican Republic
+   - Algeria
+   - Ecuador
+   - Estonia
+   - Egypt
+   - Western Sahara
+   - Eritrea
+   - Spain
+   - Ethiopia
+   - Finland
+   - Fiji
+   - Falkland Islands (Malvinas)
+   - Micronesia, Federated States of
+   - Faroe Islands
+   - France
+   - Gabon
+   - United Kingdom
+   - Grenada
+   - Georgia
+   - French Guiana
+   - Guernsey
+   - Ghana
+   - Gibraltar
+   - Greenland
+   - Gambia
+   - Guinea
+   - Guadeloupe
+   - Equatorial Guinea
+   - Greece
+   - South Georgia and the South Sandwich Islands
+   - Guatemala
+   - Guam
+   - Guinea-Bissau
+   - Guyana
+   - Hong Kong
+   - Heard Island and Mcdonald Islands
+   - Honduras
+   - Croatia
+   - Haiti
+   - Hungary
+   - Indonesia
+   - Ireland
+   - Israel
+   - Isle of Man
+   - India
+   - British Indian Ocean Territory
+   - Iraq
+   - Iran, Islamic Republic Of
+   - Iceland
+   - Italy
+   - Jersey
+   - Jamaica
+   - Jordan
+   - Japan
+   - Kenya
+   - Kyrgyzstan
+   - Cambodia
+   - Kiribati
+   - Comoros
+   - Saint Kitts and Nevis
+   - Democratic People's Republic of Korea
+   - Korea, Republic of
+   - Kuwait
+   - Cayman Islands
+   - Kazakhstan
+   - Lao People's Democratic Republic
+   - Lebanon
+   - Saint Lucia
+   - Liechtenstein
+   - Sri Lanka
+   - Liberia
+   - Lesotho
+   - Lithuania
+   - Luxembourg
+   - Latvia
+   - Libyan Arab Jamahiriya
+   - Morocco
+   - Monaco
+   - Moldova, Republic of
+   - Montenegro
+   - Sint Maarten
+   - Madagascar
+   - Marshall Islands
+   - Macedonia, The Former Yugoslav Republic of
+   - Mali
+   - Myanmar
+   - Mongolia
+   - Macao
+   - Northern Mariana Islands
+   - Martinique
+   - Mauritania
+   - Montserrat
+   - Malta
+   - Mauritius
+   - Maldives
+   - Malawi
+   - Mexico
+   - Malaysia
+   - Mozambique
+   - Namibia
+   - New Caledonia
+   - Niger
+   - Norfolk Island
+   - Nigeria
+   - Nicaragua
+   - Netherlands
+   - Norway
+   - Nepal
+   - Nauru
+   - Niue
+   - New Zealand
+   - Oman
+   - Panama
+   - Peru
+   - French Polynesia
+   - Papua New Guinea
+   - Philippines
+   - Pakistan
+   - Poland
+   - Saint Pierre and Miquelon
+   - Pitcairn
+   - Puerto Rico
+   - Palestinian Territory, Occupied
+   - Portugal
+   - Palau
+   - Paraguay
+   - Qatar
+   - Reunion
+   - Romania
+   - Serbia
+   - Russian Federation
+   - Rwanda
+   - Saudi Arabia
+   - Solomon Islands
+   - Seychelles
+   - Sudan
+   - Sweden
+   - Singapore
+   - Saint Helena
+   - Slovenia
+   - Svalbard and Jan Mayen
+   - Slovakia
+   - Sierra Leone
+   - San Marino
+   - Senegal
+   - Somalia
+   - Suriname
+   - South Sudan
+   - Sao Tome and Principe
+   - El Salvador
+   - Sint Maarten
+   - Syrian Arab Republic
+   - Swaziland
+   - Turks and Caicos Islands
+   - Chad
+   - French Southern Territories
+   - Togo
+   - Thailand
+   - Tajikistan
+   - Tokelau
+   - Timor-Leste
+   - Turkmenistan
+   - Tunisia
+   - Tonga
+   - Turkey
+   - Trinidad and Tobago
+   - Tuvalu
+   - Taiwan
+   - Tanzania, United Republic of
+   - Ukraine
+   - Uganda
+   - United States Minor Outlying Islands
+   - United States
+   - Uruguay
+   - Uzbekistan
+   - Holy See (Vatican City State)
+   - Saint Vincent and the Grenadines
+   - Venezuela
+   - Virgin Islands, British
+   - Virgin Islands, U.S.
+   - VietNam
+   - Vanuatu
+   - Wallis and Futuna
+   - Samoa
+   - Yemen
+   - Mayotte
+   - South Africa
+   - Zambia
+   - Zimbabwe
    pt_INT:
    - Andorra
    - United Arab Emirates
@@ -3226,6 +3593,15 @@ form_disclaimer_tc:
  pt_BR: termos e condições.
  pt_INT: termos e condições.
  ar_SA: الشروط والأحكام
+form_enter_page_title:
+ de_DE: 
+ en_US: Please enter the name of the page where you experienced an issue
+ zh_CN: 
+ ja_JP: 
+ es_ES: 
+ pt_BR: 
+ pt_INT: 
+ ar_SA:  
 feedback_name:
  de_DE: Vollständiger Name
  en_US: Name
@@ -3234,7 +3610,7 @@ feedback_name:
  es_ES: Nombre
  pt_BR: Nome
  pt_INT: Nome
- ar_SA: 
+ ar_SA: الاسم 
 feedback_email:
  de_DE: E-Mail
  en_US: Email
@@ -3243,7 +3619,7 @@ feedback_email:
  es_ES: Correo electrónico
  pt_BR: E-mail
  pt_INT: E-mail
- ar_SA: 
+ ar_SA: ﺎﻠﺑﺮﻳﺩ ﺍﻺﻠﻜﺗﺭﻮﻨﻳ ﻞﻠﻌﻤﻟ
 feedback_feedback:
  de_DE: Feedback
  en_US: Feedback
@@ -3253,6 +3629,15 @@ feedback_feedback:
  pt_BR: Comentários
  pt_INT: Comentários
  ar_SA: 
+feedback_page_title:
+ de_DE: Seitentitel
+ en_US: Page title
+ zh_CN: 页面标题
+ ja_JP: ページタイトル
+ es_ES: Título de la página
+ pt_BR: Título da página
+ pt_INT: Título da página
+ ar_SA:
 report_problem:
  de_DE: Ein Problem melden
  en_US: Report an issue
@@ -3262,14 +3647,10 @@ report_problem:
  pt_BR: Relatar um problema
  pt_INT: Relatar um problema
  ar_SA: 
-
 report_problem_placeholder:
- de_DE: Please include the name of the page with the issue, and as much detail as
-   possible.
- en_US: Please include the name of the page with the issue, and as much detail as
-   possible.
- zh_CN: Please include the name of the page with the issue, and as much detail as
-   possible.
+ de_DE: Please include the name of the page with the issue, and as much detail as possible.
+ en_US: Please include the name of the page with the issue, and as much detail as possible.
+ zh_CN: Please include the name of the page with the issue, and as much detail as possible.
  ja_JP: ''
  es_ES: ''
  pt_BR: ''
@@ -3283,7 +3664,7 @@ language:
   es_ES: Idioma
   pt_BR: Lingua
   pt_INT: Lingua
-  ar_SA: 
+  ar_SA: اللغة
 choose_language:
   de_DE: Wählen Sie Ihre Sprache
   en_US: Choose your language
@@ -3292,7 +3673,7 @@ choose_language:
   es_ES: Seleccione su idioma
   pt_BR: Escolha a sua língua
   pt_INT: Escolha a sua língua
-  ar_SA: 
+  ar_SA: اختيار اللغة
 close:
   de_DE: Schließen
   en_US: Close
@@ -3301,7 +3682,7 @@ close:
   es_ES: Cerrar
   pt_BR: Fechar
   pt_INT: Fechar
-  ar_SA: 
+  ar_SA: إغلاق
 country_region:
   de_DE: Land/Region
   en_US: Country/region
@@ -3310,7 +3691,7 @@ country_region:
   es_ES: País/región
   pt_BR: País/região
   pt_INT: País/região
-  ar_SA: 
+  ar_SA: الدولة/المنطقة
 country_text:
   de_DE: Wir bieten auch regionsspezifische Investitionsinformationen an.
   en_US: We also provide region specific investment information.
@@ -3319,7 +3700,7 @@ country_text:
   es_ES: También proporcionamos información sobre inversiones específica para cada región.
   pt_BR: Também fornecemos informações de investimento específicas para cada região.
   pt_INT: Também fornecemos informações de investimento específicas para cada região.
-  ar_SA: 
+  ar_SA: نقدم أيضًا معلومات عن الاستثمار حسب المنطقة
 location_guide:
   de_DE: Standortführer
   en_US: Location guide
@@ -3329,6 +3710,42 @@ location_guide:
   pt_BR: Guia de localização
   pt_INT: Guia de localização
   ar_SA: دليل الأماكن
+concentration_high:
+  de_DE: Hoch
+  en_US: High
+  zh_CN: 高
+  ja_JP: 
+  es_ES: 
+  pt_BR: 
+  pt_INT:
+  ar_SA: 
+concentration_medium:
+  de_DE: Mittel
+  en_US: Medium
+  zh_CN: 中
+  ja_JP: 
+  es_ES: 
+  pt_BR: 
+  pt_INT:
+  ar_SA: 
+concentration_low:
+  de_DE: Gering
+  en_US: Low
+  zh_CN: 低
+  ja_JP: 
+  es_ES: 
+  pt_BR: 
+  pt_INT:
+  ar_SA: 
+investment_opportunities:
+  de_DE: Investitionschanchen
+  en_US: Investment opportunities
+  zh_CN: 来英投资者指南
+  ja_JP: 
+  es_ES: 
+  pt_BR: 
+  pt_INT: 
+  ar_SA: 
 investment_opts_involved_in_research:
   de_DE: An Studien teilnehmen und bei der Gestaltung des Services mitwirken
   en_US: Take part in research to help shape the service
@@ -3337,7 +3754,7 @@ investment_opts_involved_in_research:
   es_ES: Participar en la investigación para el desarrollo del servicio
   pt_BR: Participe na pesquisa para desenvolver o serviço
   pt_INT: Participe na pesquisa para desenvolver o serviço
-  ar_SA: 
+  ar_SA: شاركوا في الأبحاث لتطوير الخدمة
 investment_opts_get_updates:
   de_DE: Neuigkeiten erhalten
   en_US: Get updates
@@ -3346,5 +3763,339 @@ investment_opts_get_updates:
   es_ES: Recibir actualizaciones
   pt_BR: Receba atualizações
   pt_INT: Receba atualizações
+  ar_SA: الحصول على التحديثات
+investment_opts_map:
+  de_DE: Karte
+  en_US: Map
+  zh_CN: 地图
+  ja_JP: ''
+  es_ES: ''
+  pt_BR: ''
+  pt_INT: ''
+  ar_SA: ''
+investment_opts_detail:
+  de_DE: Ausführliche Ansicht
+  en_US: Detail
+  zh_CN: 详细信息
+  ja_JP: ''
+  es_ES: ''
+  pt_BR: ''
+  pt_INT: ''
+  ar_SA: ''
+investment_opts_region:
+  de_DE: 'Region'
+  en_US: 'Region'
+  zh_CN: '区域'
+  ja_JP: ''
+  es_ES: ''
+  pt_BR: ''
+  pt_INT: ''
+  ar_SA: ''
+investment_opts_select_industry:
+  de_DE: Wählen Sie eine Branche
+  en_US: Choose an industry
+  zh_CN: 选择行业
+  ja_JP: ''
+  es_ES: ''
+  pt_BR: ''
+  pt_INT: ''
+  ar_SA: ''
+investment_opts_using_the_service:
+  de_DE: 'Nutzung dieses Dienstes'
+  en_US: 'To use this service'
+  zh_CN: 服务使用指南
+  ja_JP: ''
+  es_ES: ''
+  pt_BR: ''
+  pt_INT: ''
+  ar_SA: ''
+investment_opts_businesses:
+  de_DE: 'Beliebte Regionen'
+  en_US: 'Location of significant businesses in the industry'
+  zh_CN: '热门地区'
+  ja_JP: ''
+  es_ES: ''
+  pt_BR: ''
+  pt_INT: ''
+  ar_SA: ''
+investment_opts_businesses_detail:
+  de_DE: 'Unternehmen mit bedeutendem Einfluss in der ausgewählten Branche'
+  en_US: ''
+  zh_CN: '在所选行业有重大影响力的企业'
+  ja_JP: ''
+  es_ES: ''
+  pt_BR: ''
+  pt_INT: ''
+  ar_SA: ''
+investment_opts_finance_and_incentives:
+  de_DE: 'Finanzierung und Anreize'
+  en_US: 'Finance and incentives'
+  zh_CN: '当地激励措施'
+  ja_JP: ''
+  es_ES: ''
+  pt_BR: ''
+  pt_INT: ''
+  ar_SA: ''
+investment_opts_centres_of_excellence:
+  de_DE: 'Forschung und Entwicklung'
+  en_US: 'Location of research and development hubs'
+  zh_CN: '研究与开发'
+  ja_JP: ''
+  es_ES: ''
+  pt_BR: ''
+  pt_INT: ''
+  ar_SA: ''
+investment_opts_centres_of_excellence_detail:
+  de_DE: 'Branchenspezifische Forschungs- und Entwicklungszentren'
+  en_US: ''
+  zh_CN: '行业特定的研究和开发中心'
+  ja_JP: ''
+  es_ES: ''
+  pt_BR: ''
+  pt_INT: ''
+  ar_SA: ''
+investment_opts_enterprise_zones:
+  de_DE: 'Lokale Investitionsanreize'
+  en_US: 'Locations where investment is financially incentivised'
+  zh_CN: '当地激励措施'
+  ja_JP: ''
+  es_ES: ''
+  pt_BR: ''
+  pt_INT: ''
+  ar_SA: ''
+investment_opts_enterprise_zones_detail:
+  de_DE: 'Geförderte Regionen mit reduzierten Gewerbesteuern, niedrigeren Mieten und kompletten Entwicklungspaketen'
+  en_US: Find out about incentives for investment
+  zh_CN: '提供优惠的营业税和房租以及交钥匙发展项目组合的扶持区域'
+  ja_JP: ''
+  es_ES: ''
+  pt_BR: ''
+  pt_INT: ''
+  ar_SA: ''
+investment_setup_guide_for_investors:
+  de_DE: 'Leitfaden für ausländische Investoren in Großbritannien'
+  en_US: 'UK set-up guide for investors'
+  zh_CN: '投资者的英国市场启动指南'
+  ja_JP: ''
+  es_ES: ''
+  pt_BR: ''
+  pt_INT: ''
+  ar_SA: ''
+investment_incentives_and_finance:
+  de_DE: 'Investitionsanreize und Finanzmittel'
+  en_US: 'Incentives and finance for investments in the UK'
+  zh_CN: '英国的投资激励措施和资金'
+  ja_JP: ''
+  es_ES: ''
+  pt_BR: ''
+  pt_INT: ''
+  ar_SA: ''
+investment_opts_notable_clusters:
+  de_DE: 'Beliebte Regionen' 
+  en_US: 'Popular areas'
+  zh_CN: '热门地区'  
+  ja_JP: ''
+  es_ES: ''
+  pt_BR: ''
+  pt_INT: ''
+  ar_SA: ''
+investment_opts_regeneration_opportunities:
+  de_DE: 'Anreize'
+  en_US: 'Regeneration opportunities'
+  zh_CN: '激励措施'
+  ja_JP: ''
+  es_ES: ''
+  pt_BR: ''
+  pt_INT: ''
+  ar_SA: ''
+investment_opts_investment_advice:
+  de_DE: 'Britische Investitionshilfe'
+  en_US: 'UK investment advice'
+  zh_CN: '来英投资建议'
+  ja_JP: ''
+  es_ES: ''
+  pt_BR: ''
+  pt_INT: ''
+  ar_SA: ''
+investment_opts_ready_to_invest:
+  de_DE: 'Startbereit für Ihre Investition?'
+  en_US: 'Ready to invest?'
+  zh_CN: '准备好投资了吗？'
+  ja_JP: ''
+  es_ES: ''
+  pt_BR: ''
+  pt_INT: ''
+  ar_SA: ''
+investment_opts_thinking:
+  de_DE: 'Wenn Sie darüber nachdenken, in Großbritannien zu investieren, empfehlen wir Ihnen Kontakt mit unserem Investment Services Team aufzunehmen, das Ihnen mit Informationen, Verbindungen und Anreizen weiterhelfen kann.'
+  en_US: 'If you are thinking about investing in the UK, speak to our investment services team about insights, connections and incentives.'
+  zh_CN: '如果您考虑在英国投资，请与我们的投资服务团队交谈，了解真知灼见、人脉和激励措施。'
+  ja_JP: ''
+  es_ES: ''
+  pt_BR: ''
+  pt_INT: ''
+  ar_SA: ''
+investment_opts_invest_in:
+  de_DE: 'Mehr über diese Branche erfahren'
+  en_US: 'Find out more about this industry'
+  zh_CN: '在英国投资'
+  ja_JP: ''
+  es_ES: ''
+  pt_BR: ''
+  pt_INT: ''
+  ar_SA: ''
+investment_opts_alpha_before:
+  de_DE: 'Dies ist ein neuer Service. Ihr'
+  en_US: 'This is a new service. Your'
+  zh_CN: 这是一项新增服务 — 您的
+  ja_JP: 
+  es_ES: 
+  pt_BR: 
+  pt_INT: 
   ar_SA: 
+investment_opts_alpha_feedback:
+  de_DE: Feedback
+  en_US: feedback
+  zh_CN: 反馈
+  ja_JP: 
+  es_ES: comentarios
+  pt_BR: comentários
+  pt_INT: 
+  ar_SA: 
+investment_opts_alpha_after:
+  de_DE: wird uns helfen, ihn zu verbessern
+  en_US: will help us to improve it
+  zh_CN: 将有助于我们提升我们的服务 
+  ja_JP: 
+  es_ES: 
+  pt_BR: 
+  pt_INT: 
+  ar_SA: 
+investment_opts_priorities:
+  de_DE: Was sind Ihre Investitionsprioritäten?
+  en_US: What is important for your investment?
+  zh_CN: 您投资时优先考虑哪些事项？
+  ja_JP: ''
+  es_ES: ''
+  pt_BR: ''
+  pt_INT: ''
+  ar_SA: ''
+screen_reader_compatible:
+  de_DE: ''
+  en_US: 'screen reader compatible'
+  zh_CN: ''
+  ja_JP: ''
+  es_ES: ''
+  pt_BR: ''
+  pt_INT: ''
+  ar_SA: ''
+new_window:
+  de_DE: ''
+  en_US: 'link opens in new window'
+  zh_CN: ''
+  ja_JP: ''
+  es_ES: ''
+  pt_BR: ''
+  pt_INT: ''
+  ar_SA: ''
+specific_categories:
+  de_DE: ''
+  en_US: 'Specific categories'
+  zh_CN: ''
+  ja_JP: ''
+  es_ES: ''
+  pt_BR: ''
+  pt_INT: ''
+  ar_SA: ''
+sectors:
+  aerospace:
+    de_DE: 'Luftfahrtindustrie'
+    en_US: 'Aerospace'
+    zh_CN: '航空航天'
+    ja_JP: ''
+    es_ES: ''
+    pt_BR: ''
+    pt_INT: ''
+    ar_SA: ''
+  advanced_manufacturing:
+    de_DE: 'Fortgeschrittene Fertigungstechnologien'
+    en_US: 'Advanced Manufacturing'
+    zh_CN: '先进制造'
+    ja_JP: ''
+    es_ES: ''
+    pt_BR: ''
+    pt_INT: ''
+    ar_SA: ''
+  automotive:
+    de_DE: 'Automobilindustrie'
+    en_US: 'Automotive'
+    zh_CN: '汽车产业'
+    ja_JP: ''
+    es_ES: ''
+    pt_BR: ''
+    pt_INT: ''
+    ar_SA: ''
+  creative:
+    de_DE: 'Medien und Kultur'
+    en_US: 'Creative'
+    zh_CN: '创意的'
+    ja_JP: ''
+    es_ES: ''
+    pt_BR: ''
+    pt_INT: ''
+    ar_SA: ''
+  energy:
+    de_DE: 'Energie'
+    en_US: 'Energy generation'
+    zh_CN: '能源发电'
+    ja_JP: ''
+    es_ES: ''
+    pt_BR: ''
+    pt_INT: ''
+    ar_SA: ''
+  financial_services:
+    de_DE: 'Finanzen'
+    en_US: 'Financial services'
+    zh_CN: '金融服务'
+    ja_JP: ''
+    es_ES: ''
+    pt_BR: ''
+    pt_INT: ''
+    ar_SA: ''
+  food_and_drink_manufacturing:
+    de_DE: 'Lebensmittel- und Getränkeherstellung'
+    en_US: 'Food and drink manufacturing'
+    zh_CN: '食品和饮料制造'
+    ja_JP: ''
+    es_ES: ''
+    pt_BR: ''
+    pt_INT: ''
+    ar_SA: ''
+  health_and_life_sciences:
+    de_DE: 'Gesundheits- und Biowissenschaften'
+    en_US: 'Health and life sciences'
+    zh_CN: '健康与生命科学'
+    ja_JP: ''
+    es_ES: ''
+    pt_BR: ''
+    pt_INT: ''
+    ar_SA: ''
+  retail:
+    de_DE: 'Einzelhandel'
+    en_US: 'Retail'
+    zh_CN: '零售'
+    ja_JP: ''
+    es_ES: ''
+    pt_BR: ''
+    pt_INT: ''
+    ar_SA: ''
+  technology:
+    de_DE: 'Technologie'
+    en_US: 'Technology'
+    zh_CN: '技术'
+    ja_JP: ''
+    es_ES: ''
+    pt_BR: ''
+    pt_INT: ''
+    ar_SA: ''
 ---

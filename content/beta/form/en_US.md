@@ -19,4 +19,4 @@ next_detail: "We've sent your contact form to the Invest in Great Britain agents
 ---
 The Department for International Trade helps overseas companies locate and grow in the UK.
 
-Based in British Embassies, High Commissions and Consulates in cities around the world, our investment services team can:
+Based in British embassies, high commissions and consulates in cities around the world, our investment services team can:

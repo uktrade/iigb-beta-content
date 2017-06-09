@@ -3,7 +3,7 @@ title: "Talente und Fähigkeiten im automobilen Bereich"
 published: true
 ---
 
-Großbritannien ist die internationale Heimat des Motorsports. Sieben der 11 Formel Eins Teams haben ihren Hauptsitz bei uns – darunter McLaren, Williams und Mercedes Benz.
+Großbritannien ist die internationale Heimat des Motorsports. Sechs der 10 Formel Eins Teams haben ihren Hauptsitz bei uns – darunter McLaren, Williams und Mercedes Benz.
 
 Wir haben Weltklasse-Universitäten: Laut QS-Ranking gehören 4 davon zu den Top 10 der Welt, und 9 sind unter den Top 10 in der EU.
 
