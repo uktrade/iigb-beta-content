@@ -1,8 +1,8 @@
 ---
 title: "Page not found"
-linkLabel: Please click here to go to the home page
+linkLabel: Go to the Invest in Great Britain home page
 ---
 
-Unfortunately the page you were looking for could not be found.
+The page you were looking for could not be found. 
 
-[Please let us know if you followed a link here.](https://contact-us.export.great.gov.uk/feedback/invest/).
+If you entered a web address please check it was correct. If you followed a link here [let us know](https://contact-us.export.great.gov.uk/feedback/invest/).

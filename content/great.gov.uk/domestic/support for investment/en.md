@@ -1,5 +1,5 @@
 ---
 published: false
-title: "Support for investment"
+title: "Support for foreign investors"
 ---
-Find out about the UK’s wealth of investment opportunities and how the government supports British business through international capital.
+Get help with setting up your overseas business in the UK and search for current investment opportunities.

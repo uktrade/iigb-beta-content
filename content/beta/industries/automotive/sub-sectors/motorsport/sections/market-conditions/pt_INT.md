@@ -2,7 +2,7 @@
 title: "Condições de mercado"
 ---
 
-As empresas sediadas no Reino Unido constituem os principais fornecedores de equipas que competem em todo o tipo de corridas desde NASCAR a Formula E até ao Touring Car Championship da China. Conhecidamente, 7 das 11 equipas de Fórmula 1 têm a respetiva sede no Reino Unido.
+As empresas sediadas no Reino Unido constituem os principais fornecedores de equipas que competem em todo o tipo de corridas desde NASCAR a Formula E até ao Touring Car Championship da China. Conhecidamente, 6 das 10 equipas de Fórmula 1 têm a respetiva sede no Reino Unido.
 
 As empresas que abastecem os desportos motorizados operam em todo o Reino Unido. A maior concentração de empresas de desporto motorizado encontram-se no 'Motorsport Valley®' (Vale dos desportos motorizados), um aglomerado de empresas reconhecido mundialmente no sudeste de Inglaterra com Oxford no centro. Michael Porter, um professor da Harvard Business School e fundador da Monitor Deloitte, descreveu esse aglomerado como, “Um aglomerado económico desenvolvido de empresas, número um no mundo… a joia da coroa da engenharia britânica”. 
 Nos 50 anos desde o início da era moderna da Fórmula Um em 1967, apenas 2 equipas venceram o Campeonato de Construtores com um automóvel concebido fora do Reino Unido e uma dessas equipas utilizou um motor britânico. 

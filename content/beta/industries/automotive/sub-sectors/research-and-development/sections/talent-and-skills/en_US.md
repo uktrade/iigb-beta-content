@@ -1,7 +1,7 @@
 ---
 title: "Automotive talent and skills"
 ---
-The UK is the global home of motorsport. Seven of the 11 Formula One motor racing teams, including McLaren, Williams and Mercedes-Benz, have made the UK their headquarters. 
+The UK is the global home of motorsport. Six of the 10 Formula One motor racing teams, including McLaren, Williams and Mercedes-Benz, have made the UK their headquarters. 
 
 We have world-class universities, with 4 of the world’s top 10 universities and 9 of the top 10 EU universities according to the international QS ranking.
 

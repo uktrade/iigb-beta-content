@@ -5,7 +5,7 @@ In 2009, the UK government and the UK automotive industry set up a partnership c
 
 ### Facilitating innovation
 
-The capability of UK automotive R&D is demonstrated by the fact that 7 of the 11 Formula One teams have their headquarters in the UK. Formula One depends on the ability of British teams and their 4,500 UK motorsport suppliers to develop world-beating solutions.
+The capability of UK automotive R&D is demonstrated by the fact that 6 of the 10 Formula One teams have their headquarters in the UK. Formula One depends on the ability of British teams and their 4,500 UK motorsport suppliers to develop world-beating solutions.
 
 While the ability of our engineers to develop revolutionary solutions has never been in doubt, the major change over recent years is the establishment of a comprehensive infrastructure to take concepts from laboratory to production.
 

@@ -7,7 +7,7 @@ Im Jahr 2009 formten die Regierung und die Automobilindustrie Großbritanniens e
 
 ### Innovationen ermöglichen
 
-Wie fähig die automobile Forschung und Entwicklung hierzulande ist, zeigt schon die Tatsache, dass 7 der 11 Formel Eins Teams ihren Hauptsitz in Großbritannien. Die Formel Eins vertraut darauf, dass britische Teams und ihre 4.500 Motorsport-Zulieferer global führende Lösungen entwickeln.
+Wie fähig die automobile Forschung und Entwicklung hierzulande ist, zeigt schon die Tatsache, dass 6 der 10 Formel Eins Teams ihren Hauptsitz in Großbritannien. Die Formel Eins vertraut darauf, dass britische Teams und ihre 4.500 Motorsport-Zulieferer global führende Lösungen entwickeln.
 
 Während es nie Zweifel an den Fähigkeiten unserer Ingenieure gab revolutionäre Lösungen zu liefern, fand ein großer Wandel in der Infrastruktur statt. Diese wurde in den letzten Jahren umfassend ausgebaut, um Konzepte vom Labor zur Produktionsreife zu bringen.
 
