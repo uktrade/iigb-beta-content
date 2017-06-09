@@ -4420,6 +4420,7 @@ specific_categories:
   zh_CN: ''
   ja_JP: ''
   es_ES: ''
+  fr_FR: 'Catégories spécifiques'
   pt_BR: ''
   pt_INT: ''
   ar_SA: ''
