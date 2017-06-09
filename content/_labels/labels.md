@@ -3998,6 +3998,15 @@ new_window:
   pt_BR: ''
   pt_INT: ''
   ar_SA: ''
+specific_categories:
+  de_DE: ''
+  en_US: 'Specific categories'
+  zh_CN: ''
+  ja_JP: ''
+  es_ES: ''
+  pt_BR: ''
+  pt_INT: ''
+  ar_SA: ''
 sectors:
   aerospace:
     de_DE: 'Luftfahrtindustrie'
