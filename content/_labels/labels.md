@@ -324,8 +324,7 @@ form_full_name:
  ar_SA: الاسم بالكامل
 form_enter_full_name:
  de_DE: Geben Sie Ihren vollständigen Namen ein
- en_US: 
- Enter your full name
+ en_US: Enter your full name
  zh_CN: 请输入您的姓名
  ja_JP: ご氏名を入力してください
  es_ES: Introduzca su nombre completo
