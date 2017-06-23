@@ -324,7 +324,8 @@ form_full_name:
  ar_SA: الاسم بالكامل
 form_enter_full_name:
  de_DE: Geben Sie Ihren vollständigen Namen ein
- en_US: Enter your full name
+ en_US: 
+ Enter your full name
  zh_CN: 请输入您的姓名
  ja_JP: ご氏名を入力してください
  es_ES: Introduzca su nombre completo
@@ -333,7 +334,7 @@ form_enter_full_name:
  pt_INT: Introduza o seu nome completo
  ar_SA: أدخل الاسم بالكامل
 form_title:
- de_DE: Job title
+ de_DE: Position
  en_US: Job title
  zh_CN: Job title
  ja_JP: Job title
@@ -342,7 +343,7 @@ form_title:
  pt_INT: Job title
  ar_SA: Job title
 form_enter_title:
- de_DE: Enter your job title
+ de_DE: Position eingeben
  en_US: Enter your job title
  zh_CN: Enter your job title
  ja_JP: Enter your job title
@@ -401,7 +402,7 @@ form_phone:
  pt_INT: Telefone - Trabalho (opcional)
  ar_SA: هاتف العمل (اختياري)
 form_enter_phone:
- de_DE: Enter your telephone number
+ de_DE: Telefon (Büro) (optional)
  en_US: Enter your telephone number
  zh_CN: Enter your telephone number
  ja_JP: Enter your telephone number
@@ -441,7 +442,7 @@ form_investment:
  pt_INT: O seu investimento
  ar_SA: الاستثمار
 form_investment_project:
- de_DE: Tell us about your investment
+ de_DE: Angaben zu Ihrer Investition
  en_US: Tell us about your investment
  zh_CN: Tell us about your investment
  ja_JP: Tell us about your investment
@@ -450,7 +451,7 @@ form_investment_project:
  pt_INT: Tell us about your investment
  ar_SA: Tell us about your investment
 form_enter_investment_details:
- de_DE: Provide details about your plans to invest in the UK
+ de_DE: Bitte machen Sie Angaben zu Ihren Investitionsplänen in Großbritannien
  en_US: Provide details about your plans to invest in the UK
  zh_CN: Provide details about your plans to invest in the UK
  ja_JP: Provide details about your plans to invest in the UK
@@ -459,7 +460,7 @@ form_enter_investment_details:
  pt_INT: Provide details about your plans to invest in the UK
  ar_SA: Provide details about your plans to invest in the UK
 form_investment_details: 
- de_DE: Tell us about your company and your plans for the UK in terms of the size of investment, operational and recruitment plans. Please also tell us what help you would like from the UK government.
+ de_DE: Bitte machen Sie Angaben zu Ihrem Unternehmen und zu Ihren Plänen in Bezug auf die Höhe der Investition sowie auf operative Pläne und Pläne bezüglich der Einstellung von Mitarbeitern in Großbritannien. Bitte teilen Sie uns auch mit, welche Hilfe Sie von den britischen Behörden erhalten möchten.
  en_US: Tell us about your company and your plans for the UK in terms of the size of investment, operational and recruitment plans. Please also tell us what help you would like from the UK government.
  zh_CN: Tell us about your company and your plans for the UK in terms of the size of investment, operational and recruitment plans. Please also tell us what help you would like from the UK government.
  ja_JP: Tell us about your company and your plans for the UK in terms of the size of investment, operational and recruitment plans. Please also tell us what help you would like from the UK government.
@@ -586,8 +587,8 @@ form_staff_number:
    '3': More than 250
    de_DE:
    - Weniger als 10
-   - Zwischen 10 und 50
-   - Zwischen 51 und 250
+   - 10 bis 50
+   - 51 bis 250
    - Mehr als 250
    en_US:
    - Less than 10
@@ -1467,7 +1468,7 @@ form_enter_headquarters_help:
  ar_SA: ابدأ الكتابة لتحديد أحد الخيارات
 form_headquarters:
  label:
-   de_DE: Hauptsitz ihres Unternehmens
+   de_DE: In welchem Land befinden Sie sich?
    en_US: Which country are you based in?
    zh_CN: 公司总部所在国家
    ja_JP: 国名
