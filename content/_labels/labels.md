@@ -304,6 +304,12 @@ form_contact_details_nf:
  en_US: Contact information 
  de_DE: Kontaktangaben
  ja_JP: 連絡先情報
+ zh_CN: 
+ es_ES: 
+ fr_FR: 
+ pt_BR: 
+ pt_INT: 
+ ar_SA: 
 form_contact_details_reason:
  de_DE: Wir benötigen diese um Sie mit Ihrem Ansprechpartner vor Ort in Verbindung zu setzen
  en_US: We will use these to put you in touch with your local office
