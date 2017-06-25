@@ -318,7 +318,7 @@ form_full_name:
  de_DE: Vollständiger Name
  en_US: Full name
  zh_CN: 您的姓名
- ja_JP: ご氏名
+ ja_JP: お名前（フルネーム）
  es_ES: Nombre completo
  fr_FR: Nom complet
  pt_BR: Nome completo
@@ -328,7 +328,7 @@ form_enter_full_name:
  de_DE: Geben Sie Ihren vollständigen Namen ein
  en_US: Enter your full name
  zh_CN: 请输入您的姓名
- ja_JP: ご氏名を入力してください
+ ja_JP: お名前をフルネームで入力してください。
  es_ES: Introduzca su nombre completo
  fr_FR: Entrez votre nom complet
  pt_BR: Introduza o seu nome completo
@@ -338,7 +338,7 @@ form_title:
  de_DE: Position
  en_US: Job title
  zh_CN: Job title
- ja_JP: Job title
+ ja_JP: 役職
  es_ES: Puesto que ocupa
  pt_BR: Job title
  pt_INT: Job title
@@ -347,7 +347,7 @@ form_enter_title:
  de_DE: Position eingeben
  en_US: Enter your job title
  zh_CN: Enter your job title
- ja_JP: Enter your job title
+ ja_JP: 役職を入力してください。
  es_ES: Introduzca el nombre de su puesto 
  pt_BR: Enter your job title
  pt_INT: Enter your job title
@@ -356,7 +356,7 @@ form_email:
  de_DE: Arbeits-E-Mail
  en_US: Work email
  zh_CN: 工作电子邮件
- ja_JP: 勤務先の電子メール
+ ja_JP: 職場のメールアドレス
  es_ES: Dirección de correo electrónico de la empresa
  fr_FR: Email professionnel
  pt_BR: E-mail - Trabalho
@@ -366,7 +366,7 @@ form_enter_email:
  de_DE: Geben Sie Ihre Emailadresse ein
  en_US: Enter your email address
  zh_CN: 请输入工作电子邮件
- ja_JP: 電子メールアドレスを入力してください
+ ja_JP: メールアドレスを入力してください。
  es_ES: Introduzca su dirección de correo electrónico
  fr_FR: Entrez votre adresse de courrier électronique
  pt_BR: Introduza o seu endereço de e-mail
@@ -396,7 +396,7 @@ form_phone:
  de_DE: Arbeits-Telefon (optional)
  en_US: Work phone (optional)
  zh_CN: 工作联系电话(可选填)
- ja_JP: 勤務先の電話番号 (任意)
+ ja_JP: 職場の電話番号（任意）
  es_ES: Número de teléfono de la empresa (opcional)
  fr_FR: Numéro de téléphone de l'entreprise (optionnel)
  pt_BR: Telefone - Trabalho (opcional)
@@ -406,7 +406,7 @@ form_enter_phone:
  de_DE: Telefon (Büro) (optional)
  en_US: Enter your telephone number
  zh_CN: Enter your telephone number
- ja_JP: Enter your telephone number
+ ja_JP: 職場の電話番号（任意）
  es_ES: Enter your telephone number
  fr_FR: Enter your telephone number
  pt_BR: Enter your telephone number
@@ -436,7 +436,7 @@ form_investment:
  de_DE: Ihre Investition
  en_US: Your investment
  zh_CN: 您的投资
- ja_JP: 貴社の投資について
+ ja_JP: 投資情報
  es_ES: Su inversión
  fr_FR: Votre investissement
  pt_BR: O seu investimento
@@ -446,7 +446,7 @@ form_investment_project:
  de_DE: Angaben zu Ihrer Investition
  en_US: Tell us about your investment
  zh_CN: Tell us about your investment
- ja_JP: Tell us about your investment
+ ja_JP: 貴社の投資についてお聞かせください。
  es_ES: Tell us about your investment
  pt_BR: Tell us about your investment
  pt_INT: Tell us about your investment
@@ -455,7 +455,7 @@ form_enter_investment_details:
  de_DE: Bitte machen Sie Angaben zu Ihren Investitionsplänen in Großbritannien
  en_US: Provide details about your plans to invest in the UK
  zh_CN: Provide details about your plans to invest in the UK
- ja_JP: Provide details about your plans to invest in the UK
+ ja_JP: 英国への投資計画の詳細を入力してください。
  es_ES: Provide details about your plans to invest in the UK
  pt_BR: Provide details about your plans to invest in the UK
  pt_INT: Provide details about your plans to invest in the UK
@@ -464,7 +464,7 @@ form_investment_details:
  de_DE: Bitte machen Sie Angaben zu Ihrem Unternehmen und zu Ihren Plänen in Bezug auf die Höhe der Investition sowie auf operative Pläne und Pläne bezüglich der Einstellung von Mitarbeitern in Großbritannien. Bitte teilen Sie uns auch mit, welche Hilfe Sie von den britischen Behörden erhalten möchten.
  en_US: Tell us about your company and your plans for the UK in terms of the size of investment, operational and recruitment plans. Please also tell us what help you would like from the UK government.
  zh_CN: Tell us about your company and your plans for the UK in terms of the size of investment, operational and recruitment plans. Please also tell us what help you would like from the UK government.
- ja_JP: Tell us about your company and your plans for the UK in terms of the size of investment, operational and recruitment plans. Please also tell us what help you would like from the UK government.
+ ja_JP: 貴社について、および投資の規模、運営、採用計画の観点から英国に対する貴社の計画についてご説明ください。また、英国政府に求めるサポートについてもお聞かせください。
  es_ES: Tell us about your company and your plans for the UK in terms of the size of investment, operational and recruitment plans. Please also tell us what help you would like from the UK government.
  pt_BR: Tell us about your company and your plans for the UK in terms of the size of investment, operational and recruitment plans. Please also tell us what help you would like from the UK government.
  pt_INT: Tell us about your company and your plans for the UK in terms of the size of investment, operational and recruitment plans. Please also tell us what help you would like from the UK government.
@@ -575,7 +575,7 @@ form_staff_number:
    de_DE: Geschätzte derzeitige Mitarbeiteranzahl
    en_US: Total current number of staff
    zh_CN: 目前工作人员估计人数
-   ja_JP: 現在の従業員数 (推定でも構いません)
+   ja_JP: 現在の全従業員数
    es_ES: Número aproximado de personal en la actualidad
    fr_FR: Estimation actuelle du nombre d'employés
    pt_BR: Estimativa do número de pessoal atual
@@ -602,10 +602,10 @@ form_staff_number:
    - 50 - 250 人
    - 超过 250 人
    ja_JP:
-   - 10人未満
-   - 10～50人
-   - 51～250人
-   - 250人を超える
+   - 10 名未満
+   - 10～50 名
+   - 51～250 名
+   - 251 名以上
    es_ES:
    - Menos de 10
    - Entre 10 y 50
@@ -1058,14 +1058,23 @@ form_company:
  de_DE: Ihr Unternehmen
  en_US: Your company
  zh_CN: 您的公司
- ja_JP: 貴社について
+ ja_JP: 企業名
  es_ES: Su empresa
  fr_FR: Votre entreprise
  pt_BR: A sua empresa
  pt_INT: A sua empresa
  ar_SA: الشركة
 form_company_nf:
- en_US: Your company 
+ en_US: Your company
+ de_DE: Ihr Unternehmen
+ ja_JP: 企業名
+ zh_CN: 
+ ja_JP: 
+ es_ES: 
+ fr_FR: 
+ pt_BR: 
+ pr_INT: 
+ ar_SA: 
 form_company_reason:
  de_DE: Helfen Sie uns, Ihren aktuellen Betrieb zu verstehen
  en_US: Help us understand your current operations
@@ -1077,7 +1086,7 @@ form_company_reason:
  pt_INT: Ajude-nos a compreender as suas operações atuais
  ar_SA: ساعدنا على فهم عملياتك الحالية
 form_registered_company:
- de_DE: Eingetragener Firmenname
+ de_DE: Unternehmen
  en_US: Company name
  zh_CN: 公司注册名称
  ja_JP: 正式登録の社名
@@ -1087,7 +1096,7 @@ form_registered_company:
  pt_INT: Nome da empresa registado
  ar_SA: الاسم المُسجَّل للشركة
 form_enter_registered_company:
- de_DE: Geben Sie Ihren eingetragenen Unternehmensnamen ein
+ de_DE: Unternehmensnamen eingeben
  en_US: Enter your company name
  zh_CN: 请输入您的公司注册名称
  ja_JP: 正式登録された会社名を入力してください
@@ -1097,7 +1106,7 @@ form_enter_registered_company:
  pt_INT: Introduza o nome registado da sua empresa
  ar_SA: أدخل اسم شركتك المُسجَّل
 form_website:
- de_DE: Internetadresse Ihres Unternehmens
+ de_DE: Unternehmenswebseite
  en_US: Company website address (optional)
  zh_CN: 公司网站地址
  ja_JP: 貴社のウェブサイト アドレス (任意)
@@ -1108,8 +1117,16 @@ form_website:
  ar_SA: الموقع الإلكتروني للشركة (اختياري)
 form_website_nf:
  en_US: Company website
+ de_DE: Unternehmenswebseite
+ zh_CN: 
+ ja_JP: 
+ es_ES: 
+ fr_FR: 
+ pt_BR: 
+ pr_INT: 
+ ar_SA: 
 form_enter_website:
- de_DE: Geben Sie die Internetadresse Ihres Unternehmens ein
+ de_DE: Unternehmenswebseite eingeben
  en_US: Enter your company website address
  zh_CN: 请输入您的公司网站地址
  ja_JP: 貴社のウェブサイトのアドレスを入力してください
@@ -1120,8 +1137,22 @@ form_enter_website:
  ar_SA: 
 form_enter_website_nf:
  en_US: Enter your website address or check the box below
+ zh_CN: 
+ ja_JP: 
+ es_ES: 
+ fr_FR: 
+ pt_BR: 
+ pr_INT: 
+ ar_SA: 
 form_do_not_have_website:
  en_US: I do not have a website 
+ zh_CN: 
+ ja_JP: 
+ es_ES: 
+ fr_FR: 
+ pt_BR: 
+ pr_INT: 
+ ar_SA: 
 form_enter_primary_industry:
  de_DE: Wählen Sie die Branche aus, in der Sie hauptsächlich tätig sind, aus oder wählen Sie "Sonstiges"
  en_US: Select the industry you mainly operate in or select Other
@@ -1457,6 +1488,13 @@ form_enter_headquarters:
  ar_SA: أدخل الدولة التي يقع بها المقر الرئيسي لشركتك
 form_enter_headquarters_nf:
  en_US: Enter your country
+ zh_CN: 
+ ja_JP: 
+ es_ES: 
+ fr_FR: 
+ pt_BR: 
+ pr_INT: 
+ ar_SA: 
 form_enter_headquarters_help:
  de_DE: Bitte geben Sie hier Text ein damit Sie eine Auswahl machen können.
  en_US: Start typing to select a country.
