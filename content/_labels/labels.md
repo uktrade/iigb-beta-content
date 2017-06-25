@@ -132,7 +132,7 @@ contact:
  de_DE: Kontakt
  en_US: Contact us
  zh_CN: 取得联系
- ja_JP: お問い合わせ
+ ja_JP: 連絡先
  es_ES: Contacto
  fr_FR: Contact
  pt_BR: Entrar em contacto
@@ -1119,7 +1119,7 @@ form_website_nf:
  en_US: Company website
  de_DE: Unternehmenswebseite
  zh_CN: 
- ja_JP: 
+ ja_JP: 企業ウェブサイト
  es_ES: 
  fr_FR: 
  pt_BR: 
@@ -1129,7 +1129,7 @@ form_enter_website:
  de_DE: Unternehmenswebseite eingeben
  en_US: Enter your company website address
  zh_CN: 请输入您的公司网站地址
- ja_JP: 貴社のウェブサイトのアドレスを入力してください
+ ja_JP: 貴社のウェブサイトのアドレスを入力してください。
  es_ES: Introduzca la dirección del sitio web de su empresa
  fr_FR: Entrez l'adresse du site internet de votre entreprise
  pt_BR: Introduza o endereço do website da sua empresa
@@ -1137,17 +1137,19 @@ form_enter_website:
  ar_SA: 
 form_enter_website_nf:
  en_US: Enter your website address or check the box below
+ de_DE: Unternehmenswebseite eingeben
  zh_CN: 
- ja_JP: 
+ ja_JP: 貴社のウェブサイトのアドレスを入力してください。
  es_ES: 
  fr_FR: 
  pt_BR: 
  pr_INT: 
  ar_SA: 
 form_do_not_have_website:
+ de_DE: Ich habe keine Webseite
  en_US: I do not have a website 
  zh_CN: 
- ja_JP: 
+ ja_JP: ウェブサイトなし
  es_ES: 
  fr_FR: 
  pt_BR: 
@@ -1475,7 +1477,15 @@ form_mailing_list_confirmation:
  pt_INT: Sim, gostaria de receber essas informações
  ar_SA: نعم، أود الحصول على هذه المعلومات
 form_use_of_info: 
-  en_US: We will use this information to put you in touch with your closest British embassy or high commission.
+ en_US: We will use this information to put you in touch with your closest British embassy or high commission.
+ de_DE: Wir verwenden diese Angaben, um Sie mit Ihrer nächsten britischen Botschaft oder Ihrem nächsten britischen Hochkommissariat in Verbindung zu setzen.
+ zh_CN: 
+ ja_JP: この情報をもとに、最も近い場所にある英国大使館または高等弁務官事務所からご連絡を差し上げます。
+ es_ES: 
+ fr_FR: 
+ pt_BR: 
+ pr_INT: 
+ ar_SA: 
 form_enter_headquarters:
  de_DE: Geben Sie das Land Ihres Unternehmenshauptsitzes ein
  en_US: Enter the country where your company has its headquarters
@@ -1488,8 +1498,9 @@ form_enter_headquarters:
  ar_SA: أدخل الدولة التي يقع بها المقر الرئيسي لشركتك
 form_enter_headquarters_nf:
  en_US: Enter your country
+ de_DE: Land eingeben
  zh_CN: 
- ja_JP: 
+ ja_JP: 拠点とする国を入力してください。
  es_ES: 
  fr_FR: 
  pt_BR: 
@@ -4017,10 +4028,10 @@ form_headquarters:
    - زامبيا
    - زمبابوي
 form_disclaimer:
- de_DE: Mit Absenden Ihrer Daten bestätigen Sie, dass die von Ihnen eingegebenen Daten korrekt sind und stimmen unseren
+ de_DE: Durch die Absendung Ihrer Daten an uns bestätigen Sie, dass Ihre mit uns geteilten Daten zutreffend sind und dass Sie unsere AGB akzeptieren.
  en_US: By sending us your details you confirm that the information you've shared with us is true and you accept our
  zh_CN: 发送您的详细信息以后，代表您同意提供的信息是真实并接受
- ja_JP: 情報をご送付いただくことで、当省にご提出いただいた情報が真実であり、当省の利用規約に同意していただいたことをご確認いただくことになりますのでご了解ください。
+ ja_JP: 詳細情報を送信されますと、この情報を私たちと共有することを認め、利用規約に同意されたことになります。
  es_ES: Al enviarnos sus datos, usted confirma que la información que nos proporciona es verídica y acepta nuestros
  fr_FR: En envoyant vos données, vous confirmez que l'information que vous partagez avec nous est vraie et vous acceptez nos
  pt_BR: Ao enviar-nos os seus detalhes confirma que as informações que partilhou conosco são verdadeiras e que aceita os nossos
