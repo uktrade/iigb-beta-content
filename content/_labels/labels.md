@@ -302,6 +302,8 @@ form_contact_details:
  ar_SA: بيانات الاتصال
 form_contact_details_nf:
  en_US: Contact information 
+ de_DE: Kontaktangaben
+ ja_JP: 連絡先情報
 form_contact_details_reason:
  de_DE: Wir benötigen diese um Sie mit Ihrem Ansprechpartner vor Ort in Verbindung zu setzen
  en_US: We will use these to put you in touch with your local office
