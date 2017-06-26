@@ -1075,7 +1075,6 @@ form_company_nf:
  de_DE: Ihr Unternehmen
  ja_JP: 企業名
  zh_CN: 
- ja_JP: 
  es_ES: Su empresa
  fr_FR: 
  pt_BR: 
