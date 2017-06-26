@@ -1,9 +1,9 @@
 ---
-title: "Contact our investment services team for:"
+title: "Contacte a nossa equipa de serviços de investimento para:"
 list: 
- - practical support and information about taking your investment forward
- - insights into the UK market
- - help building connections
+ - apoio prático e informações sobre como fazer avançar o seu investimento
+ - informações sobre o mercado do Reino Unido
+ - ajuda a construir ligações
 ---
 
-The team may put you in touch with a UK government office in your region to support you with advice relevant to your country.
+A equipa pode colocá-lo em contacto com um gabinete do Governo do Reino Unido na sua região para o ajudar com conselhos relevantes para o seu país.
