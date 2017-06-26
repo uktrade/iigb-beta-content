@@ -1,9 +1,9 @@
 ---
-title: "Contact our investment services team for:"
+title: "以下についてお知りになりたい場合は、英国の投資サービスチームにご連絡ください。"
 list: 
- - practical support and information about taking your investment forward
- - insights into the UK market
- - help building connections
+ - 投資する際、実際に受けられるサポートや詳しい情報
+ - 英国市場に対する見通し
+ - コネクション構築のサポート
 ---
 
-The team may put you in touch with a UK government office in your region to support you with advice relevant to your country.
+貴社の拠点国に関連する助言のため、地域の英国政府職員からご連絡を差し上げる場合があります。
