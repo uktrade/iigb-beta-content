@@ -3,7 +3,7 @@ title: "Demanda de componentes"
 ---
 La cadena de suministro automovilística del Reino Unido disfruta actualmente de un periodo de crecimiento sin precedentes. En 2015, nuestros fabricantes del sector gastaron 31 000 millones de libras en componentes, una cifra que aumenta en 3 000 millones de libras cada año.
 
-El contenido de procedencia local de los coches fabricados en el Reino Unido ha crecido del 36 % en 2011 al 41 % en 2015, y sigue en aumento. Los fabricantes de coches del Reino Unido han detectado una cantidad de componentes adicionales que desearían adquirir de proveedores de este país por un valor anual de 4 000 millones de libras, pero no siempre pueden hacerlo debido a que las fábricas de componentes ya están funcionando a plena capacidad o están muy cerca de hacerlo. Esto supone una gran oportunidad para los inversores extranjeros que deseen establecerse en el Reino Unido. La tabla siguiente muestra las oportunidades más importantes:
+El contenido de procedencia local de los coches fabricados en el Reino Unido ha crecido del 36 % en 2011 al 44 % en 2017, y sigue en aumento. Los fabricantes de coches del Reino Unido han detectado una cantidad de componentes adicionales que desearían adquirir de proveedores de este país por un valor anual de 4 000 millones de libras, pero no siempre pueden hacerlo debido a que las fábricas de componentes ya están funcionando a plena capacidad o están muy cerca de hacerlo. Esto supone una gran oportunidad para los inversores extranjeros que deseen establecerse en el Reino Unido. La tabla siguiente muestra las oportunidades más importantes:
 
 #### Oportunidades más importantes en la cadena de suministro
 
