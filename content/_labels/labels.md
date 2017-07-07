@@ -4207,10 +4207,10 @@ concentration_low:
   pt_BR: 
   pt_INT:
   ar_SA: 
-investment_opportunities:
-  de_DE: Investitionschanchen
-  en_US: Investment opportunities
-  zh_CN: 来英投资者指南
+where_in_the_uk:
+  de_DE: 
+  en_US: Where in the UK
+  zh_CN: 
   ja_JP: 
   es_ES: 
   pt_BR: 
@@ -4571,4 +4571,103 @@ sectors:
     pt_BR: ''
     pt_INT: ''
     ar_SA: ''
+choose_a_comparator:
+   de_DE: ''
+   en_US: 'Choose a comparator:'
+   zh_CN: ''
+   ja_JP: ''
+   es_ES: ''
+   pt_BR: ''
+   pt_INT: ''
+   ar_SA: ''
+for:
+   de_DE: ''
+   en_US: 'for'
+   zh_CN: ''
+   ja_JP: ''
+   es_ES: ''
+   pt_BR: ''
+   pt_INT: ''
+   ar_SA: ''
+showing:
+   de_DE: ''
+   en_US: 'Showing'
+   zh_CN: ''
+   ja_JP: ''
+   es_ES: ''
+   pt_BR: ''
+   pt_INT: ''
+   ar_SA: ''
+universities:
+   de_DE: ''
+   en_US: 'Universities'
+   zh_CN: ''
+   ja_JP: ''
+   es_ES: ''
+   pt_BR: ''
+   pt_INT: ''
+   ar_SA: ''
+salary:
+   de_DE: ''
+   en_US: 'Salary'
+   zh_CN: ''
+   ja_JP: ''
+   es_ES: ''
+   pt_BR: ''
+   pt_INT: ''
+   ar_SA: ''
+research_and_development_hubs:
+   de_DE: ''
+   en_US: 'Research and Development Hubs'
+   zh_CN: ''
+   ja_JP: ''
+   es_ES: ''
+   pt_BR: ''
+   pt_INT: ''
+   ar_SA: ''
+university:
+   de_DE: ''
+   en_US: 'University'
+   zh_CN: ''
+   ja_JP: ''
+   es_ES: ''
+   pt_BR: ''
+   pt_INT: ''
+   ar_SA: ''
+region:
+   de_DE: ''
+   en_US: 'Region'
+   zh_CN: ''
+   ja_JP: ''
+   es_ES: ''
+   pt_BR: ''
+   pt_INT: ''
+   ar_SA: ''
+salary_difference:
+   de_DE: ''
+   en_US: 'Salary Difference'
+   zh_CN: ''
+   ja_JP: ''
+   es_ES: ''
+   pt_BR: ''
+   pt_INT: ''
+   ar_SA: ''
+r_d_hub:
+   de_DE: ''
+   en_US: 'R&D Hub'
+   zh_CN: ''
+   ja_JP: ''
+   es_ES: ''
+   pt_BR: ''
+   pt_INT: ''
+   ar_SA: ''
+size:
+   de_DE: ''
+   en_US: 'Size'
+   zh_CN: ''
+   ja_JP: ''
+   es_ES: ''
+   pt_BR: ''
+   pt_INT: ''
+   ar_SA: ''
 ---
