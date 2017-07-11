@@ -5,7 +5,6 @@ watch_video:
  zh_CN: 观看视频
  ja_JP: ビデオを再生
  es_ES: Ver el vídeo
- fr_FR: Voir la vidéo
  pt_BR: Ver vídeo
  pt_INT: Ver vídeo
  ar_SA: مشاهدة الفيديو
@@ -24,7 +23,6 @@ search:
  zh_CN: 搜索
  ja_JP: 検索
  es_ES: Buscar
- fr_FR: Rechercher
  pt_BR: Pesquisa
  pt_INT: Pesquisa
  ar_SA: الأبحاث
@@ -34,7 +32,6 @@ search_close:
  zh_CN: 关闭
  ja_JP: 閉じる
  es_ES: Cerrar
- fr_FR: Fermer
  pt_BR: Fechar
  pt_INT: Fechar
  ar_SA: 
@@ -44,7 +41,6 @@ no_results:
  zh_CN: 没有你的搜寻结果，你的搜寻项目是
  ja_JP: ''
  es_ES: ''
- fr_FR: ''
  pt_BR: ''
  pt_INT: ''
  ar_SA: 
@@ -54,7 +50,6 @@ search_error:
  zh_CN: An error has occurred. Please contact your administrator
  ja_JP: An error has occurred. Please contact your administrator
  es_ES: An error has occurred. Please contact your administrator
- fr_FR: Une erreur s'est produite. Veuillez contacter votre administrateur.
  pt_BR: An error has occurred. Please contact your administrator
  pt_INT: An error has occurred. Please contact your administrator
  ar_SA: 
@@ -64,7 +59,6 @@ on_this_page:
  zh_CN: 本页包括
  ja_JP: このページ
  es_ES: En esta página
- fr_FR: Sur cette page
  pt_BR: Nesta página
  pt_INT: Nesta página
  ar_SA: 
@@ -74,7 +68,6 @@ pre_word:
  zh_CN: ''
  ja_JP: ''
  es_ES: ''
- fr_FR: ''
  pt_BR: ''
  pt_INT: ''
  ar_SA: 
@@ -84,7 +77,6 @@ post_word:
  zh_CN: 分属部门
  ja_JP: ''
  es_ES: ''
- fr_FR: ''
  pt_BR: ''
  pt_INT: ''
  ar_SA: 
@@ -93,8 +85,7 @@ setup_guide:
  en_US: UK setup guide
  zh_CN: 英国创业指南
  ja_JP: 英国での事業設立
- es_ES: Guía para establecerse en el Reino Unido
- fr_FR: Guide pour s'établir au Royaume-Uni
+ es_ES: Guía para establecerse en el Reino Unido 
  pt_BR: Guia para estabelecer no Reino Unido
  pt_INT: Guia para estabelecer no Reino Unido
  ar_SA: دليل تأسيس الشركات في المملكة المتحدة
@@ -104,7 +95,6 @@ home:
  zh_CN: 首页
  ja_JP: トップページ
  es_ES: Inicio
- fr_FR: Accueil
  pt_BR: Início
  pt_INT: Início
  ar_SA: الرئيسية
@@ -114,7 +104,6 @@ privacy:
  zh_CN: 隐私和Cookie政策
  ja_JP: プライバシー
  es_ES: Privacidad y cookies
- fr_FR: Confidentialité et cookies
  pt_BR: Privacidade e cookies
  pt_INT: Privacidade e cookies
  ar_SA: الخصوصية وملفات تعريف الارتباط
@@ -124,7 +113,6 @@ terms:
  zh_CN: 条款与条件
  ja_JP: 規約
  es_ES: Términos y condiciones
- fr_FR: Conditions générales
  pt_BR: Termos e condições
  pt_INT: Termos e condições
  ar_SA: الشروط والأحكام
@@ -132,9 +120,8 @@ contact:
  de_DE: Kontakt
  en_US: Contact us
  zh_CN: 取得联系
- ja_JP: 連絡先
+ ja_JP: お問い合わせ
  es_ES: Contacto
- fr_FR: Contact
  pt_BR: Entrar em contacto
  pt_INT: Entrar em contacto
  ar_SA: الاتصال بنا
@@ -144,7 +131,6 @@ industries:
  zh_CN: 行业
  ja_JP: 産業
  es_ES: Sectores
- fr_FR: Industries
  pt_BR: Indústrias
  pt_INT: Indústrias
  ar_SA: الصناعات
@@ -154,41 +140,26 @@ industry_overviews:
  zh_CN: Industry overviews:CN
  ja_JP: Industry overviews:JP
  es_ES: Industry overviews:ES
- fr_FR: Industry overviews:FR
  pt_BR: Industry overviews:BR
  pt_INT: Industry overviews:BR
  ar_SA: 
 industry_overviews_intro:
  de_DE: Find high level information about your industry sector including success stories from other companies we have worked with:DE
  en_US: High level information about UK industry sectors and associated specialisms
- zh_CN: Find high level information about your industry sector including success
-   stories from other companies we have worked with:CN
- ja_JP: Find high level information about your industry sector including success
-   stories from other companies we have worked with:JP
- es_ES: Find high level information about your industry sector including success
-   stories from other companies we have worked with:ES
- fr_FR: Find high level information about your industry sector including success
-   stories from other companies we have worked with:FR
- pt_BR: Find high level information about your industry sector including success
- pt_INT: Find high level information about your industry sector including success
-   stories from other companies we have worked with:BR
+ zh_CN: Find high level information about your industry sector including success stories from other companies we have worked with:CN
+ ja_JP: Find high level information about your industry sector including success stories from other companies we have worked with:JP
+ es_ES: Find high level information about your industry sector including success stories from other companies we have worked with:ES
+ pt_BR: Find high level information about your industry sector including success stories from other companies we have worked with:BR
+ pt_INT: Find high level information about your industry sector including success stories from other companies we have worked with:BR
  ar_SA: 
 industries_intro:
- de_DE: Find specific information about the industry your company operates in, including
-   market conditions and incentives:DE
- en_US: Information about the industry specialism your company operates in, including
-   market conditions and incentives
- zh_CN: Find specific information about the industry your company operates in, including
-   market conditions and incentives:CN
- ja_JP: Find specific information about the industry your company operates in, including
-   market conditions and incentives:JP
- es_ES: Find specific information about the industry your company operates in, including
-   market conditions and incentives:ES
- fr_FR: Find specific information about the industry your company operates in, including
-   market conditions and incentives:FR
- pt_BR: Find specific information about the industry your company operates in, including
- pt_INT: Find specific information about the industry your company operates in, including
-   market conditions and incentives:BR
+ de_DE: Find specific information about the industry your company operates in, including market conditions and incentives:DE
+ en_US: Information about the industry specialism your company operates in, including market conditions and incentives
+ zh_CN: Find specific information about the industry your company operates in, including market conditions and incentives:CN
+ ja_JP: Find specific information about the industry your company operates in, including market conditions and incentives:JP
+ es_ES: Find specific information about the industry your company operates in, including market conditions and incentives:ES
+ pt_BR: Find specific information about the industry your company operates in, including market conditions and incentives:BR
+ pt_INT: Find specific information about the industry your company operates in, including market conditions and incentives:BR
  ar_SA: 
 great_british_industries:
  de_DE: Bedeutende britische Industriezweige
@@ -196,7 +167,6 @@ great_british_industries:
  zh_CN: 英国的产业
  ja_JP: 英国の主要産業
  es_ES: Grandes sectores en Gran Bretaña
- fr_FR: Industries au Royaume-Uni
  pt_BR: Indústrias da Grã-Bretanha
  pt_INT: Indústrias da Grã-Bretanha
  ar_SA: الصناعات في بريطانيا العظمى
@@ -206,7 +176,6 @@ post_strengths:
  zh_CN: 行业
  ja_JP: 産業
  es_ES: Sectores
- fr_FR: Industries
  pt_BR: Indústrias
  pt_INT: Indústrias
  ar_SA: 
@@ -216,7 +185,6 @@ related_industries:
  zh_CN: 相关行业
  ja_JP: 関連産業
  es_ES: Sectores relacionados
- fr_FR: Industries associés
  pt_BR: Indústrias relacionadas
  pt_INT: Indústrias relacionadas
  ar_SA: 
@@ -226,7 +194,6 @@ discover:
  zh_CN: 了解更多信息
  ja_JP: 詳細を見る
  es_ES: Descubra más
- fr_FR: En savoir plus
  pt_BR: Saiba mais
  pt_INT: Saiba mais
  ar_SA: معرفة المزيد
@@ -236,7 +203,6 @@ please_select:
  zh_CN: 选择
  ja_JP: 選択する
  es_ES: Seleccionar
- fr_FR: Sélectionnez
  pt_BR: Selecionar
  pt_INT: Selecionar
  ar_SA: 
@@ -246,7 +212,6 @@ please_select:
  zh_CN: 是
  ja_JP: はい
  es_ES: Si
- fr_FR: Oui
  pt_BR: Sim
  pt_INT: Sim
  ar_SA: نعم
@@ -256,7 +221,6 @@ please_select:
  zh_CN: 否
  ja_JP: いいえ
  es_ES: No
- fr_FR: Non
  pt_BR: Não
  pt_INT: Não
  ar_SA: لا
@@ -266,7 +230,6 @@ form_next:
  zh_CN: 下一步
  ja_JP: 次
  es_ES: Siguiente
- fr_FR: Suivant
  pt_BR: Próximo
  pt_INT: Próximo
  ar_SA: التالي
@@ -276,7 +239,6 @@ form_previous:
  zh_CN: 上一步
  ja_JP: 前
  es_ES: Anterior
- fr_FR: Précédent
  pt_BR: Anterior
  pt_INT: Anterior
  ar_SA: السابق
@@ -286,7 +248,6 @@ form_submit:
  zh_CN: 送出
  ja_JP: 送信
  es_ES: Enviar
- fr_FR: Envoyer
  pt_BR: Enviar
  pt_INT: Enviar
  ar_SA: إرسال
@@ -296,27 +257,17 @@ form_contact_details:
  zh_CN: 您的联系方式
  ja_JP: ご連絡先
  es_ES: Sus datos de contacto
- fr_FR: Vos coordonnées
  pt_BR: Os seus dados de contacto
  pt_INT: Os seus dados de contacto
  ar_SA: بيانات الاتصال
 form_contact_details_nf:
  en_US: Contact information 
- de_DE: Kontaktangaben
- ja_JP: 連絡先情報
- zh_CN: 
- es_ES: Información de contacto
- fr_FR: 
- pt_BR: 
- pt_INT: 
- ar_SA: 
 form_contact_details_reason:
  de_DE: Wir benötigen diese um Sie mit Ihrem Ansprechpartner vor Ort in Verbindung zu setzen
  en_US: We will use these to put you in touch with your local office
  zh_CN: 我们将会把您的联系方式交给当地的地办事处。
  ja_JP: これらの情報をもとに、貴社の最寄りの事務所をご紹介します
  es_ES: Los utilizaremos para ponerle en contacto con su oficina local
- fr_FR: Nous les utiliserons pour vous mettre en contact avec votre bureau local
  pt_BR: Iremos utilizá-los para o/a colocar em contacto com o escritório local
  pt_INT: Iremos utilizá-los para o/a colocar em contacto com o escritório local
  ar_SA: سوف نستخدم هذه البيانات لإبقائكم على اتصال مع مكتبكم المحلي
@@ -324,9 +275,8 @@ form_full_name:
  de_DE: Vollständiger Name
  en_US: Full name
  zh_CN: 您的姓名
- ja_JP: お名前（フルネーム）
+ ja_JP: ご氏名
  es_ES: Nombre completo
- fr_FR: Nom complet
  pt_BR: Nome completo
  pt_INT: Nome completo
  ar_SA: الاسم بالكامل
@@ -334,27 +284,26 @@ form_enter_full_name:
  de_DE: Geben Sie Ihren vollständigen Namen ein
  en_US: Enter your full name
  zh_CN: 请输入您的姓名
- ja_JP: お名前をフルネームで入力してください。
+ ja_JP: ご氏名を入力してください
  es_ES: Introduzca su nombre completo
- fr_FR: Entrez votre nom complet
  pt_BR: Introduza o seu nome completo
  pt_INT: Introduza o seu nome completo
  ar_SA: أدخل الاسم بالكامل
 form_title:
- de_DE: Position
+ de_DE: Job title
  en_US: Job title
  zh_CN: Job title
- ja_JP: 役職
- es_ES: Cargo
+ ja_JP: Job title
+ es_ES: Puesto que ocupa
  pt_BR: Job title
  pt_INT: Job title
  ar_SA: Job title
 form_enter_title:
- de_DE: Position eingeben
+ de_DE: Enter your job title
  en_US: Enter your job title
  zh_CN: Enter your job title
- ja_JP: 役職を入力してください。
- es_ES: Introduzca su cargo
+ ja_JP: Enter your job title
+ es_ES: Introduzca el nombre de su puesto 
  pt_BR: Enter your job title
  pt_INT: Enter your job title
  ar_SA: Enter your job title
@@ -362,9 +311,8 @@ form_email:
  de_DE: Arbeits-E-Mail
  en_US: Work email
  zh_CN: 工作电子邮件
- ja_JP: 職場のメールアドレス
- es_ES: Correo electrónico de trabajo
- fr_FR: Email professionnel
+ ja_JP: 勤務先の電子メール
+ es_ES: Dirección de correo electrónico de la empresa
  pt_BR: E-mail - Trabalho
  pt_INT: E-mail - Trabalho
  ar_SA: البريد الإلكتروني للعمل
@@ -372,9 +320,8 @@ form_enter_email:
  de_DE: Geben Sie Ihre Emailadresse ein
  en_US: Enter your email address
  zh_CN: 请输入工作电子邮件
- ja_JP: メールアドレスを入力してください。
+ ja_JP: 電子メールアドレスを入力してください
  es_ES: Introduzca su dirección de correo electrónico
- fr_FR: Entrez votre adresse de courrier électronique
  pt_BR: Introduza o seu endereço de e-mail
  pt_INT: Introduza o seu endereço de e-mail
  ar_SA: أدخل بريدك الإلكتروني
@@ -384,7 +331,6 @@ form_enter_valid_email:
  zh_CN: 請以正确的格式输入您的电子邮件，例如name@domain.com
  ja_JP: 例えばname@domain.comなど、正しい形式でメールアドレスを入力してください。
  es_ES: Introduzca su dirección de correo electrónico con un formato correcto, por ejemplo, nombre@dominio.com
- fr_FR: Entrez votre adresse de courrier électronique au bon format, par exemple, nom@domaine.com
  pt_BR: Introduza o seu e-mail no formato correto, por exemplo nome@domínio.com
  pt_INT: Introduza o seu e-mail no formato correto, por exemplo nome@domínio.com
  ar_SA: "أدخل بريدك الإلكتروني بالتنسيق الصحيح، على سبيل المثال: name@domain.com"
@@ -394,7 +340,6 @@ form_enter_valid_phone:
  zh_CN: 请输入有效的电话号码
  ja_JP: 有効な電話番号を入力してください
  es_ES: Por favor introduce un número de teléfono válido
- fr_FR: Veuillez entrer un numéro de téléphone valide
  pt_BR: Por favor, coloque um numero de telefone válido
  pt_INT: Por favor, coloque um numero de telefone válido
  ar_SA: يُرجى إدخال رقم هاتف صحيح
@@ -402,19 +347,17 @@ form_phone:
  de_DE: Arbeits-Telefon (optional)
  en_US: Work phone (optional)
  zh_CN: 工作联系电话(可选填)
- ja_JP: 職場の電話番号（任意）
- es_ES: Teléfono de trabajo (opcional)
- fr_FR: Numéro de téléphone de l'entreprise (optionnel)
+ ja_JP: 勤務先の電話番号 (任意)
+ es_ES: Número de teléfono de la empresa (opcional)
  pt_BR: Telefone - Trabalho (opcional)
  pt_INT: Telefone - Trabalho (opcional)
  ar_SA: هاتف العمل (اختياري)
 form_enter_phone:
- de_DE: Telefon (Büro) (optional)
+ de_DE: Enter your telephone number
  en_US: Enter your telephone number
- zh_CN: Enter your telephone number
- ja_JP: 職場の電話番号（任意）
- es_ES: Teléfono de trabajo (opcional)
- fr_FR: Enter your telephone number
+ zh_CN: Enter your telephone numbe
+ ja_JP: Enter your telephone number
+ es_ES: Enter your telephone number
  pt_BR: Enter your telephone number
  pt_INT: Enter your telephone number
  ar_SA: Enter your telephone number
@@ -424,7 +367,6 @@ form_city:
  zh_CN: 您目前居住城市
  ja_JP: 現在の事業所の最寄りの都市
  es_ES: Ciudad más cercana a la ubicación actual de su negocio
- fr_FR: Ville la plus proche de la localistion actuelle de votre entreprise
  pt_BR: Cidade mais próxima da localização atual da sua empresa
  pt_INT: Cidade mais próxima da localização atual da sua empresa
  ar_SA: أقرب مدينة لمكان عملك الحالي
@@ -434,7 +376,6 @@ form_enter_city:
  zh_CN: 请输入您目前居住城市
  ja_JP: 現在の事業所の最寄りの都市を入力してください
  es_ES: Introduzca la ciudad más cercana a la ubicación actual de su negocio
- fr_FR: Entrez la ville la plus proche de la localisation actuelle de votre entreprise
  pt_BR: Introduza a cidade mais próxima da localização atual da sua empresa
  pt_INT: Introduza a cidade mais próxima da localização atual da sua empresa
  ar_SA: أدخل أقرب مدينة لمكان عملك الحالي
@@ -442,36 +383,35 @@ form_investment:
  de_DE: Ihre Investition
  en_US: Your investment
  zh_CN: 您的投资
- ja_JP: 投資情報
+ ja_JP: 貴社の投資について
  es_ES: Su inversión
- fr_FR: Votre investissement
  pt_BR: O seu investimento
  pt_INT: O seu investimento
  ar_SA: الاستثمار
 form_investment_project:
- de_DE: Angaben zu Ihrer Investition
+ de_DE: Tell us about your investment
  en_US: Tell us about your investment
  zh_CN: Tell us about your investment
- ja_JP: 貴社の投資についてお聞かせください。
- es_ES: Cuéntenos acerca de su inversión
+ ja_JP: Tell us about your investment
+ es_ES: Tell us about your investment
  pt_BR: Tell us about your investment
  pt_INT: Tell us about your investment
  ar_SA: Tell us about your investment
 form_enter_investment_details:
- de_DE: Bitte machen Sie Angaben zu Ihren Investitionsplänen in Großbritannien
+ de_DE: Provide details about your plans to invest in the UK
  en_US: Provide details about your plans to invest in the UK
  zh_CN: Provide details about your plans to invest in the UK
- ja_JP: 英国への投資計画の詳細を入力してください。
- es_ES: Proporcione detalles sobre sus planes para invertir en el Reino Unido
+ ja_JP: Provide details about your plans to invest in the UK
+ es_ES: Provide details about your plans to invest in the UK
  pt_BR: Provide details about your plans to invest in the UK
  pt_INT: Provide details about your plans to invest in the UK
  ar_SA: Provide details about your plans to invest in the UK
 form_investment_details: 
- de_DE: Bitte machen Sie Angaben zu Ihrem Unternehmen und zu Ihren Plänen in Bezug auf die Höhe der Investition sowie auf operative Pläne und Pläne bezüglich der Einstellung von Mitarbeitern in Großbritannien. Bitte teilen Sie uns auch mit, welche Hilfe Sie von den britischen Behörden erhalten möchten.
+ de_DE: Tell us about your company and your plans for the UK in terms of the size of investment, operational and recruitment plans. Please also tell us what help you would like from the UK government.
  en_US: Tell us about your company and your plans for the UK in terms of the size of investment, operational and recruitment plans. Please also tell us what help you would like from the UK government.
  zh_CN: Tell us about your company and your plans for the UK in terms of the size of investment, operational and recruitment plans. Please also tell us what help you would like from the UK government.
- ja_JP: 貴社について、および投資の規模、運営、採用計画の観点から英国に対する貴社の計画についてご説明ください。また、英国政府に求めるサポートについてもお聞かせください。
- es_ES: Cuéntenos sobre su empresa y sus planes para el Reino Unido en cuanto a la magnitud de su inversión, sus planes operativos y de contratación. Díganos qué ayuda le gustaría recibir del gobierno británico.
+ ja_JP: Tell us about your company and your plans for the UK in terms of the size of investment, operational and recruitment plans. Please also tell us what help you would like from the UK government.
+ es_ES: Tell us about your company and your plans for the UK in terms of the size of investment, operational and recruitment plans. Please also tell us what help you would like from the UK government.
  pt_BR: Tell us about your company and your plans for the UK in terms of the size of investment, operational and recruitment plans. Please also tell us what help you would like from the UK government.
  pt_INT: Tell us about your company and your plans for the UK in terms of the size of investment, operational and recruitment plans. Please also tell us what help you would like from the UK government.
  ar_SA: Tell us about your company and your plans for the UK in terms of the size of investment, operational and recruitment plans. Please also tell us what help you would like from the UK government.
@@ -481,7 +421,6 @@ form_enter_annual_turnover:
  zh_CN: 请选择您的公司目前的大概年收入
  ja_JP: 貴社の年間総売上高に相当する範囲を選択してください
  es_ES: Seleccione el intervalo que refleje su volumen de negocio anual
- fr_FR: Sélectionnez l'intervalle qui représente votre chiffre d'affaires annuel
  pt_BR: Selecione a opção mais próxima da sua receita anual
  pt_INT: Selecione a opção mais próxima da sua receita anual
  ar_SA: حدد النطاق الذي يعكس حجم مبيعاتك السنوية
@@ -492,7 +431,6 @@ form_annual_turnover:
    zh_CN: 公司目前估计的年收入
    ja_JP: 現在の年間売上高 (推定でも構いません)
    es_ES: Ingresos anuales actuales aproximados
-   fr_FR: Estimation actuelle de vos revenus annuels
    pt_BR: Estimativa da atual receita anual
    pt_INT: Estimativa da atual receita anual
    ar_SA: الإيرادات السنوية التقديرية الحالية
@@ -537,14 +475,7 @@ form_annual_turnover:
    - Entre 1 millón y 10 millones de libras
    - Entre 10 y 50 millones de libras
    - Entre 50 y 100 millones de libras
-   - Más de 100 millones de libras   
-   fr_FR:
-   - Moins de 100 000 livres
-   - Entre 100 000 et 1 million de livres
-   - Entre 1 million y 10 millions de livres
-   - Entre 10 y 50 millions de livres
-   - Entre 50 y 100 millions de livres
-   - Plus de 100 millions de livres
+   - Más de 100 millones de libras
    pt_BR:
    - Inferior a 100 000 £
    - Entre 100 000 £ e 1 milhão de £
@@ -572,7 +503,6 @@ form_enter_staff_number:
  zh_CN: 请选择目前工作人员的大概人数
  ja_JP: 貴社の従業員数に最も近い範囲を選択してください
  es_ES: Seleccione el intervalo que más se aproxime a su número de empleados
- fr_FR: Sélectionnez l'intervalle le plus proche de votre nombre d'employés
  pt_BR: Selecione a opção mais próxima do seu número de pessoal
  pt_INT: Selecione a opção mais próxima do seu número de pessoal
  ar_SA: حدد النطاق الأقرب إلى عدد موظفيك
@@ -581,9 +511,8 @@ form_staff_number:
    de_DE: Geschätzte derzeitige Mitarbeiteranzahl
    en_US: Total current number of staff
    zh_CN: 目前工作人员估计人数
-   ja_JP: 現在の全従業員数
-   es_ES: Número total actual de empleados
-   fr_FR: Estimation actuelle du nombre d'employés
+   ja_JP: 現在の従業員数 (推定でも構いません)
+   es_ES: Número aproximado de personal en la actualidad
    pt_BR: Estimativa do número de pessoal atual
    pt_INT: Estimativa do número de pessoal atual
    ar_SA: العدد التقديري الحالي للموظفين
@@ -594,8 +523,8 @@ form_staff_number:
    '3': More than 250
    de_DE:
    - Weniger als 10
-   - 10 bis 50
-   - 51 bis 250
+   - Zwischen 10 und 50
+   - Zwischen 51 und 250
    - Mehr als 250
    en_US:
    - Less than 10
@@ -608,20 +537,15 @@ form_staff_number:
    - 50 - 250 人
    - 超过 250 人
    ja_JP:
-   - 10 名未満
-   - 10～50 名
-   - 51～250 名
-   - 251 名以上
+   - 10人未満
+   - 10～50人
+   - 51～250人
+   - 250人を超える
    es_ES:
    - Menos de 10
-   - De 10 y 50
-   - De 51 y 250
-   - Más de 250   
-   fr_FR:
-   - Moins de 10
-   - Entre 10 et 50
-   - Entre 50 et 250
-   - Plus de 250
+   - Entre 10 y 50
+   - Entre 51 y 250
+   - Más de 250
    pt_BR:
    - Menos de 10
    - Entre 10 e 50
@@ -643,7 +567,6 @@ form_location:
  zh_CN: 您是否正在考虑在英国的一个特定的位置?
  ja_JP: 英国の特定の場所をご検討中ですか。
  es_ES: ¿Está pensando en una ubicación concreta en el Reino Unido?
- fr_FR: Envisagez-vous une localisation précise au Royaume-Uni ?
  pt_BR: Está a considerar um local específico no Reino Unido?
  pt_INT: Está a considerar um local específico no Reino Unido?
  ar_SA: هل تفكر في موقع محدد في المملكة المتحدة؟
@@ -653,7 +576,6 @@ form_enter_which_part:
  zh_CN: 请选择您的首选英国位置？
  ja_JP: 場所を選択してください
  es_ES: Seleccione una ubicación
- fr_FR: Sélectionnez votre localisation
  pt_BR: Selecione uma localização
  pt_INT: Selecione uma localização
  ar_SA: أين يوجد موقعك الرئيسي?
@@ -664,7 +586,6 @@ form_which_part:
    zh_CN: 您的首选英国位置?
    ja_JP: 本社はどちらですか。
    es_ES: ¿Dónde se encuentra su sede principal?
-   fr_FR: Où se trouve votre localisation principale ?
    pt_BR: Qual é a sua localização principal?
    pt_INT: Qual é a sua localização principal?
    ar_SA: أين يوجد موقعك الرئيسي?
@@ -733,18 +654,7 @@ form_which_part:
    - Edimburgo y el Sur de Escocia
    - Aberdeen y el Noreste de Escocia
    - Belfast e Irlanda del Norte
-   - Nottingham y las Midlands del Este   
-   fr_FR:
-   - Londres et le Sud Est
-   - Bristol et le Sud Est
-   - Birmingham et les Midlands de l'Ouest
-   - Manchester et le Nord Ouest
-   - Newcastle et le Nord Est
-   - Cardiff et le Pays de Galles
-   - Edimbourg et le Sud de l'Ecosse
-   - Aberdeen et le Nord Est de l'Ecosse
-   - Belfast et l'Irlande du Nord
-   - Nottingham et les Midlands de l'Est
+   - Nottingham y las Midlands del Este
    pt_BR:
    - Londres e região sudeste
    - Bristol e região sudoeste
@@ -784,7 +694,6 @@ form_enter_when:
  zh_CN: 请输入您預期在英国的业务运行的日子
  ja_JP: 英国における営業開始をご希望の日付を大まかにご記入ください
  es_ES: Introduzca la fecha aproximada en la que desea estar operando en el Reino Unido
- fr_FR: Entrez la date approximative à laquelle vous voulez être opérationnel au Royaume-Uni
  pt_BR: Introduza a data aproximada em que pretende estar a operar no Reino Unido
  pt_INT: Introduza a data aproximada em que pretende estar a operar no Reino Unido
  ar_SA: أدخل التاريخ التقريبي الذي ترغب أن تبدأ عملك فيه في المملكة المتحدة
@@ -794,7 +703,6 @@ form_when:
  zh_CN: 您預期在英国的业务运行的日子
  ja_JP: 英国における事業開始をご希望の時期をご記入ください (月／年)
  es_ES: ¿Cuándo espera tener su negocio operativo en el Reino Unido (mes/año)?
- fr_FR: Quand souhaitez-vous avoir votre entreprise opérationnelle au Royaume-Uni (mois/année) ?
  pt_BR: Quando espera ter a sua empresa a funcionar no Reino Unido (mês/ano)
  pt_INT: Quando espera ter a sua empresa a funcionar no Reino Unido (mês/ano)
  ar_SA: متى تأمل أن تدير عملك في المملكة المتحدة (الشهر/العام)؟
@@ -805,7 +713,6 @@ form_when_month:
    zh_CN: 月
    ja_JP: 月
    es_ES: mes
-   fr_FR: mois
    pt_BR: mês
    pt_INT: mês
    ar_SA: 
@@ -887,19 +794,6 @@ form_when_month:
    - Octubre
    - Noviembre
    - Diciembre
-   fr_FR:
-   - Janvier
-   - Février
-   - Mars
-   - Avril
-   - Mai
-   - Juin
-   - Juillet
-   - Août
-   - Septembre
-   - Octobre
-   - Novembre
-   - Décembre
    pt_BR:
    - Janeiro
    - Fevereiro
@@ -946,7 +840,6 @@ form_when_year:
    zh_CN: 年
    ja_JP: 年
    es_ES: año
-   fr_FR: année
    pt_BR: ano
    pt_INT: ano
    ar_SA: 
@@ -1016,17 +909,6 @@ form_when_year:
    - '2024'
    - '2025'
    - '2026'
-   fr_FR:
-   - '2017'
-   - '2018'
-   - '2019'
-   - '2020'
-   - '2021'
-   - '2022'
-   - '2023'
-   - '2024'
-   - '2025'
-   - '2026'
    pt_BR:
    - '2017'
    - '2018'
@@ -1064,109 +946,70 @@ form_company:
  de_DE: Ihr Unternehmen
  en_US: Your company
  zh_CN: 您的公司
- ja_JP: 企業名
+ ja_JP: 貴社について
  es_ES: Su empresa
- fr_FR: Votre entreprise
  pt_BR: A sua empresa
  pt_INT: A sua empresa
  ar_SA: الشركة
 form_company_nf:
- en_US: Your company
- de_DE: Ihr Unternehmen
- ja_JP: 企業名
- zh_CN: 
- es_ES: Su empresa
- fr_FR: 
- pt_BR: 
- pr_INT: 
- ar_SA: 
+ en_US: Your company 
 form_company_reason:
  de_DE: Helfen Sie uns, Ihren aktuellen Betrieb zu verstehen
  en_US: Help us understand your current operations
  zh_CN: 帮助我们了解您目前的业务
  ja_JP: 貴社の現在の運営について当省が理解するために、ご協力ください
  es_ES: Ayúdenos a conocer sus operaciones actuales
- fr_FR: Aidez-nous à comprendre vos opérations actuelles
  pt_BR: Ajude-nos a compreender as suas operações atuais
  pt_INT: Ajude-nos a compreender as suas operações atuais
  ar_SA: ساعدنا على فهم عملياتك الحالية
 form_registered_company:
- de_DE: Unternehmen
+ de_DE: Eingetragener Firmenname
  en_US: Company name
  zh_CN: 公司注册名称
  ja_JP: 正式登録の社名
- es_ES: Nombre de la empresa
- fr_FR: Dénomination sociale de votre entreprise
+ es_ES: Nombre registrado de la empresa
  pt_BR: Nome da empresa registado
  pt_INT: Nome da empresa registado
  ar_SA: الاسم المُسجَّل للشركة
 form_enter_registered_company:
- de_DE: Unternehmensnamen eingeben
+ de_DE: Geben Sie Ihren eingetragenen Unternehmensnamen ein
  en_US: Enter your company name
  zh_CN: 请输入您的公司注册名称
  ja_JP: 正式登録された会社名を入力してください
- es_ES: Introduzca el nombre de su empresa
- fr_FR: Entrez la dénomination sociale de votre entreprise
+ es_ES: Introduzca el nombre registrado de su empresa
  pt_BR: Introduza o nome registado da sua empresa
  pt_INT: Introduza o nome registado da sua empresa
  ar_SA: أدخل اسم شركتك المُسجَّل
 form_website:
- de_DE: Unternehmenswebseite
+ de_DE: Internetadresse Ihres Unternehmens
  en_US: Company website address (optional)
  zh_CN: 公司网站地址
  ja_JP: 貴社のウェブサイト アドレス (任意)
  es_ES: Dirección del sitio web de la empresa (opcional)
- fr_FR: Adresse du site internet de votre entreprise (optionnel)
  pt_BR: Endereço do website da empresa (opcional)
  pt_INT: Endereço do website da empresa (opcional)
  ar_SA: الموقع الإلكتروني للشركة (اختياري)
 form_website_nf:
  en_US: Company website
- de_DE: Unternehmenswebseite
- zh_CN: 
- ja_JP: 企業ウェブサイト
- es_ES: Sitio web de la empresa
- fr_FR: 
- pt_BR: 
- pr_INT: 
- ar_SA: 
 form_enter_website:
- de_DE: Unternehmenswebseite eingeben
+ de_DE: Geben Sie die Internetadresse Ihres Unternehmens ein
  en_US: Enter your company website address
  zh_CN: 请输入您的公司网站地址
- ja_JP: 貴社のウェブサイトのアドレスを入力してください。
- es_ES: Introduzca la dirección de sitio web de la empresa
- fr_FR: Entrez l'adresse du site internet de votre entreprise
+ ja_JP: 貴社のウェブサイトのアドレスを入力してください
+ es_ES: Introduzca la dirección del sitio web de su empresa
  pt_BR: Introduza o endereço do website da sua empresa
  pt_INT: Introduza o endereço do website da sua empresa
  ar_SA: 
 form_enter_website_nf:
  en_US: Enter your website address or check the box below
- de_DE: Unternehmenswebseite eingeben
- zh_CN: 
- ja_JP: 貴社のウェブサイトのアドレスを入力してください。
- es_ES: Introduzca la dirección de sitio web de la empresa
- fr_FR: 
- pt_BR: 
- pr_INT: 
- ar_SA: 
 form_do_not_have_website:
- de_DE: Ich habe keine Webseite
  en_US: I do not have a website 
- zh_CN: 
- ja_JP: ウェブサイトなし
- es_ES: No tengo sitio web
- fr_FR: 
- pt_BR: 
- pr_INT: 
- ar_SA: 
 form_enter_primary_industry:
  de_DE: Wählen Sie die Branche aus, in der Sie hauptsächlich tätig sind, aus oder wählen Sie "Sonstiges"
  en_US: Select the industry you mainly operate in or select Other
  zh_CN: 请选择您的主要经营行业
  ja_JP: 主要業種をご選択いただくか、または「その他」を選択してください
  es_ES: Seleccione el sector en el que opera principalmente o seleccione Otros
- fr_FR: Sélectionnez le secteur dans lequel vous opérez principalement ou sélectionnez Autre
  pt_BR: Selecione a indústria em que opera maioritariamente ou selecione Outra
  pt_INT: Selecione a indústria em que opera maioritariamente ou selecione Outra
  ar_SA: حدد القطاع الذي تعمل فيه بشكل أساسي أو اختر "غير ذلك"
@@ -1177,7 +1020,6 @@ form_primary_industry:
    zh_CN: 主要经营行业
    ja_JP: 主要業種
    es_ES: Sector principal de operación
-   fr_FR: Industrie principale
    pt_BR: Indústria principal
    pt_INT: Indústria principal
    ar_SA: قطاع العمل الأساسي
@@ -1330,32 +1172,7 @@ form_primary_industry:
    - Fabricación farmacéutica
    - Comercio minorista
    - Tecnología
-   - Otros   
-   fr_FR:
-   - Fabrication avancée
-   - Aérospatial
-   - Gestion d'actifs
-   - Recherche et développement automobile
-   - Chaîne logistique automobile
-   - Big Data y Analyse
-   - Création et production de contenus créatifs
-   - Médias digitaux
-   - Réseaux électriques
-   - Production d'énergie à partir de déchets
-   - Services financiers
-   - FinTech
-   - Fabrication d'aliments et de boissons
-   - Produits hypoallergéniques
-   - Santé
-   - Technologie médicale
-   - Sports automobiles
-   - Energie nucléaire
-   - Energie éolienne offshore
-   - Petrole et gaz
-   - Fabrication pharmaceutique
-   - Vente au détail
-   - Technologie
-   - Autre
+   - Otros
    pt_BR:
    - Fabrico avançado
    - Aeroespacial
@@ -1437,7 +1254,6 @@ form_other:
  zh_CN: 其他
  ja_JP: その他
  es_ES: Otros
- fr_FR: Autre
  pt_BR: Outra
  pt_INT: Outra
  ar_SA: 
@@ -1447,7 +1263,6 @@ form_enter_other:
  zh_CN: 请输入您的行业
  ja_JP: 業種を入力してください
  es_ES: Introduzca su sector
- fr_FR: Entrez votre industrie
  pt_BR: Introduza a sua indústria
  pt_INT: Introduza a sua indústria
  ar_SA: غير ذلك
@@ -1457,7 +1272,6 @@ form_mailing_list:
  zh_CN: 国际贸易部及其合作伙伴可能会使用您的联系方式向您发送相关的新闻和信息
  ja_JP: 英国国際貿易省 (Department for International Trade) およびそのパートナーでは、関連ニュースや情報を送信するために情報を使用させていただく場合があります。
  es_ES: El Departamento de Comercio Internacional y sus socios pueden emplear sus datos para enviarle información y noticias relevantes
- fr_FR: Le Département pour le Commerce International et ses partenaires peuvent utiliser vos données pour vous envoyer des nouvelles et informations
  pt_BR: O Departamento do Comércio Internacional (Department for International Trade) e os respetivos parceiros poderão utilizar os seus detalhes para lhe enviar notícias e informações relevantes
  pt_INT: O Departamento do Comércio Internacional (Department for International Trade) e os respetivos parceiros poderão utilizar os seus detalhes para lhe enviar notícias e informações relevantes
  ar_SA: قد تستخدم وزارة التجارة الدولية وشركاؤها بياناتكم لترسل لكم الأخبار والمعلومات ذات الصلة
@@ -1467,7 +1281,6 @@ form_enter_mailing_list:
  zh_CN: Select whether you'd like to receive relevant news and information:CN
  ja_JP: Select whether you'd like to receive relevant news and information:JP
  es_ES: Select whether you'd like to receive relevant news and information:ES
- fr_FR: Select whether you'd like to receive relevant news and information:FR
  pt_BR: Select whether you'd like to receive relevant news and information:BR
  pt_INT: Select whether you'd like to receive relevant news and information:BR
  ar_SA: 
@@ -1477,58 +1290,38 @@ form_mailing_list_confirmation:
  zh_CN: 我希望收到相关的新闻和信息
  ja_JP: この情報の受信を希望
  es_ES: Sí, me gustaría recibir esta información
- fr_FR: Oui, je souhaite recevoir cette information
  pt_BR: Sim, gostaria de receber essas informações
  pt_INT: Sim, gostaria de receber essas informações
  ar_SA: نعم، أود الحصول على هذه المعلومات
 form_use_of_info: 
- en_US: We will use this information to put you in touch with your closest British embassy or high commission.
- de_DE: Wir verwenden diese Angaben, um Sie mit Ihrer nächsten britischen Botschaft oder Ihrem nächsten britischen Hochkommissariat in Verbindung zu setzen.
- zh_CN: 
- ja_JP: この情報をもとに、最も近い場所にある英国大使館または高等弁務官事務所からご連絡を差し上げます。
- es_ES: Utilizaremos esta información para ponerle en contacto con la Embajada o el Alto Comisionado británicos más cercanos.
- fr_FR: 
- pt_BR: 
- pr_INT: 
- ar_SA: 
+  en_US: We will use this information to put you in touch with your closest British embassy or high commission.
 form_enter_headquarters:
  de_DE: Geben Sie das Land Ihres Unternehmenshauptsitzes ein
  en_US: Enter the country where your company has its headquarters
  zh_CN: 请输入您的公司总部所在国家
  ja_JP: 貴社の本社のある国名を入力してください
  es_ES: Introduzca el país en el que se encuentre la sede central de su empresa
- fr_FR: Entrez le pays où se trouve le siège de votre entreprise
  pt_BR: Introduza o país onde a sua empresa está sediada
  pt_INT: Introduza o país onde a sua empresa está sediada
  ar_SA: أدخل الدولة التي يقع بها المقر الرئيسي لشركتك
 form_enter_headquarters_nf:
  en_US: Enter your country
- de_DE: Land eingeben
- zh_CN: 
- ja_JP: 拠点とする国を入力してください。
- es_ES: Introduzca su país
- fr_FR: 
- pt_BR: 
- pr_INT: 
- ar_SA: 
 form_enter_headquarters_help:
  de_DE: Bitte geben Sie hier Text ein damit Sie eine Auswahl machen können.
  en_US: Start typing to select a country.
  zh_CN: 开始输入并选择一个选项
  ja_JP: 入力を開始すると、オプションを選択できます
- es_ES: Empiece a escribir para seleccionar una opción
- fr_FR: Commencez à taper pour sélectionnez une option
- pt_BR: Comece a digitar para selecionar uma opção
- pt_INT: Comece a digitar para selecionar uma opção
+ es_ES: Empiece a escribir para seleccionar una opción.
+ pt_BR: Comece a digitar para selecionar uma opção.
+ pt_INT: Comece a digitar para selecionar uma opção.
  ar_SA: ابدأ الكتابة لتحديد أحد الخيارات
 form_headquarters:
  label:
-   de_DE: In welchem Land befinden Sie sich?
+   de_DE: Hauptsitz ihres Unternehmens
    en_US: Which country are you based in?
    zh_CN: 公司总部所在国家
    ja_JP: 国名
    es_ES: País
-   fr_FR: Pays
    pt_BR: País
    pt_INT: País
    ar_SA: الدولة
@@ -3032,256 +2825,6 @@ form_headquarters:
    - Sudáfrica
    - Zambia
    - Zimbabwe
-   fr_FR:
-   - Andorre
-   - Emirats Arabes Unis
-   - Afghanistan
-   - Antigua-et-Barbuda
-   - Anguilla
-   - Albanie
-   - Arménie
-   - Angola
-   - Antarctique
-   - Argentine
-   - Samoa Américaines
-   - Autriche
-   - Australie
-   - Aruba
-   - Iles Åland
-   - Azerbaïdjan
-   - Bosnie-Herzégovine
-   - Barbade
-   - Bangladesh
-   - Belgique
-   - Burkina Faso
-   - Bulgarie
-   - Bahreïn
-   - Burundi
-   - Bénin
-   - San Bartolomé
-   - Bermudes
-   - Brunei
-   - Bolivie
-   - Bonaire
-   - Brésil
-   - Bahamas
-   - Bhoutan
-   - Île Bouvet
-   - Botswana
-   - Biélorussie
-   - Bélize
-   - Canada
-   - Îles Cocos
-   - République démocratique du Congo
-   - République centrafricaine
-   - République du Congo
-   - Suisse
-   - Côte d’Ivoire
-   - Îles Cook
-   - Chili
-   - Cameroun
-   - Chine
-   - Colombie
-   - Costa Rica
-   - Cuba
-   - Cap-Vert
-   - Curaçao
-   - Île Christmas
-   - Chypre
-   - République tchèque
-   - Allemagne
-   - Djibouti
-   - Danemark
-   - Dominique
-   - République dominicaine
-   - Algérie
-   - Équateur
-   - Estonie
-   - Égypte
-   - Sahara occidental
-   - Érythrée
-   - Espagne
-   - Éthiopie
-   - Finlande
-   - Fiji
-   - Îles Malouines (Falkland)
-   - Micronésie
-   - Îles Féroé
-   - France
-   - Gabon
-   - Royaume-Uni
-   - Grenade
-   - Géorgie
-   - Guayane Française
-   - Guernesey
-   - Ghana
-   - Gibraltar
-   - Groenland
-   - Gambie
-   - Guinée
-   - Guadeloupe
-   - Guinée équatoriale
-   - Grèce
-   - Géorgie du Sud-et-les Îles Sandwich du Sud
-   - Guatemala
-   - Guam
-   - Guinée-Bissau
-   - Guyane
-   - Hong Kong
-   - Îles Heard-et-MacDonald
-   - Honduras
-   - Croatie
-   - Haïti
-   - Hongrie
-   - Indonésie
-   - Irlande
-   - Israël
-   - Île de Man
-   - Inde
-   - Territoire britannique de l'océan Indien
-   - Irak
-   - Iran
-   - Islande
-   - Italie
-   - Jersey
-   - Jamaïque
-   - Jordanie
-   - Japon
-   - Kenya
-   - Kirghizistan
-   - Cambodge
-   - Kiribati
-   - Comores
-   - Saint-Christophe-et-Niévès
-   - Corée du Nord
-   - Corée du Sud
-   - Koweït
-   - Îles Caïmans
-   - Kazakhstan
-   - République démocratique populaire du Laos
-   - Liban
-   - Sainte-Lucie
-   - Liechtenstein
-   - Sri Lanka
-   - Liberia
-   - Lesotho
-   - Lituanie
-   - Luxembourg
-   - Lettonie
-   - Libye
-   - Maroc
-   - Monaco
-   - Moldavie
-   - Monténégro
-   - Saint-Martin
-   - Madagascar
-   - Îles Marshall
-   - Macédoine
-   - Mali
-   - Birmanie
-   - Mongolie
-   - Macao
-   - Îles Mariannes du Nord
-   - Martinique
-   - Mauritanie
-   - Montserrat
-   - Malte
-   - Maurice
-   - Maldives
-   - Malawi
-   - Mexique
-   - Malaisie
-   - Mozambique
-   - Namibie
-   - Nouvelle-Calédonie
-   - Niger
-   - Île Norfolk
-   - Nigeria
-   - Nicaragua
-   - Pays-Bas
-   - Norvège
-   - Népal
-   - Nauru
-   - Niue
-   - Nouvelle-Zélande
-   - Oman
-   - Panama
-   - Pérou
-   - Polynésie française
-   - Papouasie-Nouvelle-Guinée
-   - Philippines
-   - Pakistan
-   - Pologne
-   - Saint-Pierre-et-Miquelon
-   - Pitcairn
-   - Porto Rico
-   - Palestine
-   - Portugal
-   - Palaos
-   - Paraguay
-   - Qatar
-   - Réunion
-   - Roumanie
-   - Serbie
-   - Russie
-   - Rwanda
-   - Arabie saoudite
-   - Salomon
-   - Seychelles
-   - Soudan
-   - Suède
-   - Singapour
-   - Sainte-Hélène
-   - Slovénie
-   - Svalbard et Jan Mayen
-   - Slovaquie
-   - Sierra Leone
-   - Saint-Marin
-   - Sénégal
-   - Somalie
-   - Suriname
-   - Soudan du Sud
-   - Sao Tomé-et-Principe
-   - Salvador
-   - Saint-Martin
-   - Syrie
-   - Swaziland
-   - Îles Turks-et-Caïcos
-   - Tchad
-   - France d'outre-mer
-   - Togo
-   - Thaïlande
-   - Tadjikistan
-   - Tokelau
-   - Timor Oriental
-   - Turkménistan
-   - Tunisie
-   - Tonga
-   - Turquie
-   - Trinité-et-Tobago
-   - Tuvalu
-   - Taïwan
-   - Tanzanie
-   - Ukraine
-   - Ouganda
-   - Îles mineures éloignées des États-Unis
-   - États-Unis
-   - Uruguay
-   - Ouzbékistan
-   - Vatican
-   - Saint-Vincent-et-les-Grenadines
-   - Venezuela
-   - Îles Vierges britanniques
-   - Îles Vierges des États-Unis
-   - Viêtnam
-   - Vanuatu
-   - Wallis-et-Futuna
-   - Samoa
-   - Yémen
-   - Mayotte
-   - Afrique du Sud
-   - Zambie
-   - Zimbabwe
    pt_BR:
    - Andorra
    - United Arab Emirates
@@ -4033,12 +3576,11 @@ form_headquarters:
    - زامبيا
    - زمبابوي
 form_disclaimer:
- de_DE: Durch die Absendung Ihrer Daten an uns bestätigen Sie, dass Ihre mit uns geteilten Daten zutreffend sind und dass Sie unsere AGB akzeptieren.
+ de_DE: Mit Absenden Ihrer Daten bestätigen Sie, dass die von Ihnen eingegebenen Daten korrekt sind und stimmen unseren
  en_US: By sending us your details you confirm that the information you've shared with us is true and you accept our
  zh_CN: 发送您的详细信息以后，代表您同意提供的信息是真实并接受
- ja_JP: 詳細情報を送信されますと、この情報を私たちと共有することを認め、利用規約に同意されたことになります。
- es_ES: Al enviarnos sus datos, usted confirma que la información que nos proporciona es verídica y acepta nuestros
- fr_FR: En envoyant vos données, vous confirmez que l'information que vous partagez avec nous est vraie et vous acceptez nos
+ ja_JP: 情報をご送付いただくことで、当省にご提出いただいた情報が真実であり、当省の利用規約に同意していただいたことをご確認いただくことになりますのでご了解ください。
+ es_ES: Al enviarnos sus datos, usted confirma que la información que nos proporciona es verídica y acepta nuestros 
  pt_BR: Ao enviar-nos os seus detalhes confirma que as informações que partilhou conosco são verdadeiras e que aceita os nossos
  pt_INT: Ao enviar-nos os seus detalhes confirma que as informações que partilhou conosco são verdadeiras e que aceita os nossos
  ar_SA: أنتم تؤكدون بموجب إرسالكم للبيانات ذات الصلة بكم أن المعلومات المرسلة هي معلومات صحيحة وأنكم توافقون على
@@ -4048,7 +3590,6 @@ form_disclaimer_tc:
  zh_CN: 我们的附带条约。
  ja_JP: 当省の利用規約
  es_ES: términos y condiciones.
- fr_FR: conditions générales.
  pt_BR: termos e condições.
  pt_INT: termos e condições.
  ar_SA: الشروط والأحكام
@@ -4067,7 +3608,6 @@ feedback_name:
  zh_CN: 您的姓名
  ja_JP: ご氏名
  es_ES: Nombre
- fr_FR: Nom
  pt_BR: Nome
  pt_INT: Nome
  ar_SA: الاسم 
@@ -4077,7 +3617,6 @@ feedback_email:
  zh_CN: 工作电子邮件
  ja_JP: メール
  es_ES: Correo electrónico
- fr_FR: Adresse email
  pt_BR: E-mail
  pt_INT: E-mail
  ar_SA: ﺎﻠﺑﺮﻳﺩ ﺍﻺﻠﻜﺗﺭﻮﻨﻳ ﻞﻠﻌﻤﻟ
@@ -4087,7 +3626,6 @@ feedback_feedback:
  zh_CN: 电子邮件
  ja_JP: フィードバック
  es_ES: Comentarios
- fr_FR: Commentaire
  pt_BR: Comentários
  pt_INT: Comentários
  ar_SA: 
@@ -4106,7 +3644,6 @@ report_problem:
  zh_CN: 报告问题
  ja_JP: 問題を報告します
  es_ES: Reportar un problema
- fr_FR: Signaler un problème
  pt_BR: Relatar um problema
  pt_INT: Relatar um problema
  ar_SA: 
@@ -4116,7 +3653,6 @@ report_problem_placeholder:
  zh_CN: Please include the name of the page with the issue, and as much detail as possible.
  ja_JP: ''
  es_ES: ''
- fr_FR: ''
  pt_BR: ''
  pt_INT: ''
  ar_SA: 
@@ -4126,7 +3662,6 @@ language:
   zh_CN: 语言
   ja_JP: 言語
   es_ES: Idioma
-  fr_FR: Langue
   pt_BR: Lingua
   pt_INT: Lingua
   ar_SA: اللغة
@@ -4136,7 +3671,6 @@ choose_language:
   zh_CN: 选择语言
   ja_JP: 言語を選択
   es_ES: Seleccione su idioma
-  fr_FR: Sélectionnez votre langue
   pt_BR: Escolha a sua língua
   pt_INT: Escolha a sua língua
   ar_SA: اختيار اللغة
@@ -4146,7 +3680,6 @@ close:
   zh_CN: 关闭
   ja_JP: 閉じる
   es_ES: Cerrar
-  fr_FR: Fermer
   pt_BR: Fechar
   pt_INT: Fechar
   ar_SA: إغلاق
@@ -4156,7 +3689,6 @@ country_region:
   zh_CN: 国家/地区
   ja_JP: 国／地域
   es_ES: País/región
-  fr_FR: Pays/région
   pt_BR: País/região
   pt_INT: País/região
   ar_SA: الدولة/المنطقة
@@ -4166,7 +3698,6 @@ country_text:
   zh_CN: 我们还提供特定地区的投资信息
   ja_JP: 地域別の投資情報も提供しています
   es_ES: También proporcionamos información sobre inversiones específica para cada región.
-  fr_FR: Nous fournissons aussi des informations sur des investissements spécifiques pour chaque région.
   pt_BR: Também fornecemos informações de investimento específicas para cada região.
   pt_INT: Também fornecemos informações de investimento específicas para cada região.
   ar_SA: نقدم أيضًا معلومات عن الاستثمار حسب المنطقة
@@ -4176,7 +3707,6 @@ location_guide:
   zh_CN: 定位指南
   ja_JP: 地域ガイド
   es_ES: Guía de ubicaciones
-  fr_FR: Guide des localisations
   pt_BR: Guia de localização
   pt_INT: Guia de localização
   ar_SA: دليل الأماكن
@@ -4222,7 +3752,6 @@ investment_opts_involved_in_research:
   zh_CN: 参与调查以帮助我们开发服务
   ja_JP: サービス展開のための調査にご協力ください
   es_ES: Participar en la investigación para el desarrollo del servicio
-  fr_FR: Participez à la recherche pour aider au développement du service
   pt_BR: Participe na pesquisa para desenvolver o serviço
   pt_INT: Participe na pesquisa para desenvolver o serviço
   ar_SA: شاركوا في الأبحاث لتطوير الخدمة
@@ -4232,7 +3761,6 @@ investment_opts_get_updates:
   zh_CN: 获取更新
   ja_JP: アップデート情報を受信
   es_ES: Recibir actualizaciones
-  fr_FR: Recevoir les actualités
   pt_BR: Receba atualizações
   pt_INT: Receba atualizações
   ar_SA: الحصول على التحديثات
@@ -4470,16 +3998,6 @@ new_window:
   pt_BR: ''
   pt_INT: ''
   ar_SA: ''
-specific_categories:
-  de_DE: ''
-  en_US: 'Specific categories'
-  zh_CN: ''
-  ja_JP: ''
-  es_ES: ''
-  fr_FR: 'Catégories spécifiques'
-  pt_BR: ''
-  pt_INT: ''
-  ar_SA: ''
 sectors:
   aerospace:
     de_DE: 'Luftfahrtindustrie'
@@ -4571,6 +4089,24 @@ sectors:
     pt_BR: ''
     pt_INT: ''
     ar_SA: ''
+where_to_invest:
+   de_DE: ''
+   en_US: 'Where to invest'
+   zh_CN: ''
+   ja_JP: ''
+   es_ES: ''
+   pt_BR: ''
+   pt_INT: ''
+   ar_SA: ''
+select_your_industry:
+   de_DE: ''
+   en_US: 'Select your industry'
+   zh_CN: ''
+   ja_JP: ''
+   es_ES: ''
+   pt_BR: ''
+   pt_INT: ''
+   ar_SA: ''
 choose_a_comparator:
    de_DE: ''
    en_US: 'Choose a comparator:'
@@ -4661,9 +4197,18 @@ r_d_hub:
    pt_BR: ''
    pt_INT: ''
    ar_SA: ''
-size:
+activity:
    de_DE: ''
-   en_US: 'Size'
+   en_US: 'Activity'
+   zh_CN: ''
+   ja_JP: ''
+   es_ES: ''
+   pt_BR: ''
+   pt_INT: ''
+   ar_SA: ''
+map_indicator:
+   de_DE: ''
+   en_US: 'Map Indicator'
    zh_CN: ''
    ja_JP: ''
    es_ES: ''
