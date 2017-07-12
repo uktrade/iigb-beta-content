@@ -392,8 +392,8 @@ form_investment_project:
  de_DE: Tell us about your investment
  en_US: Tell us about your investment
  zh_CN: Tell us about your investment
- ja_JP: Tell us about your investment
- es_ES: Tell us about your investment
+ ja_JP: 貴社の投資についてお聞かせください。
+ es_ES: Conte-nos sobre o seu investimento
  pt_BR: Tell us about your investment
  pt_INT: Tell us about your investment
  ar_SA: Tell us about your investment
@@ -401,18 +401,18 @@ form_enter_investment_details:
  de_DE: Provide details about your plans to invest in the UK
  en_US: Provide details about your plans to invest in the UK
  zh_CN: Provide details about your plans to invest in the UK
- ja_JP: Provide details about your plans to invest in the UK
- es_ES: Provide details about your plans to invest in the UK
- pt_BR: Provide details about your plans to invest in the UK
+ ja_JP: 英国への投資計画の詳細を入力してください。
+ es_ES:  
+ pt_BR: Forneça detalhes sobre seus planos para investir no Reino Unido
  pt_INT: Provide details about your plans to invest in the UK
  ar_SA: Provide details about your plans to invest in the UK
 form_investment_details: 
  de_DE: Tell us about your company and your plans for the UK in terms of the size of investment, operational and recruitment plans. Please also tell us what help you would like from the UK government.
  en_US: Tell us about your company and your plans for the UK in terms of the size of investment, operational and recruitment plans. Please also tell us what help you would like from the UK government.
  zh_CN: Tell us about your company and your plans for the UK in terms of the size of investment, operational and recruitment plans. Please also tell us what help you would like from the UK government.
- ja_JP: Tell us about your company and your plans for the UK in terms of the size of investment, operational and recruitment plans. Please also tell us what help you would like from the UK government.
- es_ES: Tell us about your company and your plans for the UK in terms of the size of investment, operational and recruitment plans. Please also tell us what help you would like from the UK government.
- pt_BR: Tell us about your company and your plans for the UK in terms of the size of investment, operational and recruitment plans. Please also tell us what help you would like from the UK government.
+ ja_JP: 貴社について、および投資の規模、運営、採用計画の観点から英国に対する貴社の計画についてご説明ください。また、英国政府に求めるサポートについてもお聞かせください。
+ es_ES: 
+ pt_BR: Conte-nos sobre sua empresa e seus planos para o Reino Unido em termos de tamanho do investimento, planos operacionais e planos de recrutamento. Explique-nos que tipo de ajuda você gostaria de receber do governo do Reino Unido.
  pt_INT: Tell us about your company and your plans for the UK in terms of the size of investment, operational and recruitment plans. Please also tell us what help you would like from the UK government.
  ar_SA: Tell us about your company and your plans for the UK in terms of the size of investment, operational and recruitment plans. Please also tell us what help you would like from the UK government.
 form_enter_annual_turnover:
