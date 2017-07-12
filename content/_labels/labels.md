@@ -4145,7 +4145,7 @@ universities:
    ar_SA: ''
 salary:
    de_DE: ''
-   en_US: 'Salary'
+   en_US: 'Salary vs UK average'
    zh_CN: ''
    ja_JP: ''
    es_ES: ''
