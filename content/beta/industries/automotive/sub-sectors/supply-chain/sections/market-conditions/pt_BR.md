@@ -4,7 +4,7 @@ title: A procura de componentes
 
 A cadeia de fornecimento automóvel do Reino Unido desfruta atualmente de um período de crescimento sem precedentes. Em 2015, os nossos fabricantes da indústria automóvel gastaram 31 mil milhões de libras em componentes e esse valor regista um crescimento anual de 3 mil milhões de libras.
 
-O conteúdo local de automóveis fabricados no Reino Unido subiu de 36% em 2011 para 41% em 2015, e continua a crescer. Os fabricantes de automóveis do Reino Unido identificaram um acréscimo anual de 4 mil milhões de libras correspondentes à compra de componentes que gostariam de comprar a fornecedores do Reino Unido, mas nem sempre o podem fazer dado que as instalações de fabrico de componentes do Reino Unido já atingiram ou estão perto da capacidade de produção máxima. Isso constitui uma grande oportunidade para os investidores estrangeiros se instalarem no Reino Unido. A seguinte tabela indica as principais oportunidades:
+O conteúdo local de automóveis fabricados no Reino Unido subiu de 36% em 2011 para 44% em 2017, e continua a crescer. Os fabricantes de automóveis do Reino Unido identificaram um acréscimo anual de 4 mil milhões de libras correspondentes à compra de componentes que gostariam de comprar a fornecedores do Reino Unido, mas nem sempre o podem fazer dado que as instalações de fabrico de componentes do Reino Unido já atingiram ou estão perto da capacidade de produção máxima. Isso constitui uma grande oportunidade para os investidores estrangeiros se instalarem no Reino Unido. A seguinte tabela indica as principais oportunidades:
 
 #### Major supply chain opportunities
 
