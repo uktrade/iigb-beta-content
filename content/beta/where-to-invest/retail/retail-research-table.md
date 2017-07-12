@@ -8,14 +8,17 @@ table_rows:
    cell1: Scotland
    cell2: 0
    link: scotland
+   widthValue: 0%
  - mapIndicator: B
    cell1: Northern Ireland
    cell2: 0
    link: northern-ireland
+   widthValue: 0%
  - mapIndicator: C
    cell1: North East England
    cell2: 0
    link: north-east-england
+   widthValue: 0%
  - mapIndicator: D
    cell1: North West England
    cell2: 1
@@ -40,14 +43,17 @@ table_rows:
    cell1: Wales
    cell2: 0
    link: wales
+   widthValue: 0%
  - mapIndicator: J
    cell1: East of England
    cell2: 0
    link: east-of-england
+   widthValue: 0%
  - mapIndicator: K
    cell1: London
    cell2: 0
    link: london
+   widthValue: 0%
  - mapIndicator: M
    cell1: South East England
    cell2: 2
@@ -57,3 +63,4 @@ table_rows:
    cell1: South West England
    cell2: 0
    link: south-west-england
+   widthValue: 0%
