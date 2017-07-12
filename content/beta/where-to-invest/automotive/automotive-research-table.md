@@ -13,6 +13,7 @@ table_rows:
    cell1: Northern Ireland
    cell2: 0
    link: northern-ireland
+   widthValue: 0%
  - mapIndicator: C
    cell1: North East England
    cell2: 5
@@ -52,6 +53,7 @@ table_rows:
    cell1: London
    cell2: 0
    link: london
+   widthValue: 0%
  - mapIndicator: M
    cell1: South East England
    cell2: 10

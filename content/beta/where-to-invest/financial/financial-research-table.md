@@ -18,6 +18,7 @@ table_rows:
    cell1: North East England
    cell2: 0
    link: north-east-england
+   widthValue: 0%
  - mapIndicator: D
    cell1: North West England
    cell2: 1
@@ -32,6 +33,7 @@ table_rows:
    cell1: East Midlands
    cell2: 0
    link: east-midlands
+   widthValue: 0%
  - mapIndicator: G
    cell1: West Midlands
    cell2: 2
