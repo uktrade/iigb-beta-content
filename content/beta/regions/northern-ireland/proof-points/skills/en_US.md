@@ -1,6 +1,6 @@
 ---
 title: Skills in Northern Ireland
-borderColour: purple
+borderColour: turquoise
 ---
 Investors in Northern Ireland benefit from a strong skills base:
 

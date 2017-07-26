@@ -1,6 +1,6 @@
 ---
 title: Research and development in the North West
-borderColour: yellow
+borderColour: turquoise
 ---
 The University of Manchester is the largest single-site university in the UK and ranked 55 in the top university world rankings for 2016-17.
 

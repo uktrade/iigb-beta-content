@@ -1,6 +1,6 @@
 ---
 title: Skills in the North East
-borderColour: purple
+borderColour: turquoise
 ---
 Investors in the North East benefit from a strong skills base:
 

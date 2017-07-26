@@ -1,5 +1,5 @@
 ---
-title: Investors attracted to the East of England
+title: Investors attracted to the South East
 borderColour: yellow
 ---
 The South East leads the UK for growth and productivity: 
