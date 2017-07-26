@@ -1,6 +1,6 @@
 ---
 title: Skills in the East Midlands
-borderColour: purple
+borderColour: turquoise
 ---
 Investors in the East Midlands benefit from a strong skills base:
 

@@ -1,6 +1,6 @@
 ---
 title: Skills in Scotland
-borderColour: purple
+borderColour: turquoise
 ---
 Investors in Scotland benefit from a strong skills base:
 

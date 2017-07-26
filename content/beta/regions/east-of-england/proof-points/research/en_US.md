@@ -1,6 +1,6 @@
 ---
 title: Research and development in the East of England
-borderColour: yellow
+borderColour: turquoise
 table_headers:
  - cell1: "Research is also supported by:"
 table_rows:

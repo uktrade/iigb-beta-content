@@ -1,6 +1,6 @@
 ---
 title: Skills in the East of England
-borderColour: purple
+borderColour: turquoise
 ---
 Home to Cambridge University, the highest-ranked university in Europe and the fifth highest in the world.
 
