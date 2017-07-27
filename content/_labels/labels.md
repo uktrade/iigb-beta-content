@@ -261,7 +261,14 @@ form_contact_details:
  pt_INT: Os seus dados de contacto
  ar_SA: بيانات الاتصال
 form_contact_details_nf:
+ de_DE: 
  en_US: Contact information 
+ zh_CN: 
+ ja_JP: 
+ es_ES: 
+ pt_BR: Informações de contato
+ pt_INT: 
+ ar_SA: 
 form_contact_details_reason:
  de_DE: Wir benötigen diese um Sie mit Ihrem Ansprechpartner vor Ort in Verbindung zu setzen
  en_US: We will use these to put you in touch with your local office
@@ -286,7 +293,7 @@ form_enter_full_name:
  zh_CN: 请输入您的姓名
  ja_JP: ご氏名を入力してください
  es_ES: Introduzca su nombre completo
- pt_BR: Introduza o seu nome completo
+ pt_BR: Insira seu nome completo
  pt_INT: Introduza o seu nome completo
  ar_SA: أدخل الاسم بالكامل
 form_title:
@@ -295,7 +302,7 @@ form_title:
  zh_CN: Job title
  ja_JP: Job title
  es_ES: Puesto que ocupa
- pt_BR: Job title
+ pt_BR: Cargo
  pt_INT: Job title
  ar_SA: Job title
 form_enter_title:
@@ -304,7 +311,7 @@ form_enter_title:
  zh_CN: Enter your job title
  ja_JP: Enter your job title
  es_ES: Introduzca el nombre de su puesto 
- pt_BR: Enter your job title
+ pt_BR: Insira seu cargo
  pt_INT: Enter your job title
  ar_SA: Enter your job title
 form_email:
@@ -313,7 +320,7 @@ form_email:
  zh_CN: 工作电子邮件
  ja_JP: 勤務先の電子メール
  es_ES: Dirección de correo electrónico de la empresa
- pt_BR: E-mail - Trabalho
+ pt_BR: E-mail de trabalho
  pt_INT: E-mail - Trabalho
  ar_SA: البريد الإلكتروني للعمل
 form_enter_email:
@@ -322,7 +329,7 @@ form_enter_email:
  zh_CN: 请输入工作电子邮件
  ja_JP: 電子メールアドレスを入力してください
  es_ES: Introduzca su dirección de correo electrónico
- pt_BR: Introduza o seu endereço de e-mail
+ pt_BR: Insira seu endereço de e-mail
  pt_INT: Introduza o seu endereço de e-mail
  ar_SA: أدخل بريدك الإلكتروني
 form_enter_valid_email:
@@ -349,7 +356,7 @@ form_phone:
  zh_CN: 工作联系电话(可选填)
  ja_JP: 勤務先の電話番号 (任意)
  es_ES: Número de teléfono de la empresa (opcional)
- pt_BR: Telefone - Trabalho (opcional)
+ pt_BR: Telefone comercial (opcional)
  pt_INT: Telefone - Trabalho (opcional)
  ar_SA: هاتف العمل (اختياري)
 form_enter_phone:
@@ -385,7 +392,7 @@ form_investment:
  zh_CN: 您的投资
  ja_JP: 貴社の投資について
  es_ES: Su inversión
- pt_BR: O seu investimento
+ pt_BR: Seu investimento
  pt_INT: O seu investimento
  ar_SA: الاستثمار
 form_investment_project:
@@ -948,11 +955,18 @@ form_company:
  zh_CN: 您的公司
  ja_JP: 貴社について
  es_ES: Su empresa
- pt_BR: A sua empresa
+ pt_BR: Sua empresa
  pt_INT: A sua empresa
  ar_SA: الشركة
 form_company_nf:
+ de_DE: 
  en_US: Your company 
+ zh_CN: 您的公司
+ ja_JP: 貴社について
+ es_ES: Su empresa
+ pt_BR: Sua empresa
+ pt_INT: A sua empresa
+ ar_SA: الشركة
 form_company_reason:
  de_DE: Helfen Sie uns, Ihren aktuellen Betrieb zu verstehen
  en_US: Help us understand your current operations
@@ -977,7 +991,7 @@ form_enter_registered_company:
  zh_CN: 请输入您的公司注册名称
  ja_JP: 正式登録された会社名を入力してください
  es_ES: Introduzca el nombre registrado de su empresa
- pt_BR: Introduza o nome registado da sua empresa
+ pt_BR: Insira o endereço do site da sua empresa
  pt_INT: Introduza o nome registado da sua empresa
  ar_SA: أدخل اسم شركتك المُسجَّل
 form_website:
@@ -986,7 +1000,7 @@ form_website:
  zh_CN: 公司网站地址
  ja_JP: 貴社のウェブサイト アドレス (任意)
  es_ES: Dirección del sitio web de la empresa (opcional)
- pt_BR: Endereço do website da empresa (opcional)
+ pt_BR: Site da empresa (opcional)
  pt_INT: Endereço do website da empresa (opcional)
  ar_SA: الموقع الإلكتروني للشركة (اختياري)
 form_website_nf:
@@ -997,13 +1011,27 @@ form_enter_website:
  zh_CN: 请输入您的公司网站地址
  ja_JP: 貴社のウェブサイトのアドレスを入力してください
  es_ES: Introduzca la dirección del sitio web de su empresa
- pt_BR: Introduza o endereço do website da sua empresa
+ pt_BR: Insira o endereço do site da sua empresa
  pt_INT: Introduza o endereço do website da sua empresa
  ar_SA: 
 form_enter_website_nf:
+ de_DE: Geben Sie die Internetadresse Ihres Unternehmens ein
  en_US: Enter your website address or check the box below
+ zh_CN: 请输入您的公司网站地址
+ ja_JP: 貴社のウェブサイトのアドレスを入力してください
+ es_ES: Introduzca la dirección del sitio web de su empresa
+ pt_BR: Insira o endereço do site da sua empresa
+ pt_INT: Introduza o endereço do website da sua empresa
+ ar_SA: 
 form_do_not_have_website:
+ de_DE: 
  en_US: I do not have a website 
+ zh_CN: 
+ ja_JP: 
+ es_ES: 
+ pt_BR: Eu não tenho um site
+ pt_INT: 
+ ar_SA: 
 form_enter_primary_industry:
  de_DE: Wählen Sie die Branche aus, in der Sie hauptsächlich tätig sind, aus oder wählen Sie "Sonstiges"
  en_US: Select the industry you mainly operate in or select Other
