@@ -122,7 +122,7 @@ contact:
  zh_CN: 取得联系
  ja_JP: お問い合わせ
  es_ES: Contacto
- pt_BR: Entrar em contacto
+ pt_BR: Fale conosco
  pt_INT: Entrar em contacto
  ar_SA: الاتصال بنا
 industries:
@@ -401,7 +401,7 @@ form_investment_project:
  zh_CN: Tell us about your investment
  ja_JP: 貴社の投資についてお聞かせください。
  es_ES: Cuéntenos acerca de su inversión
- pt_BR: Tell us about your investment
+ pt_BR: Conte-nos sobre o seu investimento
  pt_INT: Fale-nos sobre o seu investimento
  ar_SA: Tell us about your investment
 form_enter_investment_details:
@@ -510,7 +510,7 @@ form_enter_staff_number:
  zh_CN: 请选择目前工作人员的大概人数
  ja_JP: 貴社の従業員数に最も近い範囲を選択してください
  es_ES: Seleccione el intervalo que más se aproxime a su número de empleados
- pt_BR: Selecione a opção mais próxima do seu número de pessoal
+ pt_BR: Selecione o número total de funcionários
  pt_INT: Selecione a opção mais próxima do seu número de pessoal
  ar_SA: حدد النطاق الأقرب إلى عدد موظفيك
 form_staff_number:
@@ -520,7 +520,7 @@ form_staff_number:
    zh_CN: 目前工作人员估计人数
    ja_JP: 現在の従業員数 (推定でも構いません)
    es_ES: Número aproximado de personal en la actualidad
-   pt_BR: Estimativa do número de pessoal atual
+   pt_BR: Número total de funcionários atual
    pt_INT: Estimativa do número de pessoal atual
    ar_SA: العدد التقديري الحالي للموظفين
  options:
@@ -555,8 +555,8 @@ form_staff_number:
    - Más de 250
    pt_BR:
    - Menos de 10
-   - Entre 10 e 50
-   - Entre 51 e 250
+   - 10 e 50
+   - 51 e 250
    - Mais de 250
    pt_INT:
    - Menos de 10
@@ -1322,7 +1322,14 @@ form_mailing_list_confirmation:
  pt_INT: Sim, gostaria de receber essas informações
  ar_SA: نعم، أود الحصول على هذه المعلومات
 form_use_of_info: 
-  en_US: We will use this information to put you in touch with your closest British embassy or high commission.
+ de_DE:  
+ en_US: We will use this information to put you in touch with your closest British embassy or high commission.
+ zh_CN: 
+ ja_JP: 
+ es_ES: 
+ pt_BR: Usaremos essas informações para colocar você em contato com sua embaixada britânica ou representante mais próximo.
+ pt_INT: 
+ ar_SA: 
 form_enter_headquarters:
  de_DE: Geben Sie das Land Ihres Unternehmenshauptsitzes ein
  en_US: Enter the country where your company has its headquarters
@@ -1333,14 +1340,21 @@ form_enter_headquarters:
  pt_INT: Introduza o país onde a sua empresa está sediada
  ar_SA: أدخل الدولة التي يقع بها المقر الرئيسي لشركتك
 form_enter_headquarters_nf:
+ de_DE: 
  en_US: Enter your country
+ zh_CN: 
+ ja_JP: 
+ es_ES: 
+ pt_BR: Insira o país
+ pt_INT: 
+ ar_SA: 
 form_enter_headquarters_help:
  de_DE: Bitte geben Sie hier Text ein damit Sie eine Auswahl machen können.
  en_US: Start typing to select a country.
  zh_CN: 开始输入并选择一个选项
  ja_JP: 入力を開始すると、オプションを選択できます
  es_ES: Empiece a escribir para seleccionar una opción.
- pt_BR: Comece a digitar para selecionar uma opção.
+ pt_BR: Comece a digitar para selecionar um país.
  pt_INT: Comece a digitar para selecionar uma opção.
  ar_SA: ابدأ الكتابة لتحديد أحد الخيارات
 form_headquarters:
@@ -3609,7 +3623,7 @@ form_disclaimer:
  zh_CN: 发送您的详细信息以后，代表您同意提供的信息是真实并接受
  ja_JP: 情報をご送付いただくことで、当省にご提出いただいた情報が真実であり、当省の利用規約に同意していただいたことをご確認いただくことになりますのでご了解ください。
  es_ES: Al enviarnos sus datos, usted confirma que la información que nos proporciona es verídica y acepta nuestros 
- pt_BR: Ao enviar-nos os seus detalhes confirma que as informações que partilhou conosco são verdadeiras e que aceita os nossos
+ pt_BR: Ao enviar seus dados, você confirma que as informações que compartilhou conosco são verdadeiras e aceita nossos termos e condições.
  pt_INT: Ao enviar-nos os seus detalhes confirma que as informações que partilhou conosco são verdadeiras e que aceita os nossos
  ar_SA: أنتم تؤكدون بموجب إرسالكم للبيانات ذات الصلة بكم أن المعلومات المرسلة هي معلومات صحيحة وأنكم توافقون على
 form_disclaimer_tc:
