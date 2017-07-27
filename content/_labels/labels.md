@@ -1004,7 +1004,14 @@ form_website:
  pt_INT: Endereço do website da empresa (opcional)
  ar_SA: الموقع الإلكتروني للشركة (اختياري)
 form_website_nf:
+ de_DE: Unternehmenswebseite
  en_US: Company website
+ zh_CN: 
+ ja_JP: 企業ウェブサイト
+ es_ES: Website da empresa
+ pt_BR: Site da empresa
+ pt_INT: Website da empresa
+ ar_SA: 
 form_enter_website:
  de_DE: Geben Sie die Internetadresse Ihres Unternehmens ein
  en_US: Enter your company website address
