@@ -1,9 +1,9 @@
 ---
-title: "Contacte a nossa equipa de serviços de investimento para:"
+title: "Entre em contato com nossa equipe de serviços de investimento para:"
 list: 
- - apoio prático e informações sobre como fazer avançar o seu investimento
- - informações sobre o mercado do Reino Unido
- - ajuda a construir ligações
+ - asuporte prático e informações sobre como impulsionar seu investimento
+ - percepções sobre o mercado do Reino Unido
+ - ajuda com a criação de conexões
 ---
 
-A equipa pode colocá-lo em contacto com um gabinete do Governo do Reino Unido na sua região para o ajudar com conselhos relevantes para o seu país.
+Você será colocado em contato com um escritório do governo do Reino Unido em sua região para informações relevantes ao seu país.
