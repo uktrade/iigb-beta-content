@@ -959,7 +959,7 @@ form_company:
  pt_INT: A sua empresa
  ar_SA: الشركة
 form_company_nf:
- de_DE: 
+ de_DE: Ihr Unternehmen
  en_US: Your company 
  zh_CN: 您的公司
  ja_JP: 貴社について
@@ -3628,7 +3628,7 @@ form_disclaimer:
  de_DE: Mit Absenden Ihrer Daten bestätigen Sie, dass die von Ihnen eingegebenen Daten korrekt sind und stimmen unseren
  en_US: By sending us your details you confirm that the information you've shared with us is true and you accept our
  zh_CN: 发送您的详细信息以后，代表您同意提供的信息是真实并接受
- ja_JP: 情報をご送付いただくことで、当省にご提出いただいた情報が真実であり、当省の利用規約に同意していただいたことをご確認いただくことになりますのでご了解ください。
+ ja_JP: 情報をご送付いただくことで、当省にご提出いただいた情報が真実であり
  es_ES: Al enviarnos sus datos, usted confirma que la información que nos proporciona es verídica y acepta nuestros 
  pt_BR: Ao enviar seus dados, você confirma que as informações que compartilhou conosco são verdadeiras e aceita nossos 
  pt_INT: Ao enviar-nos os seus detalhes confirma que as informações que partilhou conosco são verdadeiras e que aceita os nossos
@@ -3637,7 +3637,7 @@ form_disclaimer_tc:
  de_DE: Nutzungsbedingungen zu.
  en_US: terms and conditions.
  zh_CN: 我们的附带条约。
- ja_JP: 当省の利用規約
+ ja_JP: 当省の利用規約に同意していただいたことをご確認いただくことになりますのでご了解ください。
  es_ES: términos y condiciones.
  pt_BR: termos e condições.
  pt_INT: termos e condições.
