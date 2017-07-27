@@ -261,7 +261,7 @@ form_contact_details:
  pt_INT: Os seus dados de contacto
  ar_SA: بيانات الاتصال
 form_contact_details_nf:
- de_DE: 
+ de_DE: Kontaktangaben
  en_US: Contact information 
  zh_CN: 
  ja_JP: 
@@ -297,7 +297,7 @@ form_enter_full_name:
  pt_INT: Introduza o seu nome completo
  ar_SA: أدخل الاسم بالكامل
 form_title:
- de_DE: Job title
+ de_DE: Position
  en_US: Job title
  zh_CN: Job title
  ja_JP: Job title
@@ -306,7 +306,7 @@ form_title:
  pt_INT: Job title
  ar_SA: Job title
 form_enter_title:
- de_DE: Enter your job title
+ de_DE: Position eingeben
  en_US: Enter your job title
  zh_CN: Enter your job title
  ja_JP: Enter your job title
@@ -1015,7 +1015,7 @@ form_enter_website:
  pt_INT: Introduza o endereço do website da sua empresa
  ar_SA: 
 form_enter_website_nf:
- de_DE: Geben Sie die Internetadresse Ihres Unternehmens ein
+ de_DE: Unternehmenswebseite eingeben
  en_US: Enter your website address or check the box below
  zh_CN: 请输入您的公司网站地址
  ja_JP: 貴社のウェブサイトのアドレスを入力してください
@@ -1024,7 +1024,7 @@ form_enter_website_nf:
  pt_INT: Introduza o endereço do website da sua empresa
  ar_SA: 
 form_do_not_have_website:
- de_DE: 
+ de_DE: Ich habe keine Webseite
  en_US: I do not have a website 
  zh_CN: 
  ja_JP: 
@@ -1322,7 +1322,7 @@ form_mailing_list_confirmation:
  pt_INT: Sim, gostaria de receber essas informações
  ar_SA: نعم، أود الحصول على هذه المعلومات
 form_use_of_info: 
- de_DE:  
+ de_DE: Wir verwenden diese Angaben, um Sie mit Ihrer nächsten britischen Botschaft oder Ihrem nächsten britischen Hochkommissariat in Verbindung zu setzen.
  en_US: We will use this information to put you in touch with your closest British embassy or high commission.
  zh_CN: 
  ja_JP: 
@@ -1340,7 +1340,7 @@ form_enter_headquarters:
  pt_INT: Introduza o país onde a sua empresa está sediada
  ar_SA: أدخل الدولة التي يقع بها المقر الرئيسي لشركتك
 form_enter_headquarters_nf:
- de_DE: 
+ de_DE: Land eingeben
  en_US: Enter your country
  zh_CN: 
  ja_JP: 
