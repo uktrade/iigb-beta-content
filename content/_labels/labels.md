@@ -123,7 +123,7 @@ contact:
  ja_JP: お問い合わせ
  es_ES: Contacto
  pt_BR: Fale conosco
- pt_INT: Entrar em contacto
+ pt_INT: Contacte-nos
  ar_SA: الاتصال بنا
 industries:
  de_DE: Branchen
@@ -3630,7 +3630,7 @@ form_disclaimer:
  zh_CN: 发送您的详细信息以后，代表您同意提供的信息是真实并接受
  ja_JP: 情報をご送付いただくことで、当省にご提出いただいた情報が真実であり、当省の利用規約に同意していただいたことをご確認いただくことになりますのでご了解ください。
  es_ES: Al enviarnos sus datos, usted confirma que la información que nos proporciona es verídica y acepta nuestros 
- pt_BR: Ao enviar seus dados, você confirma que as informações que compartilhou conosco são verdadeiras e aceita nossos termos e condições.
+ pt_BR: Ao enviar seus dados, você confirma que as informações que compartilhou conosco são verdadeiras e aceita nossos 
  pt_INT: Ao enviar-nos os seus detalhes confirma que as informações que partilhou conosco são verdadeiras e que aceita os nossos
  ar_SA: أنتم تؤكدون بموجب إرسالكم للبيانات ذات الصلة بكم أن المعلومات المرسلة هي معلومات صحيحة وأنكم توافقون على
 form_disclaimer_tc:
