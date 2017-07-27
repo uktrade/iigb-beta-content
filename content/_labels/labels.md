@@ -264,10 +264,10 @@ form_contact_details_nf:
  de_DE: Kontaktangaben
  en_US: Contact information 
  zh_CN: 
- ja_JP: 
- es_ES: 
+ ja_JP: 連絡先情報
+ es_ES: Información de contacto
  pt_BR: Informações de contato
- pt_INT: 
+ pt_INT: Informações de contacto
  ar_SA: 
 form_contact_details_reason:
  de_DE: Wir benötigen diese um Sie mit Ihrem Ansprechpartner vor Ort in Verbindung zu setzen
@@ -300,19 +300,19 @@ form_title:
  de_DE: Position
  en_US: Job title
  zh_CN: Job title
- ja_JP: Job title
- es_ES: Puesto que ocupa
+ ja_JP: 役職
+ es_ES: Cargo
  pt_BR: Cargo
- pt_INT: Job title
+ pt_INT: Cargo
  ar_SA: Job title
 form_enter_title:
  de_DE: Position eingeben
  en_US: Enter your job title
  zh_CN: Enter your job title
- ja_JP: Enter your job title
- es_ES: Introduzca el nombre de su puesto 
+ ja_JP: 役職を入力してください。
+ es_ES: Introduzca su cargo
  pt_BR: Insira seu cargo
- pt_INT: Enter your job title
+ pt_INT: Introduza o seu cargo
  ar_SA: Enter your job title
 form_email:
  de_DE: Arbeits-E-Mail
@@ -1018,19 +1018,19 @@ form_enter_website_nf:
  de_DE: Unternehmenswebseite eingeben
  en_US: Enter your website address or check the box below
  zh_CN: 请输入您的公司网站地址
- ja_JP: 貴社のウェブサイトのアドレスを入力してください
- es_ES: Introduzca la dirección del sitio web de su empresa
+ ja_JP: 貴社のウェブサイトのアドレスを入力してください。
+ es_ES: Introduzca la dirección de sitio web de la empresa
  pt_BR: Insira o endereço do site da sua empresa
- pt_INT: Introduza o endereço do website da sua empresa
+ pt_INT: Introduza o endereço do Website da sua empresa
  ar_SA: 
 form_do_not_have_website:
  de_DE: Ich habe keine Webseite
  en_US: I do not have a website 
  zh_CN: 
- ja_JP: 
- es_ES: 
+ ja_JP: ウェブサイトなし
+ es_ES: No tengo sitio web
  pt_BR: Eu não tenho um site
- pt_INT: 
+ pt_INT: Não tenho um Website
  ar_SA: 
 form_enter_primary_industry:
  de_DE: Wählen Sie die Branche aus, in der Sie hauptsächlich tätig sind, aus oder wählen Sie "Sonstiges"
@@ -1325,10 +1325,10 @@ form_use_of_info:
  de_DE: Wir verwenden diese Angaben, um Sie mit Ihrer nächsten britischen Botschaft oder Ihrem nächsten britischen Hochkommissariat in Verbindung zu setzen.
  en_US: We will use this information to put you in touch with your closest British embassy or high commission.
  zh_CN: 
- ja_JP: 
- es_ES: 
+ ja_JP: この情報をもとに、最も近い場所にある英国大使館または高等弁務官事務所からご連絡を差し上げます。
+ es_ES: Utilizaremos esta información para ponerle en contacto con la Embajada o el Alto Comisionado británicos más cercanos.
  pt_BR: Usaremos essas informações para colocar você em contato com sua embaixada britânica ou representante mais próximo.
- pt_INT: 
+ pt_INT: Estas informações serão utilizadas para o colocar em contacto com a embaixada ou alto comissariado britânico mais próximo de si.
  ar_SA: 
 form_enter_headquarters:
  de_DE: Geben Sie das Land Ihres Unternehmenshauptsitzes ein
@@ -1343,10 +1343,10 @@ form_enter_headquarters_nf:
  de_DE: Land eingeben
  en_US: Enter your country
  zh_CN: 
- ja_JP: 
- es_ES: 
+ ja_JP: 拠点とする国を入力してください。
+ es_ES: Introduzca su país
  pt_BR: Insira o país
- pt_INT: 
+ pt_INT: Introduza o seu país
  ar_SA: 
 form_enter_headquarters_help:
  de_DE: Bitte geben Sie hier Text ein damit Sie eine Auswahl machen können.
