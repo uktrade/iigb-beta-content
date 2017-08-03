@@ -1,5 +1,5 @@
 ---
-title: incentives to invest
+title: Incentives to invest
 link: incentives to invest
 borderColour: purple
 ---

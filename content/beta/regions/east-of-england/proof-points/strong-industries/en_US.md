@@ -1,5 +1,5 @@
 ---
-title: strong industries for investment
+title: Strong industries for investment
 link: strong industries for investment
 borderColour: red
 ---

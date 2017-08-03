@@ -1,5 +1,6 @@
 ---
-title: incentives to invest
+title: Incentives to invest
+link: incentives to invest
 borderColour: purple
 ---
 Discounted business rates and simplified planning processes are available in enterprise zones. The South East has 7 enterprise zones, including:

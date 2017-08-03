@@ -1,5 +1,5 @@
 ---
-title: costs of investing
+title: Costs of investing
 link: costs of investing
 borderColour: purple
 ---
