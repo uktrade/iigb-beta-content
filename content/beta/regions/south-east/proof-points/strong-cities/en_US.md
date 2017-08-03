@@ -1,8 +1,8 @@
 ---
-title: Strong cities for investment in the South East
+title: attractive cities for investment
 borderColour: red
 ---
-The South East has some of the most attractive and productive towns and cities in Europe for investors:
+The South East has attractive cities for investors:
 
 
 - Slough has the highest concentration of European headquarters in the UK and a £7.5 billion annual turnover  

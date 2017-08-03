@@ -1,5 +1,5 @@
 ---
-title: Major infrastructure projects in the South East
+title: major infrastructure projects
 borderColour: blue
 ---
 Crossrail is Europe’s largest ever construction project, worth £14.5 billion. By 2019, it will add more direct connections from the South East to London and cut journey times.

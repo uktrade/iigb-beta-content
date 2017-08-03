@@ -1,6 +1,6 @@
 ---
-title: Workforce and skills
-link: Workforce and skills
+title: skills
+link: workforce and skills
 borderColour: turquoise
 ---
 Home to Cambridge University, the highest-ranked university in Europe and the fifth highest in the world.  

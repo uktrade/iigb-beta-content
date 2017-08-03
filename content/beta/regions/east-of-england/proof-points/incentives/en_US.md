@@ -1,6 +1,6 @@
 ---
-title: Incentives to invest
-link: Incentives to invest
+title: incentives to invest
+link: incentives to invest
 borderColour: purple
 ---
 Enterprise zones offer discounted business rates and simplified planning processes. Enterprise zones in the region include:

@@ -1,6 +1,6 @@
 ---
-title: Investors attracted to the East of England
-link: Investors attracted to the East of England
+title: investors attracted to the East of England
+link: investors attracted to the East of England
 borderColour: yellow
 ---
 The East of England is one of the UK’s top regions for foreign direct investment (FDI):

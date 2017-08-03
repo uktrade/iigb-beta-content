@@ -1,5 +1,5 @@
 ---
-title: The East of England
+title: East of England
 tagline: Global excellence in technology, research and life sciences
 ---
 Outstanding business and research facilities clustered around Cambridge University, Europe’s highest ranking university.

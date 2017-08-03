@@ -1,6 +1,6 @@
 ---
-title: Strong industries for investment
-link: Strong industries for investment
+title: strong industries for investment
+link: strong industries for investment
 borderColour: red
 ---
 The East of England is strong in a number of sectors:

@@ -4275,7 +4275,7 @@ research_and_development_hubs:
    ar_SA: ''
 rd_hubs:
    de_DE: ''
-   en_US: 'R&D centres'
+   en_US: 'Number of R&D centres'
    zh_CN: ''
    ja_JP: ''
    es_ES: ''
