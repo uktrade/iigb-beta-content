@@ -7,10 +7,10 @@ table_headers:
    cell4: Americas
    cell5: Africa
    cell6: Asia
-   cell7: Australia
+   cell7: Australasia
 table_rows:
  - mapIndicator: A
-   cell1: London Heathrow
+   cell1: Heathrow
    cell2: 12
    cell3: 74
    cell4: 31
@@ -18,8 +18,9 @@ table_rows:
    cell6: 42
    cell7: 4
    link: london
+   displayName: London
  - mapIndicator: B
-   cell1: London Gatwick
+   cell1: Gatwick
    cell2: 7
    cell3: 31
    cell4: 10
@@ -27,6 +28,7 @@ table_rows:
    cell6: 6
    cell7: 0
    link: south-east-england
+   displayName: South East England
  - mapIndicator: C
    cell1: Manchester
    cell2: 11
@@ -36,8 +38,9 @@ table_rows:
    cell6: 9
    cell7: 0
    link: north-west-england
+   displayName: North West England
  - mapIndicator: D
-   cell1: London Stansted
+   cell1: Stansted
    cell2: 5
    cell3: 45
    cell4: 5
@@ -45,8 +48,9 @@ table_rows:
    cell6: 4
    cell7: 0
    link: east-of-england
+   displayName: East of England
  - mapIndicator: E
-   cell1: London Luton
+   cell1: Luton
    cell2: 7
    cell3: 18
    cell4: 2
@@ -54,6 +58,7 @@ table_rows:
    cell6: 1
    cell7: 0
    link: east-of-england
+   displayName: East of England
  - mapIndicator:
    cell1: Edinburgh
    cell2: 15
@@ -63,6 +68,7 @@ table_rows:
    cell6: 1
    cell7: 0
    link: scotland
+   displayName: Scotland
  - mapIndicator:
    cell1: Birmingham International
    cell2: 1
@@ -72,6 +78,7 @@ table_rows:
    cell6: 2
    cell7: 0
    link: west-midlands
+   displayName: West Midlands
  - mapIndicator:
    cell1: Glasgow International
    cell2: 12
@@ -81,6 +88,7 @@ table_rows:
    cell6: 1
    cell7: 1
    link: scotland
+   displayName: Scotland
  - mapIndicator:
    cell1: Bristol International
    cell2: 4
@@ -90,6 +98,7 @@ table_rows:
    cell6: 1
    cell7: 0
    link: south-west-england
+   displayName: South West England
  - mapIndicator:
    cell1: Newcastle
    cell2: 7
@@ -99,6 +108,7 @@ table_rows:
    cell6: 1
    cell7: 0
    link: north-east-england
+   displayName: North East England
  - mapIndicator:
    cell1: East Midlands
    cell2: 6
@@ -108,6 +118,7 @@ table_rows:
    cell6: 0
    cell7: 0
    link: east-midlands
+   displayName: East Midlands
  - mapIndicator:
    cell1: Belfast International
    cell2: 10
@@ -117,6 +128,7 @@ table_rows:
    cell6: 0
    cell7: 0
    link: northern-ireland
+   displayName: Northern Ireland
  - mapIndicator:
    cell1: Liverpool John Lennon
    cell2: 7
@@ -126,6 +138,7 @@ table_rows:
    cell6: 1
    cell7: 0
    link: north-west-england
+   displayName: North West England
  - mapIndicator:
    cell1: London City
    cell2: 8
@@ -135,6 +148,7 @@ table_rows:
    cell6: 0
    cell7: 0
    link: london
+   displayName: London
  - mapIndicator:
    cell1: Leeds Bradford
    cell2: 3
@@ -144,6 +158,7 @@ table_rows:
    cell6: 4
    cell7: 5
    link: yorkshire-and-the-humber
+   displayName: Yorkshire and the Humber
  - mapIndicator:
    cell1: Aberdeen Dyce
    cell2: 9
@@ -153,6 +168,7 @@ table_rows:
    cell6: 2
    cell7: 0
    link: scotland
+   displayName: Scotland
  - mapIndicator:
    cell1: George Best Belfast City
    cell2: 13
@@ -162,6 +178,7 @@ table_rows:
    cell6: 0
    cell7: 0
    link: northern-ireland
+   displayName: Northern Ireland
  - mapIndicator:
    cell1: Southampton
    cell2: 9
@@ -171,6 +188,7 @@ table_rows:
    cell6: 0
    cell7: 0
    link: south-east-england
+   displayName: South East England
  - mapIndicator:
    cell1: Cardiff International
    cell2: 4
@@ -180,6 +198,7 @@ table_rows:
    cell6: 1
    cell7: 0
    link: wales
+   displayName: Wales
  - mapIndicator:
    cell1: Southend
    cell2: 0
@@ -189,3 +208,4 @@ table_rows:
    cell6: 0
    cell7: 0
    link: east-of-england
+   displayName: East of England

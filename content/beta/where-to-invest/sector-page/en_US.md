@@ -1,11 +1,12 @@
 ---
-clusters_title: Summary of business clusters for
-clusters_introduction: sectors are active all over the UK, but are particularly strong in Scotland, Wales and East of England.
-salary_title: 'Salary differences across the UK for workers in'
-salary_introduction: 'There are wage price advantages in some of the areas where'
-salary_introduction_part_2: 'is a strong industry'
-research_title: 'R & D centres in the UK for specialising in'
-research_introduction: 'There are major R & D hubs in key locations that work in academia, industry and government to advance developments in'
-airports_title: 'Airports in the UK and major destinations, by continent'
-airports_introduction: 'There are world airports across the UK with excellent transport connections. This is a summary of how many destinations the main airports serve.'
+clusters_title: Business clusters in
+clusters_introduction: businesses are active across the UK and are particularly well-represented in
+salary_introduction: 'The average salary across the UK is £28,296.'
+salary_introduction_2: 'Average local salaries vary from the UK average as follows.'
+salary_source: Office for National Statistics 2017
+research_introduction: Calculated from the number of registered research centres in each area.
+research_source: Department for International Trade 2017
+airports_title: 'Airports across the UK'
+airports_introduction: 'There are many international airports across the UK. These are the top 20 by passenger numbers.'
+airports_source: Airport Council International 2016
 ---

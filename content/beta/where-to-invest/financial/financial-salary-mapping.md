@@ -1,74 +1,74 @@
 ---
 mapping_points:
- - top: 75.91304347826086%
+ - top: 69.58139534883722%
    left: 49.75%
    text: A
    link: wales
    width: 6.750000000000002%
-   height: 4.695652173913045%
- - top: 52%
+   height: 5.023255813953489%
+ - top: 44%
    left: 34.125%
    text: B
    link: northern-ireland
    width: 6.750000000000002%
-   height: 4.695652173913045%
- - top: 65.04347826086956%
+   height: 5.023255813953489%
+ - top: 57.95348837209302%
    left: 74.75%
    text: C
    link: yorkshire-and-the-humber
    width: 6.750000000000002%
-   height: 4.695652173913045%
- - top: 54.17391304347826%
+   height: 5.023255813953489%
+ - top: 46.32558139534884%
    left: 68.5%
    text: D
    link: north-east-england
    width: 6.750000000000002%
-   height: 4.695652173913045%
- - top: 91.13043478260869%
+   height: 5.023255813953489%
+ - top: 85.86046511627906%
    left: 56.00000000000001%
    text: E
    link: south-west-england
    width: 6.750000000000002%
-   height: 4.695652173913045%
- - top: 60.695652173913054%
+   height: 5.023255813953489%
+ - top: 53.30232558139535%
    left: 59.12500000000001%
    text: F
    link: north-west-england
    width: 6.750000000000002%
-   height: 4.695652173913045%
- - top: 75.91304347826086%
+   height: 5.023255813953489%
+ - top: 69.58139534883722%
    left: 62.25000000000001%
    text: G
    link: west-midlands
    width: 6.750000000000002%
-   height: 4.695652173913045%
- - top: 73.73913043478261%
+   height: 5.023255813953489%
+ - top: 67.25581395348837%
    left: 74.75%
    text: H
    link: east-midlands
    width: 6.750000000000002%
-   height: 4.695652173913045%
- - top: 41.1304347826087%
+   height: 5.023255813953489%
+ - top: 32.372093023255815%
    left: 56.00000000000001%
    text: J
    link: scotland
    width: 6.750000000000002%
-   height: 4.695652173913045%
- - top: 80.26086956521739%
+   height: 5.023255813953489%
+ - top: 74.23255813953489%
    left: 87.25%
    text: K
    link: east-of-england
    width: 6.750000000000002%
-   height: 4.695652173913045%
- - top: 93.30434782608695%
+   height: 5.023255813953489%
+ - top: 88.18604651162791%
    left: 81%
    text: M
    link: south-east-england
    width: 6.750000000000002%
-   height: 4.695652173913045%
- - top: 86.78260869565216%
+   height: 5.023255813953489%
+ - top: 81.20930232558139%
    left: 81%
    text: N
    link: london
    width: 6.750000000000002%
-   height: 4.695652173913045%
+   height: 5.023255813953489%

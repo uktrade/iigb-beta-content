@@ -1,4 +1,4 @@
 ---
-title: 'Regions of the UK'
-introduction: 'Investment is happening across our diverse regions, select one below to find out more.'
+title: Areas of the UK
+introduction: Investment is happening across the UK, select an area below to find out more.
 ---
