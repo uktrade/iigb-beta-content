@@ -122,8 +122,8 @@ contact:
  zh_CN: 取得联系
  ja_JP: お問い合わせ
  es_ES: Contacto
- pt_BR: Fale conosco
- pt_INT: Contacte-nos
+ pt_BR: Entrar em contacto
+ pt_INT: Entrar em contacto
  ar_SA: الاتصال بنا
 industries:
  de_DE: Branchen
@@ -261,14 +261,7 @@ form_contact_details:
  pt_INT: Os seus dados de contacto
  ar_SA: بيانات الاتصال
 form_contact_details_nf:
- de_DE: Kontaktangaben
  en_US: Contact information 
- zh_CN: 
- ja_JP: 連絡先情報
- es_ES: Información de contacto
- pt_BR: Informações de contato
- pt_INT: Informações de contacto
- ar_SA: 
 form_contact_details_reason:
  de_DE: Wir benötigen diese um Sie mit Ihrem Ansprechpartner vor Ort in Verbindung zu setzen
  en_US: We will use these to put you in touch with your local office
@@ -293,26 +286,26 @@ form_enter_full_name:
  zh_CN: 请输入您的姓名
  ja_JP: ご氏名を入力してください
  es_ES: Introduzca su nombre completo
- pt_BR: Insira seu nome completo
+ pt_BR: Introduza o seu nome completo
  pt_INT: Introduza o seu nome completo
  ar_SA: أدخل الاسم بالكامل
 form_title:
- de_DE: Position
+ de_DE: Job title
  en_US: Job title
  zh_CN: Job title
- ja_JP: 役職
- es_ES: Cargo
- pt_BR: Cargo
- pt_INT: Cargo
+ ja_JP: Job title
+ es_ES: Puesto que ocupa
+ pt_BR: Job title
+ pt_INT: Job title
  ar_SA: Job title
 form_enter_title:
- de_DE: Position eingeben
+ de_DE: Enter your job title
  en_US: Enter your job title
  zh_CN: Enter your job title
- ja_JP: 役職を入力してください。
- es_ES: Introduzca su cargo
- pt_BR: Insira seu cargo
- pt_INT: Introduza o seu cargo
+ ja_JP: Enter your job title
+ es_ES: Introduzca el nombre de su puesto 
+ pt_BR: Enter your job title
+ pt_INT: Enter your job title
  ar_SA: Enter your job title
 form_email:
  de_DE: Arbeits-E-Mail
@@ -320,7 +313,7 @@ form_email:
  zh_CN: 工作电子邮件
  ja_JP: 勤務先の電子メール
  es_ES: Dirección de correo electrónico de la empresa
- pt_BR: E-mail de trabalho
+ pt_BR: E-mail - Trabalho
  pt_INT: E-mail - Trabalho
  ar_SA: البريد الإلكتروني للعمل
 form_enter_email:
@@ -329,7 +322,7 @@ form_enter_email:
  zh_CN: 请输入工作电子邮件
  ja_JP: 電子メールアドレスを入力してください
  es_ES: Introduzca su dirección de correo electrónico
- pt_BR: Insira seu endereço de e-mail
+ pt_BR: Introduza o seu endereço de e-mail
  pt_INT: Introduza o seu endereço de e-mail
  ar_SA: أدخل بريدك الإلكتروني
 form_enter_valid_email:
@@ -356,7 +349,7 @@ form_phone:
  zh_CN: 工作联系电话(可选填)
  ja_JP: 勤務先の電話番号 (任意)
  es_ES: Número de teléfono de la empresa (opcional)
- pt_BR: Telefone comercial (opcional)
+ pt_BR: Telefone - Trabalho (opcional)
  pt_INT: Telefone - Trabalho (opcional)
  ar_SA: هاتف العمل (اختياري)
 form_enter_phone:
@@ -392,35 +385,35 @@ form_investment:
  zh_CN: 您的投资
  ja_JP: 貴社の投資について
  es_ES: Su inversión
- pt_BR: Seu investimento
+ pt_BR: O seu investimento
  pt_INT: O seu investimento
  ar_SA: الاستثمار
 form_investment_project:
- de_DE: Angaben zu Ihrer Investition
+ de_DE: Tell us about your investment
  en_US: Tell us about your investment
  zh_CN: Tell us about your investment
- ja_JP: 貴社の投資についてお聞かせください。
- es_ES: Cuéntenos acerca de su inversión
- pt_BR: Conte-nos sobre o seu investimento
- pt_INT: Fale-nos sobre o seu investimento
+ ja_JP: Tell us about your investment
+ es_ES: Tell us about your investment
+ pt_BR: Tell us about your investment
+ pt_INT: Tell us about your investment
  ar_SA: Tell us about your investment
 form_enter_investment_details:
- de_DE: Bitte machen Sie Angaben zu Ihren Investitionsplänen in Großbritannien
+ de_DE: Provide details about your plans to invest in the UK
  en_US: Provide details about your plans to invest in the UK
  zh_CN: Provide details about your plans to invest in the UK
- ja_JP: 英国への投資計画の詳細を入力してください。
- es_ES: Proporcione detalles sobre sus planes para invertir en el Reino Unido
- pt_BR: Forneça detalhes sobre seus planos para investir no Reino Unido
- pt_INT: Forneça detalhes sobre os seus planos de investimento no Reino Unido
+ ja_JP: Provide details about your plans to invest in the UK
+ es_ES: Provide details about your plans to invest in the UK
+ pt_BR: Provide details about your plans to invest in the UK
+ pt_INT: Provide details about your plans to invest in the UK
  ar_SA: Provide details about your plans to invest in the UK
 form_investment_details: 
- de_DE: Bitte machen Sie Angaben zu Ihrem Unternehmen und zu Ihren Plänen in Bezug auf die Höhe der Investition sowie auf operative Pläne und Pläne bezüglich der Einstellung von Mitarbeitern in Großbritannien. Bitte teilen Sie uns auch mit, welche Hilfe Sie von den britischen Behörden erhalten möchten.
+ de_DE: Tell us about your company and your plans for the UK in terms of the size of investment, operational and recruitment plans. Please also tell us what help you would like from the UK government.
  en_US: Tell us about your company and your plans for the UK in terms of the size of investment, operational and recruitment plans. Please also tell us what help you would like from the UK government.
  zh_CN: Tell us about your company and your plans for the UK in terms of the size of investment, operational and recruitment plans. Please also tell us what help you would like from the UK government.
- ja_JP: 貴社について、および投資の規模、運営、採用計画の観点から英国に対する貴社の計画についてご説明ください。また、英国政府に求めるサポートについてもお聞かせください。
- es_ES: Cuéntenos sobre su empresa y sus planes para el Reino Unido en cuanto a la magnitud de su inversión, sus planes operativos y de contratación. Díganos qué ayuda le gustaría recibir del gobierno británico.
- pt_BR: Conte-nos sobre sua empresa e seus planos para o Reino Unido em termos de tamanho do investimento, planos operacionais e planos de recrutamento. Explique-nos que tipo de ajuda você gostaria de receber do governo do Reino Unido.
- pt_INT: Fale-nos sobre a sua empresa e os seus planos para o Reino Unido em termos da dimensão do investimento e de planos operacionais e de recrutamento. Informe-nos também sobre o tipo de ajuda que desejaria obter do Governo do Reino Unido.
+ ja_JP: Tell us about your company and your plans for the UK in terms of the size of investment, operational and recruitment plans. Please also tell us what help you would like from the UK government.
+ es_ES: Tell us about your company and your plans for the UK in terms of the size of investment, operational and recruitment plans. Please also tell us what help you would like from the UK government.
+ pt_BR: Tell us about your company and your plans for the UK in terms of the size of investment, operational and recruitment plans. Please also tell us what help you would like from the UK government.
+ pt_INT: Tell us about your company and your plans for the UK in terms of the size of investment, operational and recruitment plans. Please also tell us what help you would like from the UK government.
  ar_SA: Tell us about your company and your plans for the UK in terms of the size of investment, operational and recruitment plans. Please also tell us what help you would like from the UK government.
 form_enter_annual_turnover:
  de_DE: Wählen Sie die Option, die Ihrem Jahresumzsatz am besten entspricht
@@ -510,7 +503,7 @@ form_enter_staff_number:
  zh_CN: 请选择目前工作人员的大概人数
  ja_JP: 貴社の従業員数に最も近い範囲を選択してください
  es_ES: Seleccione el intervalo que más se aproxime a su número de empleados
- pt_BR: Selecione o número total de funcionários
+ pt_BR: Selecione a opção mais próxima do seu número de pessoal
  pt_INT: Selecione a opção mais próxima do seu número de pessoal
  ar_SA: حدد النطاق الأقرب إلى عدد موظفيك
 form_staff_number:
@@ -520,7 +513,7 @@ form_staff_number:
    zh_CN: 目前工作人员估计人数
    ja_JP: 現在の従業員数 (推定でも構いません)
    es_ES: Número aproximado de personal en la actualidad
-   pt_BR: Número total de funcionários atual
+   pt_BR: Estimativa do número de pessoal atual
    pt_INT: Estimativa do número de pessoal atual
    ar_SA: العدد التقديري الحالي للموظفين
  options:
@@ -555,8 +548,8 @@ form_staff_number:
    - Más de 250
    pt_BR:
    - Menos de 10
-   - 10 e 50
-   - 51 e 250
+   - Entre 10 e 50
+   - Entre 51 e 250
    - Mais de 250
    pt_INT:
    - Menos de 10
@@ -955,18 +948,11 @@ form_company:
  zh_CN: 您的公司
  ja_JP: 貴社について
  es_ES: Su empresa
- pt_BR: Sua empresa
+ pt_BR: A sua empresa
  pt_INT: A sua empresa
  ar_SA: الشركة
 form_company_nf:
- de_DE: Ihr Unternehmen
  en_US: Your company 
- zh_CN: 您的公司
- ja_JP: 貴社について
- es_ES: Su empresa
- pt_BR: Sua empresa
- pt_INT: A sua empresa
- ar_SA: الشركة
 form_company_reason:
  de_DE: Helfen Sie uns, Ihren aktuellen Betrieb zu verstehen
  en_US: Help us understand your current operations
@@ -991,7 +977,7 @@ form_enter_registered_company:
  zh_CN: 请输入您的公司注册名称
  ja_JP: 正式登録された会社名を入力してください
  es_ES: Introduzca el nombre registrado de su empresa
- pt_BR: Insira o endereço do site da sua empresa
+ pt_BR: Introduza o nome registado da sua empresa
  pt_INT: Introduza o nome registado da sua empresa
  ar_SA: أدخل اسم شركتك المُسجَّل
 form_website:
@@ -1000,45 +986,24 @@ form_website:
  zh_CN: 公司网站地址
  ja_JP: 貴社のウェブサイト アドレス (任意)
  es_ES: Dirección del sitio web de la empresa (opcional)
- pt_BR: Site da empresa (opcional)
+ pt_BR: Endereço do website da empresa (opcional)
  pt_INT: Endereço do website da empresa (opcional)
  ar_SA: الموقع الإلكتروني للشركة (اختياري)
 form_website_nf:
- de_DE: Unternehmenswebseite
  en_US: Company website
- zh_CN: 
- ja_JP: 企業ウェブサイト
- es_ES: Website da empresa
- pt_BR: Site da empresa
- pt_INT: Website da empresa
- ar_SA: 
 form_enter_website:
  de_DE: Geben Sie die Internetadresse Ihres Unternehmens ein
  en_US: Enter your company website address
  zh_CN: 请输入您的公司网站地址
  ja_JP: 貴社のウェブサイトのアドレスを入力してください
  es_ES: Introduzca la dirección del sitio web de su empresa
- pt_BR: Insira o endereço do site da sua empresa
+ pt_BR: Introduza o endereço do website da sua empresa
  pt_INT: Introduza o endereço do website da sua empresa
  ar_SA: 
 form_enter_website_nf:
- de_DE: Unternehmenswebseite eingeben
  en_US: Enter your website address or check the box below
- zh_CN: 请输入您的公司网站地址
- ja_JP: 貴社のウェブサイトのアドレスを入力してください。
- es_ES: Introduzca la dirección de sitio web de la empresa
- pt_BR: Insira o endereço do site da sua empresa
- pt_INT: Introduza o endereço do Website da sua empresa
- ar_SA: 
 form_do_not_have_website:
- de_DE: Ich habe keine Webseite
  en_US: I do not have a website 
- zh_CN: 
- ja_JP: ウェブサイトなし
- es_ES: No tengo sitio web
- pt_BR: Eu não tenho um site
- pt_INT: Não tenho um Website
- ar_SA: 
 form_enter_primary_industry:
  de_DE: Wählen Sie die Branche aus, in der Sie hauptsächlich tätig sind, aus oder wählen Sie "Sonstiges"
  en_US: Select the industry you mainly operate in or select Other
@@ -1329,14 +1294,7 @@ form_mailing_list_confirmation:
  pt_INT: Sim, gostaria de receber essas informações
  ar_SA: نعم، أود الحصول على هذه المعلومات
 form_use_of_info: 
- de_DE: Wir verwenden diese Angaben, um Sie mit Ihrer nächsten britischen Botschaft oder Ihrem nächsten britischen Hochkommissariat in Verbindung zu setzen.
- en_US: We will use this information to put you in touch with your closest British embassy or high commission.
- zh_CN: 
- ja_JP: この情報をもとに、最も近い場所にある英国大使館または高等弁務官事務所からご連絡を差し上げます。
- es_ES: Utilizaremos esta información para ponerle en contacto con la Embajada o el Alto Comisionado británicos más cercanos.
- pt_BR: Usaremos essas informações para colocar você em contato com sua embaixada britânica ou representante mais próximo.
- pt_INT: Estas informações serão utilizadas para o colocar em contacto com a embaixada ou alto comissariado britânico mais próximo de si.
- ar_SA: 
+  en_US: We will use this information to put you in touch with your closest British embassy or high commission.
 form_enter_headquarters:
  de_DE: Geben Sie das Land Ihres Unternehmenshauptsitzes ein
  en_US: Enter the country where your company has its headquarters
@@ -1347,21 +1305,14 @@ form_enter_headquarters:
  pt_INT: Introduza o país onde a sua empresa está sediada
  ar_SA: أدخل الدولة التي يقع بها المقر الرئيسي لشركتك
 form_enter_headquarters_nf:
- de_DE: Land eingeben
  en_US: Enter your country
- zh_CN: 
- ja_JP: 拠点とする国を入力してください。
- es_ES: Introduzca su país
- pt_BR: Insira o país
- pt_INT: Introduza o seu país
- ar_SA: 
 form_enter_headquarters_help:
  de_DE: Bitte geben Sie hier Text ein damit Sie eine Auswahl machen können.
  en_US: Start typing to select a country.
  zh_CN: 开始输入并选择一个选项
  ja_JP: 入力を開始すると、オプションを選択できます
  es_ES: Empiece a escribir para seleccionar una opción.
- pt_BR: Comece a digitar para selecionar um país.
+ pt_BR: Comece a digitar para selecionar uma opção.
  pt_INT: Comece a digitar para selecionar uma opção.
  ar_SA: ابدأ الكتابة لتحديد أحد الخيارات
 form_headquarters:
@@ -3628,16 +3579,16 @@ form_disclaimer:
  de_DE: Mit Absenden Ihrer Daten bestätigen Sie, dass die von Ihnen eingegebenen Daten korrekt sind und stimmen unseren
  en_US: By sending us your details you confirm that the information you've shared with us is true and you accept our
  zh_CN: 发送您的详细信息以后，代表您同意提供的信息是真实并接受
- ja_JP: 情報をご送付いただくことで、当省にご提出いただいた情報が真実であり
+ ja_JP: 情報をご送付いただくことで、当省にご提出いただいた情報が真実であり、当省の利用規約に同意していただいたことをご確認いただくことになりますのでご了解ください。
  es_ES: Al enviarnos sus datos, usted confirma que la información que nos proporciona es verídica y acepta nuestros 
- pt_BR: Ao enviar seus dados, você confirma que as informações que compartilhou conosco são verdadeiras e aceita nossos 
+ pt_BR: Ao enviar-nos os seus detalhes confirma que as informações que partilhou conosco são verdadeiras e que aceita os nossos
  pt_INT: Ao enviar-nos os seus detalhes confirma que as informações que partilhou conosco são verdadeiras e que aceita os nossos
  ar_SA: أنتم تؤكدون بموجب إرسالكم للبيانات ذات الصلة بكم أن المعلومات المرسلة هي معلومات صحيحة وأنكم توافقون على
 form_disclaimer_tc:
  de_DE: Nutzungsbedingungen zu.
  en_US: terms and conditions.
  zh_CN: 我们的附带条约。
- ja_JP: 当省の利用規約に同意していただいたことをご確認いただくことになりますのでご了解ください。
+ ja_JP: 当省の利用規約
  es_ES: términos y condiciones.
  pt_BR: termos e condições.
  pt_INT: termos e condições.
@@ -4276,6 +4227,24 @@ research_and_development_hubs:
 rd_hubs:
    de_DE: ''
    en_US: 'Number of R&D centres'
+   zh_CN: ''
+   ja_JP: ''
+   es_ES: ''
+   pt_BR: ''
+   pt_INT: ''
+   ar_SA: ''
+enterprise_zones:
+   de_DE: ''
+   en_US: 'Enterprise zones for'
+   zh_CN: ''
+   ja_JP: ''
+   es_ES: ''
+   pt_BR: ''
+   pt_INT: ''
+   ar_SA: ''
+ez:
+   de_DE: ''
+   en_US: 'Enterprise zones'
    zh_CN: ''
    ja_JP: ''
    es_ES: ''
