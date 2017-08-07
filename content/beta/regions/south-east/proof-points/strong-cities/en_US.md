@@ -12,7 +12,7 @@ The South East has attractive cities for investors:
 <div class="region--small-text"><p>EY, UK region and city economic forecast winter 2016</p></div>
 - every F1 team in the world has engineers trained at the University of Southampton  
 <div class="region--small-text"><p>Invest in Southampton</p></div>
--Guildford is home to over 60 successful gaming companies, including Electronic Arts, one of the largest video game publishers in the world  
+- Guildford is home to over 60 successful gaming companies, including Electronic Arts, one of the largest video game publishers in the world  
 <div class="region--small-text"><p>Invest in Surrey</p></div>
 - Oxford is the top UK city for net private sector jobs growth  
 <div class="region--small-text"><p>Cities Outlook 2017</p></div>
