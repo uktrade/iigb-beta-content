@@ -1,5 +1,6 @@
 ---
-title: Strong industries for investment in Scotland
+title: Strong industries for investment
+link: strong industries for investment
 borderColour: red
 ---
 Strong sectors in Scottish cities include:
@@ -10,6 +11,4 @@ Strong sectors in Scottish cities include:
 - renewables research and development in Glasgow
 - life sciences and data science in Edinburgh
 - financial services in Edinburgh and Glasgow
-
-
-Scottish Development International 2017
+<div class="region--small-text"><p>Scottish Development International 2017</p></div>

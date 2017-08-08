@@ -1,16 +1,14 @@
 ---
-title: Skills in Northern Ireland
+title: Skills and education
+link: skills and education
 borderColour: turquoise
 ---
-Investors in Northern Ireland benefit from a strong skills base:
+Investors in Northern Ireland benefit from a strong skills base, including:
 
+- 77% of high school graduates continuing to further and higher education
+<div class="region--small-text"><p>Invest Northern Ireland 2017</p></div>
 
-77% of high school graduates go on to further and higher education 
-Invest Northern Ireland 2017
+- 2 world-class universities, Queen’s University and Ulster University
 
-
-Northern Ireland has 2 world-class universities, Queen’s University and Ulster University
-
-
-Northern Ireland produces over 2,500 new graduates with business qualifications every year
-Higher Education Statistics Agency 2017
+- 2,500 new graduates with business qualifications every year
+<div class="region--small-text"><p>Higher Education Statistics Agency 2017</p></div>
