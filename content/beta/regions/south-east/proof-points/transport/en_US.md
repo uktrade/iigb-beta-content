@@ -5,10 +5,9 @@ borderColour: blue
 ---
 Transport options in the South East include:
 
-
-- air - Gatwick serves more destinations than any other UK airport and London’s Heathrow airport, the UK’s largest by passenger numbers, is nearby  
+- Gatwick Airport, which serves more destinations than any other UK airport, and London’s Heathrow Airport, which is nearby and is the UK’s largest by passenger numbers  
 <div class="region--small-text"><p>OAG Aviation 2016</p></div>
-- rail - it takes only 14 minutes to reach London (Slough to London Paddington) and 35 minutes to reach the European mainland (Folkestone to Calais)
-- road - the region is served by 8 motorways (M2, M20, M23, M25, M27, M3, M4, M40)
-- ports - there are ports in Southampton and Dover, which is Europe’s busiest passenger port (13,000 passengers a year)  
+- fast train connections to London (14 minutes from Slough to London Paddington) and to the European mainland (35 minutes from Folkestone to Calais)
+- 8 motorways, including direct road links to the Channel Tunnel and the London orbital road
+- a port in Southampton and one in Dover, which is Europe’s busiest passenger port (13,000 passengers a year)
 <div class="region--small-text"><p>Eurostat 2017</p></div>

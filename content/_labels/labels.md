@@ -4244,7 +4244,7 @@ enterprise_zones:
    ar_SA: ''
 ez:
    de_DE: ''
-   en_US: 'Enterprise zones'
+   en_US: 'Number of enterprise zones'
    zh_CN: ''
    ja_JP: ''
    es_ES: ''
