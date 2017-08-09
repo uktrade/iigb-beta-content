@@ -268,7 +268,7 @@ form_contact_details_nf:
  es_ES: Información de contacto
  pt_BR: Informações de contato
  pt_INT: Informações de contacto
- ar_SA: 
+ ar_SA: معلومات جهة الاتصال
 form_contact_details_reason:
  de_DE: Wir benötigen diese um Sie mit Ihrem Ansprechpartner vor Ort in Verbindung zu setzen
  en_US: We will use these to put you in touch with your local office
@@ -286,7 +286,7 @@ form_full_name:
  es_ES: Nombre completo
  pt_BR: Nome completo
  pt_INT: Nome completo
- ar_SA: الاسم بالكامل
+ ar_SA: الاسم الكامل
 form_enter_full_name:
  de_DE: Geben Sie Ihren vollständigen Namen ein
  en_US: Enter your full name
@@ -295,7 +295,7 @@ form_enter_full_name:
  es_ES: Introduzca su nombre completo
  pt_BR: Insira seu nome completo
  pt_INT: Introduza o seu nome completo
- ar_SA: أدخل الاسم بالكامل
+ ar_SA: أدخل اسمك بالكامل
 form_title:
  de_DE: Position
  en_US: Job title
@@ -304,7 +304,7 @@ form_title:
  es_ES: Cargo
  pt_BR: Cargo
  pt_INT: Cargo
- ar_SA: Job title
+ ar_SA: المسمى الوظيفي
 form_enter_title:
  de_DE: Position eingeben
  en_US: Enter your job title
@@ -313,7 +313,7 @@ form_enter_title:
  es_ES: Introduzca su cargo
  pt_BR: Insira seu cargo
  pt_INT: Introduza o seu cargo
- ar_SA: Enter your job title
+ ar_SA: ادخل المسمى الوظيفي الخاص بك
 form_email:
  de_DE: Arbeits-E-Mail
  en_US: Work email
@@ -331,7 +331,7 @@ form_enter_email:
  es_ES: Introduzca su dirección de correo electrónico
  pt_BR: Insira seu endereço de e-mail
  pt_INT: Introduza o seu endereço de e-mail
- ar_SA: أدخل بريدك الإلكتروني
+ ar_SA: أدخل عنوان بريدك الإلكتروني
 form_enter_valid_email:
  de_DE: Geben Sie Ihre Email im richtigen Format ein, z.B. name@domain.de
  en_US: Enter your email in the correct format, for example name@domain.com
@@ -394,7 +394,7 @@ form_investment:
  es_ES: Su inversión
  pt_BR: Seu investimento
  pt_INT: O seu investimento
- ar_SA: الاستثمار
+ ar_SA: استثمارك
 form_investment_project:
  de_DE: Angaben zu Ihrer Investition
  en_US: Tell us about your investment
@@ -403,7 +403,7 @@ form_investment_project:
  es_ES: Cuéntenos acerca de su inversión
  pt_BR: Conte-nos sobre o seu investimento
  pt_INT: Fale-nos sobre o seu investimento
- ar_SA: Tell us about your investment
+ ar_SA: أخبرنا عن الاستثمار الذي تريد القيام به
 form_enter_investment_details:
  de_DE: Bitte machen Sie Angaben zu Ihren Investitionsplänen in Großbritannien
  en_US: Provide details about your plans to invest in the UK
@@ -412,7 +412,7 @@ form_enter_investment_details:
  es_ES: Proporcione detalles sobre sus planes para invertir en el Reino Unido
  pt_BR: Forneça detalhes sobre seus planos para investir no Reino Unido
  pt_INT: Forneça detalhes sobre os seus planos de investimento no Reino Unido
- ar_SA: Provide details about your plans to invest in the UK
+ ar_SA: تقديم تفاصيل حول خططك  للاستثمار في المملكة المتحدة
 form_investment_details: 
  de_DE: Bitte machen Sie Angaben zu Ihrem Unternehmen und zu Ihren Plänen in Bezug auf die Höhe der Investition sowie auf operative Pläne und Pläne bezüglich der Einstellung von Mitarbeitern in Großbritannien. Bitte teilen Sie uns auch mit, welche Hilfe Sie von den britischen Behörden erhalten möchten.
  en_US: Tell us about your company and your plans for the UK in terms of the size of investment, operational and recruitment plans. Please also tell us what help you would like from the UK government.
@@ -421,7 +421,7 @@ form_investment_details:
  es_ES: Cuéntenos sobre su empresa y sus planes para el Reino Unido en cuanto a la magnitud de su inversión, sus planes operativos y de contratación. Díganos qué ayuda le gustaría recibir del gobierno británico.
  pt_BR: Conte-nos sobre sua empresa e seus planos para o Reino Unido em termos de tamanho do investimento, planos operacionais e planos de recrutamento. Explique-nos que tipo de ajuda você gostaria de receber do governo do Reino Unido.
  pt_INT: Fale-nos sobre a sua empresa e os seus planos para o Reino Unido em termos da dimensão do investimento e de planos operacionais e de recrutamento. Informe-nos também sobre o tipo de ajuda que desejaria obter do Governo do Reino Unido.
- ar_SA: Tell us about your company and your plans for the UK in terms of the size of investment, operational and recruitment plans. Please also tell us what help you would like from the UK government.
+ ar_SA: أخبرنا عن شركتك وخططك المتعلقة بالمملكة المتحدة من حيث حجم الاستثمار وخطط التشغيل والتوظيف. يُرجى أيضًا إخبارنا ما هي المساعدة التي تحتاج أن تقدمها لك حكومة المملكة المتحدة.
 form_enter_annual_turnover:
  de_DE: Wählen Sie die Option, die Ihrem Jahresumzsatz am besten entspricht
  en_US: Select the range that reflects your annual turnover
@@ -512,7 +512,7 @@ form_enter_staff_number:
  es_ES: Seleccione el intervalo que más se aproxime a su número de empleados
  pt_BR: Selecione o número total de funcionários
  pt_INT: Selecione a opção mais próxima do seu número de pessoal
- ar_SA: حدد النطاق الأقرب إلى عدد موظفيك
+ ar_SA: حدد العدد الإجمالي للموظفين لديك
 form_staff_number:
  label:
    de_DE: Geschätzte derzeitige Mitarbeiteranzahl
@@ -522,7 +522,7 @@ form_staff_number:
    es_ES: Número aproximado de personal en la actualidad
    pt_BR: Número total de funcionários atual
    pt_INT: Estimativa do número de pessoal atual
-   ar_SA: العدد التقديري الحالي للموظفين
+   ar_SA: العدد الإجمالي الحالي للموظفين
  options:
    '0': Less than 10
    '1': 10 to 50
@@ -564,10 +564,10 @@ form_staff_number:
    - Entre 51 e 250
    - Mais de 250
    ar_SA: 
-   - Less than 10
-   - 10 to 50
-   - 51 to 250
-   - More than 250
+   - أقل من 10
+   - من 10 إلى 50
+   - من 51 إلى 250
+   - أكثر من 250
 form_location:
  de_DE: Interessieren Sie sich für einen bestimmten Standort in Großbritannien?
  en_US: Are you considering a specific location in the UK?
@@ -984,7 +984,7 @@ form_registered_company:
  es_ES: Nombre registrado de la empresa
  pt_BR: Nome da empresa registado
  pt_INT: Nome da empresa registado
- ar_SA: الاسم المُسجَّل للشركة
+ ar_SA: اسم الشركة
 form_enter_registered_company:
  de_DE: Geben Sie Ihren eingetragenen Unternehmensnamen ein
  en_US: Enter your company name
@@ -993,7 +993,7 @@ form_enter_registered_company:
  es_ES: Introduzca el nombre registrado de su empresa
  pt_BR: Insira o endereço do site da sua empresa
  pt_INT: Introduza o nome registado da sua empresa
- ar_SA: أدخل اسم شركتك المُسجَّل
+ ar_SA: أدخل اسم شركتك
 form_website:
  de_DE: Internetadresse Ihres Unternehmens
  en_US: Company website address (optional)
@@ -1002,7 +1002,7 @@ form_website:
  es_ES: Dirección del sitio web de la empresa (opcional)
  pt_BR: Site da empresa (opcional)
  pt_INT: Endereço do website da empresa (opcional)
- ar_SA: الموقع الإلكتروني للشركة (اختياري)
+ ar_SA: أدخل عنوان موقع ويب الشركة
 form_website_nf:
  de_DE: Unternehmenswebseite
  en_US: Company website
@@ -1011,7 +1011,7 @@ form_website_nf:
  es_ES: Website da empresa
  pt_BR: Site da empresa
  pt_INT: Website da empresa
- ar_SA: 
+ ar_SA: موقع ويب الشركة
 form_enter_website:
  de_DE: Geben Sie die Internetadresse Ihres Unternehmens ein
  en_US: Enter your company website address
@@ -1029,7 +1029,7 @@ form_enter_website_nf:
  es_ES: Introduzca la dirección de sitio web de la empresa
  pt_BR: Insira o endereço do site da sua empresa
  pt_INT: Introduza o endereço do Website da sua empresa
- ar_SA: 
+ ar_SA: أدخل عنوان موقع ويب الشركة
 form_do_not_have_website:
  de_DE: Ich habe keine Webseite
  en_US: I do not have a website 
@@ -1038,7 +1038,7 @@ form_do_not_have_website:
  es_ES: No tengo sitio web
  pt_BR: Eu não tenho um site
  pt_INT: Não tenho um Website
- ar_SA: 
+ ar_SA: ليس لدي موقع ويب
 form_enter_primary_industry:
  de_DE: Wählen Sie die Branche aus, in der Sie hauptsächlich tätig sind, aus oder wählen Sie "Sonstiges"
  en_US: Select the industry you mainly operate in or select Other
@@ -1336,7 +1336,7 @@ form_use_of_info:
  es_ES: Utilizaremos esta información para ponerle en contacto con la Embajada o el Alto Comisionado británicos más cercanos.
  pt_BR: Usaremos essas informações para colocar você em contato com sua embaixada britânica ou representante mais próximo.
  pt_INT: Estas informações serão utilizadas para o colocar em contacto com a embaixada ou alto comissariado britânico mais próximo de si.
- ar_SA: 
+ ar_SA: سنستخدم هذه المعلومات لنساعدك في التواصل مع السفارة البريطانية أو اللجنة العليا الأقرب إليك.
 form_enter_headquarters:
  de_DE: Geben Sie das Land Ihres Unternehmenshauptsitzes ein
  en_US: Enter the country where your company has its headquarters
@@ -1354,7 +1354,7 @@ form_enter_headquarters_nf:
  es_ES: Introduzca su país
  pt_BR: Insira o país
  pt_INT: Introduza o seu país
- ar_SA: 
+ ar_SA: أدخل بلدك
 form_enter_headquarters_help:
  de_DE: Bitte geben Sie hier Text ein damit Sie eine Auswahl machen können.
  en_US: Start typing to select a country.
@@ -1363,7 +1363,7 @@ form_enter_headquarters_help:
  es_ES: Empiece a escribir para seleccionar una opción.
  pt_BR: Comece a digitar para selecionar uum país.
  pt_INT: Comece a digitar para selecionar uma opção.
- ar_SA: ابدأ الكتابة لتحديد أحد الخيارات
+ ar_SA: ابدأ بالكتابة لتحديد بلدك.
 form_headquarters:
  label:
    de_DE: Hauptsitz ihres Unternehmens
@@ -1373,7 +1373,7 @@ form_headquarters:
    es_ES: País
    pt_BR: País
    pt_INT: País
-   ar_SA: الدولة
+   ar_SA: في أي بلد أنت متواجد؟
  options:
    '0': Andorra
    '1': United Arab Emirates
@@ -3632,7 +3632,7 @@ form_disclaimer:
  es_ES: Al enviarnos sus datos, usted confirma que la información que nos proporciona es verídica y acepta nuestros 
  pt_BR: Ao enviar seus dados, você confirma que as informações que compartilhou conosco são verdadeiras e aceita nossos
  pt_INT: Ao enviar-nos os seus detalhes confirma que as informações que partilhou conosco são verdadeiras e que aceita os nossos
- ar_SA: أنتم تؤكدون بموجب إرسالكم للبيانات ذات الصلة بكم أن المعلومات المرسلة هي معلومات صحيحة وأنكم توافقون على
+ ar_SA: عن طريق إرسال تفاصيلك لنا، أنت تؤكد أن المعلومات التي شاركتها معنا صحيحة، وأنك توافق على بنودنا وشروطنا.
 form_disclaimer_tc:
  de_DE: Nutzungsbedingungen zu.
  en_US: terms and conditions.
