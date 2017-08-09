@@ -1,9 +1,9 @@
 ---
-title: "Contact our investment services team for:"
+title: "يمكنك التواصل مع فريق خدمات الاستثمار من أجل:"
 list: 
- - practical support and information about taking your investment forward
- - insights into the UK market
- - help building connections
+ - الحصول على دعم عملي ومعلومات حول الارتقاء باستثمارك إلى المستوى التالي
+ - الحصول على رؤية حول سوق المملكة المتحدة
+ - المساعدة في بناء الروابط والعلاقات
 ---
 
-The team may put you in touch with a UK government office in your region to support you with advice relevant to your country.
+قد يساعدك الفريق في التواصل مع مكتب حكومة المملكة المتحدة في منطقتك لدعمك من خلال تقديم النصائح التي تتناسب وبلدك.
