@@ -122,8 +122,8 @@ contact:
  zh_CN: 取得联系
  ja_JP: お問い合わせ
  es_ES: Contacto
- pt_BR: Entrar em contacto
- pt_INT: Entrar em contacto
+ pt_BR: Fale conosco
+ pt_INT: Contacte-nos
  ar_SA: الاتصال بنا
 industries:
  de_DE: Branchen
@@ -261,7 +261,14 @@ form_contact_details:
  pt_INT: Os seus dados de contacto
  ar_SA: بيانات الاتصال
 form_contact_details_nf:
+ de_DE: Kontaktangaben
  en_US: Contact information 
+ zh_CN: 
+ ja_JP: 連絡先情報
+ es_ES: Información de contacto
+ pt_BR: Informações de contato
+ pt_INT: Informações de contacto
+ ar_SA: 
 form_contact_details_reason:
  de_DE: Wir benötigen diese um Sie mit Ihrem Ansprechpartner vor Ort in Verbindung zu setzen
  en_US: We will use these to put you in touch with your local office
@@ -286,26 +293,26 @@ form_enter_full_name:
  zh_CN: 请输入您的姓名
  ja_JP: ご氏名を入力してください
  es_ES: Introduzca su nombre completo
- pt_BR: Introduza o seu nome completo
+ pt_BR: Insira seu nome completo
  pt_INT: Introduza o seu nome completo
  ar_SA: أدخل الاسم بالكامل
 form_title:
- de_DE: Job title
+ de_DE: Position
  en_US: Job title
  zh_CN: Job title
- ja_JP: Job title
- es_ES: Puesto que ocupa
- pt_BR: Job title
- pt_INT: Job title
+ ja_JP: 役職
+ es_ES: Cargo
+ pt_BR: Cargo
+ pt_INT: Cargo
  ar_SA: Job title
 form_enter_title:
- de_DE: Enter your job title
+ de_DE: Position eingeben
  en_US: Enter your job title
  zh_CN: Enter your job title
- ja_JP: Enter your job title
- es_ES: Introduzca el nombre de su puesto 
- pt_BR: Enter your job title
- pt_INT: Enter your job title
+ ja_JP: 役職を入力してください。
+ es_ES: Introduzca su cargo
+ pt_BR: Insira seu cargo
+ pt_INT: Introduza o seu cargo
  ar_SA: Enter your job title
 form_email:
  de_DE: Arbeits-E-Mail
@@ -313,7 +320,7 @@ form_email:
  zh_CN: 工作电子邮件
  ja_JP: 勤務先の電子メール
  es_ES: Dirección de correo electrónico de la empresa
- pt_BR: E-mail - Trabalho
+ pt_BR: E-mail de trabalho
  pt_INT: E-mail - Trabalho
  ar_SA: البريد الإلكتروني للعمل
 form_enter_email:
@@ -322,7 +329,7 @@ form_enter_email:
  zh_CN: 请输入工作电子邮件
  ja_JP: 電子メールアドレスを入力してください
  es_ES: Introduzca su dirección de correo electrónico
- pt_BR: Introduza o seu endereço de e-mail
+ pt_BR: Insira seu endereço de e-mail
  pt_INT: Introduza o seu endereço de e-mail
  ar_SA: أدخل بريدك الإلكتروني
 form_enter_valid_email:
@@ -349,7 +356,7 @@ form_phone:
  zh_CN: 工作联系电话(可选填)
  ja_JP: 勤務先の電話番号 (任意)
  es_ES: Número de teléfono de la empresa (opcional)
- pt_BR: Telefone - Trabalho (opcional)
+ pt_BR: Telefone comercial (opcional)
  pt_INT: Telefone - Trabalho (opcional)
  ar_SA: هاتف العمل (اختياري)
 form_enter_phone:
