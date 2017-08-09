@@ -392,35 +392,35 @@ form_investment:
  zh_CN: 您的投资
  ja_JP: 貴社の投資について
  es_ES: Su inversión
- pt_BR: O seu investimento
+ pt_BR: Seu investimento
  pt_INT: O seu investimento
  ar_SA: الاستثمار
 form_investment_project:
- de_DE: Tell us about your investment
+ de_DE: Angaben zu Ihrer Investition
  en_US: Tell us about your investment
  zh_CN: Tell us about your investment
- ja_JP: Tell us about your investment
- es_ES: Tell us about your investment
- pt_BR: Tell us about your investment
- pt_INT: Tell us about your investment
+ ja_JP: T貴社の投資についてお聞かせください。
+ es_ES: Cuéntenos acerca de su inversión
+ pt_BR: Conte-nos sobre o seu investimento
+ pt_INT: Fale-nos sobre o seu investimento
  ar_SA: Tell us about your investment
 form_enter_investment_details:
- de_DE: Provide details about your plans to invest in the UK
+ de_DE: Bitte machen Sie Angaben zu Ihren Investitionsplänen in Großbritannien
  en_US: Provide details about your plans to invest in the UK
  zh_CN: Provide details about your plans to invest in the UK
- ja_JP: Provide details about your plans to invest in the UK
- es_ES: Provide details about your plans to invest in the UK
- pt_BR: Provide details about your plans to invest in the UK
- pt_INT: Provide details about your plans to invest in the UK
+ ja_JP: 英国への投資計画の詳細を入力してください。
+ es_ES: Proporcione detalles sobre sus planes para invertir en el Reino Unido
+ pt_BR: Forneça detalhes sobre seus planos para investir no Reino Unido
+ pt_INT: Forneça detalhes sobre os seus planos de investimento no Reino Unido
  ar_SA: Provide details about your plans to invest in the UK
 form_investment_details: 
- de_DE: Tell us about your company and your plans for the UK in terms of the size of investment, operational and recruitment plans. Please also tell us what help you would like from the UK government.
+ de_DE: Bitte machen Sie Angaben zu Ihrem Unternehmen und zu Ihren Plänen in Bezug auf die Höhe der Investition sowie auf operative Pläne und Pläne bezüglich der Einstellung von Mitarbeitern in Großbritannien. Bitte teilen Sie uns auch mit, welche Hilfe Sie von den britischen Behörden erhalten möchten.
  en_US: Tell us about your company and your plans for the UK in terms of the size of investment, operational and recruitment plans. Please also tell us what help you would like from the UK government.
  zh_CN: Tell us about your company and your plans for the UK in terms of the size of investment, operational and recruitment plans. Please also tell us what help you would like from the UK government.
- ja_JP: Tell us about your company and your plans for the UK in terms of the size of investment, operational and recruitment plans. Please also tell us what help you would like from the UK government.
- es_ES: Tell us about your company and your plans for the UK in terms of the size of investment, operational and recruitment plans. Please also tell us what help you would like from the UK government.
- pt_BR: Tell us about your company and your plans for the UK in terms of the size of investment, operational and recruitment plans. Please also tell us what help you would like from the UK government.
- pt_INT: Tell us about your company and your plans for the UK in terms of the size of investment, operational and recruitment plans. Please also tell us what help you would like from the UK government.
+ ja_JP: 貴社について、および投資の規模、運営、採用計画の観点から英国に対する貴社の計画についてご説明ください。また、英国政府に求めるサポートについてもお聞かせください。
+ es_ES: Cuéntenos sobre su empresa y sus planes para el Reino Unido en cuanto a la magnitud de su inversión, sus planes operativos y de contratación. Díganos qué ayuda le gustaría recibir del gobierno británico.
+ pt_BR: Conte-nos sobre sua empresa e seus planos para o Reino Unido em termos de tamanho do investimento, planos operacionais e planos de recrutamento. Explique-nos que tipo de ajuda você gostaria de receber do governo do Reino Unido.
+ pt_INT: Fale-nos sobre a sua empresa e os seus planos para o Reino Unido em termos da dimensão do investimento e de planos operacionais e de recrutamento. Informe-nos também sobre o tipo de ajuda que desejaria obter do Governo do Reino Unido.
  ar_SA: Tell us about your company and your plans for the UK in terms of the size of investment, operational and recruitment plans. Please also tell us what help you would like from the UK government.
 form_enter_annual_turnover:
  de_DE: Wählen Sie die Option, die Ihrem Jahresumzsatz am besten entspricht
@@ -510,7 +510,7 @@ form_enter_staff_number:
  zh_CN: 请选择目前工作人员的大概人数
  ja_JP: 貴社の従業員数に最も近い範囲を選択してください
  es_ES: Seleccione el intervalo que más se aproxime a su número de empleados
- pt_BR: Selecione a opção mais próxima do seu número de pessoal
+ pt_BR: Selecione o número total de funcionários
  pt_INT: Selecione a opção mais próxima do seu número de pessoal
  ar_SA: حدد النطاق الأقرب إلى عدد موظفيك
 form_staff_number:
@@ -520,7 +520,7 @@ form_staff_number:
    zh_CN: 目前工作人员估计人数
    ja_JP: 現在の従業員数 (推定でも構いません)
    es_ES: Número aproximado de personal en la actualidad
-   pt_BR: Estimativa do número de pessoal atual
+   pt_BR: Número total de funcionários atual
    pt_INT: Estimativa do número de pessoal atual
    ar_SA: العدد التقديري الحالي للموظفين
  options:
@@ -555,8 +555,8 @@ form_staff_number:
    - Más de 250
    pt_BR:
    - Menos de 10
-   - Entre 10 e 50
-   - Entre 51 e 250
+   - 10 e 50
+   - 51 e 250
    - Mais de 250
    pt_INT:
    - Menos de 10
@@ -955,11 +955,18 @@ form_company:
  zh_CN: 您的公司
  ja_JP: 貴社について
  es_ES: Su empresa
- pt_BR: A sua empresa
+ pt_BR: Sua empresa
  pt_INT: A sua empresa
  ar_SA: الشركة
 form_company_nf:
+ de_DE: Ihr Unternehmen
  en_US: Your company 
+ zh_CN: 您的公司
+ ja_JP: 貴社について
+ es_ES: Su empresa
+ pt_BR: Sua empresa
+ pt_INT: A sua empresa
+ ar_SA: الشركة
 form_company_reason:
  de_DE: Helfen Sie uns, Ihren aktuellen Betrieb zu verstehen
  en_US: Help us understand your current operations
