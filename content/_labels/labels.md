@@ -991,7 +991,7 @@ form_enter_registered_company:
  zh_CN: 请输入您的公司注册名称
  ja_JP: 正式登録された会社名を入力してください
  es_ES: Introduzca el nombre registrado de su empresa
- pt_BR: Introduza o nome registado da sua empresa
+ pt_BR: Insira o endereço do site da sua empresa
  pt_INT: Introduza o nome registado da sua empresa
  ar_SA: أدخل اسم شركتك المُسجَّل
 form_website:
@@ -1000,24 +1000,45 @@ form_website:
  zh_CN: 公司网站地址
  ja_JP: 貴社のウェブサイト アドレス (任意)
  es_ES: Dirección del sitio web de la empresa (opcional)
- pt_BR: Endereço do website da empresa (opcional)
+ pt_BR: Site da empresa (opcional)
  pt_INT: Endereço do website da empresa (opcional)
  ar_SA: الموقع الإلكتروني للشركة (اختياري)
 form_website_nf:
+ de_DE: Unternehmenswebseite
  en_US: Company website
+ zh_CN: 
+ ja_JP: 企業ウェブサイト
+ es_ES: Website da empresa
+ pt_BR: Site da empresa
+ pt_INT: Website da empresa
+ ar_SA: 
 form_enter_website:
  de_DE: Geben Sie die Internetadresse Ihres Unternehmens ein
  en_US: Enter your company website address
  zh_CN: 请输入您的公司网站地址
  ja_JP: 貴社のウェブサイトのアドレスを入力してください
  es_ES: Introduzca la dirección del sitio web de su empresa
- pt_BR: Introduza o endereço do website da sua empresa
+ pt_BR: Insira o endereço do site da sua empresa
  pt_INT: Introduza o endereço do website da sua empresa
  ar_SA: 
 form_enter_website_nf:
+ de_DE: Unternehmenswebseite eingeben
  en_US: Enter your website address or check the box below
+ zh_CN: 请输入您的公司网站地址
+ ja_JP: 貴社のウェブサイトのアドレスを入力してください。
+ es_ES: Introduzca la dirección de sitio web de la empresa
+ pt_BR: Insira o endereço do site da sua empresa
+ pt_INT: Introduza o endereço do Website da sua empresa
+ ar_SA: 
 form_do_not_have_website:
+ de_DE: Ich habe keine Webseite
  en_US: I do not have a website 
+ zh_CN: 
+ ja_JP: ウェブサイトなし
+ es_ES: No tengo sitio web
+ pt_BR: Eu não tenho um site
+ pt_INT: Não tenho um Website
+ ar_SA: 
 form_enter_primary_industry:
  de_DE: Wählen Sie die Branche aus, in der Sie hauptsächlich tätig sind, aus oder wählen Sie "Sonstiges"
  en_US: Select the industry you mainly operate in or select Other
@@ -1308,7 +1329,14 @@ form_mailing_list_confirmation:
  pt_INT: Sim, gostaria de receber essas informações
  ar_SA: نعم، أود الحصول على هذه المعلومات
 form_use_of_info: 
-  en_US: We will use this information to put you in touch with your closest British embassy or high commission.
+ de_DE: Wir verwenden diese Angaben, um Sie mit Ihrer nächsten britischen Botschaft oder Ihrem nächsten britischen Hochkommissariat in Verbindung zu setzen.
+ en_US: We will use this information to put you in touch with your closest British embassy or high commission.
+ zh_CN: 
+ ja_JP: この情報をもとに、最も近い場所にある英国大使館または高等弁務官事務所からご連絡を差し上げます。
+ es_ES: Utilizaremos esta información para ponerle en contacto con la Embajada o el Alto Comisionado británicos más cercanos.
+ pt_BR: Usaremos essas informações para colocar você em contato com sua embaixada britânica ou representante mais próximo.
+ pt_INT: Estas informações serão utilizadas para o colocar em contacto com a embaixada ou alto comissariado britânico mais próximo de si.
+ ar_SA: 
 form_enter_headquarters:
  de_DE: Geben Sie das Land Ihres Unternehmenshauptsitzes ein
  en_US: Enter the country where your company has its headquarters
@@ -1319,14 +1347,21 @@ form_enter_headquarters:
  pt_INT: Introduza o país onde a sua empresa está sediada
  ar_SA: أدخل الدولة التي يقع بها المقر الرئيسي لشركتك
 form_enter_headquarters_nf:
+ de_DE: Land eingeben
  en_US: Enter your country
+ zh_CN: 
+ ja_JP: 拠点とする国を入力してください。
+ es_ES: Introduzca su país
+ pt_BR: Insira o país
+ pt_INT: Introduza o seu país
+ ar_SA: 
 form_enter_headquarters_help:
  de_DE: Bitte geben Sie hier Text ein damit Sie eine Auswahl machen können.
  en_US: Start typing to select a country.
  zh_CN: 开始输入并选择一个选项
  ja_JP: 入力を開始すると、オプションを選択できます
  es_ES: Empiece a escribir para seleccionar una opción.
- pt_BR: Comece a digitar para selecionar uma opção.
+ pt_BR: Comece a digitar para selecionar uum país.
  pt_INT: Comece a digitar para selecionar uma opção.
  ar_SA: ابدأ الكتابة لتحديد أحد الخيارات
 form_headquarters:
@@ -3593,16 +3628,16 @@ form_disclaimer:
  de_DE: Mit Absenden Ihrer Daten bestätigen Sie, dass die von Ihnen eingegebenen Daten korrekt sind und stimmen unseren
  en_US: By sending us your details you confirm that the information you've shared with us is true and you accept our
  zh_CN: 发送您的详细信息以后，代表您同意提供的信息是真实并接受
- ja_JP: 情報をご送付いただくことで、当省にご提出いただいた情報が真実であり、当省の利用規約に同意していただいたことをご確認いただくことになりますのでご了解ください。
+ ja_JP: 情報をご送付いただくことで、当省にご提出いただいた情報が真実であり
  es_ES: Al enviarnos sus datos, usted confirma que la información que nos proporciona es verídica y acepta nuestros 
- pt_BR: Ao enviar-nos os seus detalhes confirma que as informações que partilhou conosco são verdadeiras e que aceita os nossos
+ pt_BR: Ao enviar seus dados, você confirma que as informações que compartilhou conosco são verdadeiras e aceita nossos
  pt_INT: Ao enviar-nos os seus detalhes confirma que as informações que partilhou conosco são verdadeiras e que aceita os nossos
  ar_SA: أنتم تؤكدون بموجب إرسالكم للبيانات ذات الصلة بكم أن المعلومات المرسلة هي معلومات صحيحة وأنكم توافقون على
 form_disclaimer_tc:
  de_DE: Nutzungsbedingungen zu.
  en_US: terms and conditions.
  zh_CN: 我们的附带条约。
- ja_JP: 当省の利用規約
+ ja_JP: 当省の利用規約に同意していただいたことをご確認いただくことになりますのでご了解ください。
  es_ES: términos y condiciones.
  pt_BR: termos e condições.
  pt_INT: termos e condições.
