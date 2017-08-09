@@ -1,8 +1,11 @@
 ---
-title: Costs in the West Midlands
-borderColour: purple
+title: Costs of investing
+link: costs of investing
 ---
-Full-time weekly wages were [6% lower](https://www.nomisweb.co.uk/reports/lmp/gor/2013265925/report.aspx) than the English average in 2016, and 31% lower than in London.
+Investors in the West Midlands benefit from low costs:
 
 
-Property prices in the West Midlands were [17% lower](Land registry tool: http://landregistry.data.gov.uk/app/ukhpi/explore) than the UK average in September 2016.
+- full-time weekly wages are 6% lower than the average for England and 31% lower than in London
+<div class="region--small-text"><p>Office for National Statistics 2017</p></div>
+- property prices in the West Midlands are 17% lower than the UK average
+<div class="region--small-text"><p>UK Land Registry 2017</p></div>

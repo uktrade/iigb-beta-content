@@ -1,8 +1,8 @@
 ---
-title: Incentives to invest in the West Midlands
-borderColour: purple
+title: Incentives to invest
+link: incentives to invest
 ---
-Small and medium enterprises locating in the Midlands may be able to benefit from an investment fund of GBP 250 million. 
+Small and medium enterprises locating in the Midlands can benefit from an investment fund of 250 million GBP. 
 
 
-Business rate discounts, enhanced capital allowances and simplified planning rules are available in the region’s five enterprise zones, including the [Worcestershire Food Enterprise Zone](http://www.wlep.co.uk/food-enterprise-zone-created-worcestershire-drive-growth/) and the [Staffordshire Ceramic Valley Enterprise Zone](http://www.makeitstokestaffs.co.uk/locations/ceramic-valley-enterprise-zone/)
+The West Midlands has 5 areas where discounted business rates or simplified planning processes apply, including the Worcestershire Food Enterprise Zone and the Staffordshire Ceramic Valley Enterprise Zone.

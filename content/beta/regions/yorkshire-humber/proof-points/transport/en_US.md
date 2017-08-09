@@ -1,8 +1,9 @@
 ---
-title: Transport infrastructure in Yorkshire and Humberside
-borderColour: blue
+title: Transport infrastructure
+link: transport infrastructure
 ---
-Rail - A new high-speed rail link will bring journey times of 82 minutes from Leeds to London by 2033 and deliver 19,700 potential new jobs.
+Transport options in Yorkshire and Humberside include: 
 
 
-Ports - The Humber region has the largest ports complex in the UK. Grimsby and Immingham ports handle 12% of the UK market.
+- a new high-speed rail link which will cut Leeds to London journey times to 82 minutes by 2033 and deliver 19,700 potential new jobs
+- the largest ports complex in the UK, based in the Humber region - Grimsby and Immingham ports handle 12% of the UK market

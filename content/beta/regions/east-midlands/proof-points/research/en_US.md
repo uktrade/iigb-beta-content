@@ -1,10 +1,10 @@
 ---
-title: Research and development in the East Midlands
+title: Research and development
+link: research and development
 borderColour: turquoise
 ---
-Over 60% of UK-based automotive research and development is spent in the Midlands, which is home to the highest concentration of Tier 1 and 2 suppliers in the UK.
-Midlands Engine investment portfolio 2017 
-
+Over 60% of UK-based automotive R&D spending is done in the Midlands, which is home to the highest concentration of Tier 1 and 2 suppliers in the UK.
+<div class="region--small-text"><p>Midlands Engine investment portfolio 2017</p></div>
 
 The region is also strong in life sciences research, with 117 clinical trials facilities.
-Department for International Trade 2017
+<div class="region--small-text"><p>Department for International Trade 2017</p></div>

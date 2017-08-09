@@ -2,10 +2,13 @@
 title: The North West
 tagline: Interconnected infrastructure, ingenuity and innovation
 ---
-With a total economic output of £245 billion, the north west of England represents the perfect blend of incentives, innovation and infrastructure for your business.
+A total economic output of 245 billion GBP.
 
 
-The north west of England is at the heart of a great nation - 60 million people and 60% of UK companies are within two hours of the north west.
+At the heart of the nation - within two hours of 60 million people and 60% of UK companies.
 
 
-The north west had the biggest growth in FDI projects in the UK 2016 - an increase of 118%.
+Higher growth in FDI than any region of the UK - an increase of 118% in 2016.
+
+
+Part of the Northern Powerhouse, an area with a GDP of almost  350 billion GBP and home to over one million private businesses.

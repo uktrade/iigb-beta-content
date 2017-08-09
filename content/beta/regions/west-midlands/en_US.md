@@ -2,4 +2,10 @@
 title: The West Midlands
 tagline: The home of industry
 ---
-Comprising Britain’s second city and the birthplace of industry, the West Midlands is the place to harness a skilled, efficient workforce and take advantage of a high quality supply chain.
+Home to Britain’s second city, Birmingham, and the birthplace of industry.
+
+
+The ideal location for access to a skilled, efficient workforce and a high quality supply chain.
+
+
+Part of the Midlands Engine, home to 18% of the UK population and an economy worth over 243 billion GBP.

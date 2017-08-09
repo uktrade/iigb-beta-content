@@ -1,5 +1,9 @@
 ---
-title: Transport infrastructure in the West Midlands
-borderColour: blue
+title: Transport infrastructure
+link: transport infrastructure
 ---
-Birmingham Airport handles more than 11 million passengers and a new high speed rail link will reduce travel time to central London to under an hour.
+Transport options in the West Midlands include: 
+
+
+- Birmingham Airport, which handles more than 11 million passengers a year
+- a new high speed rail link which will reduce travel time to central London to under an hour

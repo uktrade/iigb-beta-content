@@ -1,14 +1,11 @@
 ---
-title: Transport infrastructure in Wales
-borderColour: blue
+title: Transport infrastructure
+link: transport infrastructure
 ---
-Rail: Cardiff is just two hours from London by high-speed train - once electrification is complete in 2019, travel time will reduce to 1 hour 40 minutes 
+Transport options in Wales include:
 
 
-Road: thanks to the M4 motorway you can drive from Wales to London in just two hours
-
-
-Air: you can fly from Cardiff International Airport connects to European cities such as Amsterdam and Paris in around 90 minutes
-
-
-Ports: major ports are located all along our coasts
+- Cardiff International Airport, connecting you to European cities including Amsterdam and Paris in around 90 minutes
+- high-speed train connections from Cardiff, connecting you to London in 2 hours - once electrification is complete in 2019, travel time will reduce to 1 hour 40 minutes 
+- the M4 motorway, allowing you to drive from Wales to London in just 2 hours
+- major ports located all along the Welsh coastline

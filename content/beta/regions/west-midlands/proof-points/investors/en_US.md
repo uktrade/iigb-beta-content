@@ -1,7 +1,5 @@
 ---
 title: Investors attracted to the West Midlands
-borderColour: yellow
+link: investors attracted to the West Midlands
 ---
-The West Midlands attracted 151 FDI projects in 2016-17.
-DIT region team
-
+The West Midlands attracted 151 FDI projects in 2016 to 2017.

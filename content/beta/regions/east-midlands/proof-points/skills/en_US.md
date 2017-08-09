@@ -1,11 +1,9 @@
 ---
-title: Skills in the East Midlands
+title: Skills and education
+link: skills and education
 borderColour: turquoise
 ---
-Investors in the East Midlands benefit from a strong skills base:
+Investors in the East Midlands benefit from a strong skills base, including:
 
-
-There are 9 universities in the East Midlands
-
-
-One of the region’s universities, Nottingham, is part of the prestigious Russell Group - 24 UK universities that produce world-class research
+- Nottingham University, part of the prestigious Russell Group - 24 UK universities that produce world-class research
+- 9 universities in total
