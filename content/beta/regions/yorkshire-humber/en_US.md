@@ -1,5 +1,5 @@
 ---
-title: Yorkshire and Humberside
+title: Yorkshire and the Humber
 tagline: A modern, cultured region with enormous potential for growth
 ---
 Strategically located at the heart of the UK, with strong transport links and competitive property prices.
