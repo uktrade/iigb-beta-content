@@ -119,7 +119,7 @@ terms:
 contact:
  de_DE: Kontakt
  en_US: Contact us
- zh_CN: 取得联系
+ zh_CN: 联系我们
  ja_JP: お問い合わせ
  es_ES: Contacto
  pt_BR: Fale conosco
@@ -263,7 +263,7 @@ form_contact_details:
 form_contact_details_nf:
  de_DE: Kontaktangaben
  en_US: Contact information 
- zh_CN: 
+ zh_CN: 联系信息
  ja_JP: 連絡先情報
  es_ES: Información de contacto
  pt_BR: Informações de contato
@@ -281,7 +281,7 @@ form_contact_details_reason:
 form_full_name:
  de_DE: Vollständiger Name
  en_US: Full name
- zh_CN: 您的姓名
+ zh_CN: 全名
  ja_JP: ご氏名
  es_ES: Nombre completo
  pt_BR: Nome completo
@@ -290,7 +290,7 @@ form_full_name:
 form_enter_full_name:
  de_DE: Geben Sie Ihren vollständigen Namen ein
  en_US: Enter your full name
- zh_CN: 请输入您的姓名
+ zh_CN: 输入您的全名
  ja_JP: ご氏名を入力してください
  es_ES: Introduzca su nombre completo
  pt_BR: Insira seu nome completo
@@ -299,7 +299,7 @@ form_enter_full_name:
 form_title:
  de_DE: Position
  en_US: Job title
- zh_CN: Job title
+ zh_CN: 职务
  ja_JP: 役職
  es_ES: Cargo
  pt_BR: Cargo
@@ -308,7 +308,7 @@ form_title:
 form_enter_title:
  de_DE: Position eingeben
  en_US: Enter your job title
- zh_CN: Enter your job title
+ zh_CN: 输入您的职务
  ja_JP: 役職を入力してください。
  es_ES: Introduzca su cargo
  pt_BR: Insira seu cargo
@@ -326,7 +326,7 @@ form_email:
 form_enter_email:
  de_DE: Geben Sie Ihre Emailadresse ein
  en_US: Enter your email address
- zh_CN: 请输入工作电子邮件
+ zh_CN: 输入您的电子邮件地址
  ja_JP: 電子メールアドレスを入力してください
  es_ES: Introduzca su dirección de correo electrónico
  pt_BR: Insira seu endereço de e-mail
@@ -353,7 +353,7 @@ form_enter_valid_phone:
 form_phone:
  de_DE: Arbeits-Telefon (optional)
  en_US: Work phone (optional)
- zh_CN: 工作联系电话(可选填)
+ zh_CN: 工作电话（可选）
  ja_JP: 勤務先の電話番号 (任意)
  es_ES: Número de teléfono de la empresa (opcional)
  pt_BR: Telefone comercial (opcional)
@@ -398,7 +398,7 @@ form_investment:
 form_investment_project:
  de_DE: Angaben zu Ihrer Investition
  en_US: Tell us about your investment
- zh_CN: Tell us about your investment
+ zh_CN: 告知我们您的投资相关信息
  ja_JP: T貴社の投資についてお聞かせください。
  es_ES: Cuéntenos acerca de su inversión
  pt_BR: Conte-nos sobre o seu investimento
@@ -407,7 +407,7 @@ form_investment_project:
 form_enter_investment_details:
  de_DE: Bitte machen Sie Angaben zu Ihren Investitionsplänen in Großbritannien
  en_US: Provide details about your plans to invest in the UK
- zh_CN: Provide details about your plans to invest in the UK
+ zh_CN: 提供与您的英国投资计划有关的详细信息
  ja_JP: 英国への投資計画の詳細を入力してください。
  es_ES: Proporcione detalles sobre sus planes para invertir en el Reino Unido
  pt_BR: Forneça detalhes sobre seus planos para investir no Reino Unido
@@ -416,7 +416,7 @@ form_enter_investment_details:
 form_investment_details: 
  de_DE: Bitte machen Sie Angaben zu Ihrem Unternehmen und zu Ihren Plänen in Bezug auf die Höhe der Investition sowie auf operative Pläne und Pläne bezüglich der Einstellung von Mitarbeitern in Großbritannien. Bitte teilen Sie uns auch mit, welche Hilfe Sie von den britischen Behörden erhalten möchten.
  en_US: Tell us about your company and your plans for the UK in terms of the size of investment, operational and recruitment plans. Please also tell us what help you would like from the UK government.
- zh_CN: Tell us about your company and your plans for the UK in terms of the size of investment, operational and recruitment plans. Please also tell us what help you would like from the UK government.
+ zh_CN: 向我们告知您的公司和您的英国投资计划的相关信息 - 投资规模以及运营和招聘计划。也请向我们告知您希望英国政府为您提供什么帮助。
  ja_JP: 貴社について、および投資の規模、運営、採用計画の観点から英国に対する貴社の計画についてご説明ください。また、英国政府に求めるサポートについてもお聞かせください。
  es_ES: Cuéntenos sobre su empresa y sus planes para el Reino Unido en cuanto a la magnitud de su inversión, sus planes operativos y de contratación. Díganos qué ayuda le gustaría recibir del gobierno británico.
  pt_BR: Conte-nos sobre sua empresa e seus planos para o Reino Unido em termos de tamanho do investimento, planos operacionais e planos de recrutamento. Explique-nos que tipo de ajuda você gostaria de receber do governo do Reino Unido.
@@ -507,7 +507,7 @@ form_annual_turnover:
 form_enter_staff_number:
  de_DE: Wählen Sie die Option, die Ihrer Mitarbeiteranzehl am besten entspricht
  en_US: Select your total number of staff
- zh_CN: 请选择目前工作人员的大概人数
+ zh_CN: 选择您的员工总数
  ja_JP: 貴社の従業員数に最も近い範囲を選択してください
  es_ES: Seleccione el intervalo que más se aproxime a su número de empleados
  pt_BR: Selecione o número total de funcionários
@@ -517,7 +517,7 @@ form_staff_number:
  label:
    de_DE: Geschätzte derzeitige Mitarbeiteranzahl
    en_US: Total current number of staff
-   zh_CN: 目前工作人员估计人数
+   zh_CN: 当前员工总数
    ja_JP: 現在の従業員数 (推定でも構いません)
    es_ES: Número aproximado de personal en la actualidad
    pt_BR: Número total de funcionários atual
@@ -539,10 +539,10 @@ form_staff_number:
    - 51 to 250
    - More than 250
    zh_CN:
-   - 少于 10 人
-   - 10 - 50 人
-   - 50 - 250 人
-   - 超过 250 人
+   - 少于 10
+   - 11到50 
+   - 51到250 
+   - 多于 250 
    ja_JP:
    - 10人未満
    - 10～50人
@@ -979,7 +979,7 @@ form_company_reason:
 form_registered_company:
  de_DE: Eingetragener Firmenname
  en_US: Company name
- zh_CN: 公司注册名称
+ zh_CN: 公司名称
  ja_JP: 正式登録の社名
  es_ES: Nombre registrado de la empresa
  pt_BR: Nome da empresa registado
@@ -988,7 +988,7 @@ form_registered_company:
 form_enter_registered_company:
  de_DE: Geben Sie Ihren eingetragenen Unternehmensnamen ein
  en_US: Enter your company name
- zh_CN: 请输入您的公司注册名称
+ zh_CN: 输入您的公司名称
  ja_JP: 正式登録された会社名を入力してください
  es_ES: Introduzca el nombre registrado de su empresa
  pt_BR: Insira o endereço do site da sua empresa
@@ -1006,7 +1006,7 @@ form_website:
 form_website_nf:
  de_DE: Unternehmenswebseite
  en_US: Company website
- zh_CN: 
+ zh_CN: 公司网站
  ja_JP: 企業ウェブサイト
  es_ES: Website da empresa
  pt_BR: Site da empresa
@@ -1015,7 +1015,7 @@ form_website_nf:
 form_enter_website:
  de_DE: Geben Sie die Internetadresse Ihres Unternehmens ein
  en_US: Enter your company website address
- zh_CN: 请输入您的公司网站地址
+ zh_CN: 输入您的公司网站地址
  ja_JP: 貴社のウェブサイトのアドレスを入力してください
  es_ES: Introduzca la dirección del sitio web de su empresa
  pt_BR: Insira o endereço do site da sua empresa
@@ -1033,7 +1033,7 @@ form_enter_website_nf:
 form_do_not_have_website:
  de_DE: Ich habe keine Webseite
  en_US: I do not have a website 
- zh_CN: 
+ zh_CN: 我没有网站
  ja_JP: ウェブサイトなし
  es_ES: No tengo sitio web
  pt_BR: Eu não tenho um site
@@ -1331,7 +1331,7 @@ form_mailing_list_confirmation:
 form_use_of_info: 
  de_DE: Wir verwenden diese Angaben, um Sie mit Ihrer nächsten britischen Botschaft oder Ihrem nächsten britischen Hochkommissariat in Verbindung zu setzen.
  en_US: We will use this information to put you in touch with your closest British embassy or high commission.
- zh_CN: 
+ zh_CN: 我们将使用此信息来安排您联系最靠近您的英国大使馆或特派使节团。
  ja_JP: この情報をもとに、最も近い場所にある英国大使館または高等弁務官事務所からご連絡を差し上げます。
  es_ES: Utilizaremos esta información para ponerle en contacto con la Embajada o el Alto Comisionado británicos más cercanos.
  pt_BR: Usaremos essas informações para colocar você em contato com sua embaixada britânica ou representante mais próximo.
@@ -1349,7 +1349,7 @@ form_enter_headquarters:
 form_enter_headquarters_nf:
  de_DE: Land eingeben
  en_US: Enter your country
- zh_CN: 
+ zh_CN: 开始键入信息以选择国家/地区。
  ja_JP: 拠点とする国を入力してください。
  es_ES: Introduzca su país
  pt_BR: Insira o país
@@ -1368,7 +1368,7 @@ form_headquarters:
  label:
    de_DE: Hauptsitz ihres Unternehmens
    en_US: Which country are you based in?
-   zh_CN: 公司总部所在国家
+   zh_CN: 您位于哪个国家/地区？
    ja_JP: 国名
    es_ES: País
    pt_BR: País
@@ -3627,7 +3627,7 @@ form_headquarters:
 form_disclaimer:
  de_DE: Mit Absenden Ihrer Daten bestätigen Sie, dass die von Ihnen eingegebenen Daten korrekt sind und stimmen unseren
  en_US: By sending us your details you confirm that the information you've shared with us is true and you accept our
- zh_CN: 发送您的详细信息以后，代表您同意提供的信息是真实并接受
+ zh_CN: 向我们发送您的详细信息，即表明您确认您与我们分享的信息真实有效，且您接受我们
  ja_JP: 情報をご送付いただくことで、当省にご提出いただいた情報が真実であり
  es_ES: Al enviarnos sus datos, usted confirma que la información que nos proporciona es verídica y acepta nuestros 
  pt_BR: Ao enviar seus dados, você confirma que as informações que compartilhou conosco são verdadeiras e aceita nossos
@@ -3636,7 +3636,7 @@ form_disclaimer:
 form_disclaimer_tc:
  de_DE: Nutzungsbedingungen zu.
  en_US: terms and conditions.
- zh_CN: 我们的附带条约。
+ zh_CN: 的条款和条件。
  ja_JP: 当省の利用規約に同意していただいたことをご確認いただくことになりますのでご了解ください。
  es_ES: términos y condiciones.
  pt_BR: termos e condições.
