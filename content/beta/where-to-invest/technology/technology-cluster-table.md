@@ -1,1 +1,1 @@
-Technology businesses are active across the UK and are particularly well-represented in [the West Midlands](/int/here-to-invest/west-midlands), [the South West](/int/here-to-invest/south-west-england) and [the South East](/int/here-to-invest/south-east-england).
+Technology businesses are active across the UK and are particularly well-represented in [the West Midlands](/int/where-to-invest/west-midlands), [the South West](/int/where-to-invest/south-west-england) and [the South East](/int/where-to-invest/south-east-england).

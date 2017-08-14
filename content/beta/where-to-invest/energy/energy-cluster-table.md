@@ -1,1 +1,1 @@
-Energy generation businesses are active across the UK and are particularly well-represented in [the South West](/int/here-to-invest/south-west-england) and [Yorkshire and the Humber](/int/here-to-invest/yorkshire-and-the-humber).
+Energy generation businesses are active across the UK and are particularly well-represented in [the South West](/int/where-to-invest/south-west-england) and [Yorkshire and the Humber](/int/where-to-invest/yorkshire-and-the-humber).
