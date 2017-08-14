@@ -1,3 +1,1 @@
----
-strong_regions: [the West Midlands](/int/here-to-invest/west-midlands) and [the North East](/int/here-to-invest/north-east-england).
----
+Automotive businesses are active across the UK and are particularly well-represented in [the West Midlands](/int/here-to-invest/west-midlands) and [the North East](/int/here-to-invest/north-east-england).
