@@ -1,4 +1,4 @@
 ---
 source: Mark Gregory, Chief Economist, EY
 ---
-"Leading the way is the north west"
+Leading the way is the north west"
