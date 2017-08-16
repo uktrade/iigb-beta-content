@@ -1,3 +1,1 @@
----
-strong_regions: the South West and Yorkshire and the Humber.
----
+Energy generation businesses are active across the UK and are particularly well-represented in [the South West](/int/where-to-invest/south-west-england) and [Yorkshire and the Humber](/int/where-to-invest/yorkshire-and-the-humber).

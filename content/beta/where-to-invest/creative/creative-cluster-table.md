@@ -1,3 +1,1 @@
----
-strong_regions: the South West and the South East.
----
+Creative businesses are active across the UK and are particularly well-represented in [the South West](/int/where-to-invest/south-west-england) and [the South East](/int/where-to-invest/south-east-england).

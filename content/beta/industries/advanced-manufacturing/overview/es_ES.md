@@ -1,7 +1,3 @@
----
-title: "Resumen sobre fabricación avanzada"
----
-
 Las empresas del Reino Unido dedicarán más de 90 000 millones de libras a productos para apoyar el sector de la fabricación avanzada en 2017, lo que convierte al país en una opción atractiva para los inversores extranjeros.
 
 Entre 2005 y 2015, la productividad del sector de la fabricación ha crecido tres veces más rápido que el resto de la economía del Reino Unido en conjunto. 

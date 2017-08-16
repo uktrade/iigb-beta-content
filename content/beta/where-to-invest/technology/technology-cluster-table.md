@@ -1,3 +1,1 @@
----
-strong_regions: the West Midlands, the South West and the South East.
----
+Technology businesses are active across the UK and are particularly well-represented in [the West Midlands](/int/where-to-invest/west-midlands), [the South West](/int/where-to-invest/south-west-england) and [the South East](/int/where-to-invest/south-east-england).

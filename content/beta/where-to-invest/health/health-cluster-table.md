@@ -1,3 +1,1 @@
----
-strong_regions: the East of England, the South East and the North West.
----
+Health and life sciences businesses are active across the UK and are particularly well-represented in the [East of England](/int/where-to-invest/east-of-england), [the South East](/int/where-to-invest/south-east-england) and the [North West](/int/where-to-invest/north-west-england).
