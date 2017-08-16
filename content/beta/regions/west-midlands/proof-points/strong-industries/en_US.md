@@ -1,11 +1,10 @@
 ---
-title: Strong industries for investment in the West Midlands
-borderColour: red
+title: Strong industries for investment
+link: strong industries for investment
 ---
-Famed for its large-scale brewing industry, chocolate manufacturing as well as the world’s biggest cider factory.
+The West Midlands is strong in a number of sectors:
 
 
-The region offers the largest business, professional and financial services hub in the UK with £10.5 billion and has one of the largest insurance markets in Europe consisting of many niche and bespoke organisations.
-
-
-The West Midlands has one of largest clinical trials’ portfolios in Europe. There are 600 medical technology companies, more than any other UK region.
+- financial services - the West Midlands is home to the largest business, professional and financial services hub in the UK, worth 10.5 billion GBP, and has one of the largest insurance markets in Europe 
+- food and drink - the West Midlands is home to the world’s biggest cider factory and is famed for a large-scale brewing industry as well as chocolate manufacturing
+- health and life sciences - the West Midlands is home to 600 medical technology companies, more than any other UK region, and has one of the largest clinical trials’ portfolios in Europe

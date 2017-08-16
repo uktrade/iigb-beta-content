@@ -1,5 +1,11 @@
 ---
-title: Research and development in the South West
-borderColour: turquoise
+title: Research and development
+link: research and development
 ---
-The South West region has 13 universities including Bristol, Bath and Exeter, as well as the National Composites Centre and the Bristol Robotics Lab.
+Investors in the South West benefit from strong R&D facilities, including:
+
+
+- the National Nuclear College
+- the National Composites Centre
+- the Bristol Robotics lab
+- Wavehub test sites for wave and tidal energy

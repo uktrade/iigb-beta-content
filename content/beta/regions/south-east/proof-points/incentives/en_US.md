@@ -1,9 +1,9 @@
 ---
-title: Incentives to invest in the South East
+title: Incentives to invest
+link: incentives to invest
 borderColour: purple
 ---
-Discounted business rates and simplified planning processes are available in enterprise zones. The South East has 7 enterprise zones, including:
+The South East has 7 areas where discounted business rates and simplified planning processes apply. These include: 
 
-
-- North Kent enterprise zone, which offers business rate discounts worth up to £275,000
-- M3 enterprise zone, which has £21.7 million available to help support economic growth
+- locations in north Kent, where you can receive rate discounts worth up to 275,000 GBP
+- M3 enterprise zone, which has 21.7 million GBP available to help support economic growth

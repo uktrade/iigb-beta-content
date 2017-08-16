@@ -1,5 +1,5 @@
 ---
 title: Investors attracted to Wales
-borderColour: yellow
+link: investors attracted to Wales
 ---
-Over 700 multinational companies thrive in Wales and including Ford, Toyota, Airbus, GE, Dow Corning, Panasonic.
+Over 700 multinational companies thrive in Wales, including Ford, Toyota, Airbus, GE, Dow Corning and Panasonic.

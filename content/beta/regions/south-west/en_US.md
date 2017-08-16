@@ -1,11 +1,11 @@
 ---
 title: The South West
-tagline: Innovation on land, sea or air
+tagline: Innovation on land, sea and air
 ---
-The South West is the UK's largest region with more than 250,000 businesses.
+The UK's largest region, with more than 250,000 businesses.
 
 
-Costs in the South West are significantly lower than London, while a large and skilled workforce is drawn from the region’s exceptional academic institutions.
+Internationally recognized in the aerospace, creative services, technology and marine sectors.
 
 
-The region is internationally recognized in the aerospace, creative services, technology and marine sectors.
+A large and skilled workforce, with significantly lower costs than in London.

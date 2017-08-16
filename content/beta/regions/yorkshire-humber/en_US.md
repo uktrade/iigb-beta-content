@@ -1,11 +1,11 @@
 ---
-title: Yorkshire and Humberside
+title: Yorkshire and the Humber
 tagline: A modern, cultured region with enormous potential for growth
 ---
-Yorkshire and Humberside is strategically located at the heart of the UK. Strong transport links, competitive property prices, high quality of life and diverse cultural offer, make it an attractive place in which to live, work and invest.
+Strategically located at the heart of the UK, with strong transport links and competitive property prices.
 
 
-The region is more than just a vibrant economy to strengthen global businesses: it’s a modern, inspiring place to live and build great lives and great businesses here.
+Over 178,000 companies in the region, generating 6.6% of the UK's total economic output.
 
 
-There are more than 178,000 companies here, generating 6.6% of the UK's total economic output of £110 billion.
+Part of the Northern Powerhouse, an area with a GDP of almost 350 billion GBP and home to over one million private businesses.

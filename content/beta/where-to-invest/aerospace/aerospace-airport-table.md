@@ -28,7 +28,7 @@ table_rows:
    cell6: 6
    cell7: 0
    link: south-east-england
-   displayName: South East England
+   displayName: the South East
  - mapIndicator: C
    cell1: Manchester
    cell2: 11
@@ -38,7 +38,7 @@ table_rows:
    cell6: 9
    cell7: 0
    link: north-west-england
-   displayName: North West England
+   displayName: the North West
  - mapIndicator: D
    cell1: Stansted
    cell2: 5
@@ -78,7 +78,7 @@ table_rows:
    cell6: 2
    cell7: 0
    link: west-midlands
-   displayName: West Midlands
+   displayName: the West Midlands
  - mapIndicator:
    cell1: Glasgow International
    cell2: 12
@@ -98,7 +98,7 @@ table_rows:
    cell6: 1
    cell7: 0
    link: south-west-england
-   displayName: South West England
+   displayName: the South West
  - mapIndicator:
    cell1: Newcastle
    cell2: 7
@@ -108,7 +108,7 @@ table_rows:
    cell6: 1
    cell7: 0
    link: north-east-england
-   displayName: North East England
+   displayName: the North East
  - mapIndicator:
    cell1: East Midlands
    cell2: 6
@@ -118,7 +118,7 @@ table_rows:
    cell6: 0
    cell7: 0
    link: east-midlands
-   displayName: East Midlands
+   displayName: the East Midlands
  - mapIndicator:
    cell1: Belfast International
    cell2: 10
@@ -138,7 +138,7 @@ table_rows:
    cell6: 1
    cell7: 0
    link: north-west-england
-   displayName: North West England
+   displayName: the North West
  - mapIndicator:
    cell1: London City
    cell2: 8
@@ -188,7 +188,7 @@ table_rows:
    cell6: 0
    cell7: 0
    link: south-east-england
-   displayName: South East England
+   displayName: the South East
  - mapIndicator:
    cell1: Cardiff International
    cell2: 4

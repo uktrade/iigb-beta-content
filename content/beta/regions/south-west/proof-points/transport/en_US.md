@@ -1,8 +1,10 @@
 ---
-title: Transport infrastructure in the South West
-borderColour: blue
+title: Transport infrastructure
+link: transport infrastructure
 ---
-Train travel from Bristol to London takes 90 minutes and Bristol International Airport serves 140 destinations. Flights from Cornwall to London Gatwick take less than an hour. 
+Transport options in the South West include:
 
 
-There are 7 major ports in the South West, including the port of Bristol which offers proximity to 67% of the UK population.
+- Bristol International Airport, serving 140 destinations - flights from Cornwall to London take less than an hour 
+- trains connecting you to London in 90 minutes (Bristol Temple Meads to London Paddington) 
+- 7 major ports, including the Port of Bristol which has 67% of the UK population within a 250km radius

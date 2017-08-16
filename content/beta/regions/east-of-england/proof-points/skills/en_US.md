@@ -1,7 +1,7 @@
 ---
-title: Workforce and skills
-link: Workforce and skills
+title: Skills and education
+link: skills and education
 borderColour: turquoise
 ---
-Home to Cambridge University, the highest-ranked university in Europe and the fifth highest in the world.  
-QS World University Rankings 2018
+The East of England is home to Cambridge University, the highest-ranked university in Europe and the fifth highest in the world.  
+<div class="region--small-text"><p>QS World University Rankings 2018</p></div>
