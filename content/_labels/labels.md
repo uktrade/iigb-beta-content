@@ -4471,4 +4471,22 @@ mapOf:
    pt_BR: ''
    pt_INT: ''
    ar_SA: ''
+show_cities:
+   de_DE: ''
+   en_US: 'Show cities'
+   zh_CN: ''
+   ja_JP: ''
+   es_ES: ''
+   pt_BR: ''
+   pt_INT: ''
+   ar_SA: ''
+hide_cities:
+   de_DE: ''
+   en_US: 'Hide cities'
+   zh_CN: ''
+   ja_JP: ''
+   es_ES: ''
+   pt_BR: ''
+   pt_INT: ''
+   ar_SA: ''
 ---
