@@ -1,7 +1,6 @@
 ---
 title: Investors attracted to the North East
 link: investors attracted to the North East
-borderColour: yellow
 ---
 The North East combines growth in the knowledge economy with strength in traditional industries:
 

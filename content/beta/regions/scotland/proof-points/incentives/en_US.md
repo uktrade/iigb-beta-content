@@ -1,9 +1,9 @@
 ---
 title: Incentives to invest
 link: incentives to invest
-borderColour: purple
 ---
 Scotland provides strong incentives to investors, including: 
+
 
 - grants for eligible investors supporting capital and salary costs
 - research grants for eligible investors, worth up to 100,000 GBP for feasibility studies and up to 600,000 GBP for research and development

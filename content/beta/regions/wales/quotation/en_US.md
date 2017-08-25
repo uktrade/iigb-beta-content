@@ -1,4 +1,4 @@
 ---
-source: Andy Smith, Freudenberg Oil and Gas
+source: Steve Thomas, Government Affairs Executive, Airbus
 ---
-We’ve never had a problem recruiting good people and we have good transport links. Add to that the support shown by Welsh Government – they were all very significant factors in Freudenberg investing in the business here.”
+Wales offers exactly what Airbus requires in terms of  infrastructure, surrounding locality, skilled workforce and facilities.”
