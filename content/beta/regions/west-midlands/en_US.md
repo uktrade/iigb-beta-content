@@ -2,7 +2,7 @@
 title: The West Midlands
 tagline: The home of industry
 ---
-Home to Britain’s second city, Birmingham, and the birthplace of industry.
+Home to Britain’s second city, Birmingham.
 
 
 The ideal location for access to a skilled, efficient workforce and a high quality supply chain.
