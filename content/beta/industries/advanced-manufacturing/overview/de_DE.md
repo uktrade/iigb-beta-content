@@ -1,3 +1,7 @@
+---
+title: "Übersicht über fortgeschrittene Fertigungstechnologien"
+---
+
 Im Jahr 2017 werden britische Unternehmen über 90 Milliarden GBP für Produkte zur Unterstützung der fortgeschrittenen Fertigungsindustrie ausgeben und Großbritannien damit zu einem attraktiven Ziel für ausländische Investoren machen.
 
 Zwischen 2005 und 2015 wuchs die Fertigungskapazität dreimal schneller als der Rest der britischen Wirtschaft insgesamt.

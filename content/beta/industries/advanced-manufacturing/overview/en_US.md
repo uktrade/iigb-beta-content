@@ -1,3 +1,7 @@
+---
+title: "An overview of advanced manufacturing in the UK"
+---
+
 Between 2005 and 2015, manufacturing productivity grew 3 times faster than the rest of the UK’s economy as a whole.
 
 The industry is currently made up of over 90,000 companies and employs 2.7 million people according to the Engineering and Employers Federation.
