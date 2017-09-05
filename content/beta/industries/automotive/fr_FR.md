@@ -1,4 +1,4 @@
 ---
-title: "Secteur automobile au Royaume-Uni"
+title: "Automobile"
 ---
-Depuis 2009, l'industrie automobile du Royaume-Uni connaît globalement la croissance la plus rapide d'Europe occidentale. Cela est dû à une demande croissante pour les voitures fabriquées au Royaume-Uni et à un environnement commercial favorable.
+L'industrie automobile britannique est celle qui enregistre la croissance la plus rapide en Europe occidentale, et les fabricants souhaitent se procurer davantage de composants au sein même du Royaume-Uni. Le secteur a pour objectif d'accroître les dépenses consacrées aux composants britanniques de 4 milliards de livres sterling par an.
