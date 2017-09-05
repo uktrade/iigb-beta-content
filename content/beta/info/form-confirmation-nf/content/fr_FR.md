@@ -11,4 +11,3 @@ linkLabel: Veuillez cliquer ici pour aller à la page d'accueil
 ---
 
 Quelle est la prochaine étape ?
-
