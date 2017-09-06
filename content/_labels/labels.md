@@ -1,5 +1,6 @@
 ---
 watch_video:
+ fr_FR: Regardez la vidéo
  de_DE: Video ansehen
  en_US: Watch video
  zh_CN: 观看视频
@@ -9,6 +10,7 @@ watch_video:
  pt_INT: Ver vídeo
  ar_SA: مشاهدة الفيديو
 close_video:
+ fr_FR: Appuyez sur Échap. pour fermer la vidéo
  de_DE: Drücken Sie Escape, um Video zu schließen
  en_US: Press Escape to close video
  zh_CN: 按Escape关闭视频
@@ -18,6 +20,7 @@ close_video:
  pt_INT: Pressione Escape para fechar o vídeo
  ar_SA: اضغط على إسكيب لإغلاق الفيديو
 search:
+ fr_FR: Rechercher
  de_DE: Suche
  en_US: Search
  zh_CN: 搜索
@@ -27,6 +30,7 @@ search:
  pt_INT: Pesquisa
  ar_SA: الأبحاث
 search_close:
+ fr_FR: Fermer la recherche
  de_DE: Suche Schließen
  en_US: Close search
  zh_CN: 关闭
@@ -36,6 +40,7 @@ search_close:
  pt_INT: Fechar
  ar_SA: 
 no_results:
+ fr_FR: Aucun résultat trouvé pour
  de_DE: Keine Ergebnisse für
  en_US: No results found for
  zh_CN: 没有你的搜寻结果，你的搜寻项目是
@@ -45,6 +50,7 @@ no_results:
  pt_INT: ''
  ar_SA: 
 search_error:
+ fr_FR: Une erreur est survenue. Veuillez contacter votre administrateur
  de_DE: Ein Fehler ist aufgetreten. Bitte melden sie ihn
  en_US: An error has occurred. Please contact your administrator
  zh_CN: An error has occurred. Please contact your administrator
@@ -54,6 +60,7 @@ search_error:
  pt_INT: An error has occurred. Please contact your administrator
  ar_SA: 
 on_this_page:
+ fr_FR: Sur cette page
  de_DE: Auf dieser Seite
  en_US: On this page
  zh_CN: 本页包括
@@ -72,6 +79,7 @@ pre_word:
  pt_INT: ''
  ar_SA: 
 post_word:
+ fr_FR: sous-secteurs
  de_DE: branche
  en_US: sub sectors
  zh_CN: 分属部门
@@ -81,6 +89,7 @@ post_word:
  pt_INT: ''
  ar_SA: 
 setup_guide:
+ fr_FR: Guide d'installation au Royaume-Uni
  de_DE: Leitfaden Unternehmensgründung
  en_US: UK setup guide
  zh_CN: 英国创业指南
@@ -90,6 +99,7 @@ setup_guide:
  pt_INT: Guia para estabelecer no Reino Unido
  ar_SA: دليل تأسيس الشركات في المملكة المتحدة
 home:
+ fr_FR: Accueil
  de_DE: Startseite
  en_US: Home
  zh_CN: 首页
@@ -99,6 +109,7 @@ home:
  pt_INT: Início
  ar_SA: الرئيسية
 privacy:
+ fr_FR: Confidentialité et cookies
  de_DE: Datenschutz und Cookies
  en_US: Privacy and cookies
  zh_CN: 隐私和Cookie政策
@@ -108,6 +119,7 @@ privacy:
  pt_INT: Privacidade e cookies
  ar_SA: الخصوصية وملفات تعريف الارتباط
 terms:
+ fr_FR: Conditions générales
  de_DE: AGB
  en_US: Terms and conditions
  zh_CN: 条款与条件
@@ -117,6 +129,7 @@ terms:
  pt_INT: Termos e condições
  ar_SA: الشروط والأحكام
 contact:
+ fr_FR: Contactez-nous
  de_DE: Kontakt
  en_US: Contact us
  zh_CN: 联系我们
@@ -126,6 +139,7 @@ contact:
  pt_INT: Contacte-nos
  ar_SA: الاتصال بنا
 industries:
+ fr_FR: Industries
  de_DE: Branchen
  en_US: Industries
  zh_CN: 行业
@@ -135,6 +149,7 @@ industries:
  pt_INT: Indústrias
  ar_SA: الصناعات
 industry_overviews:
+ fr_FR: Présentations des industries
  de_DE: Industry overviews:DE
  en_US: Industry overviews
  zh_CN: Industry overviews:CN
@@ -144,6 +159,7 @@ industry_overviews:
  pt_INT: Industry overviews:BR
  ar_SA: 
 industry_overviews_intro:
+ fr_FR: Informations détaillées sur les secteurs industriels du Royaume-Uni et les spécialités associées
  de_DE: Find high level information about your industry sector including success stories from other companies we have worked with:DE
  en_US: High level information about UK industry sectors and associated specialisms
  zh_CN: Find high level information about your industry sector including success stories from other companies we have worked with:CN
@@ -153,6 +169,8 @@ industry_overviews_intro:
  pt_INT: Find high level information about your industry sector including success stories from other companies we have worked with:BR
  ar_SA: 
 industries_intro:
+ fr_FR: Informations sur la spécialité industrielle dans laquelle votre société exerce ses activités, y compris
+   les conditions du marché et les mesures incitatives
  de_DE: Find specific information about the industry your company operates in, including market conditions and incentives:DE
  en_US: Information about the industry specialism your company operates in, including market conditions and incentives
  zh_CN: Find specific information about the industry your company operates in, including market conditions and incentives:CN
@@ -162,6 +180,7 @@ industries_intro:
  pt_INT: Find specific information about the industry your company operates in, including market conditions and incentives:BR
  ar_SA: 
 great_british_industries:
+ fr_FR: Industries du Royaume-Uni
  de_DE: Bedeutende britische Industriezweige
  en_US: UK industries
  zh_CN: 英国的产业
@@ -171,6 +190,7 @@ great_british_industries:
  pt_INT: Indústrias da Grã-Bretanha
  ar_SA: الصناعات في بريطانيا العظمى
 post_strengths:
+ fr_FR: industries
  de_DE: Branchen
  en_US: industries
  zh_CN: 行业
@@ -180,6 +200,7 @@ post_strengths:
  pt_INT: Indústrias
  ar_SA: 
 related_industries:
+ fr_FR: Industries connexes
  de_DE: Relevante Branchen
  en_US: Related industries
  zh_CN: 相关行业
@@ -189,6 +210,7 @@ related_industries:
  pt_INT: Indústrias relacionadas
  ar_SA: 
 discover:
+ fr_FR: En savoir plus
  de_DE: Entdecken Sie mehr
  en_US: Discover more
  zh_CN: 了解更多信息
@@ -198,6 +220,7 @@ discover:
  pt_INT: Saiba mais
  ar_SA: معرفة المزيد
 please_select:
+ fr_FR: Sélectionner
  de_DE: Bitte auswählen
  en_US: Select
  zh_CN: 选择
@@ -207,6 +230,7 @@ please_select:
  pt_INT: Selecionar
  ar_SA: 
 'yes':
+ fr_FR: Oui
  de_DE: Ja
  en_US: 'Yes'
  zh_CN: 是
@@ -216,6 +240,7 @@ please_select:
  pt_INT: Sim
  ar_SA: نعم
 'no':
+ fr_FR: Non
  de_DE: Nein
  en_US: 'No'
  zh_CN: 否
@@ -225,6 +250,7 @@ please_select:
  pt_INT: Não
  ar_SA: لا
 form_next:
+ fr_FR: Prochain
  de_DE: Weiter
  en_US: Next
  zh_CN: 下一步
@@ -234,6 +260,7 @@ form_next:
  pt_INT: Próximo
  ar_SA: التالي
 form_previous:
+ fr_FR: Précédent
  de_DE: Zurück
  en_US: Previous
  zh_CN: 上一步
@@ -243,6 +270,7 @@ form_previous:
  pt_INT: Anterior
  ar_SA: السابق
 form_submit:
+ fr_FR: Envoyer
  de_DE: Absenden
  en_US: Send
  zh_CN: 送出
@@ -252,6 +280,7 @@ form_submit:
  pt_INT: Enviar
  ar_SA: إرسال
 form_contact_details:
+ fr_FR: Vos coordonnées
  de_DE: Ihre Kontaktdaten
  en_US: Your contact details
  zh_CN: 您的联系方式
@@ -261,6 +290,7 @@ form_contact_details:
  pt_INT: Os seus dados de contacto
  ar_SA: بيانات الاتصال
 form_contact_details_nf:
+ fr_FR: Informations de contact 
  de_DE: Kontaktangaben
  en_US: Contact information 
  zh_CN: 联系信息
@@ -270,6 +300,7 @@ form_contact_details_nf:
  pt_INT: Informações de contacto
  ar_SA: معلومات جهة الاتصال
 form_contact_details_reason:
+ fr_FR: Nous les utiliserons pour vous mettre en contact avec votre bureau local
  de_DE: Wir benötigen diese um Sie mit Ihrem Ansprechpartner vor Ort in Verbindung zu setzen
  en_US: We will use these to put you in touch with your local office
  zh_CN: 我们将会把您的联系方式交给当地的地办事处。
@@ -279,6 +310,7 @@ form_contact_details_reason:
  pt_INT: Iremos utilizá-los para o/a colocar em contacto com o escritório local
  ar_SA: سوف نستخدم هذه البيانات لإبقائكم على اتصال مع مكتبكم المحلي
 form_full_name:
+ fr_FR: Nom complet
  de_DE: Vollständiger Name
  en_US: Full name
  zh_CN: 全名
@@ -288,6 +320,7 @@ form_full_name:
  pt_INT: Nome completo
  ar_SA: الاسم الكامل
 form_enter_full_name:
+ fr_FR: Indiquez votre nom complet
  de_DE: Geben Sie Ihren vollständigen Namen ein
  en_US: Enter your full name
  zh_CN: 输入您的全名
@@ -297,6 +330,7 @@ form_enter_full_name:
  pt_INT: Introduza o seu nome completo
  ar_SA: أدخل اسمك بالكامل
 form_title:
+ fr_FR: Poste
  de_DE: Position
  en_US: Job title
  zh_CN: 职务
@@ -306,6 +340,7 @@ form_title:
  pt_INT: Cargo
  ar_SA: المسمى الوظيفي
 form_enter_title:
+ fr_FR: Indiquez l'intitulé de votre poste
  de_DE: Position eingeben
  en_US: Enter your job title
  zh_CN: 输入您的职务
@@ -315,6 +350,7 @@ form_enter_title:
  pt_INT: Introduza o seu cargo
  ar_SA: ادخل المسمى الوظيفي الخاص بك
 form_email:
+ fr_FR: E-mail de travail
  de_DE: Arbeits-E-Mail
  en_US: Work email
  zh_CN: 工作电子邮件
@@ -324,6 +360,7 @@ form_email:
  pt_INT: E-mail - Trabalho
  ar_SA: البريد الإلكتروني للعمل
 form_enter_email:
+ fr_FR: Indiquez votre adresse e-mail
  de_DE: Geben Sie Ihre Emailadresse ein
  en_US: Enter your email address
  zh_CN: 输入您的电子邮件地址
@@ -333,6 +370,7 @@ form_enter_email:
  pt_INT: Introduza o seu endereço de e-mail
  ar_SA: أدخل عنوان بريدك الإلكتروني
 form_enter_valid_email:
+ fr_FR: Indiquez votre adresse e-mail dans le format approprié, par exemple nom@domaine.com
  de_DE: Geben Sie Ihre Email im richtigen Format ein, z.B. name@domain.de
  en_US: Enter your email in the correct format, for example name@domain.com
  zh_CN: 請以正确的格式输入您的电子邮件，例如name@domain.com
@@ -342,6 +380,7 @@ form_enter_valid_email:
  pt_INT: Introduza o seu e-mail no formato correto, por exemplo nome@domínio.com
  ar_SA: "أدخل بريدك الإلكتروني بالتنسيق الصحيح، على سبيل المثال: name@domain.com"
 form_enter_valid_phone:
+ fr_FR: Ajoutez l'indicatif international
  de_DE: Bitte geben Sie eine gültige Telefonnummer ein
  en_US: Please include your international dialling code
  zh_CN: 请输入有效的电话号码
@@ -351,6 +390,7 @@ form_enter_valid_phone:
  pt_INT: Por favor, coloque um numero de telefone válido
  ar_SA: يُرجى إدخال رقم هاتف صحيح
 form_phone:
+ fr_FR: Téléphone de travail (facultatif)
  de_DE: Arbeits-Telefon (optional)
  en_US: Work phone (optional)
  zh_CN: 工作电话（可选）
@@ -360,6 +400,7 @@ form_phone:
  pt_INT: Telefone - Trabalho (opcional)
  ar_SA: هاتف العمل (اختياري)
 form_enter_phone:
+ 
  de_DE: Enter your telephone number
  en_US: Enter your telephone number
  zh_CN: Enter your telephone numbe
@@ -369,6 +410,7 @@ form_enter_phone:
  pt_INT: Enter your telephone number
  ar_SA: Enter your telephone number
 form_city:
+ 
  de_DE: Stadt, in der Sie derzeit wohnen
  en_US: Closest city to your current business location
  zh_CN: 您目前居住城市
@@ -378,6 +420,7 @@ form_city:
  pt_INT: Cidade mais próxima da localização atual da sua empresa
  ar_SA: أقرب مدينة لمكان عملك الحالي
 form_enter_city:
+ 
  de_DE: Geben Sie die Stadt, in der Sie derzeit wohnen, ein
  en_US: Enter the closest city to your current business location
  zh_CN: 请输入您目前居住城市
@@ -387,6 +430,7 @@ form_enter_city:
  pt_INT: Introduza a cidade mais próxima da localização atual da sua empresa
  ar_SA: أدخل أقرب مدينة لمكان عملك الحالي
 form_investment:
+ 
  de_DE: Ihre Investition
  en_US: Your investment
  zh_CN: 您的投资
@@ -396,6 +440,7 @@ form_investment:
  pt_INT: O seu investimento
  ar_SA: استثمارك
 form_investment_project:
+ 
  de_DE: Angaben zu Ihrer Investition
  en_US: Tell us about your investment
  zh_CN: 告知我们您的投资相关信息
@@ -405,6 +450,7 @@ form_investment_project:
  pt_INT: Fale-nos sobre o seu investimento
  ar_SA: أخبرنا عن الاستثمار الذي تريد القيام به
 form_enter_investment_details:
+ 
  de_DE: Bitte machen Sie Angaben zu Ihren Investitionsplänen in Großbritannien
  en_US: Provide details about your plans to invest in the UK
  zh_CN: 提供与您的英国投资计划有关的详细信息
