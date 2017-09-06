@@ -400,7 +400,7 @@ form_phone:
  pt_INT: Telefone - Trabalho (opcional)
  ar_SA: هاتف العمل (اختياري)
 form_enter_phone:
- 
+ fr_FR: Indiquez votre numéro de téléphone
  de_DE: Enter your telephone number
  en_US: Enter your telephone number
  zh_CN: Enter your telephone numbe
@@ -410,7 +410,7 @@ form_enter_phone:
  pt_INT: Enter your telephone number
  ar_SA: Enter your telephone number
 form_city:
- 
+ fr_FR: Ville la plus proche de votre lieu de travail actuel
  de_DE: Stadt, in der Sie derzeit wohnen
  en_US: Closest city to your current business location
  zh_CN: 您目前居住城市
@@ -420,7 +420,7 @@ form_city:
  pt_INT: Cidade mais próxima da localização atual da sua empresa
  ar_SA: أقرب مدينة لمكان عملك الحالي
 form_enter_city:
- 
+ fr_FR: Indiquez la ville la plus proche de votre lieu de travail actuel
  de_DE: Geben Sie die Stadt, in der Sie derzeit wohnen, ein
  en_US: Enter the closest city to your current business location
  zh_CN: 请输入您目前居住城市
@@ -430,7 +430,7 @@ form_enter_city:
  pt_INT: Introduza a cidade mais próxima da localização atual da sua empresa
  ar_SA: أدخل أقرب مدينة لمكان عملك الحالي
 form_investment:
- 
+ fr_FR: Votre investissement
  de_DE: Ihre Investition
  en_US: Your investment
  zh_CN: 您的投资
@@ -440,7 +440,7 @@ form_investment:
  pt_INT: O seu investimento
  ar_SA: استثمارك
 form_investment_project:
- 
+ fr_FR: Parlez-nous de votre investissement
  de_DE: Angaben zu Ihrer Investition
  en_US: Tell us about your investment
  zh_CN: 告知我们您的投资相关信息
