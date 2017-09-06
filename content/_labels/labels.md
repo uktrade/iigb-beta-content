@@ -1740,6 +1740,256 @@ form_headquarters:
    '246': South Africa
    '247': Zambia
    '248': Zimbabwe
+   fr_FR:
+   - Andorre
+   - Émirats Arabes Unis
+   - Afghanistan
+   - Antigua-et-Barbuda
+   - Anguilla
+   - Albanie
+   - Arménie
+   - Angola
+   - Antarctique
+   - Argentine
+   - Samoa américaines
+   - Autriche
+   - Australie
+   - Aruba
+   - Îles Åland
+   - Azerbaïdjan
+   - Bosnie Herzégovine
+   - Barbade
+   - Bangladesh
+   - Belgique
+   - Burkina Faso
+   - Bulgarie
+   - Bahreïn
+   - Burundi
+   - Bénin
+   - Saint-Barthélemy
+   - Bermudes
+   - Brunei Darussalam
+   - Bolivie
+   - Bonaire
+   - Brésil
+   - Bahamas
+   - Bhoutan
+   - Île de Bouvet
+   - Botswana
+   - Biélorussie
+   - Belize
+   - Canada
+   - Îles Cocos (Keeling)
+   - Congo, République démocratique du
+   - République centrafricaine
+   - Congo
+   - Suisse
+   - Côte d'Ivoire
+   - Îles Cook
+   - Chili
+   - Cameroun
+   - Chine
+   - Colombie
+   - Costa Rica
+   - Cuba
+   - Cap-Vert
+   - Curaçao
+   - Île Christmas
+   - Chypre
+   - République Tchèque
+   - Allemagne
+   - Djibouti
+   - Danemark
+   - Dominique
+   - République Dominicaine
+   - Algérie
+   - Équateur
+   - Estonie
+   - Égypte
+   - Sahara occidental
+   - Érythrée
+   - Espagne
+   - Éthiopie
+   - Finlande
+   - Fidji
+   - Îles Malouines
+   - Micronésie, États fédérés de
+   - Îles Féroé
+   - France
+   - Gabon
+   - Royaume-Uni
+   - Grenade
+   - Géorgie
+   - Guinée Française
+   - Guernesey
+   - Ghana
+   - Gibraltar
+   - Groenland
+   - Gambie
+   - Guinée
+   - Guadeloupe
+   - Guinée équatoriale
+   - Grèce
+   - Géorgie du Sud-et-les Îles Sandwich du Sud
+   - Guatemala
+   - Guam
+   - Guinée-Bissau
+   - Guyana
+   - Hong Kong
+   - Îles Heard-et-MacDonald
+   - Honduras
+   - Croatie
+   - Haïti
+   - Hongrie
+   - Indonésie
+   - Irlande
+   - Israël
+   - Île de Man
+   - Inde
+   - Territoire britannique de l'océan Indien
+   - Irak
+   - Iran, République islamique d'
+   - Islande
+   - Italie
+   - Jersey
+   - Jamaïque
+   - Jordanie
+   - Japon
+   - Kenya
+   - Kirghizistan
+   - Cambodge
+   - Kiribati
+   - Comores
+   - Saint-Christophe-et-Niévès
+   - République Populaire Démocratique de Corée
+   - Corée, République de
+   - Koweït
+   - Îles Caïmans
+   - Kazakhstan
+   - République démocratique populaire lao
+   - Liban
+   - Sainte-Lucie
+   - Liechtenstein
+   - Sri Lanka
+   - Liberia
+   - Lesotho
+   - Lituanie
+   - Luxembourg
+   - Lettonie
+   - Jamahiriya arabe libyenne
+   - Maroc
+   - Monaco
+   - Moldavie, République de
+   - Monténégro
+   - Saint-Martin
+   - Madagascar
+   - Îles Marshall
+   - Macédoine, ancienne république yougoslave de
+   - Mali
+   - Myanmar
+   - Mongolie
+   - Macao
+   - Îles Mariannes du Nord
+   - Martinique
+   - Mauritanie
+   - Montserrat
+   - Malte
+   - Maurice
+   - Maldives
+   - Malawi
+   - Mexique
+   - Malaisie
+   - Mozambique
+   - Namibie
+   - Nouvelle Calédonie
+   - Niger
+   - Île de Norfolk
+   - Nigeria
+   - Nicaragua
+   - Pays-Bas
+   - Norvège
+   - Népal
+   - Nauru
+   - Niue
+   - Nouvelle-Zélande
+   - Oman
+   - Panama
+   - Pérou
+   - Polynésie française
+   - Papouasie Nouvelle Guinée
+   - Philippines
+   - Pakistan
+   - Pologne
+   - Saint-Pierre-et-Miquelon
+   - Pitcairn
+   - Porto Rico
+   - Territoires palestiniens occupés
+   - Portugal
+   - Palau
+   - Paraguay
+   - Qatar
+   - Réunion
+   - Roumanie
+   - Serbie
+   - Fédération de Russie
+   - Rwanda
+   - Arabie Saoudite
+   - Îles Salomon
+   - Seychelles
+   - Soudan
+   - Suède
+   - Singapour
+   - Sainte-Hélène
+   - Slovénie
+   - Svalbard et Jan Mayen
+   - Slovaquie
+   - Sierra Leone
+   - Saint-Marin
+   - Sénégal
+   - Somalie
+   - Suriname
+   - Soudan du Sud
+   - Sao Tomé-et-Principe
+   - Salvador
+   - Saint-Martin
+   - République arabe syrienne
+   - Swaziland
+   - Îles Turques-et-Caïques
+   - Tchad
+   - Territoires du Sud français
+   - Togo
+   - Thaïlande
+   - Tadjikistan
+   - Tokélaou
+   - Timor oriental
+   - Turkménistan
+   - Tunisie
+   - Tonga
+   - Turquie
+   - Trinité-et-Tobago
+   - Tuvalu
+   - Taïwan
+   - Tanzanie, République unie de
+   - Ukraine
+   - Ouganda
+   - Îles mineures éloignées des États-Unis
+   - États-Unis
+   - Uruguay
+   - Ouzbékistan
+   - Saint-Siège (État de la Cité du Vatican)
+   - Saint-Vincent-et-les-Grenadines
+   - Venezuela
+   - Îles Vierges britanniques
+   - Îles Vierges américaines
+   - Viêt Nam
+   - Vanuatu
+   - Wallis-et-Futuna
+   - Samoa
+   - Yémen
+   - Mayotte
+   - Afrique du Sud
+   - Zambie
+   - Zimbabwe
    de_DE:
    - Andorra
    - Vereinigte Arabische Emirate
