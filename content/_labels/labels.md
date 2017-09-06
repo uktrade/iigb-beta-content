@@ -4280,7 +4280,6 @@ investment_opts_using_the_service:
   pt_INT: ''
   ar_SA: ''
 investment_opts_businesses:
-  fr_FR: 'Emplacement des entreprises importantes dans l'industrie'
   de_DE: 'Beliebte Regionen'
   en_US: 'Location of significant businesses in the industry'
   zh_CN: '热门地区'
@@ -4290,7 +4289,6 @@ investment_opts_businesses:
   pt_INT: ''
   ar_SA: ''
 investment_opts_businesses_detail:
-  fr_FR: ''
   de_DE: 'Unternehmen mit bedeutendem Einfluss in der ausgewählten Branche'
   en_US: ''
   zh_CN: '在所选行业有重大影响力的企业'
@@ -4300,7 +4298,6 @@ investment_opts_businesses_detail:
   pt_INT: ''
   ar_SA: ''
 investment_opts_finance_and_incentives:
-  fr_FR: 'Finance et incitations'
   de_DE: 'Finanzierung und Anreize'
   en_US: 'Finance and incentives'
   zh_CN: '当地激励措施'
@@ -4310,7 +4307,6 @@ investment_opts_finance_and_incentives:
   pt_INT: ''
   ar_SA: ''
 investment_opts_centres_of_excellence:
-  fr_FR: 'Emplacement des centres de recherche et de développement'
   de_DE: 'Forschung und Entwicklung'
   en_US: 'Location of research and development hubs'
   zh_CN: '研究与开发'
@@ -4320,7 +4316,6 @@ investment_opts_centres_of_excellence:
   pt_INT: ''
   ar_SA: ''
 investment_opts_centres_of_excellence_detail:
-  fr_FR: ''
   de_DE: 'Branchenspezifische Forschungs- und Entwicklungszentren'
   en_US: ''
   zh_CN: '行业特定的研究和开发中心'
@@ -4330,8 +4325,6 @@ investment_opts_centres_of_excellence_detail:
   pt_INT: ''
   ar_SA: ''
 investment_opts_enterprise_zones:
-  fr_FR: 'Emplacements où l'investissement est favorisé par des incitations financières'
-  de_DE: 'Lokale Investitionsanreize'
   en_US: 'Locations where investment is financially incentivised'
   zh_CN: '当地激励措施'
   ja_JP: ''
@@ -4340,7 +4333,6 @@ investment_opts_enterprise_zones:
   pt_INT: ''
   ar_SA: ''
 investment_opts_enterprise_zones_detail:
-  fr_FR: Découvrez les incitations à l'investissement
   de_DE: 'Geförderte Regionen mit reduzierten Gewerbesteuern, niedrigeren Mieten und kompletten Entwicklungspaketen'
   en_US: Find out about incentives for investment
   zh_CN: '提供优惠的营业税和房租以及交钥匙发展项目组合的扶持区域'
@@ -4350,7 +4342,6 @@ investment_opts_enterprise_zones_detail:
   pt_INT: ''
   ar_SA: ''
 investment_setup_guide_for_investors:
-  fr_FR: 'Guide d'installation au Royaume-Uni pour les investisseurs'
   de_DE: 'Leitfaden für ausländische Investoren in Großbritannien'
   en_US: 'UK set-up guide for investors'
   zh_CN: '投资者的英国市场启动指南'
@@ -4360,7 +4351,6 @@ investment_setup_guide_for_investors:
   pt_INT: ''
   ar_SA: ''
 investment_incentives_and_finance:
-  fr_FR: 'Incitations et financement pour les investissements au Royaume-Uni'
   de_DE: 'Investitionsanreize und Finanzmittel'
   en_US: 'Incentives and finance for investments in the UK'
   zh_CN: '英国的投资激励措施和资金'
@@ -4370,7 +4360,6 @@ investment_incentives_and_finance:
   pt_INT: ''
   ar_SA: ''
 investment_opts_notable_clusters:
-  fr_FR: 'Zones prisées'
   de_DE: 'Beliebte Regionen' 
   en_US: 'Popular areas'
   zh_CN: '热门地区'  
@@ -4380,7 +4369,6 @@ investment_opts_notable_clusters:
   pt_INT: ''
   ar_SA: ''
 investment_opts_regeneration_opportunities:
-  fr_FR: 'Opportunités de régénération'
   de_DE: 'Anreize'
   en_US: 'Regeneration opportunities'
   zh_CN: '激励措施'
