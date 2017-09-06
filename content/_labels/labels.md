@@ -4585,7 +4585,7 @@ sectors:
     pt_INT: ''
     ar_SA: ''
   technology:
-  	fr_FR: 'Technologie'
+  	 fr_FR: 'Technologie'
     de_DE: 'Technologie'
     en_US: 'Technology'
     zh_CN: '技术'
