@@ -1080,6 +1080,7 @@ form_company_reason:
  pt_INT: Ajude-nos a compreender as suas operações atuais
  ar_SA: ساعدنا على فهم عملياتك الحالية
 form_registered_company:
+ fr_FR: Nom de l'entreprise
  de_DE: Eingetragener Firmenname
  en_US: Company name
  zh_CN: 公司名称
@@ -1089,6 +1090,7 @@ form_registered_company:
  pt_INT: Nome da empresa registado
  ar_SA: اسم الشركة
 form_enter_registered_company:
+ fr_FR: Indiquez le nom de votre entreprise
  de_DE: Geben Sie Ihren eingetragenen Unternehmensnamen ein
  en_US: Enter your company name
  zh_CN: 输入您的公司名称
@@ -1098,6 +1100,7 @@ form_enter_registered_company:
  pt_INT: Introduza o nome registado da sua empresa
  ar_SA: أدخل اسم شركتك
 form_website:
+ fr_FR: Adresse du site Web de l'entreprise (facultatif)
  de_DE: Internetadresse Ihres Unternehmens
  en_US: Company website address (optional)
  zh_CN: 公司网站地址
@@ -1107,6 +1110,7 @@ form_website:
  pt_INT: Endereço do website da empresa (opcional)
  ar_SA: أدخل عنوان موقع ويب الشركة
 form_website_nf:
+ fr_FR: Site Web de l'entreprise
  de_DE: Unternehmenswebseite
  en_US: Company website
  zh_CN: 公司网站
@@ -1116,6 +1120,7 @@ form_website_nf:
  pt_INT: Website da empresa
  ar_SA: موقع ويب الشركة
 form_enter_website:
+ fr_FR: Indiquez l'adresse du site Web de votre entreprise
  de_DE: Geben Sie die Internetadresse Ihres Unternehmens ein
  en_US: Enter your company website address
  zh_CN: 输入您的公司网站地址
@@ -1125,6 +1130,7 @@ form_enter_website:
  pt_INT: Introduza o endereço do website da sua empresa
  ar_SA: 
 form_enter_website_nf:
+ fr_FR: Indiquez l'adresse de votre site Web ou cochez la case ci-dessous
  de_DE: Unternehmenswebseite eingeben
  en_US: Enter your website address or check the box below
  zh_CN: 请输入您的公司网站地址
@@ -1134,6 +1140,7 @@ form_enter_website_nf:
  pt_INT: Introduza o endereço do Website da sua empresa
  ar_SA: أدخل عنوان موقع ويب الشركة
 form_do_not_have_website:
+ fr_FR: Je n'ai pas de site Web 
  de_DE: Ich habe keine Webseite
  en_US: I do not have a website 
  zh_CN: 我没有网站
@@ -1143,6 +1150,7 @@ form_do_not_have_website:
  pt_INT: Não tenho um Website
  ar_SA: ليس لدي موقع ويب
 form_enter_primary_industry:
+ fr_FR: Sélectionnez l'industrie dans laquelle vous exercez principalement ou sélectionnez Autre
  de_DE: Wählen Sie die Branche aus, in der Sie hauptsächlich tätig sind, aus oder wählen Sie "Sonstiges"
  en_US: Select the industry you mainly operate in or select Other
  zh_CN: 请选择您的主要经营行业
@@ -1153,6 +1161,7 @@ form_enter_primary_industry:
  ar_SA: حدد القطاع الذي تعمل فيه بشكل أساسي أو اختر "غير ذلك"
 form_primary_industry:
  label:
+   fr_FR: Industrie principale
    de_DE: Hauptbranche
    en_US: Primary operating industry
    zh_CN: 主要经营行业
@@ -1412,6 +1421,7 @@ form_primary_industry:
    - Technology
    - Other
 form_other:
+ fr_FR: Autre
  de_DE: Sonstiges
  en_US: Other
  zh_CN: 其他
@@ -1421,6 +1431,7 @@ form_other:
  pt_INT: Outra
  ar_SA: 
 form_enter_other:
+ fr_FR: Indiquez votre industrie
  de_DE: Geben Sie Ihre Branche ein
  en_US: Enter your industry
  zh_CN: 请输入您的行业
@@ -1430,6 +1441,7 @@ form_enter_other:
  pt_INT: Introduza a sua indústria
  ar_SA: غير ذلك
 form_mailing_list:
+ fr_FR: Le Department for International Trade et ses partenaires peuvent utiliser vos coordonnées pour vous envoyer des actualités et informations personnalisées.
  de_DE: Das Department for International Trade und Ihre Partner könnten Ihre Daten verwenden um Ihnen relevante Neuigkeiten und Informationen zuzusenden.
  en_US: The Department for International Trade and its partners might use your details to send you relevant news and information.
  zh_CN: 国际贸易部及其合作伙伴可能会使用您的联系方式向您发送相关的新闻和信息
@@ -1439,6 +1451,7 @@ form_mailing_list:
  pt_INT: O Departamento do Comércio Internacional (Department for International Trade) e os respetivos parceiros poderão utilizar os seus detalhes para lhe enviar notícias e informações relevantes
  ar_SA: قد تستخدم وزارة التجارة الدولية وشركاؤها بياناتكم لترسل لكم الأخبار والمعلومات ذات الصلة
 form_enter_mailing_list:
+ fr_FR: Sélectionnez si vous souhaitez recevoir des actualités et informations personnalisées
  de_DE: Bitte geben Sie an, ob Sie relevante Neuigkeiten und Informationen erhlten wollen.
  en_US: Select whether you'd like to receive relevant news and information
  zh_CN: Select whether you'd like to receive relevant news and information:CN
