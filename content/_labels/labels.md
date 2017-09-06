@@ -4450,7 +4450,6 @@ investment_opts_priorities:
   pt_INT: ''
   ar_SA: ''
 screen_reader_compatible:
-  fr_FR: 'compatibilité avec les lecteurs d'écran'
   de_DE: ''
   en_US: 'screen reader compatible'
   zh_CN: ''
@@ -4460,7 +4459,6 @@ screen_reader_compatible:
   pt_INT: ''
   ar_SA: ''
 new_window:
-  fr_FR: 'le lien s'ouvre dans une nouvelle fenêtre'
   de_DE: ''
   en_US: 'link opens in new window'
   zh_CN: ''
