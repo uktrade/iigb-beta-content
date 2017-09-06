@@ -663,6 +663,17 @@ form_which_part:
    '7': Aberdeen and North Eastern Scotland
    '8': Belfast and Northern Ireland
    '9': Nottingham and East Midlands
+   fr_FR:
+   - Londres et le Sud-Est
+   - Bristol et le Sud-Ouest
+   - Birmingham et les West Midlands
+   - Manchester et le Nord-Ouest
+   - Newcastle et le Nord-Est
+   - Cardiff et le Pays de Galles
+   - Édimbourg et le Sud de l'Écosse
+   - Aberdeen et le Nord-Est de l'Écosse 
+   - Belfast et l'Irlande du Nord
+   - Nottingham et les East Midlands
    de_DE:
    - London und der Südosten
    - Bristol und der Südwesten
@@ -792,6 +803,19 @@ form_when_month:
    '9': October
    '10': November
    '11': December
+   fr_FR:
+   - janvier
+   - février
+   - mars
+   - avril
+   - mai
+   - juin
+   - juillet
+   - août
+   - septembre
+   - octobre
+   - novembre
+   - décembre
    de_DE:
    - Januar
    - Februar
@@ -917,6 +941,17 @@ form_when_year:
    '7': '2024'
    '8': '2025'
    '9': '2026'
+   fr_FR:
+   - '2017'
+   - '2018'
+   - '2019'
+   - '2020'
+   - '2021'
+   - '2022'
+   - '2023'
+   - '2024'
+   - '2025'
+   - '2026'
    de_DE:
    - '2017'
    - '2018'
@@ -1139,6 +1174,31 @@ form_primary_industry:
    '21' : Retail
    '22' : Technology
    '23' : Other
+   fr_FR:
+   - Fabrication avancée
+   - Aéronautique
+   - Gestion d'actifs
+   - Recherche et développement automobile
+   - Chaîne d'approvisionnement automobile
+   - Big data et analyses
+   - Production et contenus créatifs
+   - Médias numériques
+   - Réseaux électriques
+   - Énergie issue des déchets
+   - Services financiers
+   - Fintech
+   - Fabrication de produits alimentaires et boissons
+   - Produits sans lactose, gluten, etc.
+   - Santé
+   - Technologie médicale
+   - Sport automobile
+   - Nucléaire
+   - Énergie éolienne offshore
+   - Pétrole et gaz
+   - Fabrication pharmaceutique
+   - Vente au détail
+   - Technologie
+   - Autre
    de_DE:
    - Fortgeschrittene Fertigungstechnologien
    - Luftfahrt
