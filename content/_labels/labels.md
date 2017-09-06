@@ -4460,6 +4460,7 @@ new_window:
   ar_SA: ''
 sectors:
   aerospace:
+    fr_FR: 'Aéronautique'
     de_DE: 'Luftfahrtindustrie'
     en_US: 'Aerospace'
     zh_CN: '航空航天'
@@ -4469,6 +4470,7 @@ sectors:
     pt_INT: ''
     ar_SA: ''
   advanced_manufacturing:
+    fr_FR: 'Fabrication avancée'
     de_DE: 'Fortgeschrittene Fertigungstechnologien'
     en_US: 'Advanced manufacturing'
     zh_CN: '先进制造'
@@ -4478,6 +4480,7 @@ sectors:
     pt_INT: ''
     ar_SA: ''
   automotive:
+    fr_FR: 'Automobile'
     de_DE: 'Automobilindustrie'
     en_US: 'Automotive'
     zh_CN: '汽车产业'
@@ -4487,6 +4490,7 @@ sectors:
     pt_INT: ''
     ar_SA: ''
   creative:
+    fr_FR: 'Créativité'
     de_DE: 'Medien und Kultur'
     en_US: 'Creative'
     zh_CN: '创意的'
@@ -4496,6 +4500,7 @@ sectors:
     pt_INT: ''
     ar_SA: ''
   energy:
+    fr_FR: 'Production d'énergie'
     de_DE: 'Energie'
     en_US: 'Energy generation'
     zh_CN: '能源发电'
@@ -4505,6 +4510,7 @@ sectors:
     pt_INT: ''
     ar_SA: ''
   financial_services:
+    fr_FR: 'Services financiers'
     de_DE: 'Finanzen'
     en_US: 'Financial services'
     zh_CN: '金融服务'
@@ -4514,6 +4520,7 @@ sectors:
     pt_INT: ''
     ar_SA: ''
   food_and_drink_manufacturing:
+    fr_FR: 'Fabrication de produits alimentaires et boissons'
     de_DE: 'Lebensmittel- und Getränkeherstellung'
     en_US: 'Food and drink manufacturing'
     zh_CN: '食品和饮料制造'
@@ -4523,6 +4530,7 @@ sectors:
     pt_INT: ''
     ar_SA: ''
   health_and_life_sciences:
+    fr_FR: 'Santé et sciences de la vie'
     de_DE: 'Gesundheits- und Biowissenschaften'
     en_US: 'Health and life sciences'
     zh_CN: '健康与生命科学'
@@ -4532,6 +4540,7 @@ sectors:
     pt_INT: ''
     ar_SA: ''
   retail:
+    fr_FR: 'Vente au détail'
     de_DE: 'Einzelhandel'
     en_US: 'Retail'
     zh_CN: '零售'
@@ -4541,6 +4550,7 @@ sectors:
     pt_INT: ''
     ar_SA: ''
   technology:
+    fr_FR: 'Technologie'  
     de_DE: 'Technologie'
     en_US: 'Technology'
     zh_CN: '技术'
