@@ -4441,7 +4441,6 @@ investment_opts_alpha_after:
   pt_INT: 
   ar_SA: 
 investment_opts_priorities:
-  fr_FR: Qu'est-ce qui est important pour votre investissement?
   de_DE: Was sind Ihre Investitionsprioritäten?
   en_US: What is important for your investment?
   zh_CN: 您投资时优先考虑哪些事项？
