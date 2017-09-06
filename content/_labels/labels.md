@@ -4117,45 +4117,45 @@ report_problem_placeholder:
  pt_INT: ''
  ar_SA: 
 language:
-  fr_FR: Langue
-  de_DE: Sprache
-  en_US: Language
-  zh_CN: 语言
-  ja_JP: 言語
-  es_ES: Idioma
-  pt_BR: Lingua
-  pt_INT: Lingua
-  ar_SA: اللغة
+ fr_FR: Langue
+ de_DE: Sprache
+ en_US: Language
+ zh_CN: 语言
+ ja_JP: 言語
+ es_ES: Idioma
+ pt_BR: Lingua
+ pt_INT: Lingua
+ ar_SA: اللغة
 choose_language:
-  fr_FR: Choisissez votre langue
-  de_DE: Wählen Sie Ihre Sprache
-  en_US: Choose your language
-  zh_CN: 选择语言
-  ja_JP: 言語を選択
-  es_ES: Seleccione su idioma
-  pt_BR: Escolha a sua língua
-  pt_INT: Escolha a sua língua
-  ar_SA: اختيار اللغة
+ fr_FR: Choisissez votre langue
+ de_DE: Wählen Sie Ihre Sprache
+ en_US: Choose your language
+ zh_CN: 选择语言
+ ja_JP: 言語を選択
+ es_ES: Seleccione su idioma
+ pt_BR: Escolha a sua língua
+ pt_INT: Escolha a sua língua
+ ar_SA: اختيار اللغة
 close:
-  fr_FR: Fermer
-  de_DE: Schließen
-  en_US: Close
-  zh_CN: 关闭
-  ja_JP: 閉じる
-  es_ES: Cerrar
-  pt_BR: Fechar
-  pt_INT: Fechar
-  ar_SA: إغلاق
+ fr_FR: Fermer
+ de_DE: Schließen
+ en_US: Close
+ zh_CN: 关闭
+ ja_JP: 閉じる
+ es_ES: Cerrar
+ pt_BR: Fechar
+ pt_INT: Fechar
+ ar_SA: إغلاق
 country_region:
-  fr_FR: Pays/région
-  de_DE: Land/Region
-  en_US: Country/region
-  zh_CN: 国家/地区
-  ja_JP: 国／地域
-  es_ES: País/región
-  pt_BR: País/região
-  pt_INT: País/região
-  ar_SA: الدولة/المنطقة
+ fr_FR: Pays/région
+ de_DE: Land/Region
+ en_US: Country/region
+ zh_CN: 国家/地区
+ ja_JP: 国／地域
+ es_ES: País/región
+ pt_BR: País/região
+ pt_INT: País/região
+ ar_SA: الدولة/المنطقة
 country_text:
   fr_FR: Nous fournissons également des informations sur les investissements spécifiques aux régions.
   de_DE: Wir bieten auch regionsspezifische Investitionsinformationen an.
