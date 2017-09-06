@@ -4441,6 +4441,7 @@ investment_opts_alpha_after:
   pt_INT: 
   ar_SA: 
 investment_opts_priorities:
+  fr_FR: Qu'est-ce qui est important pour votre investissement?
   de_DE: Was sind Ihre Investitionsprioritäten?
   en_US: What is important for your investment?
   zh_CN: 您投资时优先考虑哪些事项？
@@ -4450,6 +4451,7 @@ investment_opts_priorities:
   pt_INT: ''
   ar_SA: ''
 screen_reader_compatible:
+  fr_FR: 'compatibilité avec les lecteurs d'écran'
   de_DE: ''
   en_US: 'screen reader compatible'
   zh_CN: ''
@@ -4459,6 +4461,7 @@ screen_reader_compatible:
   pt_INT: ''
   ar_SA: ''
 new_window:
+  fr_FR: 'le lien s'ouvre dans une nouvelle fenêtre'
   de_DE: ''
   en_US: 'link opens in new window'
   zh_CN: ''
