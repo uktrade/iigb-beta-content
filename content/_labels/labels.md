@@ -470,8 +470,6 @@ form_investment_details:
  pt_INT: Fale-nos sobre a sua empresa e os seus planos para o Reino Unido em termos da dimensão do investimento e de planos operacionais e de recrutamento. Informe-nos também sobre o tipo de ajuda que desejaria obter do Governo do Reino Unido.
  ar_SA: أخبرنا عن شركتك وخططك المتعلقة بالمملكة المتحدة من حيث حجم الاستثمار وخطط التشغيل والتوظيف. يُرجى أيضًا إخبارنا ما هي المساعدة التي تحتاج أن تقدمها لك حكومة المملكة المتحدة.
 form_enter_annual_turnover:
- fr_FR: Revenus annuels actuels estimés
-form_annual_turnover:
  fr_FR: Sélectionnez l'échelle qui reflète votre chiffre d'affaires annuel
  de_DE: Wählen Sie die Option, die Ihrem Jahresumzsatz am besten entspricht
  en_US: Select the range that reflects your annual turnover
@@ -483,7 +481,7 @@ form_annual_turnover:
  ar_SA: حدد النطاق الذي يعكس حجم مبيعاتك السنوية
 form_annual_turnover:
  label:
-   fr_FR: Chiffre d'affaires annuel
+   fr_FR: Revenus annuels actuels estimés
    de_DE: Geschätzter derzeitiger Jahresumsatz
    en_US: Estimated current annual revenue
    zh_CN: 公司目前估计的年收入
@@ -499,7 +497,7 @@ form_annual_turnover:
    '3': £10 million to £50 million
    '4': £50 million to £100 million
    '5': More than £100 million
-    fr_FR:
+   fr_FR:
    - Moins de 100 000 £
    - Entre 100 000 £ et 1 million £
    - Entre 1 million £ et 10 millions £
