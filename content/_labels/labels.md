@@ -775,7 +775,7 @@ form_which_part:
    - Belfast and Northern Ireland
    - Nottingham and East Midlands
 form_enter_when:
-
+ fr_FR: Indiquez la date approximative à laquelle vous souhaitez commencer vos activités au Royaume-Uni
  de_DE: Geben Sie ein ungefähres Startdatum für die Aufnahme Ihrer Geschäfte in Großbritannien ein
  en_US: Enter the approximate date you want to be operating in the UK
  zh_CN: 请输入您預期在英国的业务运行的日子
@@ -785,7 +785,7 @@ form_enter_when:
  pt_INT: Introduza a data aproximada em que pretende estar a operar no Reino Unido
  ar_SA: أدخل التاريخ التقريبي الذي ترغب أن تبدأ عملك فيه في المملكة المتحدة
 form_when:
-
+ fr_FR: Quand pensez-vous pouvoir exercer votre activité au Royaume-Uni (mois/année)
  de_DE: Geben Sie ein ungefähres Startdatum für die Aufnahme Ihrer Geschäfte im Vereinigten Königreich ein?
  en_US: When do you hope to have your business running in the UK (month/year)
  zh_CN: 您預期在英国的业务运行的日子
@@ -796,7 +796,7 @@ form_when:
  ar_SA: متى تأمل أن تدير عملك في المملكة المتحدة (الشهر/العام)؟
 form_when_month:
  label:
- 
+   fr_FR: mois
    de_DE: Monat
    en_US: month
    zh_CN: 月
@@ -818,7 +818,19 @@ form_when_month:
    '9': October
    '10': November
    '11': December
-   
+   fr_FR:
+   - janvier
+   - février
+   - mars
+   - avril
+   - mai
+   - juin
+   - juillet
+   - août
+   - septembre
+   - octobre
+   - novembre
+   - décembre   
    de_DE:
    - Januar
    - Februar
@@ -925,7 +937,7 @@ form_when_month:
    - December
 form_when_year:
  label:
- 
+   fr_FR: année
    de_DE: Jahr
    en_US: year
    zh_CN: 年
@@ -945,7 +957,17 @@ form_when_year:
    '7': '2024'
    '8': '2025'
    '9': '2026'
-   
+   fr_FR:
+   - '2017'
+   - '2018'
+   - '2019'
+   - '2020'
+   - '2021'
+   - '2022'
+   - '2023'
+   - '2024'
+   - '2025'
+   - '2026'
    de_DE:
    - '2017'
    - '2018'
@@ -1145,7 +1167,7 @@ form_enter_primary_industry:
  ar_SA: حدد القطاع الذي تعمل فيه بشكل أساسي أو اختر "غير ذلك"
 form_primary_industry:
  label:
- 
+   fr_FR: Industrie principale
    de_DE: Hauptbranche
    en_US: Primary operating industry
    zh_CN: 主要经营行业
@@ -1155,7 +1177,6 @@ form_primary_industry:
    pt_INT: Indústria principal
    ar_SA: قطاع العمل الأساسي
  options:
- 
    '0' : Advanced manufacturing
    '1' : Aerospace
    '2' : Asset management
@@ -1180,7 +1201,31 @@ form_primary_industry:
    '21' : Retail
    '22' : Technology
    '23' : Other
-   
+   fr_FR:
+   - Fabrication avancée
+   - Aéronautique
+   - Gestion d'actifs
+   - Recherche et développement automobile
+   - Chaîne d'approvisionnement automobile
+   - Big data et analyses
+   - Production et contenus créatifs
+   - Médias numériques
+   - Réseaux électriques
+   - Énergie issue des déchets
+   - Services financiers
+   - Fintech
+   - Fabrication de produits alimentaires et boissons
+   - Produits sans lactose, gluten, etc.
+   - Santé
+   - Technologie médicale
+   - Sport automobile
+   - Nucléaire
+   - Énergie éolienne offshore
+   - Pétrole et gaz
+   - Fabrication pharmaceutique
+   - Vente au détail
+   - Technologie
+   - Autre
    de_DE:
    - Fortgeschrittene Fertigungstechnologien
    - Luftfahrt
