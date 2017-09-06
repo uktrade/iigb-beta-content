@@ -561,6 +561,7 @@ form_annual_turnover:
    - Between £50 million and £100 million
    - More than £100 million
 form_enter_staff_number:
+ fr_FR: Sélectionnez le nombre total d'employés
  de_DE: Wählen Sie die Option, die Ihrer Mitarbeiteranzehl am besten entspricht
  en_US: Select your total number of staff
  zh_CN: 选择您的员工总数
@@ -571,6 +572,7 @@ form_enter_staff_number:
  ar_SA: حدد العدد الإجمالي للموظفين لديك
 form_staff_number:
  label:
+   fr_FR: Nombre total actuel d'employés
    de_DE: Geschätzte derzeitige Mitarbeiteranzahl
    en_US: Total current number of staff
    zh_CN: 当前员工总数
@@ -625,6 +627,7 @@ form_staff_number:
    - من 51 إلى 250
    - أكثر من 250
 form_location:
+ fr_FR: Vous intéressez-vous à un emplacement spécifique au Royaume-Uni?
  de_DE: Interessieren Sie sich für einen bestimmten Standort in Großbritannien?
  en_US: Are you considering a specific location in the UK?
  zh_CN: 您是否正在考虑在英国的一个特定的位置?
@@ -634,6 +637,7 @@ form_location:
  pt_INT: Está a considerar um local específico no Reino Unido?
  ar_SA: هل تفكر في موقع محدد في المملكة المتحدة؟
 form_enter_which_part:
+ fr_FR: Sélectionnez un emplacement
  de_DE: Bitte wählen Sie einen Standort aus
  en_US: Select a location
  zh_CN: 请选择您的首选英国位置？
@@ -644,6 +648,7 @@ form_enter_which_part:
  ar_SA: أين يوجد موقعك الرئيسي?
 form_which_part:
  label:
+   fr_FR: Où est votre emplacement principal?
    de_DE: Wo ist ihr Hauptstandort?
    en_US: Where is your primary location?
    zh_CN: 您的首选英国位置?
@@ -763,6 +768,7 @@ form_which_part:
    - Belfast and Northern Ireland
    - Nottingham and East Midlands
 form_enter_when:
+ fr_FR: Indiquez la date approximative à laquelle vous souhaitez commencer vos activités au Royaume-Uni
  de_DE: Geben Sie ein ungefähres Startdatum für die Aufnahme Ihrer Geschäfte in Großbritannien ein
  en_US: Enter the approximate date you want to be operating in the UK
  zh_CN: 请输入您預期在英国的业务运行的日子
@@ -772,8 +778,9 @@ form_enter_when:
  pt_INT: Introduza a data aproximada em que pretende estar a operar no Reino Unido
  ar_SA: أدخل التاريخ التقريبي الذي ترغب أن تبدأ عملك فيه في المملكة المتحدة
 form_when:
+ fr_FR: Quand pensez-vous pouvoir exercer votre activité au Royaume-Uni? (mois/année)
  de_DE: Geben Sie ein ungefähres Startdatum für die Aufnahme Ihrer Geschäfte im Vereinigten Königreich ein?
- en_US: When do you hope to have your business running in the UK (month/year)
+ en_US: When do you hope to have your business running in the UK? (month/year)
  zh_CN: 您預期在英国的业务运行的日子
  ja_JP: 英国における事業開始をご希望の時期をご記入ください (月／年)
  es_ES: ¿Cuándo espera tener su negocio operativo en el Reino Unido (mes/año)?
@@ -782,6 +789,7 @@ form_when:
  ar_SA: متى تأمل أن تدير عملك في المملكة المتحدة (الشهر/العام)؟
 form_when_month:
  label:
+   fr_FR: mois
    de_DE: Monat
    en_US: month
    zh_CN: 月
@@ -922,6 +930,7 @@ form_when_month:
    - December
 form_when_year:
  label:
+   fr_FR: année
    de_DE: Jahr
    en_US: year
    zh_CN: 年
@@ -1041,6 +1050,7 @@ form_when_year:
    - '2025'
    - '2026'
 form_company:
+ fr_FR: Votre entreprise
  de_DE: Ihr Unternehmen
  en_US: Your company
  zh_CN: 您的公司
@@ -1050,6 +1060,7 @@ form_company:
  pt_INT: A sua empresa
  ar_SA: الشركة
 form_company_nf:
+ fr_FR: Votre entreprise
  de_DE: Ihr Unternehmen
  en_US: Your company 
  zh_CN: 您的公司
@@ -1059,6 +1070,7 @@ form_company_nf:
  pt_INT: A sua empresa
  ar_SA: الشركة
 form_company_reason:
+ fr_FR: Donnez-nous des informations sur vos activités actuelles
  de_DE: Helfen Sie uns, Ihren aktuellen Betrieb zu verstehen
  en_US: Help us understand your current operations
  zh_CN: 帮助我们了解您目前的业务
