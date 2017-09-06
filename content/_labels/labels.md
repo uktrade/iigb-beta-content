@@ -169,8 +169,7 @@ industry_overviews_intro:
  pt_INT: Find high level information about your industry sector including success stories from other companies we have worked with:BR
  ar_SA: 
 industries_intro:
- fr_FR: Informations sur la spécialité industrielle dans laquelle votre société exerce ses activités, y compris
-   les conditions du marché et les mesures incitatives
+ fr_FR: Informations sur la spécialité industrielle dans laquelle votre société exerce ses activités, y compris les conditions du marché et les mesures incitatives
  de_DE: Find specific information about the industry your company operates in, including market conditions and incentives:DE
  en_US: Information about the industry specialism your company operates in, including market conditions and incentives
  zh_CN: Find specific information about the industry your company operates in, including market conditions and incentives:CN
