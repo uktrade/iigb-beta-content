@@ -479,7 +479,7 @@ form_annual_turnover:
  pt_BR: Selecione a opção mais próxima da sua receita anual
  pt_INT: Selecione a opção mais próxima da sua receita anual
  ar_SA: حدد النطاق الذي يعكس حجم مبيعاتك السنوية
-form_annual_turnover:
+form_enter_annual_turnover:
  label:
    fr_FR: Chiffre d'affaires annuel
    de_DE: Geschätzter derzeitiger Jahresumsatz
