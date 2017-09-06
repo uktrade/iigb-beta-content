@@ -14,7 +14,7 @@ We are well placed to investigate new technologies and innovations. The UK is no
 
 Onshore, the UK government is backing the safe development of shale gas because it’s good for jobs, energy security and the UK’s plans to decarbonise the economy. 
 
-According to a report published by Ernst & Young in 2014, investment in shale could reach £33 billion and support 64,000 jobs.
+According to a report published by Ernst & Young in 2014, investment in shale could reach 33 billion GBP and support 64,000 jobs.
 
 The British Geological Survey has  identified areas with potentially large reserves of shale gas and oil. UK geology is promising, but we make no assumptions about production levels. We need exploration to determine the potential.
  
