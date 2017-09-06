@@ -1,7 +1,6 @@
 ---
 title: Skills and education
 link: skills and education
-borderColour: turquoise
 ---
 Investors in the North East benefit from a strong skills base, including:
 

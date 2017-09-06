@@ -1,6 +1,6 @@
 ---
 title: London
-tagline: The home for the world’s business
+tagline: First in the UK for foreign investment
 ---
 One of the most desirable cities in the world for living, working and building a global business. 
 

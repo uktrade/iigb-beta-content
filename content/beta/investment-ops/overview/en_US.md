@@ -2,7 +2,7 @@
 title: "Location Guide"
 ---
 
-The Department for International Trade is developing a new service aimed at overseas investors looking for investment opportunities in the UK. We intend to launch this service early in 2017.
+The Department for International Trade is developing a new service aimed at overseas investors looking for investment opportunities in the UK.
 
 This service will give you access to a range of investment opportunities from around the UK, including Scotland, Wales and Northern Ireland.
 

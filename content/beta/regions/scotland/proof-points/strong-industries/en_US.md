@@ -1,7 +1,6 @@
 ---
 title: Strong industries for investment
 link: strong industries for investment
-borderColour: red
 ---
 Strong sectors in Scottish cities include:
 

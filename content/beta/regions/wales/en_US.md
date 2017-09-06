@@ -1,6 +1,6 @@
 ---
 title: Wales
-tagline: A beautiful land that’s attractive for investors
+tagline: Home to over 700 multinational companies
 ---
 A 50 billion GBP economy, at the cutting edge of 21st century innovation and entrepreneurship.
 
@@ -8,4 +8,4 @@ A 50 billion GBP economy, at the cutting edge of 21st century innovation and ent
 Ideally placed for low-cost entry into the UK market.
 
 
-An area with its own devolved government with controls over economic development and spending.
+An area with its own devolved government promoting economic development.

@@ -1,7 +1,6 @@
 ---
 title: Incentives to invest
 link: incentives to invest
-borderColour: purple
 ---
 Northern Ireland offers tailored support packages for each investment, including: 
 

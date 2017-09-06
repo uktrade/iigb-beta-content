@@ -1,7 +1,6 @@
 ---
 title: Investors attracted to the South East
 link: investors attracted to the South East
-borderColour: yellow
 ---
 The South East leads the UK for growth and productivity, with: 
 
@@ -12,4 +11,4 @@ The South East leads the UK for growth and productivity, with:
 <div class="region--small-text"><p>EY, UK region and city economic forecast Winter 2016</p></div>
 - world-famous technology companies based in the region, including Microsoft, Cisco, Huawei, Telefonica and Vodafone
 - 10 of the top 50 global organisations based here - 113 of the world’s top brands are based in the Thames Valley alone
-- thriving industries in life sciences and healthcare, creative services, motorsport, marine, aerospace and space technology
+- thriving industries in finance, life sciences and healthcare, creative services, motorsport, marine, aerospace and space technology

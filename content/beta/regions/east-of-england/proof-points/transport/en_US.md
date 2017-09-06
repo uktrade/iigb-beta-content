@@ -1,9 +1,9 @@
 ---
 title: Transport infrastructure
 link: transport infrastructure
-borderColour: blue
 ---
 Transport options in the East of England include: 
+
 
 - 4 international airports, including Stansted Airport, Europe’s most continentally well-connected airport
 - fast train connections to London, with a journey time of just 30 minutes (Stevenage to London Kings Cross and Chelmsford to London Liverpool Street)

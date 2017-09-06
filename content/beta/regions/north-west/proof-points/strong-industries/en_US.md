@@ -1,7 +1,6 @@
 ---
 title: Strong industries for investment
 link: strong industries for investment
-borderColour: red
 ---
 The North West is strong in a number of sectors:
 

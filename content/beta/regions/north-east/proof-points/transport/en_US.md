@@ -1,7 +1,6 @@
 ---
 title: Transport infrastructure
 link: transport infrastructure
-borderColour: blue
 ---
 Transport options in the North East include: 
 

@@ -16,5 +16,6 @@ table_rows:
  - cell1: Hertfordshire University
    cell2: Film animation, computer science
 ---
-Cranfield University offers world-class research and testing services in fields including aerospace, defence and energy. It has achieved more than 1,500 collaborations with businesses and governments around the world.
+Cranfield University offers world-class research and testing services for your business in fields including aerospace, defence and energy. It has achieved more than 1,500 collaborations with businesses and governments around the world.
 <div class="region--small-text"><p>Cranfield University at a glance 2017</p></div>
+
