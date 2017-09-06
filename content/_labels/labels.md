@@ -4181,6 +4181,7 @@ concentration_high:
   pt_INT:
   ar_SA: 
 concentration_medium:
+  fr_FR: Moyen
   de_DE: Mittel
   en_US: Medium
   zh_CN: 中
@@ -4190,6 +4191,7 @@ concentration_medium:
   pt_INT:
   ar_SA: 
 concentration_low:
+  fr_FR: Faible
   de_DE: Gering
   en_US: Low
   zh_CN: 低
@@ -4199,6 +4201,7 @@ concentration_low:
   pt_INT:
   ar_SA: 
 where_in_the_uk:
+  fr_FR: Opportunités d'investissement
   de_DE: 
   en_US: Where in the UK
   zh_CN: 
@@ -4208,6 +4211,7 @@ where_in_the_uk:
   pt_INT: 
   ar_SA: 
 investment_opts_involved_in_research:
+  fr_FR: Participez à la recherche pour nous aider à développer le service
   de_DE: An Studien teilnehmen und bei der Gestaltung des Services mitwirken
   en_US: Take part in research to help shape the service
   zh_CN: 参与调查以帮助我们开发服务
