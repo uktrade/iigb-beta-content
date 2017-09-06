@@ -70,6 +70,7 @@ on_this_page:
  pt_INT: Nesta página
  ar_SA: 
 pre_word:
+ fr_FR: ''
  de_DE: Subsektoren
  en_US: ''
  zh_CN: ''
@@ -77,7 +78,7 @@ pre_word:
  es_ES: ''
  pt_BR: ''
  pt_INT: ''
- ar_SA: 
+ ar_SA: ''
 post_word:
  fr_FR: sous-secteurs
  de_DE: branche
