@@ -4171,6 +4171,7 @@ location_guide:
   pt_INT: Guia de localização
   ar_SA: دليل الأماكن
 concentration_high:
+  fr_FR: Élevé
   de_DE: Hoch
   en_US: High
   zh_CN: 高
@@ -4180,6 +4181,7 @@ concentration_high:
   pt_INT:
   ar_SA: 
 concentration_medium:
+  fr_FR: Moyen
   de_DE: Mittel
   en_US: Medium
   zh_CN: 中
@@ -4189,6 +4191,7 @@ concentration_medium:
   pt_INT:
   ar_SA: 
 concentration_low:
+  fr_FR: Faible
   de_DE: Gering
   en_US: Low
   zh_CN: 低
@@ -4198,6 +4201,7 @@ concentration_low:
   pt_INT:
   ar_SA: 
 where_in_the_uk:
+  fr_FR: Opportunités d'investissement
   de_DE: 
   en_US: Where in the UK
   zh_CN: 
@@ -4207,6 +4211,7 @@ where_in_the_uk:
   pt_INT: 
   ar_SA: 
 investment_opts_involved_in_research:
+  fr_FR: Participez à la recherche pour nous aider à développer le service
   de_DE: An Studien teilnehmen und bei der Gestaltung des Services mitwirken
   en_US: Take part in research to help shape the service
   zh_CN: 参与调查以帮助我们开发服务
@@ -4216,6 +4221,7 @@ investment_opts_involved_in_research:
   pt_INT: Participe na pesquisa para desenvolver o serviço
   ar_SA: شاركوا في الأبحاث لتطوير الخدمة
 investment_opts_get_updates:
+  fr_FR: Obtenir les mises à jour
   de_DE: Neuigkeiten erhalten
   en_US: Get updates
   zh_CN: 获取更新
@@ -4225,6 +4231,7 @@ investment_opts_get_updates:
   pt_INT: Receba atualizações
   ar_SA: الحصول على التحديثات
 investment_opts_map:
+  fr_FR: Carte
   de_DE: Karte
   en_US: Map
   zh_CN: 地图
@@ -4234,6 +4241,7 @@ investment_opts_map:
   pt_INT: ''
   ar_SA: ''
 investment_opts_detail:
+  fr_FR: Détail
   de_DE: Ausführliche Ansicht
   en_US: Detail
   zh_CN: 详细信息
@@ -4243,6 +4251,7 @@ investment_opts_detail:
   pt_INT: ''
   ar_SA: ''
 investment_opts_region:
+  fr_FR: 'Région'
   de_DE: 'Region'
   en_US: 'Region'
   zh_CN: '区域'
@@ -4252,6 +4261,7 @@ investment_opts_region:
   pt_INT: ''
   ar_SA: ''
 investment_opts_select_industry:
+  fr_FR: Choisissez une industrie
   de_DE: Wählen Sie eine Branche
   en_US: Choose an industry
   zh_CN: 选择行业
@@ -4261,6 +4271,7 @@ investment_opts_select_industry:
   pt_INT: ''
   ar_SA: ''
 investment_opts_using_the_service:
+  fr_FR: 'Pour utiliser ce service'
   de_DE: 'Nutzung dieses Dienstes'
   en_US: 'To use this service'
   zh_CN: 服务使用指南
@@ -4270,6 +4281,7 @@ investment_opts_using_the_service:
   pt_INT: ''
   ar_SA: ''
 investment_opts_businesses:
+  fr_FR: 'Emplacement des entreprises importantes dans l'industrie'
   de_DE: 'Beliebte Regionen'
   en_US: 'Location of significant businesses in the industry'
   zh_CN: '热门地区'
@@ -4279,6 +4291,7 @@ investment_opts_businesses:
   pt_INT: ''
   ar_SA: ''
 investment_opts_businesses_detail:
+  fr_FR: ''
   de_DE: 'Unternehmen mit bedeutendem Einfluss in der ausgewählten Branche'
   en_US: ''
   zh_CN: '在所选行业有重大影响力的企业'
@@ -4288,6 +4301,7 @@ investment_opts_businesses_detail:
   pt_INT: ''
   ar_SA: ''
 investment_opts_finance_and_incentives:
+  fr_FR: 'Finance et incitations'
   de_DE: 'Finanzierung und Anreize'
   en_US: 'Finance and incentives'
   zh_CN: '当地激励措施'
@@ -4297,6 +4311,7 @@ investment_opts_finance_and_incentives:
   pt_INT: ''
   ar_SA: ''
 investment_opts_centres_of_excellence:
+  fr_FR: 'Emplacement des centres de recherche et de développement'
   de_DE: 'Forschung und Entwicklung'
   en_US: 'Location of research and development hubs'
   zh_CN: '研究与开发'
@@ -4306,6 +4321,7 @@ investment_opts_centres_of_excellence:
   pt_INT: ''
   ar_SA: ''
 investment_opts_centres_of_excellence_detail:
+  fr_FR: ''
   de_DE: 'Branchenspezifische Forschungs- und Entwicklungszentren'
   en_US: ''
   zh_CN: '行业特定的研究和开发中心'
