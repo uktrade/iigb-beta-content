@@ -450,7 +450,7 @@ form_investment_project:
  pt_INT: Fale-nos sobre o seu investimento
  ar_SA: أخبرنا عن الاستثمار الذي تريد القيام به
 form_enter_investment_details:
- 
+ fr_FR: Fournissez des détails sur vos projets d'investissement au Royaume-Uni
  de_DE: Bitte machen Sie Angaben zu Ihren Investitionsplänen in Großbritannien
  en_US: Provide details about your plans to invest in the UK
  zh_CN: 提供与您的英国投资计划有关的详细信息
@@ -460,6 +460,7 @@ form_enter_investment_details:
  pt_INT: Forneça detalhes sobre os seus planos de investimento no Reino Unido
  ar_SA: تقديم تفاصيل حول خططك  للاستثمار في المملكة المتحدة
 form_investment_details: 
+ fr_FR: Fournissez des détails sur vos projets d'investissement au Royaume-Uni
  de_DE: Bitte machen Sie Angaben zu Ihrem Unternehmen und zu Ihren Plänen in Bezug auf die Höhe der Investition sowie auf operative Pläne und Pläne bezüglich der Einstellung von Mitarbeitern in Großbritannien. Bitte teilen Sie uns auch mit, welche Hilfe Sie von den britischen Behörden erhalten möchten.
  en_US: Tell us about your company and your plans for the UK in terms of the size of investment, operational and recruitment plans. Please also tell us what help you would like from the UK government.
  zh_CN: 向我们告知您的公司和您的英国投资计划的相关信息 - 投资规模以及运营和招聘计划。也请向我们告知您希望英国政府为您提供什么帮助。
@@ -469,6 +470,7 @@ form_investment_details:
  pt_INT: Fale-nos sobre a sua empresa e os seus planos para o Reino Unido em termos da dimensão do investimento e de planos operacionais e de recrutamento. Informe-nos também sobre o tipo de ajuda que desejaria obter do Governo do Reino Unido.
  ar_SA: أخبرنا عن شركتك وخططك المتعلقة بالمملكة المتحدة من حيث حجم الاستثمار وخطط التشغيل والتوظيف. يُرجى أيضًا إخبارنا ما هي المساعدة التي تحتاج أن تقدمها لك حكومة المملكة المتحدة.
 form_enter_annual_turnover:
+ fr_FR: Sélectionnez l'échelle qui reflète votre chiffre d'affaires annuel
  de_DE: Wählen Sie die Option, die Ihrem Jahresumzsatz am besten entspricht
  en_US: Select the range that reflects your annual turnover
  zh_CN: 请选择您的公司目前的大概年收入
@@ -479,6 +481,7 @@ form_enter_annual_turnover:
  ar_SA: حدد النطاق الذي يعكس حجم مبيعاتك السنوية
 form_annual_turnover:
  label:
+   fr_FR: Revenus annuels actuels estimés
    de_DE: Geschätzter derzeitiger Jahresumsatz
    en_US: Estimated current annual revenue
    zh_CN: 公司目前估计的年收入
