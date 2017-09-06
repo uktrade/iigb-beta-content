@@ -497,6 +497,13 @@ form_annual_turnover:
    '3': £10 million to £50 million
    '4': £50 million to £100 million
    '5': More than £100 million
+   fr_FR:
+   - Moins de 100 000 £
+   - Entre 100 000 £ et 1 million £
+   - Entre 1 million £ et 10 millions £
+   - Entre 10 millions £ et 50 millions £
+   - Entre 50 millions £ et 100 millions £
+   - Plus de 100 millions £
    de_DE:
    - Unter 100.000 £
    - Zwischen 100.000 £ und 1 Million £
