@@ -4051,6 +4051,7 @@ form_enter_page_title:
  pt_INT: 
  ar_SA:  
 feedback_name:
+ fr_FR: Nom
  de_DE: Vollständiger Name
  en_US: Name
  zh_CN: 您的姓名
@@ -4060,6 +4061,7 @@ feedback_name:
  pt_INT: Nome
  ar_SA: الاسم 
 feedback_email:
+ fr_FR: E-mail
  de_DE: E-Mail
  en_US: Email
  zh_CN: 工作电子邮件
@@ -4069,6 +4071,7 @@ feedback_email:
  pt_INT: E-mail
  ar_SA: ﺎﻠﺑﺮﻳﺩ ﺍﻺﻠﻜﺗﺭﻮﻨﻳ ﻞﻠﻌﻤﻟ
 feedback_feedback:
+ fr_FR: Commentaires
  de_DE: Feedback
  en_US: Feedback
  zh_CN: 电子邮件
@@ -4078,6 +4081,7 @@ feedback_feedback:
  pt_INT: Comentários
  ar_SA: 
 feedback_page_title:
+ fr_FR: Titre de la page
  de_DE: Seitentitel
  en_US: Page title
  zh_CN: 页面标题
@@ -4087,6 +4091,7 @@ feedback_page_title:
  pt_INT: Título da página
  ar_SA:
 report_problem:
+ fr_FR: Signalez un problème
  de_DE: Ein Problem melden
  en_US: Report an issue
  zh_CN: 报告问题
@@ -4096,6 +4101,7 @@ report_problem:
  pt_INT: Relatar um problema
  ar_SA: 
 report_problem_placeholder:
+ fr_FR: Indiquez le nom de la page comportant le problème, en donnant le plus de détails possible.
  de_DE: Please include the name of the page with the issue, and as much detail as possible.
  en_US: Please include the name of the page with the issue, and as much detail as possible.
  zh_CN: Please include the name of the page with the issue, and as much detail as possible.
@@ -4105,6 +4111,7 @@ report_problem_placeholder:
  pt_INT: ''
  ar_SA: 
 language:
+  fr_FR: Langue
   de_DE: Sprache
   en_US: Language
   zh_CN: 语言
@@ -4114,6 +4121,7 @@ language:
   pt_INT: Lingua
   ar_SA: اللغة
 choose_language:
+  fr_FR: Choisissez votre langue
   de_DE: Wählen Sie Ihre Sprache
   en_US: Choose your language
   zh_CN: 选择语言
@@ -4123,6 +4131,7 @@ choose_language:
   pt_INT: Escolha a sua língua
   ar_SA: اختيار اللغة
 close:
+  fr_FR: Fermer
   de_DE: Schließen
   en_US: Close
   zh_CN: 关闭
@@ -4132,6 +4141,7 @@ close:
   pt_INT: Fechar
   ar_SA: إغلاق
 country_region:
+  fr_FR: Pays/région
   de_DE: Land/Region
   en_US: Country/region
   zh_CN: 国家/地区
@@ -4141,6 +4151,7 @@ country_region:
   pt_INT: País/região
   ar_SA: الدولة/المنطقة
 country_text:
+  fr_FR: Nous fournissons également des informations sur les investissements spécifiques aux régions.
   de_DE: Wir bieten auch regionsspezifische Investitionsinformationen an.
   en_US: We also provide region specific investment information.
   zh_CN: 我们还提供特定地区的投资信息
@@ -4150,6 +4161,7 @@ country_text:
   pt_INT: Também fornecemos informações de investimento específicas para cada região.
   ar_SA: نقدم أيضًا معلومات عن الاستثمار حسب المنطقة
 location_guide:
+  fr_FR: Guide des emplacements
   de_DE: Standortführer
   en_US: Location guide
   zh_CN: 定位指南
