@@ -4171,6 +4171,7 @@ location_guide:
   pt_INT: Guia de localização
   ar_SA: دليل الأماكن
 concentration_high:
+  fr_FR: Élevé
   de_DE: Hoch
   en_US: High
   zh_CN: 高
