@@ -450,7 +450,7 @@ form_investment_project:
  pt_INT: Fale-nos sobre o seu investimento
  ar_SA: أخبرنا عن الاستثمار الذي تريد القيام به
 form_enter_investment_details:
- 
+ fr_FR: Fournissez des détails sur vos plans pour investir au Royaume-Uni
  de_DE: Bitte machen Sie Angaben zu Ihren Investitionsplänen in Großbritannien
  en_US: Provide details about your plans to invest in the UK
  zh_CN: 提供与您的英国投资计划有关的详细信息
@@ -460,6 +460,7 @@ form_enter_investment_details:
  pt_INT: Forneça detalhes sobre os seus planos de investimento no Reino Unido
  ar_SA: تقديم تفاصيل حول خططك  للاستثمار في المملكة المتحدة
 form_investment_details: 
+ fr_FR: Fournissez des détails sur vos projets d'investissement au Royaume-Uni
  de_DE: Bitte machen Sie Angaben zu Ihrem Unternehmen und zu Ihren Plänen in Bezug auf die Höhe der Investition sowie auf operative Pläne und Pläne bezüglich der Einstellung von Mitarbeitern in Großbritannien. Bitte teilen Sie uns auch mit, welche Hilfe Sie von den britischen Behörden erhalten möchten.
  en_US: Tell us about your company and your plans for the UK in terms of the size of investment, operational and recruitment plans. Please also tell us what help you would like from the UK government.
  zh_CN: 向我们告知您的公司和您的英国投资计划的相关信息 - 投资规模以及运营和招聘计划。也请向我们告知您希望英国政府为您提供什么帮助。
@@ -469,6 +470,9 @@ form_investment_details:
  pt_INT: Fale-nos sobre a sua empresa e os seus planos para o Reino Unido em termos da dimensão do investimento e de planos operacionais e de recrutamento. Informe-nos também sobre o tipo de ajuda que desejaria obter do Governo do Reino Unido.
  ar_SA: أخبرنا عن شركتك وخططك المتعلقة بالمملكة المتحدة من حيث حجم الاستثمار وخطط التشغيل والتوظيف. يُرجى أيضًا إخبارنا ما هي المساعدة التي تحتاج أن تقدمها لك حكومة المملكة المتحدة.
 form_enter_annual_turnover:
+ fr_FR: Revenus annuels actuels estimés
+form_annual_turnover:
+ fr_FR: Sélectionnez l'échelle qui reflète votre chiffre d'affaires annuel
  de_DE: Wählen Sie die Option, die Ihrem Jahresumzsatz am besten entspricht
  en_US: Select the range that reflects your annual turnover
  zh_CN: 请选择您的公司目前的大概年收入
@@ -479,6 +483,7 @@ form_enter_annual_turnover:
  ar_SA: حدد النطاق الذي يعكس حجم مبيعاتك السنوية
 form_annual_turnover:
  label:
+   fr_FR: Chiffre d'affaires annuel
    de_DE: Geschätzter derzeitiger Jahresumsatz
    en_US: Estimated current annual revenue
    zh_CN: 公司目前估计的年收入
@@ -494,6 +499,13 @@ form_annual_turnover:
    '3': £10 million to £50 million
    '4': £50 million to £100 million
    '5': More than £100 million
+    fr_FR:
+   - Moins de 100 000 £
+   - Entre 100 000 £ et 1 million £
+   - Entre 1 million £ et 10 millions £
+   - Entre 10 millions £ et 50 millions £
+   - Entre 50 millions £ et 100 millions £
+   - Plus de 100 millions £
    de_DE:
    - Unter 100.000 £
    - Zwischen 100.000 £ und 1 Million £
@@ -551,6 +563,7 @@ form_annual_turnover:
    - Between £50 million and £100 million
    - More than £100 million
 form_enter_staff_number:
+ fr_FR: Sélectionnez le nombre total d'employés
  de_DE: Wählen Sie die Option, die Ihrer Mitarbeiteranzehl am besten entspricht
  en_US: Select your total number of staff
  zh_CN: 选择您的员工总数
@@ -561,6 +574,7 @@ form_enter_staff_number:
  ar_SA: حدد العدد الإجمالي للموظفين لديك
 form_staff_number:
  label:
+   fr_FR: Nombre total actuel d'employés
    de_DE: Geschätzte derzeitige Mitarbeiteranzahl
    en_US: Total current number of staff
    zh_CN: 当前员工总数
@@ -574,6 +588,11 @@ form_staff_number:
    '1': 10 to 50
    '2': 51 to 250
    '3': More than 250
+   fr_FR:
+   - Moins de 10
+   - 10 à 50
+   - 51 à 250
+   - Plus de 250
    de_DE:
    - Weniger als 10
    - Zwischen 10 und 50
@@ -615,6 +634,7 @@ form_staff_number:
    - من 51 إلى 250
    - أكثر من 250
 form_location:
+ fr_FR: Vous intéressez-vous à un emplacement spécifique au Royaume-Uni?
  de_DE: Interessieren Sie sich für einen bestimmten Standort in Großbritannien?
  en_US: Are you considering a specific location in the UK?
  zh_CN: 您是否正在考虑在英国的一个特定的位置?
@@ -624,6 +644,7 @@ form_location:
  pt_INT: Está a considerar um local específico no Reino Unido?
  ar_SA: هل تفكر في موقع محدد في المملكة المتحدة؟
 form_enter_which_part:
+ fr_FR: Sélectionnez un emplacement
  de_DE: Bitte wählen Sie einen Standort aus
  en_US: Select a location
  zh_CN: 请选择您的首选英国位置？
@@ -634,6 +655,7 @@ form_enter_which_part:
  ar_SA: أين يوجد موقعك الرئيسي?
 form_which_part:
  label:
+   fr_FR: Où est votre emplacement principal?
    de_DE: Wo ist ihr Hauptstandort?
    en_US: Where is your primary location?
    zh_CN: 您的首选英国位置?
@@ -653,6 +675,17 @@ form_which_part:
    '7': Aberdeen and North Eastern Scotland
    '8': Belfast and Northern Ireland
    '9': Nottingham and East Midlands
+   fr_FR:
+   - Londres et le Sud-Est
+   - Bristol et le Sud-Ouest
+   - Birmingham et les West Midlands
+   - Manchester et le Nord-Ouest
+   - Newcastle et le Nord-Est
+   - Cardiff et le Pays de Galles
+   - Édimbourg et le Sud de l'Écosse
+   - Aberdeen et le Nord-Est de l'Écosse 
+   - Belfast et l'Irlande du Nord
+   - Nottingham et les East Midlands
    de_DE:
    - London und der Südosten
    - Bristol und der Südwesten
@@ -742,6 +775,7 @@ form_which_part:
    - Belfast and Northern Ireland
    - Nottingham and East Midlands
 form_enter_when:
+
  de_DE: Geben Sie ein ungefähres Startdatum für die Aufnahme Ihrer Geschäfte in Großbritannien ein
  en_US: Enter the approximate date you want to be operating in the UK
  zh_CN: 请输入您預期在英国的业务运行的日子
@@ -751,6 +785,7 @@ form_enter_when:
  pt_INT: Introduza a data aproximada em que pretende estar a operar no Reino Unido
  ar_SA: أدخل التاريخ التقريبي الذي ترغب أن تبدأ عملك فيه في المملكة المتحدة
 form_when:
+
  de_DE: Geben Sie ein ungefähres Startdatum für die Aufnahme Ihrer Geschäfte im Vereinigten Königreich ein?
  en_US: When do you hope to have your business running in the UK (month/year)
  zh_CN: 您預期在英国的业务运行的日子
@@ -761,6 +796,7 @@ form_when:
  ar_SA: متى تأمل أن تدير عملك في المملكة المتحدة (الشهر/العام)؟
 form_when_month:
  label:
+ 
    de_DE: Monat
    en_US: month
    zh_CN: 月
@@ -782,6 +818,7 @@ form_when_month:
    '9': October
    '10': November
    '11': December
+   
    de_DE:
    - Januar
    - Februar
@@ -888,6 +925,7 @@ form_when_month:
    - December
 form_when_year:
  label:
+ 
    de_DE: Jahr
    en_US: year
    zh_CN: 年
@@ -907,6 +945,7 @@ form_when_year:
    '7': '2024'
    '8': '2025'
    '9': '2026'
+   
    de_DE:
    - '2017'
    - '2018'
@@ -996,6 +1035,7 @@ form_when_year:
    - '2025'
    - '2026'
 form_company:
+
  de_DE: Ihr Unternehmen
  en_US: Your company
  zh_CN: 您的公司
@@ -1005,6 +1045,7 @@ form_company:
  pt_INT: A sua empresa
  ar_SA: الشركة
 form_company_nf:
+
  de_DE: Ihr Unternehmen
  en_US: Your company 
  zh_CN: 您的公司
@@ -1014,6 +1055,7 @@ form_company_nf:
  pt_INT: A sua empresa
  ar_SA: الشركة
 form_company_reason:
+
  de_DE: Helfen Sie uns, Ihren aktuellen Betrieb zu verstehen
  en_US: Help us understand your current operations
  zh_CN: 帮助我们了解您目前的业务
@@ -1023,6 +1065,7 @@ form_company_reason:
  pt_INT: Ajude-nos a compreender as suas operações atuais
  ar_SA: ساعدنا على فهم عملياتك الحالية
 form_registered_company:
+
  de_DE: Eingetragener Firmenname
  en_US: Company name
  zh_CN: 公司名称
@@ -1032,6 +1075,7 @@ form_registered_company:
  pt_INT: Nome da empresa registado
  ar_SA: اسم الشركة
 form_enter_registered_company:
+
  de_DE: Geben Sie Ihren eingetragenen Unternehmensnamen ein
  en_US: Enter your company name
  zh_CN: 输入您的公司名称
@@ -1041,6 +1085,7 @@ form_enter_registered_company:
  pt_INT: Introduza o nome registado da sua empresa
  ar_SA: أدخل اسم شركتك
 form_website:
+
  de_DE: Internetadresse Ihres Unternehmens
  en_US: Company website address (optional)
  zh_CN: 公司网站地址
@@ -1050,6 +1095,7 @@ form_website:
  pt_INT: Endereço do website da empresa (opcional)
  ar_SA: أدخل عنوان موقع ويب الشركة
 form_website_nf:
+
  de_DE: Unternehmenswebseite
  en_US: Company website
  zh_CN: 公司网站
@@ -1068,6 +1114,7 @@ form_enter_website:
  pt_INT: Introduza o endereço do website da sua empresa
  ar_SA: 
 form_enter_website_nf:
+
  de_DE: Unternehmenswebseite eingeben
  en_US: Enter your website address or check the box below
  zh_CN: 请输入您的公司网站地址
@@ -1077,6 +1124,7 @@ form_enter_website_nf:
  pt_INT: Introduza o endereço do Website da sua empresa
  ar_SA: أدخل عنوان موقع ويب الشركة
 form_do_not_have_website:
+
  de_DE: Ich habe keine Webseite
  en_US: I do not have a website 
  zh_CN: 我没有网站
@@ -1086,6 +1134,7 @@ form_do_not_have_website:
  pt_INT: Não tenho um Website
  ar_SA: ليس لدي موقع ويب
 form_enter_primary_industry:
+
  de_DE: Wählen Sie die Branche aus, in der Sie hauptsächlich tätig sind, aus oder wählen Sie "Sonstiges"
  en_US: Select the industry you mainly operate in or select Other
  zh_CN: 请选择您的主要经营行业
@@ -1096,6 +1145,7 @@ form_enter_primary_industry:
  ar_SA: حدد القطاع الذي تعمل فيه بشكل أساسي أو اختر "غير ذلك"
 form_primary_industry:
  label:
+ 
    de_DE: Hauptbranche
    en_US: Primary operating industry
    zh_CN: 主要经营行业
@@ -1105,6 +1155,7 @@ form_primary_industry:
    pt_INT: Indústria principal
    ar_SA: قطاع العمل الأساسي
  options:
+ 
    '0' : Advanced manufacturing
    '1' : Aerospace
    '2' : Asset management
@@ -1129,6 +1180,7 @@ form_primary_industry:
    '21' : Retail
    '22' : Technology
    '23' : Other
+   
    de_DE:
    - Fortgeschrittene Fertigungstechnologien
    - Luftfahrt
@@ -1330,6 +1382,7 @@ form_primary_industry:
    - Technology
    - Other
 form_other:
+
  de_DE: Sonstiges
  en_US: Other
  zh_CN: 其他
@@ -1339,6 +1392,7 @@ form_other:
  pt_INT: Outra
  ar_SA: 
 form_enter_other:
+
  de_DE: Geben Sie Ihre Branche ein
  en_US: Enter your industry
  zh_CN: 请输入您的行业
@@ -1348,6 +1402,7 @@ form_enter_other:
  pt_INT: Introduza a sua indústria
  ar_SA: غير ذلك
 form_mailing_list:
+
  de_DE: Das Department for International Trade und Ihre Partner könnten Ihre Daten verwenden um Ihnen relevante Neuigkeiten und Informationen zuzusenden.
  en_US: The Department for International Trade and its partners might use your details to send you relevant news and information.
  zh_CN: 国际贸易部及其合作伙伴可能会使用您的联系方式向您发送相关的新闻和信息
@@ -1357,6 +1412,7 @@ form_mailing_list:
  pt_INT: O Departamento do Comércio Internacional (Department for International Trade) e os respetivos parceiros poderão utilizar os seus detalhes para lhe enviar notícias e informações relevantes
  ar_SA: قد تستخدم وزارة التجارة الدولية وشركاؤها بياناتكم لترسل لكم الأخبار والمعلومات ذات الصلة
 form_enter_mailing_list:
+
  de_DE: Bitte geben Sie an, ob Sie relevante Neuigkeiten und Informationen erhlten wollen.
  en_US: Select whether you'd like to receive relevant news and information
  zh_CN: Select whether you'd like to receive relevant news and information:CN
@@ -1366,6 +1422,7 @@ form_enter_mailing_list:
  pt_INT: Select whether you'd like to receive relevant news and information:BR
  ar_SA: 
 form_mailing_list_confirmation:
+
  de_DE: Ja, Ich möchte solche Informationen bekommen.
  en_US: Yes, I would like to get this information.
  zh_CN: 我希望收到相关的新闻和信息
@@ -1375,6 +1432,7 @@ form_mailing_list_confirmation:
  pt_INT: Sim, gostaria de receber essas informações
  ar_SA: نعم، أود الحصول على هذه المعلومات
 form_use_of_info: 
+
  de_DE: Wir verwenden diese Angaben, um Sie mit Ihrer nächsten britischen Botschaft oder Ihrem nächsten britischen Hochkommissariat in Verbindung zu setzen.
  en_US: We will use this information to put you in touch with your closest British embassy or high commission.
  zh_CN: 我们将使用此信息来安排您联系最靠近您的英国大使馆或特派使节团。
@@ -1384,6 +1442,7 @@ form_use_of_info:
  pt_INT: Estas informações serão utilizadas para o colocar em contacto com a embaixada ou alto comissariado britânico mais próximo de si.
  ar_SA: سنستخدم هذه المعلومات لنساعدك في التواصل مع السفارة البريطانية أو اللجنة العليا الأقرب إليك.
 form_enter_headquarters:
+
  de_DE: Geben Sie das Land Ihres Unternehmenshauptsitzes ein
  en_US: Enter the country where your company has its headquarters
  zh_CN: 请输入您的公司总部所在国家
@@ -1393,6 +1452,7 @@ form_enter_headquarters:
  pt_INT: Introduza o país onde a sua empresa está sediada
  ar_SA: أدخل الدولة التي يقع بها المقر الرئيسي لشركتك
 form_enter_headquarters_nf:
+
  de_DE: Land eingeben
  en_US: Enter your country
  zh_CN: 开始键入信息以选择国家/地区。
@@ -1402,6 +1462,7 @@ form_enter_headquarters_nf:
  pt_INT: Introduza o seu país
  ar_SA: أدخل بلدك
 form_enter_headquarters_help:
+
  de_DE: Bitte geben Sie hier Text ein damit Sie eine Auswahl machen können.
  en_US: Start typing to select a country.
  zh_CN: 开始输入并选择一个选项
@@ -1412,6 +1473,7 @@ form_enter_headquarters_help:
  ar_SA: ابدأ بالكتابة لتحديد بلدك.
 form_headquarters:
  label:
+ 
    de_DE: Hauptsitz ihres Unternehmens
    en_US: Which country are you based in?
    zh_CN: 您位于哪个国家/地区？
@@ -1670,6 +1732,256 @@ form_headquarters:
    '246': South Africa
    '247': Zambia
    '248': Zimbabwe
+    fr_FR:
+   - Andorre
+   - Émirats Arabes Unis
+   - Afghanistan
+   - Antigua-et-Barbuda
+   - Anguilla
+   - Albanie
+   - Arménie
+   - Angola
+   - Antarctique
+   - Argentine
+   - Samoa américaines
+   - Autriche
+   - Australie
+   - Aruba
+   - Îles Åland
+   - Azerbaïdjan
+   - Bosnie Herzégovine
+   - Barbade
+   - Bangladesh
+   - Belgique
+   - Burkina Faso
+   - Bulgarie
+   - Bahreïn
+   - Burundi
+   - Bénin
+   - Saint-Barthélemy
+   - Bermudes
+   - Brunei Darussalam
+   - Bolivie
+   - Bonaire
+   - Brésil
+   - Bahamas
+   - Bhoutan
+   - Île de Bouvet
+   - Botswana
+   - Biélorussie
+   - Belize
+   - Canada
+   - Îles Cocos (Keeling)
+   - Congo, République démocratique du
+   - République centrafricaine
+   - Congo
+   - Suisse
+   - Côte d'Ivoire
+   - Îles Cook
+   - Chili
+   - Cameroun
+   - Chine
+   - Colombie
+   - Costa Rica
+   - Cuba
+   - Cap-Vert
+   - Curaçao
+   - Île Christmas
+   - Chypre
+   - République Tchèque
+   - Allemagne
+   - Djibouti
+   - Danemark
+   - Dominique
+   - République Dominicaine
+   - Algérie
+   - Équateur
+   - Estonie
+   - Égypte
+   - Sahara occidental
+   - Érythrée
+   - Espagne
+   - Éthiopie
+   - Finlande
+   - Fidji
+   - Îles Malouines
+   - Micronésie, États fédérés de
+   - Îles Féroé
+   - France
+   - Gabon
+   - Royaume-Uni
+   - Grenade
+   - Géorgie
+   - Guinée Française
+   - Guernesey
+   - Ghana
+   - Gibraltar
+   - Groenland
+   - Gambie
+   - Guinée
+   - Guadeloupe
+   - Guinée équatoriale
+   - Grèce
+   - Géorgie du Sud-et-les Îles Sandwich du Sud
+   - Guatemala
+   - Guam
+   - Guinée-Bissau
+   - Guyana
+   - Hong Kong
+   - Îles Heard-et-MacDonald
+   - Honduras
+   - Croatie
+   - Haïti
+   - Hongrie
+   - Indonésie
+   - Irlande
+   - Israël
+   - Île de Man
+   - Inde
+   - Territoire britannique de l'océan Indien
+   - Irak
+   - Iran, République islamique d'
+   - Islande
+   - Italie
+   - Jersey
+   - Jamaïque
+   - Jordanie
+   - Japon
+   - Kenya
+   - Kirghizistan
+   - Cambodge
+   - Kiribati
+   - Comores
+   - Saint-Christophe-et-Niévès
+   - République Populaire Démocratique de Corée
+   - Corée, République de
+   - Koweït
+   - Îles Caïmans
+   - Kazakhstan
+   - République démocratique populaire lao
+   - Liban
+   - Sainte-Lucie
+   - Liechtenstein
+   - Sri Lanka
+   - Liberia
+   - Lesotho
+   - Lituanie
+   - Luxembourg
+   - Lettonie
+   - Jamahiriya arabe libyenne
+   - Maroc
+   - Monaco
+   - Moldavie, République de
+   - Monténégro
+   - Saint-Martin
+   - Madagascar
+   - Îles Marshall
+   - Macédoine, ancienne république yougoslave de
+   - Mali
+   - Myanmar
+   - Mongolie
+   - Macao
+   - Îles Mariannes du Nord
+   - Martinique
+   - Mauritanie
+   - Montserrat
+   - Malte
+   - Maurice
+   - Maldives
+   - Malawi
+   - Mexique
+   - Malaisie
+   - Mozambique
+   - Namibie
+   - Nouvelle Calédonie
+   - Niger
+   - Île de Norfolk
+   - Nigeria
+   - Nicaragua
+   - Pays-Bas
+   - Norvège
+   - Népal
+   - Nauru
+   - Niue
+   - Nouvelle-Zélande
+   - Oman
+   - Panama
+   - Pérou
+   - Polynésie française
+   - Papouasie Nouvelle Guinée
+   - Philippines
+   - Pakistan
+   - Pologne
+   - Saint-Pierre-et-Miquelon
+   - Pitcairn
+   - Porto Rico
+   - Territoires palestiniens occupés
+   - Portugal
+   - Palau
+   - Paraguay
+   - Qatar
+   - Réunion
+   - Roumanie
+   - Serbie
+   - Fédération de Russie
+   - Rwanda
+   - Arabie Saoudite
+   - Îles Salomon
+   - Seychelles
+   - Soudan
+   - Suède
+   - Singapour
+   - Sainte-Hélène
+   - Slovénie
+   - Svalbard et Jan Mayen
+   - Slovaquie
+   - Sierra Leone
+   - Saint-Marin
+   - Sénégal
+   - Somalie
+   - Suriname
+   - Soudan du Sud
+   - Sao Tomé-et-Principe
+   - Salvador
+   - Saint-Martin
+   - République arabe syrienne
+   - Swaziland
+   - Îles Turques-et-Caïques
+   - Tchad
+   - Territoires du Sud français
+   - Togo
+   - Thaïlande
+   - Tadjikistan
+   - Tokélaou
+   - Timor oriental
+   - Turkménistan
+   - Tunisie
+   - Tonga
+   - Turquie
+   - Trinité-et-Tobago
+   - Tuvalu
+   - Taïwan
+   - Tanzanie, République unie de
+   - Ukraine
+   - Ouganda
+   - Îles mineures éloignées des États-Unis
+   - États-Unis
+   - Uruguay
+   - Ouzbékistan
+   - Saint-Siège (État de la Cité du Vatican)
+   - Saint-Vincent-et-les-Grenadines
+   - Venezuela
+   - Îles Vierges britanniques
+   - Îles Vierges américaines
+   - Viêt Nam
+   - Vanuatu
+   - Wallis-et-Futuna
+   - Samoa
+   - Yémen
+   - Mayotte
+   - Afrique du Sud
+   - Zambie
+   - Zimbabwe
    de_DE:
    - Andorra
    - Vereinigte Arabische Emirate
