@@ -4221,6 +4221,7 @@ investment_opts_involved_in_research:
   pt_INT: Participe na pesquisa para desenvolver o serviço
   ar_SA: شاركوا في الأبحاث لتطوير الخدمة
 investment_opts_get_updates:
+  fr_FR: Obtenir les mises à jour
   de_DE: Neuigkeiten erhalten
   en_US: Get updates
   zh_CN: 获取更新
@@ -4230,6 +4231,7 @@ investment_opts_get_updates:
   pt_INT: Receba atualizações
   ar_SA: الحصول على التحديثات
 investment_opts_map:
+  fr_FR: Carte
   de_DE: Karte
   en_US: Map
   zh_CN: 地图
@@ -4239,6 +4241,7 @@ investment_opts_map:
   pt_INT: ''
   ar_SA: ''
 investment_opts_detail:
+  fr_FR: Détail
   de_DE: Ausführliche Ansicht
   en_US: Detail
   zh_CN: 详细信息
@@ -4248,6 +4251,7 @@ investment_opts_detail:
   pt_INT: ''
   ar_SA: ''
 investment_opts_region:
+  fr_FR: 'Région'
   de_DE: 'Region'
   en_US: 'Region'
   zh_CN: '区域'
@@ -4257,6 +4261,7 @@ investment_opts_region:
   pt_INT: ''
   ar_SA: ''
 investment_opts_select_industry:
+  fr_FR: Choisissez une industrie
   de_DE: Wählen Sie eine Branche
   en_US: Choose an industry
   zh_CN: 选择行业
