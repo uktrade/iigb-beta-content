@@ -4315,6 +4315,7 @@ investment_opts_finance_and_incentives:
   pt_INT: ''
   ar_SA: ''
 investment_opts_centres_of_excellence:
+  fr_FR: ''
   de_DE: 'Forschung und Entwicklung'
   en_US: 'Location of research and development hubs'
   zh_CN: '研究与开发'
@@ -4585,7 +4586,7 @@ sectors:
     pt_INT: ''
     ar_SA: ''
   technology:
-  	 fr_FR: 'Technologie'
+    fr_FR: 'Technologie'
     de_DE: 'Technologie'
     en_US: 'Technology'
     zh_CN: '技术'
@@ -4595,6 +4596,7 @@ sectors:
     pt_INT: ''
     ar_SA: ''
 where_to_invest:
+   fr_FR: ''
    de_DE: ''
    en_US: 'Where to invest'
    zh_CN: ''
@@ -4604,6 +4606,7 @@ where_to_invest:
    pt_INT: ''
    ar_SA: ''
 select_your_industry:
+   fr_FR: ''
    de_DE: ''
    en_US: 'Select your industry'
    zh_CN: ''
@@ -4613,6 +4616,7 @@ select_your_industry:
    pt_INT: ''
    ar_SA: ''
 choose_a_comparator:
+   fr_FR: ''
    de_DE: ''
    en_US: 'Choose a comparator:'
    zh_CN: ''
@@ -4622,6 +4626,7 @@ choose_a_comparator:
    pt_INT: ''
    ar_SA: ''
 in_uk:
+   fr_FR: ''
    de_DE: ''
    en_US: 'in the UK'
    zh_CN: ''
@@ -4631,6 +4636,7 @@ in_uk:
    pt_INT: ''
    ar_SA: ''
 for:
+   fr_FR: ''
    de_DE: ''
    en_US: 'for'
    zh_CN: ''
@@ -4640,6 +4646,7 @@ for:
    pt_INT: ''
    ar_SA: ''
 the:
+   fr_FR: ''
    de_DE: ''
    en_US: 'the'
    zh_CN: ''
@@ -4649,6 +4656,7 @@ the:
    pt_INT: ''
    ar_SA: ''
 find_best_region:
+   fr_FR: ''
    de_DE: ''
    en_US: 'Find the best area for your investment'
    zh_CN: ''
@@ -4658,6 +4666,7 @@ find_best_region:
    pt_INT: ''
    ar_SA: ''
 change_industry:
+   fr_FR: ''
    de_DE: ''
    en_US: 'Change industry'
    zh_CN: ''
@@ -4667,6 +4676,7 @@ change_industry:
    pt_INT: ''
    ar_SA: ''
 select_comparator:
+   fr_FR: ''
    de_DE: ''
    en_US: 'Find out about:'
    zh_CN: ''
@@ -4676,6 +4686,7 @@ select_comparator:
    pt_INT: ''
    ar_SA: ''
 showing:
+   fr_FR: ''
    de_DE: ''
    en_US: 'Showing'
    zh_CN: ''
@@ -4685,6 +4696,7 @@ showing:
    pt_INT: ''
    ar_SA: ''
 summary_of:
+   fr_FR: ''
    de_DE: ''
    en_US: 'Summary of'
    zh_CN: ''
@@ -4694,6 +4706,7 @@ summary_of:
    pt_INT: ''
    ar_SA: ''
 business_clusters:
+   fr_FR: ''
    de_DE: ''
    en_US: 'business clusters'
    zh_CN: ''
@@ -4703,6 +4716,7 @@ business_clusters:
    pt_INT: ''
    ar_SA: ''
 universities:
+   fr_FR: ''
    de_DE: ''
    en_US: 'Universities'
    zh_CN: ''
@@ -4712,6 +4726,7 @@ universities:
    pt_INT: ''
    ar_SA: ''
 salary:
+   fr_FR: ''
    de_DE: ''
    en_US: 'Local salary variations'
    zh_CN: ''
@@ -4721,6 +4736,7 @@ salary:
    pt_INT: ''
    ar_SA: ''
 research_and_development_hubs:
+   fr_FR: ''
    de_DE: ''
    en_US: 'Research and development centres for'
    zh_CN: ''
@@ -4730,6 +4746,7 @@ research_and_development_hubs:
    pt_INT: ''
    ar_SA: ''
 rd_hubs:
+   fr_FR: ''
    de_DE: ''
    en_US: 'Number of R&D centres'
    zh_CN: ''
@@ -4739,6 +4756,7 @@ rd_hubs:
    pt_INT: ''
    ar_SA: ''
 enterprise_zones:
+   fr_FR: ''
    de_DE: ''
    en_US: 'Enterprise zones for'
    zh_CN: ''
@@ -4748,6 +4766,7 @@ enterprise_zones:
    pt_INT: ''
    ar_SA: ''
 ez:
+   fr_FR: ''
    de_DE: ''
    en_US: 'Number of enterprise zones'
    zh_CN: ''
@@ -4757,6 +4776,7 @@ ez:
    pt_INT: ''
    ar_SA: ''
 airports:
+   fr_FR: ''
    de_DE: ''
    en_US: 'Airports'
    zh_CN: ''
@@ -4766,6 +4786,7 @@ airports:
    pt_INT: ''
    ar_SA: ''
 university:
+   fr_FR: ''
    de_DE: ''
    en_US: 'University'
    zh_CN: ''
@@ -4775,6 +4796,7 @@ university:
    pt_INT: ''
    ar_SA: ''
 region:
+   fr_FR: ''
    de_DE: ''
    en_US: 'Region'
    zh_CN: ''
@@ -4784,6 +4806,7 @@ region:
    pt_INT: ''
    ar_SA: ''
 area:
+   fr_FR: ''
    de_DE: ''
    en_US: 'Area'
    zh_CN: ''
@@ -4793,6 +4816,7 @@ area:
    pt_INT: ''
    ar_SA: ''
 salary_difference:
+   fr_FR: ''
    de_DE: ''
    en_US: 'Salary variation'
    zh_CN: ''
@@ -4802,6 +4826,7 @@ salary_difference:
    pt_INT: ''
    ar_SA: ''
 map_indicator:
+   fr_FR: ''
    de_DE: ''
    en_US: 'Map Indicator'
    zh_CN: ''
@@ -4811,6 +4836,7 @@ map_indicator:
    pt_INT: ''
    ar_SA: ''
 Airport:
+   fr_FR: ''
    de_DE: ''
    en_US: 'Airport'
    zh_CN: ''
@@ -4820,6 +4846,7 @@ Airport:
    pt_INT: ''
    ar_SA: ''
 destinations:
+   fr_FR: ''
    de_DE: ''
    en_US: 'Destinations'
    zh_CN: ''
@@ -4829,6 +4856,7 @@ destinations:
    pt_INT: ''
    ar_SA: ''
 UK:
+   fr_FR: ''
    de_DE: ''
    en_US: 'UK'
    zh_CN: ''
@@ -4838,6 +4866,7 @@ UK:
    pt_INT: ''
    ar_SA: ''
 European:
+   fr_FR: ''
    de_DE: ''
    en_US: 'European'
    zh_CN: ''
@@ -4847,6 +4876,7 @@ European:
    pt_INT: ''
    ar_SA: ''
 Americas:
+   fr_FR: ''
    de_DE: ''
    en_US: 'Americas'
    zh_CN: ''
@@ -4856,6 +4886,7 @@ Americas:
    pt_INT: ''
    ar_SA: ''
 Africa:
+   fr_FR: ''
    de_DE: ''
    en_US: 'Africa'
    zh_CN: ''
@@ -4865,6 +4896,7 @@ Africa:
    pt_INT: ''
    ar_SA: ''
 Asia:
+   fr_FR: ''
    de_DE: ''
    en_US: 'Asia'
    zh_CN: ''
@@ -4874,6 +4906,7 @@ Asia:
    pt_INT: ''
    ar_SA: ''
 Australasia:
+   fr_FR: ''
    de_DE: ''
    en_US: 'Australasia'
    zh_CN: ''
@@ -4883,6 +4916,7 @@ Australasia:
    pt_INT: ''
    ar_SA: ''
 in:
+   fr_FR: ''
    de_DE: ''
    en_US: 'in'
    zh_CN: ''
@@ -4892,6 +4926,7 @@ in:
    pt_INT: ''
    ar_SA: ''
 investing_in:
+   fr_FR: ''
    de_DE: ''
    en_US: 'Investing in'
    zh_CN: ''
@@ -4901,6 +4936,7 @@ investing_in:
    pt_INT: ''
    ar_SA: ''
 source:
+   fr_FR: ''
    de_DE: ''
    en_US: 'Source:'
    zh_CN: ''
@@ -4910,6 +4946,7 @@ source:
    pt_INT: ''
    ar_SA: ''
 about:
+   fr_FR: ''
    de_DE: ''
    en_US: 'About'
    zh_CN: ''
@@ -4919,6 +4956,7 @@ about:
    pt_INT: ''
    ar_SA: ''
 mapOf:
+   fr_FR: ''
    de_DE: ''
    en_US: 'Map of'
    zh_CN: ''
@@ -4928,6 +4966,7 @@ mapOf:
    pt_INT: ''
    ar_SA: ''
 show_cities:
+   fr_FR: ''
    de_DE: ''
    en_US: 'Show cities'
    zh_CN: ''
@@ -4937,6 +4976,7 @@ show_cities:
    pt_INT: ''
    ar_SA: ''
 hide_cities:
+   fr_FR: '' 
    de_DE: ''
    en_US: 'Hide cities'
    zh_CN: ''
