@@ -481,7 +481,7 @@ form_enter_annual_turnover:
  ar_SA: حدد النطاق الذي يعكس حجم مبيعاتك السنوية
 form_annual_turnover:
  label:
-   fr_FR: Revenus annuels actuels estimés
+   fr_FR: Chiffre d'affaires annuel
    de_DE: Geschätzter derzeitiger Jahresumsatz
    en_US: Estimated current annual revenue
    zh_CN: 公司目前估计的年收入
@@ -497,7 +497,7 @@ form_annual_turnover:
    '3': £10 million to £50 million
    '4': £50 million to £100 million
    '5': More than £100 million
-   fr_FR:
+    fr_FR:
    - Moins de 100 000 £
    - Entre 100 000 £ et 1 million £
    - Entre 1 million £ et 10 millions £
