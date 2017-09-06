@@ -1461,6 +1461,7 @@ form_enter_mailing_list:
  pt_INT: Select whether you'd like to receive relevant news and information:BR
  ar_SA: 
 form_mailing_list_confirmation:
+ fr_FR: Oui, j'aimerais recevoir ces informations.
  de_DE: Ja, Ich möchte solche Informationen bekommen.
  en_US: Yes, I would like to get this information.
  zh_CN: 我希望收到相关的新闻和信息
@@ -1479,6 +1480,7 @@ form_use_of_info:
  pt_INT: Estas informações serão utilizadas para o colocar em contacto com a embaixada ou alto comissariado britânico mais próximo de si.
  ar_SA: سنستخدم هذه المعلومات لنساعدك في التواصل مع السفارة البريطانية أو اللجنة العليا الأقرب إليك.
 form_enter_headquarters:
+ fr_FR: Indiquez le pays où le siège de votre entreprise est situé
  de_DE: Geben Sie das Land Ihres Unternehmenshauptsitzes ein
  en_US: Enter the country where your company has its headquarters
  zh_CN: 请输入您的公司总部所在国家
@@ -1488,6 +1490,7 @@ form_enter_headquarters:
  pt_INT: Introduza o país onde a sua empresa está sediada
  ar_SA: أدخل الدولة التي يقع بها المقر الرئيسي لشركتك
 form_enter_headquarters_nf:
+ fr_FR: Indiquez votre pays
  de_DE: Land eingeben
  en_US: Enter your country
  zh_CN: 开始键入信息以选择国家/地区。
@@ -1497,6 +1500,7 @@ form_enter_headquarters_nf:
  pt_INT: Introduza o seu país
  ar_SA: أدخل بلدك
 form_enter_headquarters_help:
+ fr_FR: Commencez la saisie pour sélectionner un pays.
  de_DE: Bitte geben Sie hier Text ein damit Sie eine Auswahl machen können.
  en_US: Start typing to select a country.
  zh_CN: 开始输入并选择一个选项
@@ -1507,6 +1511,7 @@ form_enter_headquarters_help:
  ar_SA: ابدأ بالكتابة لتحديد بلدك.
 form_headquarters:
  label:
+   fr_FR: Dans quel pays êtes-vous basé?
    de_DE: Hauptsitz ihres Unternehmens
    en_US: Which country are you based in?
    zh_CN: 您位于哪个国家/地区？
@@ -4016,6 +4021,7 @@ form_headquarters:
    - زامبيا
    - زمبابوي
 form_disclaimer:
+ fr_FR: En nous envoyant ces données, vous confirmez que les informations que vous avez partagées avec nous sont authentiques et que vous acceptez nos
  de_DE: Mit Absenden Ihrer Daten bestätigen Sie, dass die von Ihnen eingegebenen Daten korrekt sind und stimmen unseren
  en_US: By sending us your details you confirm that the information you've shared with us is true and you accept our
  zh_CN: 向我们发送您的详细信息，即表明您确认您与我们分享的信息真实有效，且您接受我们
@@ -4025,6 +4031,7 @@ form_disclaimer:
  pt_INT: Ao enviar-nos os seus detalhes confirma que as informações que partilhou conosco são verdadeiras e que aceita os nossos
  ar_SA: عن طريق إرسال تفاصيلك لنا، أنت تؤكد أن المعلومات التي شاركتها معنا صحيحة، وأنك توافق على بنودنا وشروطنا.
 form_disclaimer_tc:
+ fr_FR: conditions générales.
  de_DE: Nutzungsbedingungen zu.
  en_US: terms and conditions.
  zh_CN: 的条款和条件。
@@ -4034,6 +4041,7 @@ form_disclaimer_tc:
  pt_INT: termos e condições.
  ar_SA: الشروط والأحكام
 form_enter_page_title:
+ fr_FR: Indiquez le nom de la page où vous avez rencontré un problème
  de_DE: 
  en_US: Please enter the name of the page where you experienced an issue
  zh_CN: 
