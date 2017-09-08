@@ -29,6 +29,6 @@ The UK government will spend 3.2 billion GBP on decommissioning in 2016/17. The 
 
 The government have backed plans to develop the next generation of [Small Modular Reactors](https://www.gov.uk/government/collections/small-modular-reactors) (SMR), a technology which could play an important role in the world’s clean energy future. 
 
-Government have made a further commitment to invest at least 250 million GBP in nuclear research and development. This includes a [competition to find the best value SMR designs.](https://www.gov.uk/government/publications/small-modular-reactors-competition-phase-one)
+Government have made a further commitment to invest at least 250 million GBP in nuclear research and development.
 
 According to the National Nuclear Laboratory, the global SMR market it's estimated that the global SMR market will be approximately 65-85 GW by 2035 and valued at 250 to 400 billion GBP. If the economics of this approach prove competitive, there could be significant advantages for businesses involved in the UK’s development programme.
