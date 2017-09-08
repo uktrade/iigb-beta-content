@@ -8,7 +8,7 @@ Nuclear expertise is well-distributed across the nation, but there are specific 
 
 - north west England, where [Sellafield](http://www.sellafieldsites.com/) remains the major centre for the maintenance of nuclear skills
 - south west England, where EDF Energy has established a base and Horizon Nuclear Power has begun deployment
-- Yorkshire and the Humber, where there is growth around Sheffield, which is home to the[ Advanced Manufacturing Research Centre](http://www.amrc.co.uk/)
+- Yorkshire and the Humber - where there is growth around Sheffield, home of the [Advanced Manufacturing Research Centre](http://www.amrc.co.uk/)
 
 ### The UK government and industry partners skills development initiatives
 
