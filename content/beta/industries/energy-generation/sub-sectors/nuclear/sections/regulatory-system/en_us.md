@@ -1,5 +1,5 @@
 ---
-title: "A world class regulatory system"
+title: "A world class nuclear regulatory system"
 ---
 
 Our nuclear programme benefits from a world-class independent regulatory system. The[ Office for Nuclear Regulation](http://www.onr.org.uk/) and the [Environment Agency](https://www.gov.uk/government/organisations/environment-agency) work together to make sure that new nuclear power stations built here meet high standards of safety, security, environmental protection and waste management. This process is called the [Generic Design Assessment](http://www.onr.org.uk/new-reactors/) (GDA).
