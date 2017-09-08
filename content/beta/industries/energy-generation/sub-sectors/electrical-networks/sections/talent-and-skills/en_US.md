@@ -1,5 +1,5 @@
 ---
-title: "An expert workforce dedicated to growing the industry"
+title: "An expert workforce dedicated to growing the electrical distribution industry"
 ---
 In the UK, your company will benefit from a highly skilled workforce with extensive research and development experience, focused on benefitting the customer.
  
