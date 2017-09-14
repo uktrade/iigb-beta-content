@@ -32,3 +32,11 @@ The government have backed plans to develop the next generation of [Small Modula
 Government have made a further commitment to invest at least 250 million GBP in nuclear research and development.
 
 According to the National Nuclear Laboratory, the global SMR market it's estimated that the global SMR market will be approximately 65-85 GW by 2035 and valued at 250 to 400 billion GBP. If the economics of this approach prove competitive, there could be significant advantages for businesses involved in the UK’s development programme.
+
+### The low carbon technology market
+The UK has a growing low carbon economy. In 2015 there were around 233,000 workers in low carbon-related roles, generating 42.2 billion GBP in turnover.
+
+Clean energy investments in the UK have more than doubled since 2010, rising from 10.8 billion USD in 2010 to over 25 billion USD in 2016.
+
+Current investment in projects to build cleaner energy power stations is estimated to be worth 180 billion GBP.
+

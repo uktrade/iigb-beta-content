@@ -34,3 +34,15 @@ The heart of the UK automotive industry is located in the Midlands with Birmingh
 There are also major automotive clusters in the North East, including the Nissan factory in Sunderland (the largest single car factory in the UK making 500,000 cars a year) and the North West, home to factories of General Motors (Vauxhall), Jaguar Land Rover and Bentley. 
 
 There’s also ‘Motorsport Valley&reg;', a globally renowned cluster of automotive expertise. Located in the English Midlands and Oxfordshire, it’s the home of global motorsport. With 4,500 motorsport companies, many of which now supply global car manufacturers and component suppliers with advanced engineering solutions, Motorsport Valley&reg; has a unique ability to help any automotive company gain a competitive edge. 
+
+### The low-emission vehicles market and UK government support
+
+The UK is the largest ultra low emission vehicle (ULEV) market in the EU with over 110,000 ULEVs on the road. 
+
+Grants for consumers to purchase ULEVs and improved charging infrastructure have caused this market growth. The UK government and automotive industry are funding a 1 billion GBP Advanced Propulsion Centre for later stage R&D projects around low carbon powertrain and production.
+
+The UK government has supported the early market for ULEVs with investment of 1 billion GBP.
+
+The UK already has the largest network of rapid charging points for electric vehicles in Europe, as part of a network of over 10,000 publicly accessible chargepoints. And in 2016, 1 in 5 electric cars sold in Europe was made in the UK.
+
+The UK government is supporting the automotive industry to bring improve the effectiveness of electric vehicles, reduce their cost and to increase their range. It will invest 246 million GBP over 4 years in the design, development and manufacture of batteries for vehicle electrification. 

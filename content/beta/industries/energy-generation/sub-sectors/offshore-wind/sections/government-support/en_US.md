@@ -17,3 +17,10 @@ Alongside a supportive policy regime, the UK government supports its offshore wi
 - building a highly skilled workforce
 
 The UK government also has up to 50 billion GBP available to support finance and insurance for supplies from within the UK to buyers outside the UK. This support takes the form of guarantees, insurance and loans issued by the UK government export credit agency, [UK Export Finance](https://www.gov.uk/government/organisations/uk-export-finance).
+
+### The low carbon technology market
+The UK has a growing low carbon economy. In 2015 there were around 233,000 workers in low carbon-related roles, generating 42.2 billion GBP in turnover.
+
+Clean energy investments in the UK have more than doubled since 2010, rising from 10.8 billion USD in 2010 to over 25 billion USD in 2016.
+
+Current investment in projects to build cleaner energy power stations is estimated to be worth 180 billion GBP.
