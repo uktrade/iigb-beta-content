@@ -1,5 +1,5 @@
 ---
-title: "Reliable, long-term projects backed by a strong market"
+title: "Reliable, long-term projects: the UK energy from waste market"
 published: true
 ---
 We have long been recognised as a pioneering nation in the field of energy from waste. World leaders such as SITA, Veolia and FCC all have operations here. 
