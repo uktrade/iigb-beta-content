@@ -15,3 +15,10 @@ The next generation of energy from waste plants will be powered by experimental 
 Businesses based in the UK are developing these innovative new sources for biofuels, helping to cement our place as a fantastic base for international operations. 
 
 There is also an estimated 1 billion GBP pipeline of opportunities for community heating projects in the UK, which could be fulfilled by waste to energy and biomass projects.
+
+### The low carbon technology market
+The UK has a growing low carbon economy. In 2015 there were around 233,000 workers in low carbon-related roles, generating 42.2 billion GBP in turnover.
+
+Clean energy investments in the UK have more than doubled since 2010, rising from 10.8 billion USD in 2010 to over 25 billion USD in 2016.
+
+Current investment in projects to build cleaner energy power stations is estimated to be worth 180 billion GBP.
