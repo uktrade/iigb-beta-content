@@ -2,15 +2,15 @@
 title: "L'assistance que nous vous proposons"
 list: 
   - text: Vous aider à établir des liens avec les entreprises de votre secteur
-    icon: liens
+    icon: connections
   - text: Vous assister lors des demandes de visa et d'autres procédures relatives à l'immigration
     icon: immigration
   - text: Vous aider à trouver des subventions et des incitations pour favoriser la croissance de votre entreprise
-    icon: incitations
+    icon: incentives
   - text: Vous conseiller sur l'embauche de personnel, de l'évaluation comparative des salaires à la formation, en passant par le recrutement
     icon: talent
   - text: Partage d'informations sur des marchés spécifiques en fonction de vos besoins
-    icon: informations
+    icon: insight
 submitted: Formulaire envoyé
 reference: Votre numéro de référence est
 confirmation_email: "Nous vous avons envoyé un e-mail de confirmation."
