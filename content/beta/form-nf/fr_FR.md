@@ -1,6 +1,6 @@
 ---
 title: "Contactez notre équipe des services d'investissement pour :"
-list: 
+list:
  - une assistance et des informations pratiques sur les prochaines étapes de votre investissement
  - des connaissances relatives au marché du Royaume-Uni
  - une aide pour l'établissement de liens
