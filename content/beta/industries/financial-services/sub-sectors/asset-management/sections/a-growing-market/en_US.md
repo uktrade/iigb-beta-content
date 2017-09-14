@@ -18,7 +18,7 @@ Companies based in the UK are well placed to capture a growing share of business
 
 Support services in front, middle and back office are state-of-the-art, offering significant cost efficiencies. We also benefit from a central time zone.
 
-## “Green finance”: how the UK government is supporting the market 
+### “Green finance”: how the UK government is supporting the market 
 “Green Finance” refers to investment in low carbon projects and infrastructure. The UK is a global financial centre and the London Stock Exchange hosts 48 green bonds, representing around 10 billion GBP in 7 currencies.
 
 Clean energy investments in the UK have more than doubled since 2010, rising from 10.8 billion USD in 2010 to over 25 billion USD in 2016.
