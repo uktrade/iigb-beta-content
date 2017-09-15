@@ -1,5 +1,5 @@
 ---
-title: "Expertise d'envergure internationale dans le domaine du nucléaire au Royaume-Uni
+title: "Expertise d'envergure internationale dans le domaine du nucléaire au Royaume-Uni"
 published: true
 ---
 
