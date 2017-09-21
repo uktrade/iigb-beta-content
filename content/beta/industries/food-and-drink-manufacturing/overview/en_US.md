@@ -14,13 +14,6 @@ If you’re looking to expand, bring your food and drink business to the UK for:
 * access to other markets: European companies use the UK as a springboard to the rest of the world
 * food security: the UK is leads the development of stable, ethical and traceable global supply chains
 
-Find out more about:
-* [growth areas in the UK food and drink market](#The-UK-food-and-drink-market)
-* [UK food and drink packaging industry](#Food-and-drink-packaging)
-* [the UK’s dairy, poultry and pork supply chain](#The-UK’s-pork,-poultry-and-dairy-supply-chain)
-* [the market for “free-from” foods in the UK](#Free-from-products-in-the-UK)
-* [research and development in the UK](#Food-and-drink-research-and-development-in-the-UK)
-
 **Bring your food and drink business to the UK to benefit from**
 * the lowest corporation tax in the G20 (19%)
 * lower labour costs than Germany, France and Italy
@@ -29,6 +22,13 @@ Find out more about:
 The government has 50 billion GBP available to support finance and insurance for supplies from within the UK to buyers outside the UK. Find out more about the guarantees, insurance and loans issued from the export credit agency, [UK Export Finance](https://www.gov.uk/government/organisations/uk-export-finance).
 
 Contact our investment services team, for more information about why the UK is the best place for your business.
+
+Find out more about:
+* [growth areas in the UK food and drink market](#The-UK-food-and-drink-market)
+* [research and development in the UK](#Food-and-drink-research-and-development-in-the-UK)
+* [the market for “free-from” foods in the UK](#Free-from-products-in-the-UK)
+* [UK food and drink packaging industry](#Food-and-drink-packaging)
+* [the UK’s dairy, poultry and pork supply chain](#The-UK’s-pork,-poultry-and-dairy-supply-chain)
 
 ## The UK food and drink market
 
@@ -59,7 +59,7 @@ Companies investing in food and drink research in the UK may qualify for lower r
 
 ### Ready to invest?
 
-**If you are thinking about investing in the UK, (contact](https:www.invest.great.gov.uk/contact) our investment services team about insights, connections and incentives.**
+**If you are thinking about investing in the UK, [contact our investment services team](https:www.invest.great.gov.uk/contact) about insights, connections and incentives.**
 
 ## UK food and drink industry specialisms
 
