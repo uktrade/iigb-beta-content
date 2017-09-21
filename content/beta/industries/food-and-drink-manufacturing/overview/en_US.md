@@ -67,9 +67,9 @@ Companies investing in food and drink research in the UK may qualify for lower r
 Free-from products are formulated to avoid having elements in them that provoke adverse symptoms. This enables consumers who are intolerant or allergic to gluten, dairy or nuts to buy a wider choice of products.
 
 Around one-third of British consumers are buying and eating free-from food, of whom:
-22% buy gluten-free products
-19% buy dairy-free products
-16% buy wheat-free and lactose-free products
+* 22% buy gluten-free products
+* 19% buy dairy-free products
+* 16% buy wheat-free and lactose-free products
 
 Gluten-free baked goods make up the majority of the free-from category - the market for these products grew nearly 30% between 2013 and 2015, to 210 million GBP. In 2015, 12% of new food products launched in the UK claimed to be gluten-free.
 
@@ -80,7 +80,7 @@ The UK packaging industry is a large and developed sector with annual sales of Â
 
 There are 85,000 jobs in the packaging sector, representing 3% of UK manufacturing employment. 
 
-Packaging in the UK helps supports the demand to reduce waste. The UK wastes just 3% of food, very low by international and historic standards. And over 67% of packaging in the UK is recycled, which is ahead of EU targets.
+Packaging in the UK helps supports the demand to reduce waste. The UK wastes just 3% of food, which is very low by international and historic standards. And over 67% of packaging in the UK is recycled, which is ahead of EU targets.
 
 ### Food-service and catering sector in the UK
 The UKâ€™s catering industry is worth an estimated 88 billion GBP - around 43% of total consumer spending on food and drink.
