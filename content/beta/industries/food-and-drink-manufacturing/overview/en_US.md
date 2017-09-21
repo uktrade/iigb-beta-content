@@ -15,7 +15,7 @@ If you’re looking to expand - bring your food and drink business to the UK for
 * food security: the UK is leads the development of stable, ethical and traceable global supply chains
 
 **Bring your food and drink business to the UK to benefit from**
-* the lowest corporation tax in the G20 (19%)
+* the lowest corporation tax among the G20 nations (19%)
 * lower labour costs than Germany, France and Italy
 * 4 of the world’s top 10 universities
 
