@@ -96,7 +96,7 @@ Food sales are the fastest growing category in the pub market. Meals sold in pub
 Mintel estimated the UK contract catering sector to be worth 3.8 billion GBP in 2014 and is forecast to grow to be almost 4.2 billion GBP by 2020.
 
 ### The UK’s pork, poultry and dairy supply chain
-**Poultry**
+### Poultry
 
 There are opportunities in the poultry supply chain as the UK is currently a net importer of both chicken and eggs. 
 
@@ -106,7 +106,7 @@ The largest sector of imports, by both volume and value remains fresh/frozen who
 
 The UK egg market was valued at 965 million GBP in 2016-7 and has grown for the preceding 7 years. More than half of eggs sold were "free range". 
 
-**Dairy products**
+### Dairy products
 
 The UK is the third largest dairy producing country in the EU and the tenth largest producer in the world.
 
@@ -118,7 +118,7 @@ Export volumes are highest for milk and cream, accounting for around 73% of the 
 
 Müller, a German dairy company, opened a 17 million GBP butter-making factory in Market Drayton in 2013. The dairy facility is the biggest of its kind in the UK, processing around 90,000 tonnes of cream about 45,000 tonnes of butter a year.
 
-**Pork and pork products**
+#### Pork and pork products
 
 The UK has a low self-sufficiency index for pork and pork products, indicating both consumer demand and opportunity.
 
@@ -133,7 +133,7 @@ Ready to invest? Find out information on:
 
 Want to meet UK business contacts and UK government officials? Check out our [list of investment events and trade missions worldwide](https://www.events.trade.gov.uk/).
 
-If you’re an entrepreneur, looking to bring your disruptive food tech business to the UK, get in touch with our [global entrepreneurs team] (https://www.gov.uk/government/publications/entrepreneurs-setting-up-in-the-uk/entrepreneurs-setting-up-in-the-uk) to be linked with UK dealmakers.
+If you’re an entrepreneur, looking to bring your disruptive food tech business to the UK, get in touch with our [global entrepreneurs team](https://www.gov.uk/government/publications/entrepreneurs-setting-up-in-the-uk/entrepreneurs-setting-up-in-the-uk) to be linked with UK dealmakers.
 
 See how the UK government is [supporting the food and drink industry in the UK (PDF, 2.72 MB)](https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/560786/food-drink-export-action-plan-2016-2020.pdf), including potential foreign direct investors.
 
