@@ -9,24 +9,22 @@ Food and drink is the UK's largest manufacturing sector and contributed £110bn 
 Europe’s 743 million consumers are within easy reach of the UK, thanks to its geographic location, strong supply and distribution infrastructure.
 
 If you’re looking to expand, bring your food and drink business to the UK for:
-
-rapid growth: UK consumer expenditure on food, drink and catering was £201 billion in 2015 and is one of the fastest-growing food and drink markets in the world
-innovation: the UK is a centre for research and product development in food and drink, pioneering ethical, health and convenience foods.
-access to other markets: European companies use the UK as a springboard to the rest of the world
-food security: the UK is leads the development of stable, ethical and traceable global supply chains
+* rapid growth: UK consumer expenditure on food, drink and catering was £201 billion in 2015 and is one of the fastest-growing food and drink markets in the world
+* innovation: the UK is a centre for research and product development in food and drink, pioneering ethical, health and convenience foods.
+* access to other markets: European companies use the UK as a springboard to the rest of the world
+* food security: the UK is leads the development of stable, ethical and traceable global supply chains
 
 Find out more about:
-* growth areas in the UK food and drink market [link/anchor link]
-* UK food and drink packaging industry [anchor link]
-* the UK’s dairy, poultry and pork supply chain [anchor link]
-* the market for “free-from” foods in the UK [anchor link]
-* research and development in the UK [anchor link]
+* [growth areas in the UK food and drink market](#The-UK-food-and-drink-market)
+* [UK food and drink packaging industry](#Food-and-drink-packaging)
+* [the UK’s dairy, poultry and pork supply chain](#The-UK’s-pork,-poultry-and-dairy-supply-chain)
+* [the market for “free-from” foods in the UK](#Free-from-products-in-the-UK)
+* [research and development in the UK](#Food-and-drink-research-and-development-in-the-UK)
 
-## Bring your food and drink business to the UK to benefit from:
+**Bring your food and drink business to the UK to benefit from**
 * the lowest corporation tax in the G20 (19%)
 * lower labour costs than Germany, France and Italy
 * 4 of the world’s top 10 universities
-* a receptive and accessible consumer market
 
 The government has 50 billion GBP available to support finance and insurance for supplies from within the UK to buyers outside the UK. Find out more about the guarantees, insurance and loans issued from the export credit agency, [UK Export Finance](https://www.gov.uk/government/organisations/uk-export-finance).
 
@@ -61,9 +59,7 @@ Companies investing in food and drink research in the UK may qualify for lower r
 
 ### Ready to invest?
 
-If you are thinking about investing in the UK, contact our investment services team about insights, connections and incentives.
-
-[Contact us](https:www.invest.great.gov.uk/contact)
+**If you are thinking about investing in the UK, (contact](https:www.invest.great.gov.uk/contact) our investment services team about insights, connections and incentives.**
 
 ## UK food and drink industry specialisms
 
@@ -100,7 +96,7 @@ Food sales are the fastest growing category in the pub market. Meals sold in pub
 Mintel estimated the UK contract catering sector to be worth 3.8 billion GBP in 2014 and is forecast to grow to be almost 4.2 billion GBP by 2020.
 
 ### The UK’s pork, poultry and dairy supply chain
-_Poultry_
+**Poultry**
 There are opportunities in the poultry supply chain as the UK is currently a net importer of both chicken and eggs. 
 
 Consumer spending on chicken is around 2.5 billion GBP.
@@ -109,7 +105,7 @@ The largest sector of imports, by both volume and value remains fresh/frozen who
 
 The UK egg market was valued at 965 million GBP in 2016-7 and has grown for the preceding 7 years. More than half of eggs sold were "free range". 
 
-_Dairy products_
+**Dairy products**
 The UK is the third largest dairy producing country in the EU and the tenth largest producer in the world.
 
 Dairy farming accounts for 17% of UK agricultural production and is the largest agricultural sector in the UK, employing over 80,000 people.
@@ -120,7 +116,7 @@ Export volumes are highest for milk and cream, accounting for around 73% of the 
 
 Müller, a German dairy company, opened a 17 million GBP butter-making factory in Market Drayton in 2013. The dairy facility is the biggest of its kind in the UK, processing around 90,000 tonnes of cream about 45,000 tonnes of butter a year.
 
-_Pork and pork products_
+**Pork and pork products**
 The UK has a low self-sufficiency index for pork and pork products, indicating both consumer demand and opportunity.
 
 The UK imports almost 4 times as much pork and processed pork products as it exports, and will produce only 55.8% of the meat it needs to satisfy consumption.
@@ -142,7 +138,7 @@ See how the UK government is [supporting the food and drink industry in the UK (
 
 If you are thinking about investing in the UK, our investment services team can answer your questions and help you land your business in the UK.
 
-[Contact us](https:www.invest.great.gov.uk/contact)
+[**Contact us**](https:www.invest.great.gov.uk/contact)
 
 Read about UK industries related to food and drink manufacturing, such as:
 * [healthcare and life sciences](https://invest.great.gov.uk/int/industries/health-and-life)
