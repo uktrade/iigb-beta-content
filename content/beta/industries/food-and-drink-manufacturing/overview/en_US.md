@@ -21,7 +21,7 @@ If you’re looking to expand - bring your food and drink business to the UK for
 
 The government has 50 billion GBP available to support finance and insurance for supplies from within the UK to buyers outside the UK. Find out more about the guarantees, insurance and loans issued from the export credit agency, [UK Export Finance](https://www.gov.uk/government/organisations/uk-export-finance).
 
-Contact our investment services team, for more information about why the UK is the best place for your business.
+[Contact our investment services team](https:www.invest.great.gov.uk/contact), for more information about why the UK is the best place for your business.
 
 Find out more about:
 * [growth areas in the UK food and drink market](#The-UK-food-and-drink-market)
