@@ -1,5 +1,5 @@
 ---
-title: "Expand yout food and drink manufacturing business into the UK"
+title: "Expand your food and drink manufacturing business into the UK"
 ---
 
 The UK is one of the fastest growing food and drink markets in the world, and is renowned for its innovative approach to food development, high-tech manufacturing and high-quality raw materials. 
