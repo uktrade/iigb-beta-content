@@ -8,7 +8,7 @@ Food and drink is the UK's largest manufacturing sector and contributed £110bn 
 
 Europe’s 743 million consumers are within easy reach of the UK, thanks to its geographic location, strong supply and distribution infrastructure.
 
-If you’re looking to expand, bring your food and drink business to the UK for:
+If you’re looking to expand - bring your food and drink business to the UK for:
 * rapid growth: UK consumer expenditure on food, drink and catering was £201 billion in 2015 and is one of the fastest-growing food and drink markets in the world
 * innovation: the UK is a centre for research and product development in food and drink, pioneering ethical, health and convenience foods.
 * access to other markets: European companies use the UK as a springboard to the rest of the world
