@@ -586,6 +586,11 @@ form_staff_number:
    '1': 10 to 50
    '2': 51 to 250
    '3': More than 250
+   fr_FR:
+   - Moins de 10
+   - 10 à 50
+   - 51 à 250
+   - Plus de 250
    de_DE:
    - Weniger als 10
    - Zwischen 10 und 50
