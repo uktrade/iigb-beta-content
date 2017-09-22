@@ -1,4 +1,0 @@
----
-title: "Confidentialité et cookies"
----
-
