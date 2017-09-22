@@ -1,5 +1,5 @@
 ---
-title: "Industries"
+Titre?: "Industries"
 ---
 
-Find out more about your sector below.
+En savoir plus sur votre secteur ci-dessous.
