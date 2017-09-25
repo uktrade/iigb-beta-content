@@ -586,6 +586,11 @@ form_staff_number:
    '1': 10 to 50
    '2': 51 to 250
    '3': More than 250
+   fr_FR:
+   - Moins de 10
+   - 10 à 50
+   - 51 à 250
+   - Plus de 250
    de_DE:
    - Weniger als 10
    - Zwischen 10 und 50
@@ -1471,6 +1476,7 @@ form_mailing_list_confirmation:
  pt_INT: Sim, gostaria de receber essas informações
  ar_SA: نعم، أود الحصول على هذه المعلومات
 form_use_of_info: 
+ fr_FR: Nous utiliserons cette information pour vous mettre en contact avec votre ambassade britannique la plus proche ou votre haute commission
  de_DE: Wir verwenden diese Angaben, um Sie mit Ihrer nächsten britischen Botschaft oder Ihrem nächsten britischen Hochkommissariat in Verbindung zu setzen.
  en_US: We will use this information to put you in touch with your closest British embassy or high commission.
  zh_CN: 我们将使用此信息来安排您联系最靠近您的英国大使馆或特派使节团。
