@@ -1,5 +1,6 @@
 ---
-title: "Freefrom foods"
+title: "The "free-from" foods market in the UK"
 ---
 
-The UK freefrom market is seen as a priority destination for international food and drink companies. 
+Free-from products are formulated to avoid having elements in them that provoke adverse symptoms. This enables consumers who are intolerant or allergic to gluten, dairy or nuts to buy a wider choice of products.
+
