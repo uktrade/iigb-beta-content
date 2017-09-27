@@ -26,7 +26,7 @@ The government has 50 billion GBP available to support finance and insurance for
 Find out more about:
 * [growth areas in the UK food and drink market](#The-UK-food-and-drink-market)
 * [research and development in the UK](#Food-and-drink-research-and-development-in-the-UK)
-* [the market for “free-from” foods in the UK](/industries/food-and-drink-manufacturing/free-from)
+* [the market for 'free-from' foods in the UK](http://invest.great.gov.uk/industries/food-and-drink-manufacturing/free-from)
 * [UK food and drink packaging industry](#Food-and-drink-packaging)
 * [the UK’s dairy, poultry and pork supply chain](#The-UK’s-pork,-poultry-and-dairy-supply-chain)
 
