@@ -126,9 +126,7 @@ See how the UK government is [supporting the food and drink industry in the UK (
 
 ### Ask us about investing in the UK
 
-If you are thinking about investing in the UK, our investment services team can answer your questions and help you land your business in the UK.
-
-[**Contact us**](https:www.invest.great.gov.uk/contact)
+If you are thinking about investing in the UK, our [investment services team](https:www.invest.great.gov.uk/contact) can answer your questions and help you land your business in the UK.
 
 Read about UK industries related to food and drink manufacturing, such as:
 * [healthcare and life sciences](https://invest.great.gov.uk/int/industries/health-and-life)
