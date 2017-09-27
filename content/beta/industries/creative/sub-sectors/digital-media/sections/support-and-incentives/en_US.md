@@ -15,4 +15,4 @@ We also offer a number of world-class digital start-up programmes and opportunit
 
 All of these measures complement our low level of corporation tax, which is set to drop to 17% by 2020.
 
-The government also has up to 50 billion GBP available to support finance and insurance for supplies from within the UK to buyers outside the UK. This support takes the form of guarantees, insurance and loans issued by its export credit agency, UK Export Finance
+The government also has up to 50 billion GBP available to support finance and insurance for supplies from within the UK to buyers outside the UK. This support takes the form of guarantees, insurance and loans issued by its export credit agency, [UK Export Finance](https://www.gov.uk/government/organisations/uk-export-finance).
