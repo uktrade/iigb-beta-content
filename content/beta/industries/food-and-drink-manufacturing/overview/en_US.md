@@ -8,7 +8,7 @@ Europe’s 743 million consumers are within easy reach of the UK, thanks to its 
 
 If you’re looking to expand - bring your food and drink business to the UK for:
 * rapid growth: UK consumer expenditure on food, drink and catering was 203 billion GBP in 2016
-* innovation: the UK is a centre for research and product development in food and drink, pioneering ethical, health and convenience foods.
+* innovation: the UK is a centre for research and product development in food and drink, pioneering ethical, health and convenience foods
 * access to other markets: European companies use the UK as a springboard to the rest of the world
 * food security: the UK is leads the development of stable, ethical and traceable global supply chains
 
@@ -17,9 +17,9 @@ If you’re looking to expand - bring your food and drink business to the UK for
 * lower labour costs than Germany, France and Italy
 * 4 of the world’s top 10 universities
 
-The government has 50 billion GBP available to support finance and insurance for supplies from within the UK to buyers outside the UK. Find out more about the guarantees, insurance and loans issued from the export credit agency, [UK Export Finance](https://www.gov.uk/government/organisations/uk-export-finance).
+The UK government has 50 billion GBP available to support finance and insurance for supplies from within the UK to buyers outside the UK. Find out more about the guarantees, insurance and loans issued from the export credit agency, [UK Export Finance](https://www.gov.uk/government/organisations/uk-export-finance).
 
-[Contact our investment services team](https:www.invest.great.gov.uk/contact), for more information about why the UK is the best place for your business.
+[Contact our investment services team](https:www.invest.great.gov.uk/contact), for more information about why the UK is the best place for your food and drink business.
 
 ## The UK food and drink market
 
@@ -38,7 +38,7 @@ The highest growth areas for UK food and drink are:
 
 ## Food and drink research and development in the UK
 
-The UK pioneered frozen food, ready-meals and instant coffee and continues to transform the way people eat and drink. For example, the UK is at the forefront of “functional food” development, creating products with added healthy ingredients. The UK’s functional food market was worth around 1.2 billion GBP in 2014 and has grown annually by 13%, from 335 million GBP in 2000.
+The UK pioneered frozen food, ready-meals and instant coffee and continues to transform the way people eat and drink. For example, the UK is at the forefront of 'functional food' development, creating products with added healthy ingredients. The UK’s functional food market was worth around 1.2 billion GBP in 2014 and has grown annually by 13%, from 335 million GBP in 2000.
 
 Food, drink and tobacco research and development spending was 430 million GBP in the UK in 2015.
 
@@ -51,7 +51,7 @@ Companies investing in food and drink research in the UK may qualify for lower r
 **If you are thinking about investing in the UK, [contact our investment services team](https:www.invest.great.gov.uk/contact) about insights, connections and incentives.**
 
 ## UK food and drink industry specialisms
-### Food and drink packaging 
+### Food and drink packaging
 The UK packaging industry is a large and developed sector with annual sales of 10.9 billion GBP. Of this, 7.1 billion GBP is used for food and drink. The majority of UK production is sold in the UK and a majority of UK sales are made in the UK.
 
 There are 85,000 jobs in the packaging sector, representing 3% of UK manufacturing employment. 
@@ -76,9 +76,9 @@ Mintel estimated the UK contract catering sector to be worth 3.8 billion GBP in 
 
 There are opportunities in the poultry supply chain as the UK is currently a net importer of both chicken and eggs. 
 
-Consumer spending on chicken is around 2.5 billion GBP.
+Annual UK consumer spending on chicken is around 2.5 billion GBP.
 
-The largest sector of imports, by both volume and value remains fresh/frozen whole chickens with a 50% value share and 53% by volume.
+The largest sector of imports, by both volume and value remains fresh or frozen whole chickens with a 50% value share and 53% by volume.
 
 The UK egg market was valued at 965 million GBP in 2016-7 and has grown for the preceding 7 years. More than half of eggs sold were 'free range'. 
 
@@ -96,7 +96,7 @@ Müller, a German dairy company, opened a 17 million GBP butter-making factory i
 
 #### Pork and pork products
 
-The UK has a low self-sufficiency index for pork and pork products, indicating both consumer demand and opportunity.
+The UK has a low self-sufficiency index for pork and pork products, indicating both consumer demand and opportunity for companies to set up to meet this demand within the UK.
 
 The UK imports almost 4 times as much pork and processed pork products as it exports, and will produce only 55.8% of the meat it needs to satisfy consumption.
 
