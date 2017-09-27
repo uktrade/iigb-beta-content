@@ -2,14 +2,14 @@
 title: "Expand your food and drink manufacturing business into the UK"
 ---
 
-The UK is one of the fastest growing food and drink markets in the world, and is renowned for its innovative approach to food development, high-tech manufacturing and high-quality raw materials. 
+The UK’s food and drink market is growing, and the industry is renowned for its innovative approach to food development, high-tech manufacturing and high-quality raw materials. 
 
 Food and drink is the UK's largest manufacturing sector and contributed £110bn or 6.6% to national gross value added in 2015.
 
 Europe’s 743 million consumers are within easy reach of the UK, thanks to its geographic location, strong supply and distribution infrastructure.
 
 If you’re looking to expand - bring your food and drink business to the UK for:
-* rapid growth: UK consumer expenditure on food, drink and catering was £201 billion in 2015 and is one of the fastest-growing food and drink markets in the world
+* rapid growth: UK consumer expenditure on food, drink and catering was £203 billion in 2016
 * innovation: the UK is a centre for research and product development in food and drink, pioneering ethical, health and convenience foods.
 * access to other markets: European companies use the UK as a springboard to the rest of the world
 * food security: the UK is leads the development of stable, ethical and traceable global supply chains
@@ -32,7 +32,7 @@ Find out more about:
 
 ## The UK food and drink market
 
-The UK has 67.6 million consumers, who spend around 203 billion GBP a year on food and drink. Spend on food shopping has risen 24% between 2008 and 2016. In 2016, it accounted for 47% of spend in the sector.
+The UK has 67.6 million consumers, who spend around 203 billion GBP a year on food and drink. Spend on food shopping has risen 24% between 2008 and 2016.
 
 While UK consumers are price-conscious, market research shows a willingness to pay more for premium products.
 
@@ -110,7 +110,7 @@ The UK egg market was valued at 965 million GBP in 2016-7 and has grown for the 
 
 The UK is the third largest dairy producing country in the EU and the tenth largest producer in the world.
 
-Dairy farming accounts for 17% of UK agricultural production and is the largest agricultural sector in the UK, employing over 80,000 people.
+Dairy farming accounts for 17% of UK agricultural production and is the largest agricultural sector in the UK.
 
 There are over 1.9 million cows in the UK, representing 8% of the EU dairy herd in 2016.
 
