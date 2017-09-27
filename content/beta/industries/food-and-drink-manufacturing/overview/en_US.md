@@ -26,7 +26,7 @@ The government has 50 billion GBP available to support finance and insurance for
 Find out more about:
 * [growth areas in the UK food and drink market](#The-UK-food-and-drink-market)
 * [research and development in the UK](#Food-and-drink-research-and-development-in-the-UK)
-* [the market for “free-from” foods in the UK](#Free-from-products-in-the-UK)
+* [the market for “free-from” foods in the UK](/industries/food-and-drink-manufacturing/free-from)
 * [UK food and drink packaging industry](#Food-and-drink-packaging)
 * [the UK’s dairy, poultry and pork supply chain](#The-UK’s-pork,-poultry-and-dairy-supply-chain)
 
@@ -62,19 +62,6 @@ Companies investing in food and drink research in the UK may qualify for lower r
 **If you are thinking about investing in the UK, [contact our investment services team](https:www.invest.great.gov.uk/contact) about insights, connections and incentives.**
 
 ## UK food and drink industry specialisms
-
-### Free-from products in the UK
-Free-from products are formulated to avoid having elements in them that provoke adverse symptoms. This enables consumers who are intolerant or allergic to gluten, dairy or nuts to buy a wider choice of products.
-
-Around one-third of British consumers are buying and eating free-from food, of whom:
-* 22% buy gluten-free products
-* 19% buy dairy-free products
-* 16% buy wheat-free and lactose-free products
-
-Gluten-free baked goods make up the majority of the free-from category - the market for these products grew nearly 30% between 2013 and 2015, to 210 million GBP. In 2015, 12% of new food products launched in the UK claimed to be gluten-free.
-
-Frozen free-from food products are now worth approximately 15 million GBP with frozen prepared ready meals contributing to just over 9 million GBP of the market value.
-
 ### Food and drink packaging 
 The UK packaging industry is a large and developed sector with annual sales of £10.9 billion. Of this, £7.1 billion is used for food and drink. The majority of UK production is sold in the UK and a majority of UK sales are made in the UK.
 
