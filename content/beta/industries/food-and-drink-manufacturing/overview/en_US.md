@@ -1,15 +1,13 @@
 ---
-title: "Expand your food and drink manufacturing business into the UK"
+title: "Food and drink manufacturing in the UK"
 ---
 
-The UK’s food and drink market is growing, and the industry is renowned for its innovative approach to food development, high-tech manufacturing and high-quality raw materials. 
-
-Food and drink is the UK's largest manufacturing sector and contributed £110bn or 6.6% to national gross value added in 2015.
+Food and drink is the UK's largest manufacturing sector and contributed 110 billion GBP or 6.6% to national gross value added in 2015.
 
 Europe’s 743 million consumers are within easy reach of the UK, thanks to its geographic location, strong supply and distribution infrastructure.
 
 If you’re looking to expand - bring your food and drink business to the UK for:
-* rapid growth: UK consumer expenditure on food, drink and catering was £203 billion in 2016
+* rapid growth: UK consumer expenditure on food, drink and catering was 203 billion GBP in 2016
 * innovation: the UK is a centre for research and product development in food and drink, pioneering ethical, health and convenience foods.
 * access to other markets: European companies use the UK as a springboard to the rest of the world
 * food security: the UK is leads the development of stable, ethical and traceable global supply chains
@@ -23,13 +21,6 @@ The government has 50 billion GBP available to support finance and insurance for
 
 [Contact our investment services team](https:www.invest.great.gov.uk/contact), for more information about why the UK is the best place for your business.
 
-Find out more about:
-* [growth areas in the UK food and drink market](#The-UK-food-and-drink-market)
-* [research and development in the UK](#Food-and-drink-research-and-development-in-the-UK)
-* [the market for 'free-from' foods in the UK](https://invest.great.gov.uk/int/industries/food-and-drink-manufacturing/freefrom/)
-* [UK food and drink packaging industry](#Food-and-drink-packaging)
-* [the UK’s dairy, poultry and pork supply chain](#The-UK’s-pork,-poultry-and-dairy-supply-chain)
-
 ## The UK food and drink market
 
 The UK has 67.6 million consumers, who spend around 203 billion GBP a year on food and drink. Spend on food shopping has risen 24% between 2008 and 2016.
@@ -41,7 +32,7 @@ Demand for innovation is strong, with the UK’s 5 largest retailers featuring a
 The highest growth areas for UK food and drink are: 
 * vegan products: there are 542,000 people vegan consumers in the UK, up 360% on 10 years ago
 * healthy food and drinks: 51% of UK consumers actively look for the word “healthy” when shopping for food
-* ethically sourced products: sales in “ethical” food and drink, including organic, fair-trade and free-range rose to £8.5 billion in 2014, 9.2% of all household food sales
+* ethically sourced products: sales in “ethical” food and drink, including organic, fair-trade and free-range rose to 8.5 billion GBP in 2014, 9.2% of all household food sales
 * beer: while the UK has a strong beer and brewing heritage brewing, new entrants can develop their products in a thriving marketplace
 * low carbon products: by basing manufacturing in the UK, you can meet a growing local demand for low carbon foods
 
@@ -57,13 +48,11 @@ Some of the world’s best research facilities host collaborations between unive
 
 Companies investing in food and drink research in the UK may qualify for lower rates of corporation tax, under the government’s [R&D tax relief scheme](https://www.gov.uk/guidance/corporation-tax-research-and-development-rd-relief).
 
-### Ready to invest?
-
 **If you are thinking about investing in the UK, [contact our investment services team](https:www.invest.great.gov.uk/contact) about insights, connections and incentives.**
 
 ## UK food and drink industry specialisms
 ### Food and drink packaging 
-The UK packaging industry is a large and developed sector with annual sales of £10.9 billion. Of this, £7.1 billion is used for food and drink. The majority of UK production is sold in the UK and a majority of UK sales are made in the UK.
+The UK packaging industry is a large and developed sector with annual sales of 10.9 billion GBP. Of this, 7.1 billion GBP is used for food and drink. The majority of UK production is sold in the UK and a majority of UK sales are made in the UK.
 
 There are 85,000 jobs in the packaging sector, representing 3% of UK manufacturing employment. 
 
@@ -83,7 +72,7 @@ Food sales are the fastest growing category in the pub market. Meals sold in pub
 Mintel estimated the UK contract catering sector to be worth 3.8 billion GBP in 2014 and is forecast to grow to be almost 4.2 billion GBP by 2020.
 
 ### The UK’s pork, poultry and dairy supply chain
-### Poultry
+#### Poultry
 
 There are opportunities in the poultry supply chain as the UK is currently a net importer of both chicken and eggs. 
 
@@ -93,7 +82,7 @@ The largest sector of imports, by both volume and value remains fresh/frozen who
 
 The UK egg market was valued at 965 million GBP in 2016-7 and has grown for the preceding 7 years. More than half of eggs sold were "free range". 
 
-### Dairy products
+#### Dairy products
 
 The UK is the third largest dairy producing country in the EU and the tenth largest producer in the world.
 
@@ -112,17 +101,14 @@ The UK has a low self-sufficiency index for pork and pork products, indicating b
 The UK imports almost 4 times as much pork and processed pork products as it exports, and will produce only 55.8% of the meat it needs to satisfy consumption.
 
 ## UK government support for your investment in food and drink manufacturing
-Ready to invest? Find out information on:
-* [where in the UK to set up your business](https://invest.great.gov.uk/int/location-guide/)
-* [how easy it is to set-up in the UK](https://invest.great.gov.uk/int/setup-guide/)
-* [financial support for investors from UK Export Finance](https://www.gov.uk/government/organisations/uk-export-finance)
-* [contact the UK government investment services team](https:www.invest.great.gov.uk/contact)
-
-Want to meet UK business contacts and UK government officials? Check out our [list of investment events and trade missions worldwide](https://www.events.trade.gov.uk/).
-
-If you’re an entrepreneur, looking to bring your disruptive food tech business to the UK, get in touch with our [global entrepreneurs team](https://www.gov.uk/government/publications/entrepreneurs-setting-up-in-the-uk/entrepreneurs-setting-up-in-the-uk) to be linked with UK dealmakers.
+The UK government can support your food and drink business in the UK, including:
+* information on [how easy it is to set-up in the UK](https://invest.great.gov.uk/int/setup-guide/)
+* financial support for investors from [UK Export Finance](https://www.gov.uk/government/organisations/uk-export-finance)
+* help to  meet UK business contacts and UK government officials at [investment events and trade missions worldwide](https://www.events.trade.gov.uk/).
 
 See how the UK government is [supporting the food and drink industry in the UK (PDF, 2.72 MB)](https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/560786/food-drink-export-action-plan-2016-2020.pdf), including potential foreign direct investors.
+
+If you’re an entrepreneur, looking to bring your disruptive food tech business to the UK, get in touch with our [global entrepreneurs team](https://www.gov.uk/government/publications/entrepreneurs-setting-up-in-the-uk/entrepreneurs-setting-up-in-the-uk) to be linked with UK dealmakers.
 
 ### Ask us about investing in the UK
 
