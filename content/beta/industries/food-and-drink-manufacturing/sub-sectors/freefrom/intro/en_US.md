@@ -1,5 +1,5 @@
 ---
-title: "Freefrom foods in the UK"
+title: "'Free-from' foods in the UK"
 ---
 
-The UK freefrom market is seen as a priority destination for international food and drink companies. 
+There is a rapidly growing market for 'free-from' foods and drinks in the UK, creating significant opportunity for international companies. 
