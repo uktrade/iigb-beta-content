@@ -1,5 +1,5 @@
 ---
-title: "Support For Financial Services Companies In The Uk"
+title: "Support for financial services companies in the UK"
 ---
 The financial services industry is supported in the UK by its regulator the [Financial Conduct Authority (FCA)](https://www.fca.org.uk/about/the-fca). The regulators operate independently of the UK government to regulate financial firms providing services to consumers and maintain the integrity of the UK’s financial markets.
 
@@ -14,4 +14,3 @@ The UK government offers a range of tax incentives and programmes to promote com
 - the Patent Box scheme, where companies pay a lower rate of Corporation Tax on profits earned from their patented innovations
 
 The government also has up to 50 billion GBP available to support finance and insurance for   supplies from within the UK to buyers outside the UK. This support takes the form of guarantees, insurance and loans issued by its export credit agency, [UK Export Finance](https://www.gov.uk/government/organisations/uk-export-finance).
-
