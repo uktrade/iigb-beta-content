@@ -80,7 +80,7 @@ Consumer spending on chicken is around 2.5 billion GBP.
 
 The largest sector of imports, by both volume and value remains fresh/frozen whole chickens with a 50% value share and 53% by volume.
 
-The UK egg market was valued at 965 million GBP in 2016-7 and has grown for the preceding 7 years. More than half of eggs sold were "free range". 
+The UK egg market was valued at 965 million GBP in 2016-7 and has grown for the preceding 7 years. More than half of eggs sold were 'free range'. 
 
 #### Dairy products
 
