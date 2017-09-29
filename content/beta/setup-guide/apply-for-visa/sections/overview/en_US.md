@@ -2,7 +2,7 @@
 title: "UK immigration and visa rules for investors"
 ---
 
-UK immigration visa rules are clear and applying for a visa is straightforward.
+UK immigration visa rules are clear and applying for a visa is straightforward. You need a visa if you are coming to the UK from outside of the European Economic Area (EEA) and Switzerland.
 
 Before coming to the UK, you should:
 * [check if you need a UK visa](https://www.gov.uk/check-uk-visa)
