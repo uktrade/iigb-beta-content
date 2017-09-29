@@ -13,11 +13,8 @@ A tier 2 (general) visa may be suitable for you if you’ve been offered a skill
 
 A tier 2 (intra-company transfer) visa may be suitable for you if your overseas employer has offered you a role in a UK branch of the organisation. Learn more about [tier 2 (intra-company transfer) visas](https://www.gov.uk/tier-2-intracompany-transfer-worker-visa/overview).
 
-A representative of an overseas business visa may be suitable for you if you’re:
-* the sole representative of an overseas company planning to set up a UK branch or a wholly-owned subsidiary for an overseas parent company
-* an employee of an overseas newspaper, news agency or broadcasting organisation posted on a long-term assignment to the UK
-
-Learn more about [representative of an overseas business visas](https://www.gov.uk/representative-overseas-business/overview).
+### Other types of visa
+A representative of an overseas business visa may be suitable for you if you’re the sole representative of an overseas company planning to set up a UK branch or a wholly-owned subsidiary for an overseas parent company. Learn more about [representative of an overseas business visas](https://www.gov.uk/representative-overseas-business/overview).
 
 A standard visitor visa may be suitable you if you want to carry out certain business activities. There are restrictions on the type of activities in which they can take part. Learn more about the [standard visitor visa](https://www.gov.uk/standard-visitor-visa).
 
