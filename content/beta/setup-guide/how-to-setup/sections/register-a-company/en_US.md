@@ -1,17 +1,20 @@
 ---
 title: "Register (incorporate) a company in the UK"
 ---
-By incorporating a company, you’ll create a separate legal entity in the UK, which is known as a private limited company.
 
-The process to [register (incorporate) a private limited company in the UK](https://www.gov.uk/register-a-company-online) is straightforward and typically takes less than 24 hours.
+If you are expanding your business into the uK or setting up business in the UK, you have several options about how your company operates.
+
+If you want to create a separate legal entity in the UK ('incorporate a company'), forming a private limited company is the most popular option. You can also incorporate a business as a sole trader (in which you have all liability for company debts) or a partnership (where you share the liability with other partners in the business).
+
+The process to [register (incorporate) a private limited company in the UK](https://www.gov.uk/set-up-business-uk/register-your-business-in-the-uk) is straightforward and typically takes less than 24 hours.
  
-### Before you start the process, you’ll need:
-
-- a name for the company
-- an address, which can be any UK address, to act as the registered address of the company
-- at least one director (does not need to be UK resident)
-- at least one shareholder (can be corporate or an individual)
+### Setting up your company in the UK
+Before you start the incorporation process, you’ll need:
+* a name for the company
+* an address for the company - this can be any UK address
+* at least one director - this person does not need to be a UK resident
+* at least one shareholder - this can an individual or another company
  
-A UK company must have a Memorandum and Articles of Association. These documents must be in place at the time of incorporation. You can select standard documents at the date of incorporation, or professional advisers can prepare and file tailored documents on your company’s behalf.
+A UK company must have documents called a 'memorandum and articles of association', which must be in place at the time of incorporation. You can use standard template documents, or professional advisers can prepare and file tailored documents on your company’s behalf.
 
-While it is not a legal requirement to have a UK resident director or shareholder to set up a UK company, many banks will prefer this before they will [open a UK business bank account](/us/setup-guide/open-a-business-account/) for your business.
+It is not a legal requirement to have a UK resident director or shareholder to set up a UK company. However, many banks will prefer that you have UK resident directors or shareholders before they will [open a UK business bank account](/setup-guide/open-a-business-account/) for your business.
