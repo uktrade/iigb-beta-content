@@ -1,5 +1,5 @@
 ---
-title: "What you need to know"
+title: "Locations and premises available in the UK"
 ---
 The UK has a wide range of properties for lease or rent for business purposes.
 
