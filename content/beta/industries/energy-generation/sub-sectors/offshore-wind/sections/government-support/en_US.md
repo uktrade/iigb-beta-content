@@ -16,7 +16,7 @@ Alongside a supportive policy regime, the UK government supports its offshore wi
 - providing support to access funding for developers and the supply chain
 - building a highly skilled workforce
 
-The government also has up to 50 billion GBP available to support finance and insurance for   supplies from within the UK to buyers outside the UK. This support takes the form of guarantees, insurance and loans issued by its export credit agency, UK Export Finance
+The government also has up to 50 billion GBP available to support finance and insurance for   supplies from within the UK to buyers outside the UK. This support takes the form of guarantees, insurance and loans issued by its export credit agency, [UK Export Finance](https://www.gov.uk/guidance/inward-investment-access-to-the-uks-export-credit-agency).
 
 ### The low carbon technology market
 The UK has a growing low carbon economy. In 2015 there were around 233,000 workers in low carbon-related roles, generating 42.2 billion GBP in turnover.
