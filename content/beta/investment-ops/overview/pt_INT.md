@@ -2,7 +2,7 @@
 title: "Guia de localização"
 ---
 
-El Departamento de Comercio Internacional está desarrollando un nuevo servicio dirigido a inversores extranjeros que busquen oportunidades de inversión en el Reino Unido. Tenemos intención de ponerlo en marcha a principios de 2017.
+El Departamento de Comercio Internacional está desarrollando un nuevo servicio dirigido a inversores extranjeros que busquen oportunidades de inversión en el Reino Unido.
 
 Este servicio le permitirá acceder a diversas oportunidades de inversión en todo el Reino Unido, incluidos Escocia, Gales e Irlanda del Norte.
 
