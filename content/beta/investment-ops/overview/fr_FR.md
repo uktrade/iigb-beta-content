@@ -2,7 +2,7 @@
 title: "Guide des emplacements"
 ---
 
-Le Department for International Trade développe un nouveau service destiné aux investisseurs étrangers qui cherchent des opportunités d'investissement au Royaume-Uni. Ce service doit être lancé en 2017.
+Le Department for International Trade développe un nouveau service destiné aux investisseurs étrangers qui cherchent des opportunités d'investissement au Royaume-Uni.
 
 Il vous donnera accès à un éventail d'opportunités d'investissement dans l'ensemble du Royaume-Uni, y compris l'Écosse, le Pays de Galles et l'Irlande du Nord.
 

@@ -2,6 +2,8 @@
 title: "Marktbedingungen"
 ---
 
+In Großbritannien ansässige Unternehmen dienen als Hauptzulieferer von Teams, die sich bei allen möglichen Rennen messen – von NASCAR über Formel E bis zur Tourenwagen-Meisterschaft in China. Großbritannien ist dafür berühmt, dass 6 der 10 Formel Eins Teams ihren Hauptsitz hier haben.
+
 Zulieferer-Unternehmen für den Motorsport sind überall in Großbritannien im Geschäft. Die größte Ansammlung von Motorsportfirmen ist im 'Motorsport Valley®' angesiedelt, einem weltberühmten Unternehmenscluster im Südosten von England mit Oxford im Zentrum. Michael Porter, ein Harvard Business School Professor und Gründer von Monitor Deloitte, beschreibt es als 'ausgereiftes Cluster von Wirtschaftsunternehmen, das die Nummer Eins der Welt darstellt… das Juwel in der Krone des britischen Ingenieurswesens'.
 
 In den 50 Jahren, seitdem die moderne Formel Eins Ära 1967 begann, gewannen nur 2 Teams die Konstrukteursmeisterschaft mit Wagen, die außerhalb Großbritannien gefertigt wurden – und einer davon verwendete einen britischen Motor.
