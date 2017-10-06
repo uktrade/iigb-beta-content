@@ -56,7 +56,7 @@ The UK packaging industry is a large and developed sector with annual sales of 1
 
 There are 85,000 jobs in the packaging sector, representing 3% of UK manufacturing employment. 
 
-Packaging in the UK helps supports the demand to reduce waste. The UK wastes just 3% of food, which is very low by international and historic standards. And over 67% of packaging in the UK is recycled, which is ahead of EU targets.
+Packaging in the UK helps support the demand to reduce waste. The UK wastes just 3% of food, which is very low by international and historic standards. And over 67% of packaging in the UK is recycled, which is ahead of EU targets.
 
 ### Food-service and catering sector in the UK
 The UK’s catering industry is worth an estimated 88 billion GBP - around 43% of total consumer spending on food and drink.
@@ -104,7 +104,7 @@ The UK imports almost 4 times as much pork and processed pork products as it exp
 The UK government can support your food and drink business in the UK, including:
 * information on [how easy it is to set-up in the UK](https://invest.great.gov.uk/int/setup-guide/)
 * financial support for investors from [UK Export Finance](https://www.gov.uk/government/organisations/uk-export-finance)
-* help to  meet UK business contacts and UK government officials at [investment events and trade missions worldwide](https://www.events.trade.gov.uk/).
+* help to meet UK business contacts and UK government officials at [investment events and trade missions worldwide](https://www.events.trade.gov.uk/).
 
 See how the UK government is [supporting the food and drink industry in the UK (PDF, 2.72 MB)](https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/560786/food-drink-export-action-plan-2016-2020.pdf), including potential foreign direct investors.
 
