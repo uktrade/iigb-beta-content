@@ -8,7 +8,7 @@ Europe’s 743 million consumers are within easy reach of the UK, thanks to its 
 
 If you’re looking to expand - bring your food and drink business to the UK for:
 * **rapid growth:** UK consumer expenditure on food, drink and catering was 203 billion GBP in 2016
-* **innovation:** the UK is a centre for research and product development in food and drink, pioneering ethical, health and convenience foods
+* **research:** the UK is a centre for research and product development in food and drink, pioneering ethical, health and convenience foods
 * **access to other markets:** European companies use the UK as a springboard to the rest of the world
 * **food security:** the UK is leads the development of stable, ethical and traceable global supply chains
 
@@ -27,7 +27,7 @@ The UK has 67.6 million consumers, who spend around 203 billion GBP a year on fo
 
 While UK consumers are price-conscious, market research shows a willingness to pay more for premium products.
 
-Demand for innovation is strong, with the UK’s 5 largest retailers featuring around 8,500 new products each year, according to market research by Mintel.
+Demand for new products is strong, with the UK’s 5 largest retailers featuring around 8,500 new products each year, according to market research by Mintel.
 
 The highest growth areas for UK food and drink are: 
 * vegan products: there are 542,000 people vegan consumers in the UK, up 360% on 10 years ago
@@ -38,7 +38,7 @@ The highest growth areas for UK food and drink are:
 
 ## Food and drink research and development in the UK
 
-The UK pioneered frozen food, ready-meals and instant coffee and continues to transform the way people eat and drink. For example, the UK is at the forefront of 'functional food' development, creating products with added healthy ingredients. The UK’s functional food market was worth around 1.2 billion GBP in 2014 and has grown annually by 13%, from 335 million GBP in 2000.
+The UK pioneered frozen food, ready-meals and instant coffee and continues to change the way people eat and drink. For example, the UK is at the forefront of 'functional food' development, creating products with added healthy ingredients. The UK’s functional food market was worth around 1.2 billion GBP in 2014 and has grown annually by 13%, from 335 million GBP in 2000.
 
 Food, drink and tobacco research and development spending was 430 million GBP in the UK in 2015.
 
@@ -108,7 +108,7 @@ The UK government can support your food and drink business in the UK, including:
 
 See how the UK government is [supporting the food and drink industry in the UK (PDF, 2.72 MB)](https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/560786/food-drink-export-action-plan-2016-2020.pdf), including potential foreign direct investors.
 
-If you’re an entrepreneur, looking to bring your disruptive food tech business to the UK, get in touch with our [global entrepreneurs team](https://www.gov.uk/government/publications/entrepreneurs-setting-up-in-the-uk/entrepreneurs-setting-up-in-the-uk) to be linked with UK dealmakers.
+If you’re an entrepreneur, looking to bring your food tech business to the UK, get in touch with our [global entrepreneurs team](https://www.gov.uk/government/publications/entrepreneurs-setting-up-in-the-uk/entrepreneurs-setting-up-in-the-uk) to be linked with UK dealmakers.
 
 ### Ask us about investing in the UK
 
