@@ -19,7 +19,7 @@ If you’re looking to expand - bring your food and drink business to the UK for
 
 The UK government has 50 billion GBP available to support finance and insurance for trade between the UK and other countries. Find out more about the guarantees, insurance and loans issued from the export credit agency, [UK Export Finance](https://www.gov.uk/government/organisations/uk-export-finance).
 
-[Contact our investment services team](https:www.invest.great.gov.uk/contact), for more information about why the UK is the best place for your food and drink business.
+[Contact our investment services team](https://invest.great.gov.uk/int/contact/), for more information about why the UK is the best place for your food and drink business.
 
 ## The UK food and drink market
 
@@ -48,7 +48,7 @@ Some of the world’s best research facilities host collaborations between unive
 
 Companies investing in food and drink research in the UK may qualify for lower rates of corporation tax, under the government’s [R&D tax relief scheme](https://www.gov.uk/guidance/corporation-tax-research-and-development-rd-relief).
 
-**If you are thinking about investing in the UK, [contact our investment services team](https:www.invest.great.gov.uk/contact) about market insights, connections and incentives.**
+**If you are thinking about investing in the UK, [contact our investment services team](https://invest.great.gov.uk/int/contact/) about market insights, connections and incentives.**
 
 ## UK food and drink industry specialisms
 ### Food and drink packaging
@@ -112,7 +112,7 @@ If you’re an entrepreneur, looking to bring your food tech business to the UK,
 
 ### Ask us about investing in the UK
 
-If you are thinking about investing in the UK, our [investment services team](https:www.invest.great.gov.uk/contact) can answer your questions and help you land your business in the UK.
+If you are thinking about investing in the UK, our [investment services team](https://invest.great.gov.uk/int/contact/) can answer your questions and help you land your business in the UK.
 
 Read about UK industries related to food and drink manufacturing, such as:
 * [healthcare and life sciences](https://invest.great.gov.uk/int/industries/health-and-life)
