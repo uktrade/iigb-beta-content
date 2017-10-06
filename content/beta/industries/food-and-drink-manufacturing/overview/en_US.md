@@ -23,7 +23,7 @@ The UK government has 50 billion GBP available to support finance and insurance 
 
 ## The UK food and drink market
 
-The UK has 67.6 million consumers, who spend around 203 billion GBP a year on food and drink. Spend on food shopping has risen 24% between 2008 and 2016.
+The UK has 67.6 million consumers, who spend around 203 billion GBP a year on food and drink. Spend on food shopping rose 24% between 2008 and 2016.
 
 While UK consumers are price-conscious, market research shows a willingness to pay more for premium products.
 
