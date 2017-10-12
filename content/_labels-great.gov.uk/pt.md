@@ -1,7 +1,7 @@
 ---
 privacy_policy: "Declaração de privacidade e cookies"
 terms_and_conditions: "Termos e condições"
-find_a_supplier: "Find a supplier"
+find_a_supplier: "Encontract um fornecedor"
 see_the_potential: "Conheça o potencial"
 learn_more: "Saiba mais"
 plan_your_trip: "Planeie a sua viagem"
