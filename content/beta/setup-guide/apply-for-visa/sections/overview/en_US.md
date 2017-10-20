@@ -1,6 +1,11 @@
 ---
-title: "Overview"
+title: "UK immigration and visa rules for investors"
 ---
-There are more than [200 visa application centres worldwide](https://www.gov.uk/find-a-visa-application-centre), with priority processing (3 to 7 days) in over 100 of them. The UK also offers a Super Priority Visa service providing a visa decision within 24 hours. This service is available in several countries including India and China.
 
-[Check if you need a UK visa](https://www.gov.uk/check-uk-visa) and if so, book an appointment at your nearest visa application centre. 
+UK immigration visa rules are clear and applying for a visa is straightforward. You need a visa if you are coming to the UK from outside of the [European Economic Area (EEA)](https://www.gov.uk/eu-eea) and Switzerland.
+
+Before coming to the UK, you should:
+* [check if you need a UK visa](https://www.gov.uk/check-uk-visa)
+* if necessary, book an appointment at [your nearest visa application centre](https://www.gov.uk/find-a-visa-application-centre)
+
+There are more than 300 visa application centres worldwide, with application processing of less than 7 days available in more than 100 of them. In many countries, including India and China you can get a visa decision within 24 hours.

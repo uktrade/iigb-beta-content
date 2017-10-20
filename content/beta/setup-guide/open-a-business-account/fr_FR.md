@@ -1,4 +1,6 @@
 ---
-title: "Installation d'une entreprise au Royaume-Uni"
+title: "Ouverture d'un compte bancaire professionnel au Royaume-Uni"
 ---
-En seulement 24 heures, vous pouvez créer l'équivalent d'une société à responsabilité limitée au Royaume-Uni. Pour y enregistrer une succursale de votre entreprise existante, prévoyez un délai de 4 semaines au maximum.
+
+Cela permettra à votre entreprise d'effectuer des paiements et d'en recevoir au Royaume-Uni sans encourir de frais de change.
+Ce n'est pas une obligation légale. Cependant, c'est un avantage pour assurer le suivi de vos transactions.
