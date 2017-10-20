@@ -19,4 +19,4 @@ We offer direct support for innovative manufacturing businesses. Your company ca
 
 - [The Knowledge Transfer Network](http://www.ktn-uk.co.uk/) helps businesses link up with partners in the value and supply chain. 
 
-The government also has up to 50 billion GBP available to support finance and insurance for   supplies from within the UK to buyers outside the UK. This support takes the form of guarantees, insurance and loans issued by its export credit agency, UK Export Finance.
+The government also has up to 50 billion GBP available to support finance and insurance for   supplies from within the UK to buyers outside the UK. This support takes the form of guarantees, insurance and loans issued by its export credit agency, [UK Export Finance](https://www.gov.uk/guidance/inward-investment-access-to-the-uks-export-credit-agency).

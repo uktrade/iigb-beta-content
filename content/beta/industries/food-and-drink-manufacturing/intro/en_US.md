@@ -1,5 +1,5 @@
 ---
-title: "Food and drink manufacturing in the UK"
+title: "Expand your food and drink manufacturing business into the UK"
 ---
 
-The food and drink manufacturing industry is the UK's largest manufacturing sector with a turnover of 76 billion GBP.
+The UK’s food and drink market is growing, and the industry is renowned for its innovative approach to food development, high-tech manufacturing and high-quality raw materials. 

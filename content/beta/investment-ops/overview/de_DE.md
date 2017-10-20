@@ -2,7 +2,7 @@
 title: "Standortführer"
 ---
 
-Das Department for International Trade richtet einen neuen Service für ausländische Investoren auf der Suche nach Investitionsmöglichkeiten in Großbritannien ein. Dieser Service soll Anfang 2017 zur Verfügung stehen.
+Das Department for International Trade richtet einen neuen Service für ausländische Investoren auf der Suche nach Investitionsmöglichkeiten in Großbritannien ein.
 
 Er wird Ihnen Zugang zu einer Reihe von Investitionsmöglichkeiten im gesamten Großbritannien bieten, einschließlich Schottland, Wales und Nordirland.
 
