@@ -19,4 +19,4 @@ Before you start the incorporation process, you’ll need:
  
 A UK company must have documents called a 'memorandum and articles of association', which must be in place at the time of incorporation. You can use standard template documents, or professional advisers can prepare and file tailored documents on your company’s behalf.
 
-It is not a legal requirement to have a UK resident director or shareholder to set up a UK company. However, many banks will prefer that you have UK resident directors or shareholders before they will [open a UK business bank account](/setup-guide/open-a-business-account/) for your business.
+It is not a legal requirement to have a UK resident director or shareholder to set up a UK company. However, many banks will prefer that you have UK resident directors or shareholders before they will [open a UK business bank account](/int/setup-guide/open-a-business-account/) for your business.
