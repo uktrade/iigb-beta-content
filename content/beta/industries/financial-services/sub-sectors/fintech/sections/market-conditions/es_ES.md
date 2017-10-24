@@ -21,7 +21,7 @@ Existe un amplio espacio en el mercado para los proveedores consolidados y las t
 
 ### El estatus y el entusiasmo fomentan la demanda
 
-La demanda de tecnologías financieras en el Reino Unido es fuerte y se ve impulsada por el [estatus de Londres como capital financiera global.](http://www.longfinance.net/global-financial-centres-index-20/1037-gfci-20.html) Esta concentración de la actividad de los servicios financieros supone una gran oportunidad para los proveedores de soluciones tecnológicas financieras, especialmente en los siguientes ámbitos:
+La demanda de tecnologías financieras en el Reino Unido es fuerte y se ve impulsada por el [estatus de Londres como capital financiera global.](http://www.longfinance.net/global-financial-centres-index-20/1034-gfci-20-the-overall-rankings.html) Esta concentración de la actividad de los servicios financieros supone una gran oportunidad para los proveedores de soluciones tecnológicas financieras, especialmente en los siguientes ámbitos:
 
 - Comercio.
 - Regulación.

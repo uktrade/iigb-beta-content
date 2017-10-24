@@ -20,7 +20,7 @@ Le marché est suffisamment vaste pour accueillir à la fois les fournisseurs bi
 
 ### Le prestige et l'enthousiasme stimulent la demande
 
-Au Royaume-Uni, la demande en matière de Fintech est forte et stimulée par le [prestige de Londres, en tant que capitale mondiale de la finance](http://www.longfinance.net/global-financial-centres-index-20/1037-gfci-20.html). Cette concentration d'activités liées aux services financiers crée d'excellentes opportunités pour les fournisseurs de solutions Fintech, notamment dans les domaines suivants :
+Au Royaume-Uni, la demande en matière de Fintech est forte et stimulée par le [prestige de Londres, en tant que capitale mondiale de la finance](http://www.longfinance.net/global-financial-centres-index-20/1034-gfci-20-the-overall-rankings.html). Cette concentration d'activités liées aux services financiers crée d'excellentes opportunités pour les fournisseurs de solutions Fintech, notamment dans les domaines suivants :
 
 - opérations commerciales
 - réglementation
