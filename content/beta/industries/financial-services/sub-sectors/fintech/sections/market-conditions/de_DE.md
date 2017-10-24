@@ -28,7 +28,7 @@ Der Markt bietet viel Raum sowohl für etablierte Anbieter als auch für bahnbre
 
 ### Status und Begeisterung beflügeln die Nachfrage
 
-Es gibt eine große Nachfrage nach FinTech in Großbritannien, die von [Londons Status als globales Finanzzentrum](http://www.longfinance.net/global-financial-centres-index-20/1037-gfci-20.html) beflügelt wird. Die Ballung des Geschäfts mit Finanzdienstleistungen eröffnet eine große Möglichkeit für Anbieter von FinTech-Lösungen, insbesondere in den Bereichen:
+Es gibt eine große Nachfrage nach FinTech in Großbritannien, die von [Londons Status als globales Finanzzentrum](http://www.longfinance.net/global-financial-centres-index-20/1034-gfci-20-the-overall-rankings.html) beflügelt wird. Die Ballung des Geschäfts mit Finanzdienstleistungen eröffnet eine große Möglichkeit für Anbieter von FinTech-Lösungen, insbesondere in den Bereichen:
 
 - Trading
 
