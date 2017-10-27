@@ -21,4 +21,4 @@ India's best new tech firms can get help to launch in the UK through the UK-Indi
 
 Award winners will be offered access to financial support and advice from UK business experts to help them launch in the UK and grow internationally.
 
-You can [apply](https://www.events.trade.gov.uk/tech-rocketship-awards-2017) if your company has been operating in India, was set up in or after 2000 and has 30 or more employees.
+You can [apply](https://www.events.trade.gov.uk/tech-rocketship-awards-2017-18) if your company has been operating in India, was set up in or after 2000 and has 30 or more employees.
