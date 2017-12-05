@@ -1,8 +1,8 @@
 ---
 title: ""
-linkLabel: Aller Ã  la page d'accueil Investir en Grande-Bretagne
+linkLabel: Aller à la page d'accueil Investir en Grande-Bretagne
 ---
 
-Un problÃ¨me technique est survenu.
+Un problème technique est survenu.
 
 Veuillez essayer de recharger cette page dans quelques secondes.

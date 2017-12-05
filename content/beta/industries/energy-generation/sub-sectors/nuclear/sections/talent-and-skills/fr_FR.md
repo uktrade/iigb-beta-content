@@ -1,8 +1,7 @@
 ---
-title: "Expertise d'envergure internationale dans le domaine du nucléaire au Royaume-Uni"
+title: "Expertise d'envergure internationale dans le domaine du nucléaire au Royaume-Uni
 published: true
 ---
-
 Plus de 65 000 personnes travaillent actuellement dans l'industrie nucléaire civile du Royaume-Uni. Il s'agit de travailleurs qualifiés, expérimentés dans la fabrication du combustible, l'exploitation et la maintenance des réacteurs et la gestion des déchets générés par les activités.
 
 L'expertise nucléaire est bien répartie dans tout le pays, mais il existe des pôles spécifiques où de nombreuses entreprises de grande envergure partagent leur recherche, leur développement et leurs idées. Il s'agit notamment des régions suivantes : 

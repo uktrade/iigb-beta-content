@@ -2,7 +2,7 @@
 title: "Government help for offshore wind development in the UK"
 ---
 
-The UK government has made a commitment to invest in offshore wind energy for generations to come. The current installed offshore wind capacity of 5.7GW is due to increase to 10 GW by 2020, and then to increase by an estimated 10GW by 2030. 
+The UK government has committed to invest in offshore wind energy for decades. The current installed offshore wind capacity of 5.7GW is due to increase to 10 GW by 2020, and then to increase by an estimated 10GW by 2030. 
 
 The UK enjoys a longstanding reputation for operating stable and predictable regimes to support investment in renewable electricity infrastructure. Contracts for difference (CfD) provide stable long-term revenues for offshore wind projects, giving certainty on returns for investors.
  
@@ -16,11 +16,4 @@ Alongside a supportive policy regime, the UK government supports its offshore wi
 - providing support to access funding for developers and the supply chain
 - building a highly skilled workforce
 
-The government also has up to 50 billion GBP available to support finance and insurance for   supplies from within the UK to buyers outside the UK. This support takes the form of guarantees, insurance and loans issued by its export credit agency, [UK Export Finance](https://www.gov.uk/guidance/inward-investment-access-to-the-uks-export-credit-agency).
-
-### The low carbon technology market
-The UK has a growing low carbon economy. In 2015 there were around 233,000 workers in low carbon-related roles, generating 42.2 billion GBP in turnover.
-
-Clean energy investments in the UK have more than doubled since 2010, rising from 10.8 billion USD in 2010 to over 25 billion USD in 2016.
-
-Current investment in projects to build cleaner energy power stations is estimated to be worth 180 billion GBP.
+The UK government also has up to 50 billion GBP available to support finance and insurance for supplies from within the UK to buyers outside the UK. This support takes the form of guarantees, insurance and loans issued by the UK government export credit agency, [UK Export Finance](https://www.gov.uk/government/organisations/uk-export-finance).

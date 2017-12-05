@@ -1,9 +1,9 @@
 ---
-title: "Contact our investment services team for:"
+title: "请联系我们的投资服务团队以获取以下内容"
 list: 
- - practical support and information about taking your investment forward
- - insights into the UK market
- - help building connections
+ - 与推进您的投资有关的实用支持服务和信息
+ - 英国市场分析
+ - 帮助建立关系
 ---
 
-The team may put you in touch with a UK government office in your region to support you with advice relevant to your country.
+该团队可能会安排您联系您所在地区的英国政府办公室，以便为您提供与您所在国家/地区有关的建议。
