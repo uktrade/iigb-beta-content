@@ -19,7 +19,7 @@ Existe amplo espaço no mercado para fornecedores bem estabelecidos e para tecno
 
 ### O estatuto e o entusiasmo estimulam a procura
 
-A procura por FinTech no Reino Unido é forte, sendo estimulada pelo [estatuto de Londres como capital financeira mundial](http://www.longfinance.net/global-financial-centres-index-20/1037-gfci-20.html). Esta concentração de atividade de serviços financeiros traduz-se em grandes oportunidades para os fornecedores de soluções de FinTech, particularmente nas áreas de:
+A procura por FinTech no Reino Unido é forte, sendo estimulada pelo [estatuto de Londres como capital financeira mundial](http://www.longfinance.net/global-financial-centres-index-20/1034-gfci-20-the-overall-rankings.html). Esta concentração de atividade de serviços financeiros traduz-se em grandes oportunidades para os fornecedores de soluções de FinTech, particularmente nas áreas de:
 - transações
 - regulamentação
 - dados

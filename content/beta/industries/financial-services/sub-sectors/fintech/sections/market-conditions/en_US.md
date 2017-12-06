@@ -20,7 +20,7 @@ There is ample room in the market for established providers and disruptive techn
 
 ### Status and enthusiasm drives demand
 
-Demand for fintech in the UK is strong, driven by [London’s status as the global capital of finance](http://www.longfinance.net/global-financial-centres-index-20/1037-gfci-20.html). This concentration of financial services activity means great opportunity for fintech solutions providers, particularly in the areas of:
+Demand for fintech in the UK is strong, driven by [London’s status as the global capital of finance](http://www.longfinance.net/global-financial-centres-index-20/1034-gfci-20-the-overall-rankings.html). This concentration of financial services activity means great opportunity for fintech solutions providers, particularly in the areas of:
 
 - trading
 - regulation

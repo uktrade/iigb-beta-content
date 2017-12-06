@@ -12,4 +12,4 @@ The UK benefits from a supportive business environment, offering the most compet
 
 The UK government is implementing a long-term strategy focused on further developing the skills of its workforce. Working with the Automotive Council, it’s also looking to improve the competitiveness of the UK supply chain and support emerging technologies. This will create even more opportunities for companies investing in the UK. 
 
-The government also has up to 50 billion GBP available to support finance and insurance for   supplies from within the UK to buyers outside the UK. This support takes the form of guarantees, insurance and loans issued by its export credit agency, UK Export Finance
+The government also has up to 50 billion GBP available to support finance and insurance for   supplies from within the UK to buyers outside the UK. This support takes the form of guarantees, insurance and loans issued by its export credit agency, [UK Export Finance](https://www.gov.uk/guidance/inward-investment-access-to-the-uks-export-credit-agency).

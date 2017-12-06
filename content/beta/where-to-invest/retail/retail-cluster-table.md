@@ -1,0 +1,1 @@
+Retail businesses are active across the UK and are particularly well-represented in [the East Midlands](/int/where-to-invest/east-midlands), [the West Midlands](/int/where-to-invest/west-midlands) and [Yorkshire and the Humber](/int/where-to-invest/yorkshire-and-the-humber).

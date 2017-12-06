@@ -1,4 +1,4 @@
 ---
-title: "Thanks for signing up..."
+title: "Thank you for signing up"
 ---
 

@@ -1,8 +1,9 @@
 ---
 title: "Register a UK branch of a foreign company"
 ---
-By registering a branch in the UK, a foreign company does not create a separate legal entity but is registering a foreign entity to do business in the UK. A branch does not offer the limited liability benefits that come with a UK company. 
 
-This is known as the [registration of a UK establishment of an overseas company.](https://www.gov.uk/government/publications/register-a-uk-establishment-of-an-overseas-company-os-in01)
+By registering a branch of your company in the UK, your company does not create a separate legal entity, instead it registers your company  to do business in the UK. A branch does not offer the limited liability benefits that come from setting up a UK limited company.
 
-It will take longer to register a UK branch because the foreign registering company must submit additional documents and information to Companies House. The review process for this can take up to 4 weeks.
+It takes longer to register a UK branch of an overseas company because your company must submit documents and information to Companies House and it can take 4 weeks for these to be reviewed.
+
+Read more about [registering your overseas company in the UK](https://www.gov.uk/government/publications/overseas-companies-in-the-uk-registration-filing-and-disclosure-obligations).

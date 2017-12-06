@@ -1,0 +1,1 @@
+Food and drink manufacturing businesses are active across the UK and are particularly well-represented in [the East Midlands](/int/where-to-invest/east-midlands), [the South West](/int/where-to-invest/south-west-england) and Yorkshire and the Humber(/int/where-to-invest/yorkshire-and-the-humber).
