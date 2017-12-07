@@ -1,8 +1,6 @@
 ---
-title: "The UK's growing free-from market"
+title: "The UK's growing freefrom market"
 ---
-
-Free-from products are formulated to avoid elements in them that provoke adverse symptoms. This enables consumers who are intolerant or allergic to gluten, dairy or nuts to buy a wider choice of products.
 
 Around one-third of British consumers are buying and eating free-from food, of whom:
 * 22% buy gluten-free products
