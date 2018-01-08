@@ -15,10 +15,3 @@ The UK offers an outstanding environment for global tech companies. We have:
 The UK's technology economy has strengths in electronic systems, communications, data management and analytics, data centres, cloud services, artificial intelligence, cyber, semiconductor design and sensors.  
  
 Tech businesses are at the heart of the UK economy and are playing an important role in driving growth across the country.
-
-### Help for Indian tech start-ups to launch in the UK
-India's best new tech firms can get help to launch in the UK through the UK-India tech rocketship awards.
-
-Award winners will be offered access to financial support and advice from UK business experts to help them launch in the UK and grow internationally.
-
-You can [apply](https://www.events.trade.gov.uk/tech-rocketship-awards-2017-18-/) if your company has been operating in India, was set up in or after 2000 and has 30 or more employees.
